@@ -1,6 +1,22 @@
 {
-  "last_updated": "2026-04-12T09:46:06.505Z",
+  "last_updated": "2026-04-12T09:51:21.036Z",
   "top_songs": [
+    {
+      "song_title": "Liekinheitin-Fallihauta-Honda-Civic-Twist.mp3",
+      "author": "fallihauta",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
+      "message_text": "Laitetaa tämä nyt sitten 'Virallisesti' jakoon. Eli Bensalenkkari versio Liekinheittimestä. 😎 🤘",
+      "audio_type": "dropbox_link",
+      "audio_url": "https://www.dropbox.com/scl/fi/n9q351ow7iooawroq1v70/Liekinheitin-Fallihauta-Honda-Civic-Twist.mp3?rlkey=asi684im4u03zrrcm06y28wa5&st=dg8l0v9c&dl=0&raw=1",
+      "posted_at": "2026-04-02T18:25:55.659Z",
+      "score": 181.07,
+      "stats": {
+        "reactions": 22,
+        "comments": 0
+      },
+      "comments": [],
+      "rank": 1
+    },
     {
       "song_title": "Frederik_-_Kolmekymppinen_Expace_Synttari_EDIT_Final.wav",
       "author": "arsky",
@@ -9,10 +25,10 @@
       "audio_type": "discord_attachment",
       "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1413070636397629475/Frederik_-_Kolmekymppinen_Expace_Synttari_EDIT_Final.wav?ex=69dca215&is=69db5095&hm=18dcaa211588ea28d427a6346cbf38bd5ce5772c1839c9e6c97f8a3a112b685c&",
       "posted_at": "2025-09-04T07:58:13.456Z",
-      "score": 185,
+      "score": 175,
       "stats": {
         "reactions": 13,
-        "comments": 12
+        "comments": 11
       },
       "comments": [
         {
@@ -69,29 +85,8 @@
           "author": "auru4291",
           "text": "Siis sulla on ollut tällainen telijyrä takataskussa koko ajan🤣 mitä muuta sulla on pöytälaatikossa?",
           "timestamp": "2025-09-04T08:00:36.536Z"
-        },
-        {
-          "author": "auru4291",
-          "text": "",
-          "timestamp": "2025-09-04T08:00:35.738Z"
         }
       ],
-      "rank": 1
-    },
-    {
-      "song_title": "Laitetaa tämä nyt sitten 'Vira",
-      "author": "fallihauta",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
-      "message_text": "Laitetaa tämä nyt sitten 'Virallisesti' jakoon. Eli Bensalenkkari versio Liekinheittimestä. 😎 🤘",
-      "audio_type": "dropbox_link",
-      "audio_url": "https://www.dropbox.com/scl/fi/n9q351ow7iooawroq1v70/Liekinheitin-Fallihauta-Honda-Civic-Twist.mp3?dl=1",
-      "posted_at": "2026-04-02T18:25:55.659Z",
-      "score": 181.08,
-      "stats": {
-        "reactions": 22,
-        "comments": 0
-      },
-      "comments": [],
       "rank": 2
     },
     {
@@ -111,12 +106,28 @@
       "rank": 3
     },
     {
-      "song_title": "Dodiin. Tästä Gardenia Daisko ",
+      "song_title": "Moro! Kiitti ryhmään pääsystä! Ajattelin jakaa mun tekemät C",
+      "author": "miikka_l",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1491492786627936368/5445ffd7ffb201a98393cbdf684ea4b1.webp?size=128",
+      "message_text": "Moro! Kiitti ryhmään pääsystä! Ajattelin jakaa mun tekemät Capital D bootlegit kansiona tänne. Toi Capital D projekti on jäänyt vähän sivuun toisen projektin myötä, mutta näitä jonkin verran välillä kysellään. Välillä kuitenkin innostun remixaan suomi biisejä niin lisäilen niitä tuohon kansioon. Kaikki biisit ei oo ihan ajankohtaisia enää, (ehkä?) mut jospa sieltä joku käyttöön löytyis. Pari tolla aliaksella tehtyä englanninkielistä löytyy mutta pääasiassa suomi bootlegejä! Linkistä pääsee kuunteleen ja lataamaan ❤️🙂\n\nps. niin tyylilaji mulla on nudisco ja House et näin keväällä kesää kohti sopivan discoa ja groovea musaa 😁",
+      "audio_type": "dropbox_link",
+      "audio_url": "https://www.dropbox.com/scl/fo/ud0ptj536tjmstwzq9f3i/AAUQJFbrYAc8vov_Mj-JGaE?rlkey=8399rudrm800zi8af808h8rty&st=iqa27eg7&dl=0&raw=1",
+      "posted_at": "2026-04-09T02:32:21.614Z",
+      "score": 120.09,
+      "stats": {
+        "reactions": 6,
+        "comments": 0
+      },
+      "comments": [],
+      "rank": 4
+    },
+    {
+      "song_title": "Gardenia-Fallihauta-Daisko-Extended-Flip.mp3",
       "author": "fallihauta",
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Dodiin. Tästä Gardenia Daisko latinkiin ja kovaa ajoa 👊 ❤️",
       "audio_type": "dropbox_link",
-      "audio_url": "https://www.dropbox.com/scl/fi/3by6yt4pyz4due8irgkqs/Gardenia-Fallihauta-Daisko-Extended-Flip.mp3?dl=1",
+      "audio_url": "https://www.dropbox.com/scl/fi/3by6yt4pyz4due8irgkqs/Gardenia-Fallihauta-Daisko-Extended-Flip.mp3?rlkey=hq6996hukj9v69bg4ejo2uho7&st=smx9q4h7&dl=0&raw=1",
       "posted_at": "2025-10-12T19:44:52.814Z",
       "score": 110,
       "stats": {
@@ -124,53 +135,6 @@
         "comments": 0
       },
       "comments": [],
-      "rank": 4
-    },
-    {
-      "song_title": "piippolanvaari_lvlpm_3am_edit.mp3",
-      "author": "lvlpm",
-      "author_avatar": "https://cdn.discordapp.com/avatars/688858336044777639/f46729b5b7c0bb7b1c039494863e11e0.webp?size=128",
-      "message_text": "Tonttujen yöstä tulikin mieleen, että tätä taideteosta ei tässä ryhmässä ookkaan vielä jaettu 😄",
-      "audio_type": "discord_attachment",
-      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1445038770637508862/piippolanvaari_lvlpm_3am_edit.mp3?ex=69dc41fa&is=69daf07a&hm=60bc842457a8f90ce53e42c62ca66107f1206eecf706e02fddbcc1e53974bb63&",
-      "posted_at": "2025-12-01T13:08:10.510Z",
-      "score": 90,
-      "stats": {
-        "reactions": 6,
-        "comments": 6
-      },
-      "comments": [
-        {
-          "author": "miikkat",
-          "text": "ei ollu, eiku oliki, eiku ei ollu jingle bells",
-          "timestamp": "2025-12-04T12:46:02.084Z"
-        },
-        {
-          "author": "lvlpm",
-          "text": "Tällanen melko laiska viritelmä löyty puhelimen muistista 😂",
-          "timestamp": "2025-12-04T12:27:33.982Z"
-        },
-        {
-          "author": "auru4291",
-          "text": "Oscar Hawkilla oli julkisessa jaossa muutamat joulujunkkaeditit. Voin latoa ne kans tänne iltapäivälllä🖖",
-          "timestamp": "2025-12-04T12:03:20.694Z"
-        },
-        {
-          "author": "lvlpm",
-          "text": "En oo ihan varma että haluanko tietää enempää, mutta voin kaivella koneelta onko mulla enempää näitä enää tallessa 😂",
-          "timestamp": "2025-12-04T11:57:09.144Z"
-        },
-        {
-          "author": "miikkat",
-          "text": "mä haluaisin jatkossakin kaikki tämmöset timantit talteen, kun mulla on niille ihan käyttöä",
-          "timestamp": "2025-12-04T11:54:26.064Z"
-        },
-        {
-          "author": "miikkat",
-          "text": "",
-          "timestamp": "2025-12-04T11:54:25.215Z"
-        }
-      ],
       "rank": 5
     },
     {
@@ -222,12 +186,12 @@
       "rank": 8
     },
     {
-      "song_title": "Sarjassamme - \"Remixit jota ku",
+      "song_title": "Aamun-Kuiskaus-Fallihauta-Extended-Daisko-Flip.mp3",
       "author": "fallihauta",
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Sarjassamme - \"Remixit jota kukaan ei pyytänyt mutta teinpä silti\" \nTällä kertaa tein Daisko Flip:in aiheesta:\nStella - Aamun Kuiskaus. 🥰\n\nLatauslinkit alla:\nExtended Daisko Flip \n\n\nDaisko Flip",
       "audio_type": "dropbox_link",
-      "audio_url": "https://www.dropbox.com/scl/fi/zhn5hq2rweirbojwslmch/Aamun-Kuiskaus-Fallihauta-Extended-Daisko-Flip.mp3?dl=1",
+      "audio_url": "https://www.dropbox.com/scl/fi/zhn5hq2rweirbojwslmch/Aamun-Kuiskaus-Fallihauta-Extended-Daisko-Flip.mp3?rlkey=2kl0teh3sg8vwqqetqutdenwj&dl=0&raw=1",
       "posted_at": "2026-03-01T22:18:09.139Z",
       "score": 80,
       "stats": {
@@ -238,13 +202,13 @@
       "rank": 9
     },
     {
-      "song_title": "Joulupukki_Matkaan_Jo_Kay_Expace_VS_Junkkataxi_Bootleg_V2.wav",
-      "author": "arsky",
-      "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
-      "message_text": "",
+      "song_title": "piippolanvaari_lvlpm_3am_edit.mp3",
+      "author": "lvlpm",
+      "author_avatar": "https://cdn.discordapp.com/avatars/688858336044777639/f46729b5b7c0bb7b1c039494863e11e0.webp?size=128",
+      "message_text": "Tonttujen yöstä tulikin mieleen, että tätä taideteosta ei tässä ryhmässä ookkaan vielä jaettu 😄",
       "audio_type": "discord_attachment",
-      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1451964283373224101/Joulupukki_Matkaan_Jo_Kay_Expace_VS_Junkkataxi_Bootleg_V2.wav?ex=69dc675d&is=69db15dd&hm=87d682c4f6728c2c420fa95360feb1edc98229d4defeb64924120c1defe3217f&",
-      "posted_at": "2025-12-20T15:47:41.443Z",
+      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1445038770637508862/piippolanvaari_lvlpm_3am_edit.mp3?ex=69dc41fa&is=69daf07a&hm=60bc842457a8f90ce53e42c62ca66107f1206eecf706e02fddbcc1e53974bb63&",
+      "posted_at": "2025-12-01T13:08:10.510Z",
       "score": 80,
       "stats": {
         "reactions": 6,
@@ -252,29 +216,29 @@
       },
       "comments": [
         {
-          "author": "arsky",
-          "text": "otan tän kehuna",
-          "timestamp": "2025-12-21T14:22:39.861Z"
+          "author": "miikkat",
+          "text": "ei ollu, eiku oliki, eiku ei ollu jingle bells",
+          "timestamp": "2025-12-04T12:46:02.084Z"
+        },
+        {
+          "author": "lvlpm",
+          "text": "Tällanen melko laiska viritelmä löyty puhelimen muistista 😂",
+          "timestamp": "2025-12-04T12:27:33.982Z"
+        },
+        {
+          "author": "auru4291",
+          "text": "Oscar Hawkilla oli julkisessa jaossa muutamat joulujunkkaeditit. Voin latoa ne kans tänne iltapäivälllä🖖",
+          "timestamp": "2025-12-04T12:03:20.694Z"
+        },
+        {
+          "author": "lvlpm",
+          "text": "En oo ihan varma että haluanko tietää enempää, mutta voin kaivella koneelta onko mulla enempää näitä enää tallessa 😂",
+          "timestamp": "2025-12-04T11:57:09.144Z"
         },
         {
           "author": "miikkat",
-          "text": "ilmeet oli about 🙂 🤩 😳 🫠",
-          "timestamp": "2025-12-21T11:22:13.085Z"
-        },
-        {
-          "author": "miikkat",
-          "text": "vaimo rankkas moottorisahapukin ykköseks, tää oli melkein voittaja mutta meni kuulemma ”tosi oudoksi tosi yllättäen”",
-          "timestamp": "2025-12-21T11:20:48.883Z"
-        },
-        {
-          "author": "turboviiksi",
-          "text": "nyt on oltu tuhmina",
-          "timestamp": "2025-12-20T18:19:26.151Z"
-        },
-        {
-          "author": "turboviiksi",
-          "text": "",
-          "timestamp": "2025-12-20T18:19:24.853Z"
+          "text": "mä haluaisin jatkossakin kaikki tämmöset timantit talteen, kun mulla on niille ihan käyttöä",
+          "timestamp": "2025-12-04T11:54:26.064Z"
         }
       ],
       "rank": 10
@@ -296,6 +260,43 @@
       "rank": 11
     },
     {
+      "song_title": "Joulupukki_Matkaan_Jo_Kay_Expace_VS_Junkkataxi_Bootleg_V2.wav",
+      "author": "arsky",
+      "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
+      "message_text": "",
+      "audio_type": "discord_attachment",
+      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1451964283373224101/Joulupukki_Matkaan_Jo_Kay_Expace_VS_Junkkataxi_Bootleg_V2.wav?ex=69dc675d&is=69db15dd&hm=87d682c4f6728c2c420fa95360feb1edc98229d4defeb64924120c1defe3217f&",
+      "posted_at": "2025-12-20T15:47:41.443Z",
+      "score": 70,
+      "stats": {
+        "reactions": 6,
+        "comments": 4
+      },
+      "comments": [
+        {
+          "author": "arsky",
+          "text": "otan tän kehuna",
+          "timestamp": "2025-12-21T14:22:39.861Z"
+        },
+        {
+          "author": "miikkat",
+          "text": "ilmeet oli about 🙂 🤩 😳 🫠",
+          "timestamp": "2025-12-21T11:22:13.085Z"
+        },
+        {
+          "author": "miikkat",
+          "text": "vaimo rankkas moottorisahapukin ykköseks, tää oli melkein voittaja mutta meni kuulemma ”tosi oudoksi tosi yllättäen”",
+          "timestamp": "2025-12-21T11:20:48.883Z"
+        },
+        {
+          "author": "turboviiksi",
+          "text": "nyt on oltu tuhmina",
+          "timestamp": "2025-12-20T18:19:26.151Z"
+        }
+      ],
+      "rank": 12
+    },
+    {
       "song_title": "Haloo_Helsinki_-_Reiviluola_JL_Remix.mp3",
       "author": "joonaliimatainen",
       "author_avatar": "https://cdn.discordapp.com/avatars/296652804909694976/60c2a236861b077d67c05418e166c743.webp?size=128",
@@ -309,20 +310,52 @@
         "comments": 0
       },
       "comments": [],
-      "rank": 12
+      "rank": 13
     },
     {
-      "song_title": "tein nyt tämmösen, niin saa ke",
+      "song_title": "Jenni_Vartiainen_-_Ihmisten_Edessa_JL_Remix.mp3",
+      "author": "joonaliimatainen",
+      "author_avatar": "https://cdn.discordapp.com/avatars/296652804909694976/60c2a236861b077d67c05418e166c743.webp?size=128",
+      "message_text": "",
+      "audio_type": "discord_attachment",
+      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1399857392547790878/Jenni_Vartiainen_-_Ihmisten_Edessa_JL_Remix.mp3?ex=69dcaf0a&is=69db5d8a&hm=634a00998563a2d7635741364a80621dac861c5526eea8a01e7f2635ca7fd4a2&",
+      "posted_at": "2025-07-29T20:53:30.550Z",
+      "score": 55,
+      "stats": {
+        "reactions": 11,
+        "comments": 0
+      },
+      "comments": [],
+      "rank": 14
+    },
+    {
+      "song_title": "Aanii_Fallihauta_Aiva_Hirvia_Flip.mp3",
+      "author": "fallihauta",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
+      "message_text": "",
+      "audio_type": "discord_attachment",
+      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1448748146137239603/Aanii_Fallihauta_Aiva_Hirvia_Flip.mp3?ex=69dc919a&is=69db401a&hm=03f03400817e86c1a837dfa8406b94c33c5ebf658258bd13761fb70616f2fed3&",
+      "posted_at": "2025-12-11T18:47:54.584Z",
+      "score": 50,
+      "stats": {
+        "reactions": 10,
+        "comments": 0
+      },
+      "comments": [],
+      "rank": 15
+    },
+    {
+      "song_title": "Jore-Zpoppa-Hittiputki.mp3",
       "author": "miikkat",
       "author_avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
       "message_text": "tein nyt tämmösen, niin saa kerralla hoidettua aina alta pois:",
       "audio_type": "dropbox_link",
-      "audio_url": "https://www.dropbox.com/scl/fi/8lhmkibptzo234nn8occv/Jore-Zpoppa-Hittiputki.mp3?dl=1",
+      "audio_url": "https://www.dropbox.com/scl/fi/8lhmkibptzo234nn8occv/Jore-Zpoppa-Hittiputki.mp3?rlkey=l4poyz6zb0d8lxrnvxemqndy9&dl=0&raw=1",
       "posted_at": "2025-11-23T19:25:37.282Z",
-      "score": 60,
+      "score": 50,
       "stats": {
         "reactions": 0,
-        "comments": 6
+        "comments": 5
       },
       "comments": [
         {
@@ -349,77 +382,8 @@
           "author": "auru4291",
           "text": "Ensimmäinen helvetin pelottava mielikuva kuuntelematta oli että vedit tekoälyllä og-hittiputken laulut jore/zpoppa-soundeilla.",
           "timestamp": "2025-11-23T19:42:22.825Z"
-        },
-        {
-          "author": "auru4291",
-          "text": "",
-          "timestamp": "2025-11-23T19:42:21.859Z"
         }
       ],
-      "rank": 13
-    },
-    {
-      "song_title": "Jenni_Vartiainen_-_Ihmisten_Edessa_JL_Remix.mp3",
-      "author": "joonaliimatainen",
-      "author_avatar": "https://cdn.discordapp.com/avatars/296652804909694976/60c2a236861b077d67c05418e166c743.webp?size=128",
-      "message_text": "",
-      "audio_type": "discord_attachment",
-      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1399857392547790878/Jenni_Vartiainen_-_Ihmisten_Edessa_JL_Remix.mp3?ex=69dcaf0a&is=69db5d8a&hm=634a00998563a2d7635741364a80621dac861c5526eea8a01e7f2635ca7fd4a2&",
-      "posted_at": "2025-07-29T20:53:30.550Z",
-      "score": 55,
-      "stats": {
-        "reactions": 11,
-        "comments": 0
-      },
-      "comments": [],
-      "rank": 14
-    },
-    {
-      "song_title": "Moottorisahapukki_matkaan_jo_kay_Turboviiksi_mashup.mp3",
-      "author": "turboviiksi",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
-      "message_text": "piristystä joulupöytään",
-      "audio_type": "discord_attachment",
-      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1451669973951844536/Moottorisahapukki_matkaan_jo_kay_Turboviiksi_mashup.mp3?ex=69dca6c4&is=69db5544&hm=e7baedf131ad1b28307b05d8a57dc509075c31caf7b87275b88292506bec7d8a&",
-      "posted_at": "2025-12-19T20:18:12.638Z",
-      "score": 50,
-      "stats": {
-        "reactions": 4,
-        "comments": 3
-      },
-      "comments": [
-        {
-          "author": "oogeekoo",
-          "text": "Kiitos, toimii!",
-          "timestamp": "2025-12-21T02:06:23.964Z"
-        },
-        {
-          "author": "miikkat",
-          "text": "kiitos, tulee käyttistä ens viikolla",
-          "timestamp": "2025-12-19T20:29:37.251Z"
-        },
-        {
-          "author": "miikkat",
-          "text": "",
-          "timestamp": "2025-12-19T20:29:35.682Z"
-        }
-      ],
-      "rank": 15
-    },
-    {
-      "song_title": "Aanii_Fallihauta_Aiva_Hirvia_Flip.mp3",
-      "author": "fallihauta",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
-      "message_text": "",
-      "audio_type": "discord_attachment",
-      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1448748146137239603/Aanii_Fallihauta_Aiva_Hirvia_Flip.mp3?ex=69dc919a&is=69db401a&hm=03f03400817e86c1a837dfa8406b94c33c5ebf658258bd13761fb70616f2fed3&",
-      "posted_at": "2025-12-11T18:47:54.584Z",
-      "score": 50,
-      "stats": {
-        "reactions": 10,
-        "comments": 0
-      },
-      "comments": [],
       "rank": 16
     },
     {
@@ -430,45 +394,13 @@
       "audio_type": "discord_attachment",
       "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1484861216219467891/PMMP_-_Rusketusraidat_PAUQ_Miami_Bass_Bootleg.mp3?ex=69dc1c85&is=69dacb05&hm=103b0bec5724b43f6d3f58765ea67a1ed18316fdc675c30184e6d660aeb6364e&",
       "posted_at": "2026-03-21T10:28:21.368Z",
-      "score": 49.09,
+      "score": 49.08,
       "stats": {
         "reactions": 3,
         "comments": 0
       },
       "comments": [],
       "rank": 17
-    },
-    {
-      "song_title": "Mouhous_-_Aanii_HEMAN_Extended_Bootleg.mp3",
-      "author": "megabossi",
-      "author_avatar": "https://cdn.discordapp.com/avatars/193373550533541898/a775e420d662e76d1118867e030d4893.webp?size=128",
-      "message_text": "Aurun pyynnöstä ylipitkä versio viimeisteltynä, kakkos ja kolmosdroppi ei oo heikkohermosille",
-      "audio_type": "discord_attachment",
-      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1447543241896628346/Mouhous_-_Aanii_HEMAN_Extended_Bootleg.mp3?ex=69dc23f2&is=69dad272&hm=21a273354042a81d88f9ffedb3cde0b914da334333e86b5ecaf8726c9550c61f&",
-      "posted_at": "2025-12-08T11:00:02.984Z",
-      "score": 45,
-      "stats": {
-        "reactions": 3,
-        "comments": 3
-      },
-      "comments": [
-        {
-          "author": "auru4291",
-          "text": "🤯🤯🤯🤯",
-          "timestamp": "2025-12-08T11:34:04.577Z"
-        },
-        {
-          "author": "auru4291",
-          "text": "Jäbä loi hirviön!!",
-          "timestamp": "2025-12-08T11:33:37.981Z"
-        },
-        {
-          "author": "auru4291",
-          "text": "",
-          "timestamp": "2025-12-08T11:33:36.407Z"
-        }
-      ],
-      "rank": 18
     },
     {
       "song_title": "Tiktak_-_Heilutaan_JL_Remix.mp3",
@@ -484,10 +416,10 @@
         "comments": 0
       },
       "comments": [],
-      "rank": 19
+      "rank": 18
     },
     {
-      "song_title": "Ehkä työversio, ehkä final mut",
+      "song_title": "Ehkä työversio, ehkä final mut jakoon enihuu, eilen keikkade",
       "author": "astalo",
       "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
       "message_text": "Ehkä työversio, ehkä final mut jakoon enihuu, eilen keikkadebyytissä ja toimitti:",
@@ -500,6 +432,33 @@
         "comments": 0
       },
       "comments": [],
+      "rank": 19
+    },
+    {
+      "song_title": "Moottorisahapukki_matkaan_jo_kay_Turboviiksi_mashup.mp3",
+      "author": "turboviiksi",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
+      "message_text": "piristystä joulupöytään",
+      "audio_type": "discord_attachment",
+      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1451669973951844536/Moottorisahapukki_matkaan_jo_kay_Turboviiksi_mashup.mp3?ex=69dca6c4&is=69db5544&hm=e7baedf131ad1b28307b05d8a57dc509075c31caf7b87275b88292506bec7d8a&",
+      "posted_at": "2025-12-19T20:18:12.638Z",
+      "score": 40,
+      "stats": {
+        "reactions": 4,
+        "comments": 2
+      },
+      "comments": [
+        {
+          "author": "oogeekoo",
+          "text": "Kiitos, toimii!",
+          "timestamp": "2025-12-21T02:06:23.964Z"
+        },
+        {
+          "author": "miikkat",
+          "text": "kiitos, tulee käyttistä ens viikolla",
+          "timestamp": "2025-12-19T20:29:37.251Z"
+        }
+      ],
       "rank": 20
     }
   ]
