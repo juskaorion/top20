@@ -8,9 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      # Tämä komento poistaa GitHubin varoituksen ja pakottaa uuden moottorin
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
     - name: Checkout repository
@@ -19,7 +16,7 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '24' # Päivitetty uuteen versioon 24
+        node-version: '20' # Palautettu vakaaseen versioon 20
         
     - name: Install dependencies
       run: npm install
