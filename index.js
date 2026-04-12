@@ -66,9 +66,10 @@ function calculateScore(postedAt, reactionCount, commentCount) {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
     
-    const baseScore = 100;
+    // UUDET ASETUKSET: Lähtöpisteet 200, sulamisvauhti 2.5 p / päivä
+    const baseScore = 200;
     const activityScore = (reactionCount * 5) + (commentCount * 10);
-    const agePenalty = ageInDays * 5;
+    const agePenalty = ageInDays * 2.5;
     
     return Math.max(0, baseScore + activityScore - agePenalty);
 }
