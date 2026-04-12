@@ -34,9 +34,6 @@ function extractAudioInfo(message) {
             urlObj.searchParams.set('raw', '1');
             let pathname = urlObj.pathname;
             let filename = decodeURIComponent(pathname.substring(pathname.lastIndexOf('/') + 1));
-            if (!filename.includes('.')) {
-                filename = embedTitle || 'Dropbox Audio';
-            }
             return { type: 'dropbox_link', url: urlObj.toString(), title: filename };
         } catch (e) { return { type: 'dropbox_link', url: dropboxMatch[1], title: embedTitle || 'Dropbox Audio' }; }
     }
@@ -52,25 +49,16 @@ function cleanTitle(title, messageContent) {
         const firstLine = messageContent.split('\n')[0].replace(/(https?:\/\/[^\s]+)/g, '').trim();
         return firstLine || "Nimetön biisi";
     }
-    
-    let cleaned = title;
-    cleaned = cleaned.replace(/\.(mp3|wav|ogg|flac|m4a|aac)(\?.*)?$/i, '');
-    cleaned = cleaned.replace(/_-_/g, ' - ');
-    cleaned = cleaned.replace(/_/g, ' ');
-    cleaned = cleaned.replace(/\s+/g, ' ').trim();
-    
+    let cleaned = title.replace(/\.(mp3|wav|ogg|flac|m4a|aac)(\?.*)?$/i, '').replace(/_-_/g, ' - ').replace(/_/g, ' ').replace(/\s+/g, ' ').trim();
     return cleaned;
 }
 
 function calculateScore(postedAt, reactionCount, commentCount) {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
-    
-    // UUDET ASETUKSET: Lähtöpisteet 200, sulamisvauhti 2.5 p / päivä
     const baseScore = 200;
     const activityScore = (reactionCount * 5) + (commentCount * 10);
     const agePenalty = ageInDays * 2.5;
-    
     return Math.max(0, baseScore + activityScore - agePenalty);
 }
 
@@ -86,10 +74,9 @@ client.once('ready', async () => {
                 if (audioInfo) {
                     let reactionCount = 0;
                     let reactionsList = [];
-                    
                     message.reactions.cache.forEach(r => { 
                         reactionCount += r.count; 
-                        reactionsList.push({ name: r.emoji.name, url: r.emoji.url, count: r.count });
+                        reactionsList.push({ name: r.emoji.name, url: r.emoji.imageURL ? r.emoji.imageURL() : null, count: r.count });
                     });
 
                     let comments = [];
@@ -101,7 +88,7 @@ client.once('ready', async () => {
                     }
                     
                     allValidSongs.push({
-                        id: message.id, // Tallennetään viestin ID optimointia varten
+                        id: message.id,
                         song_title: cleanTitle(audioInfo.title, message.content),
                         author: message.author.username,
                         author_avatar: message.author.displayAvatarURL({ size: 128 }),
@@ -122,30 +109,24 @@ client.once('ready', async () => {
     allValidSongs.sort((a, b) => b.score - a.score);
     const top20 = allValidSongs.slice(0, 20).map((s, i) => ({ ...s, rank: i + 1 }));
 
-    // OPTIMOINTI: Luetaan edellinen JSON jotta vältetään turhat FTP-lataukset
+    // VÄLIMUISTIN TARKISTUS
     let previousDataByRank = {};
     try {
         if (fs.existsSync('top20_songs.json')) {
             const prevJson = JSON.parse(fs.readFileSync('top20_songs.json', 'utf8'));
-            if (prevJson && prevJson.top_songs) {
-                prevJson.top_songs.forEach(s => { previousDataByRank[s.rank] = s; });
-            }
+            if (prevJson && prevJson.top_songs) { prevJson.top_songs.forEach(s => { previousDataByRank[s.rank] = s; }); }
         }
-    } catch (e) {
-        console.log("Ei aikaisempaa dataa löydetty, prosessoidaan kaikki.");
-    }
+    } catch (e) {}
 
-    // FTP-Leikkuri
     const ftpHost = process.env.FTP_HOST;
     const ftpUser = process.env.FTP_USER;
     const ftpPass = process.env.FTP_PASS;
-    const ftpDir = process.env.FTP_DIR || "public_html/top20-audio"; 
-    const ftpWebUrl = process.env.FTP_WEB_URL || "https://www.djorion.fi/top20-audio";
+    const ftpDir = process.env.FTP_DIR || "public_html/top20"; 
+    const ftpWebUrl = process.env.FTP_WEB_URL || "https://www.djorion.fi/top20";
 
     if (ftpHost && ftpUser && ftpPass) {
         console.log("\n==== ALOITETAAN AUDIOKLIPPIEN LEIKKAUS JA FTP-SIIRTO ====");
         const ftpClient = new ftp.Client();
-        
         try {
             await ftpClient.access({ host: ftpHost, user: ftpUser, password: ftpPass, secure: false });
             await ftpClient.ensureDir(ftpDir);
@@ -153,20 +134,19 @@ client.once('ready', async () => {
             for (let song of top20) {
                 const prevSong = previousDataByRank[song.rank];
 
-                // TARKISTUS: Onko sama biisi täsmälleen samalla sijalla kuin eilen?
-                if (prevSong && prevSong.id === song.id && prevSong.audio_type === 'secure_clip') {
-                    console.log(`[OHITETAAN] Sija ${song.rank} ei ole muuttunut: ${song.song_title}`);
-                    song.audio_url = prevSong.audio_url; // Käytetään valmiiksi FTP:llä olevaa tiedostoa
+                // UUSITTU TARKISTUS: Jos biisi on sama JA sen URL alkaa nykyisellä palvelinosoitteella -> Ohita
+                if (prevSong && prevSong.id === song.id && prevSong.audio_url.startsWith(ftpWebUrl)) {
+                    console.log(`[OHITETAAN] Sija ${song.rank} ennallaan: ${song.song_title}`);
+                    song.audio_url = prevSong.audio_url;
                     song.audio_type = "secure_clip";
                     continue;
                 }
 
-                console.log(`[PROSESSOIDAAN] Sija ${song.rank} on muuttunut tai uusi!`);
+                console.log(`[PROSESSOIDAAN] Sija ${song.rank} päivitetään...`);
                 const outputFilename = `rank_${song.rank}.mp3`;
                 const outputPath = `/tmp/${outputFilename}`;
                 let downloadUrl = song.audio_url;
                 
-                // Drive URLien konvertointi
                 if (downloadUrl.includes('drive.google.com/file/d/')) {
                     const match = downloadUrl.match(/\/d\/([a-zA-Z0-9_-]+)/);
                     if (match) downloadUrl = `https://drive.google.com/uc?export=download&id=${match[1]}`;
@@ -177,35 +157,23 @@ client.once('ready', async () => {
                     try {
                         const durationStr = execSync(`ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "${downloadUrl}"`).toString().trim();
                         const duration = parseFloat(durationStr);
-                        if (!isNaN(duration) && duration > 60) {
-                            startTime = Math.max(0, (duration / 2) - 30);
-                        }
+                        if (!isNaN(duration) && duration > 60) startTime = Math.max(0, (duration / 2) - 30);
                     } catch (probeErr) {}
 
-                    console.log(`Leikataan (aloituskohta: ${startTime.toFixed(1)}s): Rank ${song.rank} - ${song.song_title}`);
-                    
                     execSync(`ffmpeg -y -i "${downloadUrl}" -ss ${startTime.toFixed(2)} -t 60 -c:a libmp3lame -b:a 128k "${outputPath}"`, { stdio: 'ignore' });
                     await ftpClient.uploadFrom(outputPath, outputFilename);
                     
-                    // Lisätään loppuun random aikaleima, jotta selaimen välimuisti ei toista eilistä MP3:sta
                     song.audio_url = `${ftpWebUrl}/${outputFilename}?v=${Date.now()}`;
                     song.audio_type = "secure_clip";
                     fs.unlinkSync(outputPath);
-                } catch (err) {
-                    console.error(`-> FFMPEG virhe sijalle ${song.rank}. Biisi jätetään leikkaamatta.`);
-                }
+                } catch (err) { console.error(`-> Virhe sijalla ${song.rank}`); }
             }
-        } catch (err) {
-            console.error("FTP Yhteysvirhe:", err);
-        }
+        } catch (err) { console.error("FTP Virhe:", err); }
         ftpClient.close();
-        console.log("==== AUDIOKLIPPIEN SIIRTO VALMIS ====\n");
-    } else {
-        console.log("-> FTP-tunnuksia ei asetettu. Ohitetaan klippien generointi.");
     }
 
     fs.writeFileSync('top20_songs.json', JSON.stringify({ last_updated: new Date().toISOString(), top_songs: top20 }, null, 2));
-    console.log('JSON päivitetty onnistuneesti!');
+    console.log('Päivitys valmis!');
     client.destroy();
 });
 
