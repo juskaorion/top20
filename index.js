@@ -53,15 +53,14 @@ function cleanTitle(title, messageContent) {
     return cleaned;
 }
 
-// UUSI PISTEYTYS: 500 alkupistettä, emojit +3pv (7.5p), kommentit +5pv (12.5p)
 function calculateScore(postedAt, reactionCount, commentCount) {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
     
     const baseScore = 500;
-    const reactionPoints = reactionCount * 7.5; // Vastaa 3 päivän elinaikaa per emoji
-    const commentPoints = commentCount * 12.5;  // Vastaa 5 päivän elinaikaa per kommentti
-    const agePenalty = ageInDays * 2.5;         // Sulaminen 2.5 pistettä päivässä
+    const reactionPoints = reactionCount * 7.5; 
+    const commentPoints = commentCount * 12.5;  
+    const agePenalty = ageInDays * 2.5;         
     
     return Math.max(0, baseScore + reactionPoints + commentPoints - agePenalty);
 }
@@ -83,11 +82,14 @@ client.once('ready', async () => {
                         reactionsList.push({ name: r.emoji.name, url: r.emoji.imageURL ? r.emoji.imageURL() : null, count: r.count });
                     });
 
-                    let comments = [];
+                    // VAIN MÄÄRÄ LASKETAAN, SISÄLTÖÄ EI LUETA
+                    let commentCount = 0;
                     if (message.hasThread) {
                         try {
-                            const tMsgs = await message.thread.messages.fetch({ limit: 20 });
-                            tMsgs.forEach(tm => { if (!tm.author.bot && tm.content.trim()) comments.push({ author: tm.author.username, text: tm.content, timestamp: tm.createdAt.toISOString() }); });
+                            const thread = await message.thread.fetch();
+                            commentCount = thread.messageCount; 
+                            // Vähennetään 1 jos threadin aloitusviesti lasketaan mukaan
+                            if (commentCount > 0) commentCount = Math.max(0, commentCount - 1);
                         } catch (e) {}
                     }
                     
@@ -100,10 +102,10 @@ client.once('ready', async () => {
                         audio_type: audioInfo.type,
                         audio_url: audioInfo.url,
                         posted_at: message.createdAt.toISOString(),
-                        score: parseFloat(calculateScore(message.createdAt, reactionCount, comments.length).toFixed(1)),
-                        stats: { reactions: reactionCount, comments: comments.length },
-                        reactions: reactionsList,
-                        comments: comments
+                        score: parseFloat(calculateScore(message.createdAt, reactionCount, commentCount).toFixed(1)),
+                        stats: { reactions: reactionCount, comments: commentCount },
+                        reactions: reactionsList
+                        // 'comments'-kenttä poistettu kokonaan
                     });
                 }
             }
@@ -128,7 +130,7 @@ client.once('ready', async () => {
     const ftpWebUrl = process.env.FTP_WEB_URL || "https://www.djorion.fi/top20";
 
     if (ftpHost && ftpUser && ftpPass) {
-        console.log("\n==== ALOITETAAN AUDIOKLIPPIEN LEIKKAUS JA FTP-SIIRTO ====");
+        console.log("\n==== AUDIOKLIPIT JA FTP-SIIRTO ====");
         const ftpClient = new ftp.Client();
         try {
             await ftpClient.access({ host: ftpHost, user: ftpUser, password: ftpPass, secure: false });
@@ -136,14 +138,12 @@ client.once('ready', async () => {
 
             for (let song of top20) {
                 const prevSong = previousDataByRank[song.rank];
-                if (prevSong && prevSong.id === song.id) {
-                    console.log(`[OHITETAAN] Sija ${song.rank} ennallaan: ${song.song_title}`);
+                if (prevSong && prevSong.id === song.id && prevSong.audio_url.startsWith(ftpWebUrl)) {
                     song.audio_url = prevSong.audio_url;
                     song.audio_type = "secure_clip";
                     continue;
                 }
 
-                console.log(`[PROSESSOIDAAN] Sija ${song.rank} muuttunut: ${song.song_title}`);
                 const outputFilename = `rank_${song.rank}.mp3`;
                 const outputPath = `/tmp/${outputFilename}`;
                 let downloadUrl = song.audio_url;
@@ -174,7 +174,7 @@ client.once('ready', async () => {
     }
 
     fs.writeFileSync('top20_songs.json', JSON.stringify({ last_updated: new Date().toISOString(), top_songs: top20 }, null, 2));
-    console.log('Päivitys valmis!');
+    console.log('Päivitys valmis! Kommentit suojattu.');
     client.destroy();
 });
 
