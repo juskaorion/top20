@@ -53,13 +53,17 @@ function cleanTitle(title, messageContent) {
     return cleaned;
 }
 
+// UUSI PISTEYTYS: 500 alkupistettä, emojit +3pv (7.5p), kommentit +5pv (12.5p)
 function calculateScore(postedAt, reactionCount, commentCount) {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
-    const baseScore = 200;
-    const activityScore = (reactionCount * 5) + (commentCount * 10);
-    const agePenalty = ageInDays * 2.5;
-    return Math.max(0, baseScore + activityScore - agePenalty);
+    
+    const baseScore = 500;
+    const reactionPoints = reactionCount * 7.5; // Vastaa 3 päivän elinaikaa per emoji
+    const commentPoints = commentCount * 12.5;  // Vastaa 5 päivän elinaikaa per kommentti
+    const agePenalty = ageInDays * 2.5;         // Sulaminen 2.5 pistettä päivässä
+    
+    return Math.max(0, baseScore + reactionPoints + commentPoints - agePenalty);
 }
 
 client.once('ready', async () => {
@@ -109,7 +113,6 @@ client.once('ready', async () => {
     allValidSongs.sort((a, b) => b.score - a.score);
     const top20 = allValidSongs.slice(0, 20).map((s, i) => ({ ...s, rank: i + 1 }));
 
-    // VÄLIMUISTIN TARKISTUS
     let previousDataByRank = {};
     try {
         if (fs.existsSync('top20_songs.json')) {
@@ -133,16 +136,14 @@ client.once('ready', async () => {
 
             for (let song of top20) {
                 const prevSong = previousDataByRank[song.rank];
-
-                // UUSITTU TARKISTUS: Jos biisi on sama JA sen URL alkaa nykyisellä palvelinosoitteella -> Ohita
-                if (prevSong && prevSong.id === song.id && prevSong.audio_url.startsWith(ftpWebUrl)) {
+                if (prevSong && prevSong.id === song.id) {
                     console.log(`[OHITETAAN] Sija ${song.rank} ennallaan: ${song.song_title}`);
                     song.audio_url = prevSong.audio_url;
                     song.audio_type = "secure_clip";
                     continue;
                 }
 
-                console.log(`[PROSESSOIDAAN] Sija ${song.rank} päivitetään...`);
+                console.log(`[PROSESSOIDAAN] Sija ${song.rank} muuttunut: ${song.song_title}`);
                 const outputFilename = `rank_${song.rank}.mp3`;
                 const outputPath = `/tmp/${outputFilename}`;
                 let downloadUrl = song.audio_url;
