@@ -15,27 +15,39 @@ const CHANNELS = [process.env.CHANNEL_ID_1, process.env.CHANNEL_ID_2];
 
 function extractAudioInfo(message) {
     const text = message.content;
+    
+    // Tarkistetaan onko Discord luonut linkistä esikatselun (jossa on usein tiedoston nimi)
+    let embedTitle = null;
+    if (message.embeds && message.embeds.length > 0 && message.embeds[0].title) {
+        embedTitle = message.embeds[0].title;
+    }
+
     const audioAttachment = message.attachments.find(att => 
         att.contentType && (att.contentType.startsWith('audio/') || att.name.endsWith('.mp3') || att.name.endsWith('.wav'))
     );
     if (audioAttachment) return { type: 'discord_attachment', url: audioAttachment.url, title: audioAttachment.name };
 
-    const dropboxMatch = text.match(/(https?:\/\/www\.dropbox\.com\/scl\/fi\/[^\s]+)/i);
+    const dropboxMatch = text.match(/(https?:\/\/www\.dropbox\.com\/(?:scl\/fi|s)\/[^\s]+)/i);
     if (dropboxMatch && !text.includes('/sh/') && !text.includes('/folder/')) {
         try {
             let urlObj = new URL(dropboxMatch[1]);
             urlObj.searchParams.set('raw', '1');
-            // Poimitaan tiedostonimi suoraan URL-polun lopusta
-            let pathParts = urlObj.pathname.split('/');
-            let filename = decodeURIComponent(pathParts[pathParts.length - 1]);
-            if (!filename || filename.length < 5) filename = 'Dropbox Audio';
+            
+            // Yritetään poimia tiedostonimi URL:n lopusta
+            let pathname = urlObj.pathname;
+            let filename = decodeURIComponent(pathname.substring(pathname.lastIndexOf('/') + 1));
+            
+            // Jos URL:ssa ei ole tiedostopäätettä, se on todennäköisesti vain kansio-hash -> käytetään esikatselun otsikkoa
+            if (!filename.includes('.')) {
+                filename = embedTitle || 'Dropbox Audio';
+            }
             
             return { type: 'dropbox_link', url: urlObj.toString(), title: filename };
-        } catch (e) { return { type: 'dropbox_link', url: dropboxMatch[1], title: 'Dropbox Audio' }; }
+        } catch (e) { return { type: 'dropbox_link', url: dropboxMatch[1], title: embedTitle || 'Dropbox Audio' }; }
     }
 
     const driveFileMatch = text.match(/(https?:\/\/drive\.google\.com\/file\/d\/([a-zA-Z0-9_-]+))/i);
-    if (driveFileMatch && !text.includes('/folders/')) return { type: 'drive_file', url: driveFileMatch[1], title: 'Google Drive Audio' };
+    if (driveFileMatch && !text.includes('/folders/')) return { type: 'drive_file', url: driveFileMatch[1], title: embedTitle || 'Google Drive Audio' };
 
     return null;
 }
@@ -46,19 +58,14 @@ function cleanTitle(title, messageContent) {
         return firstLine || "Nimetön biisi";
     }
     
-    let cleaned = decodeURIComponent(title);
-    
-    // Poistetaan tiedostopäätteet (.mp3, .wav jne)
+    let cleaned = title;
+    // Poistetaan tiedostopäätteet
     cleaned = cleaned.replace(/\.(mp3|wav|ogg|flac|m4a|aac)(\?.*)?$/i, '');
-    
-    // Muutetaan _-_ muotoon väliviiva (esim. Artisti_-_Biisi -> Artisti - Biisi)
+    // Muutetaan oudot erottimet oikeiksi väliviivoiksi
     cleaned = cleaned.replace(/_-_/g, ' - ');
-    cleaned = cleaned.replace(/--/g, ' - ');
-    
-    // Muutetaan KAIKKI JÄLJELLÄ OLEVAT alaviivat välilyönneiksi (säilytetään oikeat väliviivat)
+    // Muutetaan jäljelle jääneet alaviivat välilyönneiksi
     cleaned = cleaned.replace(/_/g, ' ');
-    
-    // Siistitään tuplavälilyönnit pois
+    // Siistitään ylimääräiset välilyönnit
     cleaned = cleaned.replace(/\s+/g, ' ').trim();
     
     return cleaned;
@@ -81,7 +88,18 @@ client.once('ready', async () => {
                 const audioInfo = extractAudioInfo(message);
                 if (audioInfo) {
                     let reactionCount = 0;
-                    message.reactions.cache.forEach(r => { reactionCount += r.count; });
+                    let reactionsList = [];
+                    
+                    // Kerätään aidot emojit talteen
+                    message.reactions.cache.forEach(r => { 
+                        reactionCount += r.count; 
+                        reactionsList.push({
+                            name: r.emoji.name,
+                            url: r.emoji.url, // on olemassa, jos kyseessä on custom emoji
+                            count: r.count
+                        });
+                    });
+
                     let comments = [];
                     if (message.hasThread) {
                         try {
@@ -100,6 +118,7 @@ client.once('ready', async () => {
                         posted_at: message.createdAt.toISOString(),
                         score: parseFloat(calculateScore(message.createdAt, reactionCount, comments.length).toFixed(1)),
                         stats: { reactions: reactionCount, comments: comments.length },
+                        reactions: reactionsList, // Uusi kenttä emojeille
                         comments: comments
                     });
                 }
