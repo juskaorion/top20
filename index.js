@@ -23,9 +23,14 @@ function extractAudioInfo(message) {
     const dropboxMatch = text.match(/(https?:\/\/www\.dropbox\.com\/scl\/fi\/[^\s]+)/i);
     if (dropboxMatch && !text.includes('/sh/') && !text.includes('/folder/')) {
         try {
-            let url = new URL(dropboxMatch[1]);
-            url.searchParams.set('raw', '1');
-            return { type: 'dropbox_link', url: url.toString(), title: 'Dropbox Audio' };
+            let urlObj = new URL(dropboxMatch[1]);
+            urlObj.searchParams.set('raw', '1');
+            // Poimitaan tiedostonimi suoraan URL-polun lopusta
+            let pathParts = urlObj.pathname.split('/');
+            let filename = decodeURIComponent(pathParts[pathParts.length - 1]);
+            if (!filename || filename.length < 5) filename = 'Dropbox Audio';
+            
+            return { type: 'dropbox_link', url: urlObj.toString(), title: filename };
         } catch (e) { return { type: 'dropbox_link', url: dropboxMatch[1], title: 'Dropbox Audio' }; }
     }
 
@@ -37,18 +42,23 @@ function extractAudioInfo(message) {
 
 function cleanTitle(title, messageContent) {
     if (!title || title === 'Dropbox Audio' || title === 'Google Drive Audio') {
-        // Jos ei tiedostonimeä, otetaan viestin eka rivi
         const firstLine = messageContent.split('\n')[0].replace(/(https?:\/\/[^\s]+)/g, '').trim();
-        title = firstLine || "Nimetön biisi";
+        return firstLine || "Nimetön biisi";
     }
     
-    // Poistetaan tiedostopäätteet
-    let cleaned = title.replace(/\.(mp3|wav|ogg|flac|m4a|aac)$/i, '');
+    let cleaned = decodeURIComponent(title);
     
-    // Muutetaan vain alaviivat välilyönneiksi (SÄILYTETÄÄN väliviivat - )
+    // Poistetaan tiedostopäätteet (.mp3, .wav jne)
+    cleaned = cleaned.replace(/\.(mp3|wav|ogg|flac|m4a|aac)(\?.*)?$/i, '');
+    
+    // Muutetaan _-_ muotoon väliviiva (esim. Artisti_-_Biisi -> Artisti - Biisi)
+    cleaned = cleaned.replace(/_-_/g, ' - ');
+    cleaned = cleaned.replace(/--/g, ' - ');
+    
+    // Muutetaan KAIKKI JÄLJELLÄ OLEVAT alaviivat välilyönneiksi (säilytetään oikeat väliviivat)
     cleaned = cleaned.replace(/_/g, ' ');
     
-    // Siistitään ylimääräiset välilyönnit
+    // Siistitään tuplavälilyönnit pois
     cleaned = cleaned.replace(/\s+/g, ' ').trim();
     
     return cleaned;
