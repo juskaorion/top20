@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T12:55:26.902Z",
+  "last_updated": "2026-04-12T13:12:10.843Z",
   "top_songs": [
     {
       "id": "1489330055556370462",
@@ -10,7 +10,7 @@
       "audio_type": "secure_clip",
       "audio_url": "https://www.djorion.fi/top20-audio/rank_1.mp3?v=1775998433516",
       "posted_at": "2026-04-02T18:25:55.659Z",
-      "score": 285.6,
+      "score": 285.5,
       "stats": {
         "reactions": 22,
         "comments": 0
@@ -54,7 +54,7 @@
       "audio_type": "secure_clip",
       "audio_url": "https://www.djorion.fi/top20-audio/rank_2.mp3?v=1775998437920",
       "posted_at": "2026-03-01T22:18:09.139Z",
-      "score": 176,
+      "score": 175.9,
       "stats": {
         "reactions": 16,
         "comments": 0
@@ -127,7 +127,7 @@
       "audio_type": "secure_clip",
       "audio_url": "https://www.djorion.fi/top20-audio/rank_4.mp3?v=1775998445627",
       "posted_at": "2026-03-12T20:12:16.290Z",
-      "score": 153.3,
+      "score": 153.2,
       "stats": {
         "reactions": 6,
         "comments": 0
@@ -342,7 +342,7 @@
       "audio_type": "secure_clip",
       "audio_url": "https://www.djorion.fi/top20-audio/rank_12.mp3?v=1775998479235",
       "posted_at": "2026-01-26T17:21:45.929Z",
-      "score": 40.5,
+      "score": 40.4,
       "stats": {
         "reactions": 6,
         "comments": 0
@@ -371,7 +371,7 @@
       "audio_type": "secure_clip",
       "audio_url": "https://www.djorion.fi/top20-audio/rank_13.mp3?v=1775998482883",
       "posted_at": "2026-02-01T16:15:36.285Z",
-      "score": 30.4,
+      "score": 30.3,
       "stats": {
         "reactions": 1,
         "comments": 0
