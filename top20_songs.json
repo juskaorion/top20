@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T12:24:51.179Z",
+  "last_updated": "2026-04-12T12:33:52.406Z",
   "top_songs": [
     {
       "id": "1489330055556370462",
@@ -180,7 +180,7 @@
       "audio_type": "discord_attachment",
       "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1472909981195174010/Imus_Riutta_Remix.mp3?ex=69dccc50&is=69db7ad0&hm=d0981b17fc4cc092f7c595771f4eff6f9d4416c099cdd9352b26492e0b336054&",
       "posted_at": "2026-02-16T10:58:24.812Z",
-      "score": 97.4,
+      "score": 97.3,
       "stats": {
         "reactions": 7,
         "comments": 0
@@ -279,7 +279,7 @@
       "audio_type": "dropbox_link",
       "audio_url": "https://www.dropbox.com/scl/fi/5or0xnoxt2rvgjq1slcq4/Gasellit-Imus-Kitsu-Remix.mp3?rlkey=7bund7ms7m5vf5ya49s2r6llv&st=z7686we7&dl=0&raw=1",
       "posted_at": "2026-02-03T12:00:38.858Z",
-      "score": 60,
+      "score": 59.9,
       "stats": {
         "reactions": 6,
         "comments": 0
