@@ -60,15 +60,12 @@ function cleanTitle(title, messageContent) {
     return cleaned;
 }
 
+// PALAUTETTU VAKAA LOGIIKKA (Ei kommenttien/emojien sulamista)
 function calculateScore(postedAt, reactionCount, commentCount) {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
-    
-    const baseScore = 100;
-    const activityScore = (reactionCount * 5) + (commentCount * 10);
-    const agePenalty = ageInDays * 5;
-    
-    return Math.max(0, baseScore + activityScore - agePenalty);
+    // Uutuusarvo sulaa 3 pistettä/päivä, mutta reaktiot ja kommentit pysyvät
+    return Math.max(0, 100 - (ageInDays * 3)) + (reactionCount * 5) + (commentCount * 10);
 }
 
 client.once('ready', async () => {
@@ -116,11 +113,12 @@ client.once('ready', async () => {
                     });
                 }
             }
-        } catch (error) {}
+        } catch (error) { console.error(error); }
     }
     allValidSongs.sort((a, b) => b.score - a.score);
     const top20 = allValidSongs.slice(0, 20).map((s, i) => ({ ...s, rank: i + 1 }));
     fs.writeFileSync('top20_songs.json', JSON.stringify({ last_updated: new Date().toISOString(), top_songs: top20 }, null, 2));
+    console.log('Lista päivitetty onnistuneesti!');
     client.destroy();
 });
 
