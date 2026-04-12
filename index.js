@@ -60,12 +60,16 @@ function cleanTitle(title, messageContent) {
     return cleaned;
 }
 
-// PALAUTETTU VAKAA LOGIIKKA (Ei kommenttien/emojien sulamista)
+// UUSI SULAMISLOGIIKKA (Gravity Model)
 function calculateScore(postedAt, reactionCount, commentCount) {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
-    // Uutuusarvo sulaa 3 pistettä/päivä, mutta reaktiot ja kommentit pysyvät
-    return Math.max(0, 100 - (ageInDays * 3)) + (reactionCount * 5) + (commentCount * 10);
+    
+    const baseScore = 100;
+    const activityScore = (reactionCount * 5) + (commentCount * 10);
+    const agePenalty = ageInDays * 5; // Kaikki pisteet sulavat 5 pistettä päivässä!
+    
+    return Math.max(0, baseScore + activityScore - agePenalty);
 }
 
 client.once('ready', async () => {
