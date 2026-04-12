@@ -32,26 +32,26 @@ function extractAudioInfo(message) {
     const driveFileMatch = text.match(/(https?:\/\/drive\.google\.com\/file\/d\/([a-zA-Z0-9_-]+))/i);
     if (driveFileMatch && !text.includes('/folders/')) return { type: 'drive_file', url: driveFileMatch[1], title: 'Google Drive Audio' };
 
-    const soundcloudMatch = text.match(/(https?:\/\/soundcloud\.com\/[^\s]+)/i);
-    if (soundcloudMatch) return { type: 'soundcloud_link', url: soundcloudMatch[1], title: 'SoundCloud Audio' };
-
-    const youtubeMatch = text.match(/(https?:\/\/(?:www\.)?youtube\.com\/watch\?v=[a-zA-Z0-9_-]+|https?:\/\/youtu\.be\/[a-zA-Z0-9_-]+)/i);
-    if (youtubeMatch) return { type: 'youtube_link', url: youtubeMatch[1], title: 'YouTube Audio' };
-
     return null;
 }
 
-function cleanTitle(title) {
-    if (!title) return "Nimetön biisi";
+function cleanTitle(title, messageContent) {
+    if (!title || title === 'Dropbox Audio' || title === 'Google Drive Audio') {
+        // Jos ei tiedostonimeä, otetaan viestin eka rivi
+        const firstLine = messageContent.split('\n')[0].replace(/(https?:\/\/[^\s]+)/g, '').trim();
+        title = firstLine || "Nimetön biisi";
+    }
+    
     // Poistetaan tiedostopäätteet
     let cleaned = title.replace(/\.(mp3|wav|ogg|flac|m4a|aac)$/i, '');
-    // Muutetaan alaviivat ja viivat välilyönneiksi
-    cleaned = cleaned.replace(/[_-]/g, ' ');
-    // Jos koko teksti on ISOILLA, muutetaan se siistimmäksi
-    if (cleaned === cleaned.toUpperCase()) {
-        cleaned = cleaned.toLowerCase().split(' ').map(s => s.charAt(0).toUpperCase() + s.substring(1)).join(' ');
-    }
-    return cleaned.trim();
+    
+    // Muutetaan vain alaviivat välilyönneiksi (SÄILYTETÄÄN väliviivat - )
+    cleaned = cleaned.replace(/_/g, ' ');
+    
+    // Siistitään ylimääräiset välilyönnit
+    cleaned = cleaned.replace(/\s+/g, ' ').trim();
+    
+    return cleaned;
 }
 
 function calculateScore(postedAt, reactionCount, commentCount) {
@@ -80,17 +80,11 @@ client.once('ready', async () => {
                         } catch (e) {}
                     }
                     
-                    let cleanMsg = message.content.replace(/(https?:\/\/[^\s]+)/g, '').trim();
-                    let displayTitle = audioInfo.title;
-                    if (['Dropbox Audio', 'Google Drive Audio', 'YouTube Audio', 'SoundCloud Audio'].includes(displayTitle)) {
-                        displayTitle = cleanMsg.split('\n')[0].substring(0, 80) || "Nimetön biisi";
-                    }
-
                     allValidSongs.push({
-                        song_title: cleanTitle(displayTitle),
+                        song_title: cleanTitle(audioInfo.title, message.content),
                         author: message.author.username,
                         author_avatar: message.author.displayAvatarURL({ size: 128 }),
-                        message_text: cleanMsg,
+                        message_text: message.content.replace(/(https?:\/\/[^\s]+)/g, '').trim(),
                         audio_type: audioInfo.type,
                         audio_url: audioInfo.url,
                         posted_at: message.createdAt.toISOString(),
