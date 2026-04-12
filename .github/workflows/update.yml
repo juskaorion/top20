@@ -1,0 +1,29 @@
+name: Daily Discord Update
+on:
+  schedule:
+    - cron: '0 4 * * *' # Ajaa joka aamu klo 04:00 UTC
+  workflow_dispatch: # Mahdollistaa ajon myös käsin napista
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install
+      - run: node index.js
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          CHANNEL_ID_1: ${{ secrets.CHANNEL_ID_1 }}
+          CHANNEL_ID_2: ${{ secrets.CHANNEL_ID_2 }}
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add top20_songs.json
+          git commit -m "Update top20 list" || exit 0
+          git push
