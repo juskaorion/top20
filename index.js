@@ -62,7 +62,6 @@ function cleanTitle(title, messageContent) {
     return cleaned;
 }
 
-// UUSI LASKURI (Kaikki pisteet sulavat ajan myötä)
 function calculateScore(postedAt, reactionCount, commentCount) {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
@@ -101,6 +100,7 @@ client.once('ready', async () => {
                     }
                     
                     allValidSongs.push({
+                        id: message.id, // Tallennetään viestin ID optimointia varten
                         song_title: cleanTitle(audioInfo.title, message.content),
                         author: message.author.username,
                         author_avatar: message.author.displayAvatarURL({ size: 128 }),
@@ -121,6 +121,19 @@ client.once('ready', async () => {
     allValidSongs.sort((a, b) => b.score - a.score);
     const top20 = allValidSongs.slice(0, 20).map((s, i) => ({ ...s, rank: i + 1 }));
 
+    // OPTIMOINTI: Luetaan edellinen JSON jotta vältetään turhat FTP-lataukset
+    let previousDataByRank = {};
+    try {
+        if (fs.existsSync('top20_songs.json')) {
+            const prevJson = JSON.parse(fs.readFileSync('top20_songs.json', 'utf8'));
+            if (prevJson && prevJson.top_songs) {
+                prevJson.top_songs.forEach(s => { previousDataByRank[s.rank] = s; });
+            }
+        }
+    } catch (e) {
+        console.log("Ei aikaisempaa dataa löydetty, prosessoidaan kaikki.");
+    }
+
     // FTP-Leikkuri
     const ftpHost = process.env.FTP_HOST;
     const ftpUser = process.env.FTP_USER;
@@ -137,6 +150,17 @@ client.once('ready', async () => {
             await ftpClient.ensureDir(ftpDir);
 
             for (let song of top20) {
+                const prevSong = previousDataByRank[song.rank];
+
+                // TARKISTUS: Onko sama biisi täsmälleen samalla sijalla kuin eilen?
+                if (prevSong && prevSong.id === song.id && prevSong.audio_type === 'secure_clip') {
+                    console.log(`[OHITETAAN] Sija ${song.rank} ei ole muuttunut: ${song.song_title}`);
+                    song.audio_url = prevSong.audio_url; // Käytetään valmiiksi FTP:llä olevaa tiedostoa
+                    song.audio_type = "secure_clip";
+                    continue;
+                }
+
+                console.log(`[PROSESSOIDAAN] Sija ${song.rank} on muuttunut tai uusi!`);
                 const outputFilename = `rank_${song.rank}.mp3`;
                 const outputPath = `/tmp/${outputFilename}`;
                 let downloadUrl = song.audio_url;
@@ -148,34 +172,26 @@ client.once('ready', async () => {
                 }
 
                 try {
-                    // 1. Selvitetään biisin pituus ffprobe:lla
                     let startTime = 0;
                     try {
                         const durationStr = execSync(`ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "${downloadUrl}"`).toString().trim();
                         const duration = parseFloat(durationStr);
-                        
-                        if (!isNaN(duration) && duration > 0) {
-                            if (duration > 60) {
-                                // Etsitään keskikohta ja siirrytään siitä 30s taaksepäin = 60s klippi täydellisesti keskeltä
-                                startTime = Math.max(0, (duration / 2) - 30);
-                            }
+                        if (!isNaN(duration) && duration > 60) {
+                            startTime = Math.max(0, (duration / 2) - 30);
                         }
-                    } catch (probeErr) {
-                        console.log(`-> Pituuden haku epäonnistui, käytetään oletusta (0s).`);
-                    }
+                    } catch (probeErr) {}
 
                     console.log(`Leikataan (aloituskohta: ${startTime.toFixed(1)}s): Rank ${song.rank} - ${song.song_title}`);
                     
-                    // 2. Leikataan 60 sekuntia lasketusta aloituskohdasta
                     execSync(`ffmpeg -y -i "${downloadUrl}" -ss ${startTime.toFixed(2)} -t 60 -c:a libmp3lame -b:a 128k "${outputPath}"`, { stdio: 'ignore' });
                     await ftpClient.uploadFrom(outputPath, outputFilename);
                     
-                    song.audio_url = `${ftpWebUrl}/${outputFilename}?t=${Date.now()}`;
+                    // Lisätään loppuun random aikaleima, jotta selaimen välimuisti ei toista eilistä MP3:sta
+                    song.audio_url = `${ftpWebUrl}/${outputFilename}?v=${Date.now()}`;
                     song.audio_type = "secure_clip";
                     fs.unlinkSync(outputPath);
                 } catch (err) {
                     console.error(`-> FFMPEG virhe sijalle ${song.rank}. Biisi jätetään leikkaamatta.`);
-                    // Lista ei hajoa, alkuperäinen url jää JSONiin jos prosessointi kaatuu
                 }
             }
         } catch (err) {
@@ -184,7 +200,7 @@ client.once('ready', async () => {
         ftpClient.close();
         console.log("==== AUDIOKLIPPIEN SIIRTO VALMIS ====\n");
     } else {
-        console.log("-> FTP-tunnuksia ei asetettu. Ohitetaan klippien generointi ja käytetään alkuperäisiä linkkejä.");
+        console.log("-> FTP-tunnuksia ei asetettu. Ohitetaan klippien generointi.");
     }
 
     fs.writeFileSync('top20_songs.json', JSON.stringify({ last_updated: new Date().toISOString(), top_songs: top20 }, null, 2));
