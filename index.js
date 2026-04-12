@@ -8,11 +8,11 @@ const client = new Client({
     intents: [
         GatewayIntentBits.Guilds,
         GatewayIntentBits.GuildMessages,
-        GatewayIntentBits.MessageContent // Tärkeä, jotta botti näkee linkit ja tekstit
+        GatewayIntentBits.MessageContent 
     ]
 });
 
-// Asetukset .env -tiedostosta
+// Asetukset
 const TOKEN = process.env.DISCORD_TOKEN;
 const CHANNELS = [process.env.CHANNEL_ID_1, process.env.CHANNEL_ID_2];
 
@@ -29,15 +29,20 @@ function extractAudioInfo(message) {
     }
 
     // 2. Tarkistetaan Dropbox-linkki
-    const dropboxMatch = text.match(/(https?:\/\/www\.dropbox\.com\/scl\/fi\/[^\s]+)/i);
+    const dropboxMatch = text.match(/(https?:\/\/www\.dropbox\.com\/[^\s]+)/i);
     if (dropboxMatch) {
-        // Muutetaan url muotoon dl=1, jotta se soi suoraan
-        let url = dropboxMatch[1];
-        url = url.replace('?dl=0', '').split('?')[0] + '?dl=1'; 
-        return { type: 'dropbox_link', url: url, title: 'Dropbox Audio' };
+        let urlStr = dropboxMatch[1];
+        try {
+            let url = new URL(urlStr);
+            // Käytetään raw=1, joka toimii Dropboxissa suoratoistona ja säilyttää rlkeyn
+            url.searchParams.set('raw', '1');
+            return { type: 'dropbox_link', url: url.toString(), title: 'Dropbox Audio' };
+        } catch (e) {
+            return { type: 'dropbox_link', url: urlStr, title: 'Dropbox Audio' };
+        }
     }
 
-    // 3. Tarkistetaan Google Drive (vain suorat tiedostot, ei kansiot)
+    // 3. Tarkistetaan Google Drive (suorat tiedostot)
     const driveMatch = text.match(/(https?:\/\/drive\.google\.com\/file\/d\/[a-zA-Z0-9_-]+)/i);
     if (driveMatch) {
         return { type: 'drive_file', url: driveMatch[1], title: 'Google Drive Audio' };
@@ -55,7 +60,7 @@ function extractAudioInfo(message) {
         return { type: 'youtube_link', url: youtubeMatch[1], title: 'YouTube Audio' };
     }
 
-    return null; // Ei kelvollista biisiä löydetty
+    return null;
 }
 
 // Apufunktio: Sijoitusalgoritmi
@@ -64,119 +69,85 @@ function calculateScore(postedAt, reactionCount, commentCount) {
     const ageInMs = now - postedAt;
     const ageInDays = ageInMs / (1000 * 60 * 60 * 24);
 
-    // Uutuusarvo: Maksimi 100 pistettä. Putoaa nollaan noin 33 päivässä (-3 pistettä/päivä).
     const freshnessScore = Math.max(0, 100 - (ageInDays * 3));
-    
-    // Aktiivisuuspisteet: Jokainen reaktio on 5 pistettä, jokainen kommentti on 10 pistettä
     const activityScore = (reactionCount * 5) + (commentCount * 10);
 
     return freshnessScore + activityScore;
 }
 
-client.once('clientReady', async () => {
-    console.log(`🤖 Botti kirjautunut sisään nimellä ${client.user.tag}`);
-    console.log('Aloitetaan biisien haravointi...');
-
+client.once('ready', async () => {
+    console.log(`🤖 Botti kirjautunut sisään: ${client.user.tag}`);
     let allValidSongs = [];
 
-    // Käydään läpi molemmat kanavat
     for (const channelId of CHANNELS) {
         if (!channelId) continue;
-        
         try {
             const channel = await client.channels.fetch(channelId);
-            console.log(`Luetaan kanavaa: ${channel.name}...`);
-            
-            // Haetaan kanavan 100 viimeisintä viestiä
             const messages = await channel.messages.fetch({ limit: 100 });
 
             for (const [id, message] of messages) {
                 const audioInfo = extractAudioInfo(message);
-                
-                // Jos viestissä on kelvollinen biisi
                 if (audioInfo) {
-                    // Laske reaktiot
                     let reactionCount = 0;
-                    message.reactions.cache.forEach(reaction => {
-                        reactionCount += reaction.count;
-                    });
+                    message.reactions.cache.forEach(reaction => { reactionCount += reaction.count; });
 
-                    // Haetaan ketjun (thread) kommentit, jos sellainen on
                     let comments = [];
                     let commentCount = 0;
                     if (message.hasThread) {
-                        const threadMessages = await message.thread.messages.fetch({ limit: 20 });
-                        threadMessages.forEach(tm => {
-                            if (!tm.author.bot) { // Ei lasketa botin omia viestejä
-                                comments.push({
-                                    author: tm.author.username,
-                                    text: tm.content,
-                                    timestamp: tm.createdAt.toISOString()
-                                });
-                                commentCount++;
-                            }
-                        });
+                        try {
+                            const threadMessages = await message.thread.messages.fetch({ limit: 20 });
+                            threadMessages.forEach(tm => {
+                                if (!tm.author.bot && tm.content.trim()) {
+                                    comments.push({ author: tm.author.username, text: tm.content, timestamp: tm.createdAt.toISOString() });
+                                    commentCount++;
+                                }
+                            });
+                        } catch (e) { /* Threadia ei voitu lukea */ }
                     }
 
-                    // Laske sijoituspisteet
                     const score = calculateScore(message.createdAt, reactionCount, commentCount);
-
-                    // Puhdistetaan message_text (katkaistaan rivinvaihdoista jos todella pitkä, 
-                    // mutta UI hoitaa varsinaisen typistyksen. Poistetaan linkit tekstistä puhtauden vuoksi.)
                     let cleanText = message.content.replace(/(https?:\/\/[^\s]+)/g, '').trim();
 
-                    // Rakennetaan biisi-objekti datamallin mukaisesti
-                    const songData = {
-                        song_title: audioInfo.title !== 'Dropbox Audio' && audioInfo.title !== 'Google Drive Audio' && audioInfo.title !== 'SoundCloud Audio' && audioInfo.title !== 'YouTube Audio' ? audioInfo.title : cleanText.substring(0, 30) || "Nimetön biisi",
+                    // OTSikon parannus: yritetään poimia nimi urlista tai viestistä
+                    let displayTitle = audioInfo.title;
+                    if (['Dropbox Audio', 'Google Drive Audio', 'YouTube Audio', 'SoundCloud Audio'].includes(displayTitle)) {
+                        try {
+                            const urlObj = new URL(audioInfo.url);
+                            const pathParts = urlObj.pathname.split('/');
+                            const fileName = decodeURIComponent(pathParts[pathParts.length - 1]);
+                            if (fileName && fileName.includes('.') && fileName.length > 4) {
+                                displayTitle = fileName;
+                            } else {
+                                displayTitle = cleanText.substring(0, 60) || "Nimetön biisi";
+                            }
+                        } catch (e) {
+                            displayTitle = cleanText.substring(0, 60) || "Nimetön biisi";
+                        }
+                    }
+
+                    allValidSongs.push({
+                        song_title: displayTitle,
                         author: message.author.username,
-                        author_avatar: message.author.displayAvatarURL({ dynamic: true, size: 128 }),
+                        author_avatar: message.author.displayAvatarURL({ size: 128 }),
                         message_text: cleanText,
                         audio_type: audioInfo.type,
                         audio_url: audioInfo.url,
                         posted_at: message.createdAt.toISOString(),
                         score: parseFloat(score.toFixed(2)),
-                        stats: {
-                            reactions: reactionCount,
-                            comments: commentCount
-                        },
+                        stats: { reactions: reactionCount, comments: commentCount },
                         comments: comments
-                    };
-
-                    allValidSongs.push(songData);
+                    });
                 }
             }
-        } catch (error) {
-            console.error(`Virhe luettaessa kanavaa ${channelId}:`, error);
-        }
+        } catch (error) { console.error(`Virhe kanavalla ${channelId}:`, error); }
     }
 
-    console.log(`Löydettiin yhteensä ${allValidSongs.length} kelvollista biisiä.`);
-
-    // Järjestetään pisteiden mukaan laskevasti (suurin pistemäärä ensin)
     allValidSongs.sort((a, b) => b.score - a.score);
+    const top20 = allValidSongs.slice(0, 20).map((s, i) => ({ ...s, rank: i + 1 }));
 
-    // Otetaan TOP 20
-    const top20 = allValidSongs.slice(0, 20);
-
-    // Lisätään sijoitukset (rank)
-    top20.forEach((song, index) => {
-        song.rank = index + 1;
-    });
-
-    // Muotoillaan lopullinen JSON
-    const outputJson = {
-        last_updated: new Date().toISOString(),
-        top_songs: top20
-    };
-
-    // Tallennetaan tiedostoon
-    fs.writeFileSync('top20_songs.json', JSON.stringify(outputJson, null, 2));
-    
-    console.log('✅ Valmista! Data tallennettu tiedostoon: top20_songs.json');
-    
-    // Suljetaan botti
+    fs.writeFileSync('top20_songs.json', JSON.stringify({ last_updated: new Date().toISOString(), top_songs: top20 }, null, 2));
+    console.log('✅ Lista päivitetty!');
     client.destroy();
 });
 
-// Käynnistetään botti
 client.login(TOKEN);
