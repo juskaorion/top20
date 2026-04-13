@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T16:25:26.084Z",
+  "last_updated": "2026-04-13T10:23:41.671Z",
   "top_songs": [
     {
       "id": "1489330055556370462",
@@ -10,7 +10,7 @@
       "audio_type": "secure_clip",
       "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1776011049693",
       "posted_at": "2026-04-02T18:25:55.659Z",
-      "score": 640.2,
+      "score": 638.3,
       "stats": {
         "reactions": 22,
         "comments": 0
@@ -45,15 +45,38 @@
       "rank": 1
     },
     {
+      "id": "1492988613976260760",
+      "song_title": "Hei-Supermario-Capital-D-Gay-Supermario-Remix",
+      "author": "miikka_l",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1491492786627936368/5445ffd7ffb201a98393cbdf684ea4b1.webp?size=128",
+      "message_text": "Pahoittelen jo etukäteen mutta kun tuntuu että porukalla alkaa paniikki iskeä yökerhoissa tän Samuell Hei Supermarion kanssa niin olkaapa hyvät! Toivottavasti ei kenenkään tartte soittaa 😅",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1776075749441",
+      "posted_at": "2026-04-12T20:43:43.959Z",
+      "score": 521.1,
+      "stats": {
+        "reactions": 3,
+        "comments": 0
+      },
+      "reactions": [
+        {
+          "name": "marioluigidancing",
+          "url": "https://cdn.discordapp.com/emojis/1138465565191721010.webp",
+          "count": 3
+        }
+      ],
+      "rank": 2
+    },
+    {
       "id": "1477792085108068403",
       "song_title": "Aamun-Kuiskaus-Fallihauta-Extended-Daisko-Flip",
       "author": "fallihauta",
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Sarjassamme - \"Remixit jota kukaan ei pyytänyt mutta teinpä silti\" \nTällä kertaa tein Daisko Flip:in aiheesta:\nStella - Aamun Kuiskaus. 🥰\n\nLatauslinkit alla:\nExtended Daisko Flip \n\n\nDaisko Flip",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1776011054216",
+      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1776075754078",
       "posted_at": "2026-03-01T22:18:09.139Z",
-      "score": 515.6,
+      "score": 513.7,
       "stats": {
         "reactions": 16,
         "comments": 0
@@ -85,7 +108,7 @@
           "count": 2
         }
       ],
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "1481746672685023485",
@@ -94,9 +117,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Tästä viikonlopuks tuoretta Daisko Flippiä. Tälläkertaa aiheena; BESS - Tempo. ugh! 😎",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1776011058771",
+      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1776075758511",
       "posted_at": "2026-03-12T20:12:16.290Z",
-      "score": 467.9,
+      "score": 466,
       "stats": {
         "reactions": 6,
         "comments": 0
@@ -113,7 +136,7 @@
           "count": 2
         }
       ],
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "1484861216361808004",
@@ -122,9 +145,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/337703780894244865/97b8d7b07e96568047d160415bc423da.webp?size=128",
       "message_text": "Terdekausi kun lähestyy niin tästä vähän rennompaa versiointia 🌞",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1776011061843",
+      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1776075761527",
       "posted_at": "2026-03-21T10:28:21.368Z",
-      "score": 466.9,
+      "score": 465,
       "stats": {
         "reactions": 3,
         "comments": 0
@@ -141,7 +164,7 @@
           "count": 1
         }
       ],
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "1472909980989521970",
@@ -150,9 +173,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/296920226405154817/53d26a9c45fd71e7a14add6e2a776c77.webp?size=128",
       "message_text": "Taannoinen Imus-skababootlegi valmiina ajoon. Linkin takaa myös wavi. Kiitokset äänistä ja <@952289980082966599> radiosoitosta 🙏 ❤️",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1776011065224",
+      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1776075764982",
       "posted_at": "2026-02-16T10:58:24.812Z",
-      "score": 414.4,
+      "score": 412.6,
       "stats": {
         "reactions": 7,
         "comments": 0
@@ -174,7 +197,7 @@
           "count": 1
         }
       ],
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "1476826706600792105",
@@ -183,9 +206,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/404885985273446402/a6368bb21e7cf61d0cca557a5abc0a43.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1776011069140",
+      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1776075769016",
       "posted_at": "2026-02-27T06:22:04.967Z",
-      "score": 404,
+      "score": 402.1,
       "stats": {
         "reactions": 2,
         "comments": 0
@@ -197,7 +220,7 @@
           "count": 2
         }
       ],
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "1475772280830431354",
@@ -206,26 +229,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/b1deeda3540b1031ea7def496289e422.webp?size=128",
       "message_text": "tätäkään ei vielä oo tullu iskettyy jakoon, M//O:n MRR otti sen verran vahvoja timbaland vaikutteita et piti iskee klubiversion kanssa yhteen",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1776011073995",
+      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1776075773567",
       "posted_at": "2026-02-24T08:32:10.273Z",
-      "score": 381.7,
-      "stats": {
-        "reactions": 0,
-        "comments": 0
-      },
-      "reactions": [],
-      "rank": 7
-    },
-    {
-      "id": "1475771720630796422",
-      "song_title": "jambo - love jeme house extended edit",
-      "author": "jemejoo_",
-      "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/b1deeda3540b1031ea7def496289e422.webp?size=128",
-      "message_text": "pitkästä aikaa jakso suomilegiä tehä, jambon ja miklun LOVE:sta housempi versio",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1776011076943",
-      "posted_at": "2026-02-24T08:29:56.711Z",
-      "score": 381.7,
+      "score": 379.8,
       "stats": {
         "reactions": 0,
         "comments": 0
@@ -234,15 +240,32 @@
       "rank": 8
     },
     {
+      "id": "1475771720630796422",
+      "song_title": "jambo - love jeme house extended edit",
+      "author": "jemejoo_",
+      "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/b1deeda3540b1031ea7def496289e422.webp?size=128",
+      "message_text": "pitkästä aikaa jakso suomilegiä tehä, jambon ja miklun LOVE:sta housempi versio",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1776075776406",
+      "posted_at": "2026-02-24T08:29:56.711Z",
+      "score": 379.8,
+      "stats": {
+        "reactions": 0,
+        "comments": 0
+      },
+      "reactions": [],
+      "rank": 9
+    },
+    {
       "id": "1467183609642483752",
       "song_title": "Elastinen - Anna Soida Expace Bootleg - Final Master V2",
       "author": "arsky",
       "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
       "message_text": "Tosta jakoon",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1776011080874",
+      "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1776075780972",
       "posted_at": "2026-01-31T15:43:51.492Z",
-      "score": 374.9,
+      "score": 373.1,
       "stats": {
         "reactions": 7,
         "comments": 0
@@ -259,7 +282,7 @@
           "count": 2
         }
       ],
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "1468214600460927159",
@@ -268,9 +291,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1348999390135844887/b6bb23d91b4b61cc86e438f13af54c5f.webp?size=128",
       "message_text": "Pianoinen haussi veto Gasellien Imusta ois valamista kauraa.",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1776011086733",
+      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1776075786112",
       "posted_at": "2026-02-03T12:00:38.858Z",
-      "score": 374.5,
+      "score": 372.7,
       "stats": {
         "reactions": 6,
         "comments": 0
@@ -292,7 +315,7 @@
           "count": 1
         }
       ],
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "1469009350965329982",
@@ -301,9 +324,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Tästä kovaan ajoon.",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1776011091016",
+      "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1776075790560",
       "posted_at": "2026-02-05T16:38:42.144Z",
-      "score": 372.5,
+      "score": 370.7,
       "stats": {
         "reactions": 5,
         "comments": 0
@@ -320,7 +343,7 @@
           "count": 2
         }
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "1465396309488963803",
@@ -329,9 +352,9 @@
       "author_avatar": "https://cdn.discordapp.com/embed/avatars/3.png",
       "message_text": "viimeistelty /kiska",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1776011093982",
+      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1776075793345",
       "posted_at": "2026-01-26T17:21:45.929Z",
-      "score": 355.1,
+      "score": 353.2,
       "stats": {
         "reactions": 6,
         "comments": 0
@@ -348,7 +371,7 @@
           "count": 1
         }
       ],
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "1467553986788724877",
@@ -357,9 +380,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/498823068643229700/c5ec65901f935be839ff6c614121cc9c.webp?size=128",
       "message_text": "<@1198231592448032833> Taattua laatua, <@952289980082966599> Guarantee!",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1776011097537",
+      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1776075797085",
       "posted_at": "2026-02-01T16:15:36.285Z",
-      "score": 332.5,
+      "score": 330.6,
       "stats": {
         "reactions": 1,
         "comments": 0
@@ -371,7 +394,7 @@
           "count": 1
         }
       ],
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "1467212204934828052",
@@ -380,9 +403,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/488821583192784897/35d1d0d477cc09a2dd6a62931e71a423.webp?size=128",
       "message_text": "Eka mashupsi mitä tein ja tunnissa tuli karkeesti, mutta ajattelin ite ainakin koeajaa tänään joten jaetaan tännekkin 😄",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1776011100583",
+      "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1776075800038",
       "posted_at": "2026-01-31T17:37:29.141Z",
-      "score": 330.1,
+      "score": 328.3,
       "stats": {
         "reactions": 1,
         "comments": 0
@@ -394,7 +417,7 @@
           "count": 1
         }
       ],
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "1461733104166240308",
@@ -403,9 +426,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
       "message_text": "UMK-kauden avaus? v1 eli valmis",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1776011104018",
+      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1776075803414",
       "posted_at": "2026-01-16T14:45:29.721Z",
-      "score": 314.8,
+      "score": 313,
       "stats": {
         "reactions": 4,
         "comments": 0
@@ -422,7 +445,7 @@
           "count": 2
         }
       ],
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "1458588023661793423",
@@ -431,9 +454,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
       "message_text": "Ennen oli käännösdisko kunnollista. Tässäkin jopa nyt rakenne valmis vuoden pöytälaatikkoilun jälkeen",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1776011109837",
+      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1776075809002",
       "posted_at": "2026-01-07T22:28:04.096Z",
-      "score": 308.1,
+      "score": 306.3,
       "stats": {
         "reactions": 6,
         "comments": 0
@@ -450,7 +473,7 @@
           "count": 5
         }
       ],
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "1451964283771687085",
@@ -459,9 +482,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1776011113565",
+      "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1776075812886",
       "posted_at": "2025-12-20T15:47:41.443Z",
-      "score": 299.9,
+      "score": 298.1,
       "stats": {
         "reactions": 6,
         "comments": 3
@@ -493,7 +516,7 @@
           "count": 1
         }
       ],
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "1458816548755210353",
@@ -502,9 +525,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
       "message_text": "Benjaminin Hoida Mut -bootlegi kans jakoon em. pöytälaatikosta:",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1776011119006",
+      "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1776075818783",
       "posted_at": "2026-01-08T13:36:08.724Z",
-      "score": 279.7,
+      "score": 277.8,
       "stats": {
         "reactions": 2,
         "comments": 0
@@ -516,7 +539,7 @@
           "count": 2
         }
       ],
-      "rank": 18
+      "rank": 19
     },
     {
       "id": "1448748146581569698",
@@ -525,9 +548,9 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1776011122207",
+      "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1776075821670",
       "posted_at": "2025-12-11T18:47:54.584Z",
-      "score": 270.2,
+      "score": 268.4,
       "stats": {
         "reactions": 10,
         "comments": 0
@@ -539,23 +562,6 @@
           "count": 10
         }
       ],
-      "rank": 19
-    },
-    {
-      "id": "1459408348628779030",
-      "song_title": "jay aarnio - 338 - 06 oikeisiin toihin re-release",
-      "author": "savukala",
-      "author_avatar": "https://cdn.discordapp.com/avatars/268848054461792276/61e05eb44ea9769354f6c8b3a778dff0.webp?size=128",
-      "message_text": "Kansan radiosta saa kyllä aina parhaat vocal samplet. excuse my bass though ❤️",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1776011126083",
-      "posted_at": "2026-01-10T04:47:44.809Z",
-      "score": 268.8,
-      "stats": {
-        "reactions": 0,
-        "comments": 0
-      },
-      "reactions": [],
       "rank": 20
     }
   ]
