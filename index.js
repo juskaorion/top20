@@ -41,11 +41,21 @@ function extractAudioInfo(message) {
     const driveFileMatch = text.match(/(https?:\/\/drive\.google\.com\/file\/d\/([a-zA-Z0-9_-]+))/i);
     if (driveFileMatch && !text.includes('/folders/')) return { type: 'drive_file', url: driveFileMatch[1], title: embedTitle || 'Google Drive Audio' };
 
+    const soundcloudMatch = text.match(/(https?:\/\/soundcloud\.com\/[^\s]+)/i);
+    if (soundcloudMatch) {
+        return { type: 'soundcloud_link', url: soundcloudMatch[1], title: embedTitle || 'SoundCloud Audio' };
+    }
+
+    const youtubeMatch = text.match(/(https?:\/\/(?:www\.)?youtube\.com\/watch\?v=[a-zA-Z0-9_-]+|https?:\/\/youtu\.be\/[a-zA-Z0-9_-]+)/i);
+    if (youtubeMatch) {
+        return { type: 'youtube_link', url: youtubeMatch[1], title: embedTitle || 'YouTube Audio' };
+    }
+
     return null;
 }
 
 function cleanTitle(title, messageContent) {
-    if (!title || title === 'Dropbox Audio' || title === 'Google Drive Audio') {
+    if (!title || title === 'Dropbox Audio' || title === 'Google Drive Audio' || title === 'SoundCloud Audio' || title === 'YouTube Audio') {
         const firstLine = messageContent.split('\n')[0].replace(/(https?:\/\/[^\s]+)/g, '').trim();
         return firstLine || "Nimetön biisi";
     }
@@ -82,13 +92,12 @@ client.once('ready', async () => {
                         reactionsList.push({ name: r.emoji.name, url: r.emoji.imageURL ? r.emoji.imageURL() : null, count: r.count });
                     });
 
-                    // VAIN MÄÄRÄ LASKETAAN, SISÄLTÖÄ EI LUETA
+                    // VAIN KOMMENTTIEN MÄÄRÄ LASKETAAN (Yksityisyyden suoja)
                     let commentCount = 0;
                     if (message.hasThread) {
                         try {
                             const thread = await message.thread.fetch();
                             commentCount = thread.messageCount; 
-                            // Vähennetään 1 jos threadin aloitusviesti lasketaan mukaan
                             if (commentCount > 0) commentCount = Math.max(0, commentCount - 1);
                         } catch (e) {}
                     }
@@ -105,7 +114,6 @@ client.once('ready', async () => {
                         score: parseFloat(calculateScore(message.createdAt, reactionCount, commentCount).toFixed(1)),
                         stats: { reactions: reactionCount, comments: commentCount },
                         reactions: reactionsList
-                        // 'comments'-kenttä poistettu kokonaan
                     });
                 }
             }
@@ -144,9 +152,11 @@ client.once('ready', async () => {
                     continue;
                 }
 
+                console.log(`[PROSESSOIDAAN] Sija ${song.rank}: ${song.song_title}`);
                 const outputFilename = `rank_${song.rank}.mp3`;
                 const outputPath = `/tmp/${outputFilename}`;
                 let downloadUrl = song.audio_url;
+                let startTime = 0;
                 
                 if (downloadUrl.includes('drive.google.com/file/d/')) {
                     const match = downloadUrl.match(/\/d\/([a-zA-Z0-9_-]+)/);
@@ -154,20 +164,36 @@ client.once('ready', async () => {
                 }
 
                 try {
-                    let startTime = 0;
-                    try {
-                        const durationStr = execSync(`ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "${downloadUrl}"`).toString().trim();
+                    // YT-DLP PURKU (SoundCloud & YouTube)
+                    if (song.audio_type === 'soundcloud_link' || song.audio_type === 'youtube_link') {
+                        console.log(`-> Puretaan raakastriimi (yt-dlp)...`);
+                        // Haetaan kesto
+                        const durationStr = execSync(`yt-dlp --print duration "${downloadUrl}"`).toString().trim();
                         const duration = parseFloat(durationStr);
                         if (!isNaN(duration) && duration > 60) startTime = Math.max(0, (duration / 2) - 30);
-                    } catch (probeErr) {}
+                        
+                        // Haetaan varsinainen raaka-audion URL-osoite ffmpegiä varten
+                        downloadUrl = execSync(`yt-dlp -g -f "bestaudio" "${downloadUrl}"`).toString().trim().split('\n')[0];
+                    } else {
+                        // FFPROBE (Discord & Dropbox & Drive)
+                        try {
+                            const durationStr = execSync(`ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "${downloadUrl}"`).toString().trim();
+                            const duration = parseFloat(durationStr);
+                            if (!isNaN(duration) && duration > 60) startTime = Math.max(0, (duration / 2) - 30);
+                        } catch (probeErr) {}
+                    }
 
+                    // LEIKKAUS JA LATAUS FFMPEGILLÄ
                     execSync(`ffmpeg -y -i "${downloadUrl}" -ss ${startTime.toFixed(2)} -t 60 -c:a libmp3lame -b:a 128k "${outputPath}"`, { stdio: 'ignore' });
                     await ftpClient.uploadFrom(outputPath, outputFilename);
                     
                     song.audio_url = `${ftpWebUrl}/${outputFilename}?v=${Date.now()}`;
                     song.audio_type = "secure_clip";
                     fs.unlinkSync(outputPath);
-                } catch (err) { console.error(`-> Virhe sijalla ${song.rank}`); }
+                    console.log(`-> Valmis!`);
+                } catch (err) { 
+                    console.error(`-> Virhe sijalla ${song.rank}: Kappaleen lataus tai leikkaus epäonnistui.`); 
+                }
             }
         } catch (err) { console.error("FTP Virhe:", err); }
         ftpClient.close();
