@@ -110,6 +110,7 @@ client.once('ready', async () => {
                         message_text: message.content.replace(/(https?:\/\/[^\s]+)/g, '').trim(),
                         audio_type: audioInfo.type,
                         audio_url: audioInfo.url,
+                        discord_url: message.url,
                         posted_at: message.createdAt.toISOString(),
                         score: parseFloat(calculateScore(message.createdAt, reactionCount, commentCount).toFixed(1)),
                         stats: { reactions: reactionCount, comments: commentCount },
@@ -123,13 +124,25 @@ client.once('ready', async () => {
     allValidSongs.sort((a, b) => b.score - a.score);
     const top20 = allValidSongs.slice(0, 20).map((s, i) => ({ ...s, rank: i + 1 }));
 
+    let previousDataById = {};
     let previousDataByRank = {};
     try {
         if (fs.existsSync('top20_songs.json')) {
             const prevJson = JSON.parse(fs.readFileSync('top20_songs.json', 'utf8'));
-            if (prevJson && prevJson.top_songs) { prevJson.top_songs.forEach(s => { previousDataByRank[s.rank] = s; }); }
+            if (prevJson && prevJson.top_songs) { 
+                prevJson.top_songs.forEach(s => { 
+                    previousDataByRank[s.rank] = s; 
+                    previousDataById[s.id] = s;
+                }); 
+            }
         }
     } catch (e) {}
+
+    // Tallennetaan biisin aiempi sijoitus uutta listaa varten
+    top20.forEach(song => {
+        const prev = previousDataById[song.id];
+        song.previous_rank = prev ? prev.rank : null;
+    });
 
     const ftpHost = process.env.FTP_HOST;
     const ftpUser = process.env.FTP_USER;
