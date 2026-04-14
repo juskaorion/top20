@@ -21,10 +21,12 @@ jobs:
       with:
         node-version: '20'
 
-    - name: Install system dependencies (FFMPEG)
+    - name: Install system dependencies (FFMPEG & yt-dlp)
       run: |
         sudo apt-get update
         sudo apt-get install -y ffmpeg
+        sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+        sudo chmod a+rx /usr/local/bin/yt-dlp
         
     - name: Install node dependencies
       run: npm install discord.js dotenv basic-ftp
