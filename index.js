@@ -15,43 +15,66 @@ const client = new Client({
 const TOKEN = process.env.DISCORD_TOKEN;
 const CHANNELS = [process.env.CHANNEL_ID_1, process.env.CHANNEL_ID_2, process.env.CHANNEL_ID_3];
 
-function extractAudioInfo(message) {
+// MUUTOS 1: Palautetaan taulukko (array) kaikista löytyneistä biiseistä yhden sijaan
+function extractAudioInfos(message) {
+    const results = [];
     const text = message.content;
     let embedTitle = null;
+
     if (message.embeds && message.embeds.length > 0 && message.embeds[0].title) {
         embedTitle = message.embeds[0].title;
     }
 
-    const audioAttachment = message.attachments.find(att => 
-        att.contentType && (att.contentType.startsWith('audio/') || att.name.endsWith('.mp3') || att.name.endsWith('.wav'))
-    );
-    if (audioAttachment) return { type: 'discord_attachment', url: audioAttachment.url, title: audioAttachment.name };
+    // 1. Etsi KAIKKI Discord-liitetiedostot (.forEach loopilla .find sijaan)
+    message.attachments.forEach(att => {
+        const isAudio = att.contentType && (att.contentType.startsWith('audio/') || att.name.endsWith('.mp3') || att.name.endsWith('.wav'));
+        if (isAudio) {
+            results.push({ type: 'discord_attachment', url: att.url, title: att.name });
+        }
+    });
 
-    const dropboxMatch = text.match(/(https?:\/\/www\.dropbox\.com\/(?:scl\/fi|s)\/[^\s]+)/i);
-    if (dropboxMatch && !text.includes('/sh/') && !text.includes('/folder/')) {
-        try {
-            let urlObj = new URL(dropboxMatch[1]);
-            urlObj.searchParams.set('raw', '1');
-            let pathname = urlObj.pathname;
-            let filename = decodeURIComponent(pathname.substring(pathname.lastIndexOf('/') + 1));
-            return { type: 'dropbox_link', url: urlObj.toString(), title: filename };
-        } catch (e) { return { type: 'dropbox_link', url: dropboxMatch[1], title: embedTitle || 'Dropbox Audio' }; }
+    // 2. Etsi KAIKKI Dropbox-linkit tekstistä (Regex g-lipulla ja while-loopilla)
+    const dropboxRegex = /(https?:\/\/www\.dropbox\.com\/(?:scl\/fi|s)\/[^\s]+)/gi;
+    let dbMatch;
+    while ((dbMatch = dropboxRegex.exec(text)) !== null) {
+        const urlStr = dbMatch[1];
+        if (!urlStr.includes('/sh/') && !urlStr.includes('/folder/')) {
+            try {
+                let urlObj = new URL(urlStr);
+                urlObj.searchParams.set('raw', '1');
+                let pathname = urlObj.pathname;
+                let filename = decodeURIComponent(pathname.substring(pathname.lastIndexOf('/') + 1));
+                results.push({ type: 'dropbox_link', url: urlObj.toString(), title: filename });
+            } catch (e) { 
+                results.push({ type: 'dropbox_link', url: urlStr, title: embedTitle || 'Dropbox Audio' }); 
+            }
+        }
     }
 
-    const driveFileMatch = text.match(/(https?:\/\/drive\.google\.com\/file\/d\/([a-zA-Z0-9_-]+))/i);
-    if (driveFileMatch && !text.includes('/folders/')) return { type: 'drive_file', url: driveFileMatch[1], title: embedTitle || 'Google Drive Audio' };
-
-    const soundcloudMatch = text.match(/(https?:\/\/soundcloud\.com\/[^\s]+)/i);
-    if (soundcloudMatch) {
-        return { type: 'soundcloud_link', url: soundcloudMatch[1], title: embedTitle || 'SoundCloud Audio' };
+    // 3. Etsi KAIKKI Google Drive -linkit
+    const driveRegex = /(https?:\/\/drive\.google\.com\/file\/d\/([a-zA-Z0-9_-]+))/gi;
+    let driveMatch;
+    while ((driveMatch = driveRegex.exec(text)) !== null) {
+        if (!driveMatch[0].includes('/folders/')) {
+            results.push({ type: 'drive_file', url: driveMatch[1], title: embedTitle || 'Google Drive Audio' });
+        }
     }
 
-    const youtubeMatch = text.match(/(https?:\/\/(?:www\.)?youtube\.com\/watch\?v=[a-zA-Z0-9_-]+|https?:\/\/youtu\.be\/[a-zA-Z0-9_-]+)/i);
-    if (youtubeMatch) {
-        return { type: 'youtube_link', url: youtubeMatch[1], title: embedTitle || 'YouTube Audio' };
+    // 4. Etsi KAIKKI SoundCloud -linkit
+    const scRegex = /(https?:\/\/soundcloud\.com\/[^\s]+)/gi;
+    let scMatch;
+    while ((scMatch = scRegex.exec(text)) !== null) {
+        results.push({ type: 'soundcloud_link', url: scMatch[1], title: embedTitle || 'SoundCloud Audio' });
     }
 
-    return null;
+    // 5. Etsi KAIKKI YouTube -linkit
+    const ytRegex = /(https?:\/\/(?:www\.)?youtube\.com\/watch\?v=[a-zA-Z0-9_-]+|https?:\/\/youtu\.be\/[a-zA-Z0-9_-]+)/gi;
+    let ytMatch;
+    while ((ytMatch = ytRegex.exec(text)) !== null) {
+        results.push({ type: 'youtube_link', url: ytMatch[1], title: embedTitle || 'YouTube Audio' });
+    }
+
+    return results;
 }
 
 function cleanTitle(title, messageContent) {
@@ -59,7 +82,28 @@ function cleanTitle(title, messageContent) {
         const firstLine = messageContent.split('\n')[0].replace(/(https?:\/\/[^\s]+)/g, '').trim();
         return firstLine || "Nimetön biisi";
     }
-    let cleaned = title.replace(/\.(mp3|wav|ogg|flac|m4a|aac)(\?.*)?$/i, '').replace(/_-_/g, ' - ').replace(/_/g, ' ').replace(/\s+/g, ' ').trim();
+    
+    // Varmistetaan ettei URL-enkoodaus pilaa merkkejä (esim. %28 -> '(' )
+    let cleaned = title;
+    try { cleaned = decodeURIComponent(title); } catch (e) {}
+
+    cleaned = cleaned
+        .replace(/\.(mp3|wav|ogg|flac|m4a|aac)(\?.*)?$/i, '')
+        .replace(/_-_/g, ' - ')
+        .replace(/_/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+
+    // MUUTOS 2: Palautetaan sulut, jos Discord muutti ne alaviivoiksi ja poistimme ne.
+    // Tunnistetaan yleiset remix-päätteet ja kääritään ne sulkuihin, jos sulkuja ei ole.
+    if (!cleaned.includes('(') && !cleaned.includes(')')) {
+        const remixRegex = /(.*)\s+((?:[a-zA-Z0-9\säöåÄÖÅ]+)\s+(?:mashup|remix|edit|flip|bootleg|vip|mix))$/i;
+        const match = cleaned.match(remixRegex);
+        if (match) {
+            cleaned = `${match[1].trim()} (${match[2].trim()})`;
+        }
+    }
+
     return cleaned;
 }
 
@@ -82,9 +126,13 @@ client.once('ready', async () => {
         try {
             const channel = await client.channels.fetch(channelId);
             const messages = await channel.messages.fetch({ limit: 100 });
+            
             for (const [id, message] of messages) {
-                const audioInfo = extractAudioInfo(message);
-                if (audioInfo) {
+                // Haetaan kaikki mahdolliset biisit yhdestä viestistä
+                const audioInfos = extractAudioInfos(message);
+                
+                if (audioInfos.length > 0) {
+                    // Pisteet lasketaan vain kerran per viesti, jotta APIa ei kuormiteta turhaan
                     let reactionCount = 0;
                     let reactionsList = [];
                     message.reactions.cache.forEach(r => { 
@@ -92,7 +140,6 @@ client.once('ready', async () => {
                         reactionsList.push({ name: r.emoji.name, url: r.emoji.imageURL ? r.emoji.imageURL() : null, count: r.count });
                     });
 
-                    // VAIN KOMMENTTIEN MÄÄRÄ LASKETAAN (Yksityisyyden suoja)
                     let commentCount = 0;
                     if (message.hasThread) {
                         try {
@@ -102,19 +149,28 @@ client.once('ready', async () => {
                         } catch (e) {}
                     }
                     
-                    allValidSongs.push({
-                        id: message.id,
-                        song_title: cleanTitle(audioInfo.title, message.content),
-                        author: message.author.username,
-                        author_avatar: message.author.displayAvatarURL({ size: 128 }),
-                        message_text: message.content.replace(/(https?:\/\/[^\s]+)/g, '').trim(),
-                        audio_type: audioInfo.type,
-                        audio_url: audioInfo.url,
-                        discord_url: message.url,
-                        posted_at: message.createdAt.toISOString(),
-                        score: parseFloat(calculateScore(message.createdAt, reactionCount, commentCount).toFixed(1)),
-                        stats: { reactions: reactionCount, comments: commentCount },
-                        reactions: reactionsList
+                    const score = parseFloat(calculateScore(message.createdAt, reactionCount, commentCount).toFixed(1));
+
+                    // Käydään läpi kaikki viestistä löytyneet audiot
+                    audioInfos.forEach((audioInfo, index) => {
+                        // Ensimmäinen biisi saa alkuperäisen message.id:n (pitää vanhan sijoitushistorian yllä).
+                        // Seuraavat saavat loppuliitteen (esim. -1, -2), jotta ID:t pysyvät uniikkeina.
+                        const uniqueId = index === 0 ? message.id : `${message.id}-${index}`;
+
+                        allValidSongs.push({
+                            id: uniqueId,
+                            song_title: cleanTitle(audioInfo.title, message.content),
+                            author: message.author.username,
+                            author_avatar: message.author.displayAvatarURL({ size: 128 }),
+                            message_text: message.content.replace(/(https?:\/\/[^\s]+)/g, '').trim(),
+                            audio_type: audioInfo.type,
+                            audio_url: audioInfo.url,
+                            discord_url: message.url,
+                            posted_at: message.createdAt.toISOString(),
+                            score: score,
+                            stats: { reactions: reactionCount, comments: commentCount },
+                            reactions: reactionsList
+                        });
                     });
                 }
             }
@@ -138,7 +194,6 @@ client.once('ready', async () => {
         }
     } catch (e) {}
 
-    // Tallennetaan biisin aiempi sijoitus uutta listaa varten
     top20.forEach(song => {
         const prev = previousDataById[song.id];
         song.previous_rank = prev ? prev.rank : null;
@@ -177,18 +232,14 @@ client.once('ready', async () => {
                 }
 
                 try {
-                    // YT-DLP PURKU (SoundCloud & YouTube)
                     if (song.audio_type === 'soundcloud_link' || song.audio_type === 'youtube_link') {
                         console.log(`-> Puretaan raakastriimi (yt-dlp)...`);
-                        // Haetaan kesto
                         const durationStr = execSync(`yt-dlp --print duration "${downloadUrl}"`).toString().trim();
                         const duration = parseFloat(durationStr);
                         if (!isNaN(duration) && duration > 60) startTime = Math.max(0, (duration / 2) - 30);
                         
-                        // Haetaan varsinainen raaka-audion URL-osoite ffmpegiä varten
                         downloadUrl = execSync(`yt-dlp -g -f "bestaudio" "${downloadUrl}"`).toString().trim().split('\n')[0];
                     } else {
-                        // FFPROBE (Discord & Dropbox & Drive)
                         try {
                             const durationStr = execSync(`ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "${downloadUrl}"`).toString().trim();
                             const duration = parseFloat(durationStr);
@@ -196,7 +247,6 @@ client.once('ready', async () => {
                         } catch (probeErr) {}
                     }
 
-                    // LEIKKAUS JA LATAUS FFMPEGILLÄ
                     execSync(`ffmpeg -y -i "${downloadUrl}" -ss ${startTime.toFixed(2)} -t 60 -c:a libmp3lame -b:a 128k "${outputPath}"`, { stdio: 'ignore' });
                     await ftpClient.uploadFrom(outputPath, outputFilename);
                     
