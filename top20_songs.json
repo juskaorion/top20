@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17T09:06:51.608Z",
+  "last_updated": "2026-04-17T11:56:52.606Z",
   "top_songs": [
     {
       "id": "1489330055556370462",
@@ -11,7 +11,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1776011049693",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1489330055556370462",
       "posted_at": "2026-04-02T18:25:55.659Z",
-      "score": 643.5,
+      "score": 643.2,
       "stats": {
         "reactions": 24,
         "comments": 0
@@ -56,7 +56,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1776244003583",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 591,
+      "score": 590.7,
       "stats": {
         "reactions": 13,
         "comments": 0
@@ -101,7 +101,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1776245754784",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 591,
+      "score": 590.7,
       "stats": {
         "reactions": 13,
         "comments": 0
@@ -146,7 +146,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1776245757200",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 591,
+      "score": 590.7,
       "stats": {
         "reactions": 13,
         "comments": 0
@@ -191,7 +191,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1776245759711",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 591,
+      "score": 590.7,
       "stats": {
         "reactions": 13,
         "comments": 0
@@ -236,7 +236,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1776245762068",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 591,
+      "score": 590.7,
       "stats": {
         "reactions": 13,
         "comments": 0
@@ -272,16 +272,51 @@
       "previous_rank": 6
     },
     {
+      "id": "1494467264634683463",
+      "song_title": "Daun Lou & Pariisin Kevät - Kesäyö (Unofficial Remix)",
+      "author": "artodl_71337",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1198231592448032833/082ace1183268c588cd25678fad59984.webp?size=128",
+      "message_text": "Moi! 👋  Remix biisistä, josta et tiennyt tarvitsevasi remiksiä. Kuitenkin semi ajankohtainen lämpeneviin iltoihin?",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1776427000287",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1404380880364900425/1494467264634683463",
+      "posted_at": "2026-04-16T22:39:21.748Z",
+      "score": 551.1,
+      "stats": {
+        "reactions": 7,
+        "comments": 0
+      },
+      "reactions": [
+        {
+          "name": "❤️",
+          "url": null,
+          "count": 5
+        },
+        {
+          "name": "👌",
+          "url": null,
+          "count": 1
+        },
+        {
+          "name": "💎",
+          "url": null,
+          "count": 1
+        }
+      ],
+      "rank": 7,
+      "previous_rank": 9
+    },
+    {
       "id": "1492988613976260760",
       "song_title": "Hei-Supermario-Capital-D-Gay-Supermario-Remix",
       "author": "miikka_l",
       "author_avatar": "https://cdn.discordapp.com/avatars/1491492786627936368/5445ffd7ffb201a98393cbdf684ea4b1.webp?size=128",
       "message_text": "Pahoittelen jo etukäteen mutta kun tuntuu että porukalla alkaa paniikki iskeä yökerhoissa tän Samuell Hei Supermarion kanssa niin olkaapa hyvät! Toivottavasti ei kenenkään tartte soittaa 😅",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1776416751642",
+      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1776427005546",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1492988613976260760",
       "posted_at": "2026-04-12T20:43:43.959Z",
-      "score": 548.7,
+      "score": 548.4,
       "stats": {
         "reactions": 8,
         "comments": 0
@@ -303,8 +338,8 @@
           "count": 2
         }
       ],
-      "rank": 7,
-      "previous_rank": 8
+      "rank": 8,
+      "previous_rank": 7
     },
     {
       "id": "1493627225092784373",
@@ -313,10 +348,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/731934193986043984/4a14ddf3420945d464d4dd044bd40d42.webp?size=128",
       "message_text": "<@216516150505373696> <@1050844482519699527> 24-bittisestä flacista convertoitu 320kbps mp3",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1776416755243",
+      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1776427008956",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1493627225092784373",
       "posted_at": "2026-04-14T15:01:20.714Z",
-      "score": 545.6,
+      "score": 545.3,
       "stats": {
         "reactions": 7,
         "comments": 0
@@ -343,38 +378,8 @@
           "count": 1
         }
       ],
-      "rank": 8,
-      "previous_rank": 7
-    },
-    {
-      "id": "1494467264634683463",
-      "song_title": "Moi! 👋  Remix biisistä, josta et tiennyt tarvitsevasi remiksiä. Kuitenkin semi ajankohtainen lämpeneviin iltoihin?",
-      "author": "artodl_71337",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1198231592448032833/082ace1183268c588cd25678fad59984.webp?size=128",
-      "message_text": "Moi! 👋  Remix biisistä, josta et tiennyt tarvitsevasi remiksiä. Kuitenkin semi ajankohtainen lämpeneviin iltoihin?",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1776416760804",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1404380880364900425/1494467264634683463",
-      "posted_at": "2026-04-16T22:39:21.748Z",
-      "score": 536.4,
-      "stats": {
-        "reactions": 5,
-        "comments": 0
-      },
-      "reactions": [
-        {
-          "name": "❤️",
-          "url": null,
-          "count": 4
-        },
-        {
-          "name": "👌",
-          "url": null,
-          "count": 1
-        }
-      ],
       "rank": 9,
-      "previous_rank": null
+      "previous_rank": 8
     },
     {
       "id": "1493599829228781649",
@@ -386,7 +391,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1776416767786",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1493599829228781649",
       "posted_at": "2026-04-14T13:12:29.031Z",
-      "score": 515.4,
+      "score": 515.1,
       "stats": {
         "reactions": 3,
         "comments": 0
@@ -399,7 +404,7 @@
         }
       ],
       "rank": 10,
-      "previous_rank": 9
+      "previous_rank": 10
     },
     {
       "id": "1477792085108068403",
@@ -411,7 +416,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1776416772191",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1477792085108068403",
       "posted_at": "2026-03-01T22:18:09.139Z",
-      "score": 503.9,
+      "score": 503.6,
       "stats": {
         "reactions": 16,
         "comments": 0
@@ -444,7 +449,7 @@
         }
       ],
       "rank": 11,
-      "previous_rank": 10
+      "previous_rank": 11
     },
     {
       "id": "1477792085108068403-1",
@@ -456,7 +461,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1776416776544",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1477792085108068403",
       "posted_at": "2026-03-01T22:18:09.139Z",
-      "score": 503.9,
+      "score": 503.6,
       "stats": {
         "reactions": 16,
         "comments": 0
@@ -489,7 +494,7 @@
         }
       ],
       "rank": 12,
-      "previous_rank": 11
+      "previous_rank": 12
     },
     {
       "id": "1493648953999364206",
@@ -501,7 +506,7 @@
       "audio_url": "https://www.youtube.com/watch?v=XcfyjvllyTo",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1493648953999364206",
       "posted_at": "2026-04-14T16:27:41.289Z",
-      "score": 500.8,
+      "score": 500.5,
       "stats": {
         "reactions": 1,
         "comments": 0
@@ -514,7 +519,7 @@
         }
       ],
       "rank": 13,
-      "previous_rank": 12
+      "previous_rank": 13
     },
     {
       "id": "1494290076715450458",
@@ -526,14 +531,14 @@
       "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1776416789970",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1494290076715450458",
       "posted_at": "2026-04-16T10:55:16.856Z",
-      "score": 497.7,
+      "score": 497.4,
       "stats": {
         "reactions": 0,
         "comments": 0
       },
       "reactions": [],
       "rank": 14,
-      "previous_rank": null
+      "previous_rank": 14
     },
     {
       "id": "1493600378208518275",
@@ -545,14 +550,14 @@
       "audio_url": "https://www.youtube.com/watch?v=1NsWGU5gTaA",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1493600378208518275",
       "posted_at": "2026-04-14T13:14:39.918Z",
-      "score": 492.9,
+      "score": 492.6,
       "stats": {
         "reactions": 0,
         "comments": 0
       },
       "reactions": [],
       "rank": 15,
-      "previous_rank": 13
+      "previous_rank": 15
     },
     {
       "id": "1493246685462396986",
@@ -564,14 +569,14 @@
       "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1776416798392",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1493246685462396986",
       "posted_at": "2026-04-13T13:49:12.996Z",
-      "score": 490.5,
+      "score": 490.2,
       "stats": {
         "reactions": 0,
         "comments": 0
       },
       "reactions": [],
       "rank": 16,
-      "previous_rank": 14
+      "previous_rank": 16
     },
     {
       "id": "1481746672685023485",
@@ -583,7 +588,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1776416802880",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1481746672685023485",
       "posted_at": "2026-03-12T20:12:16.290Z",
-      "score": 456.2,
+      "score": 455.9,
       "stats": {
         "reactions": 6,
         "comments": 0
@@ -601,7 +606,7 @@
         }
       ],
       "rank": 17,
-      "previous_rank": 15
+      "previous_rank": 17
     },
     {
       "id": "1484861216361808004",
@@ -613,7 +618,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1776416805473",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1484861216361808004",
       "posted_at": "2026-03-21T10:28:21.368Z",
-      "score": 455.1,
+      "score": 454.8,
       "stats": {
         "reactions": 3,
         "comments": 0
@@ -631,7 +636,7 @@
         }
       ],
       "rank": 18,
-      "previous_rank": 16
+      "previous_rank": 18
     },
     {
       "id": "1472909980989521970",
@@ -643,7 +648,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1776416808499",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1472909980989521970",
       "posted_at": "2026-02-16T10:58:24.812Z",
-      "score": 402.7,
+      "score": 402.4,
       "stats": {
         "reactions": 7,
         "comments": 0
@@ -666,7 +671,7 @@
         }
       ],
       "rank": 19,
-      "previous_rank": 17
+      "previous_rank": 19
     },
     {
       "id": "1476826706600792105",
@@ -678,7 +683,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1776416811608",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1476826706600792105",
       "posted_at": "2026-02-27T06:22:04.967Z",
-      "score": 392.2,
+      "score": 391.9,
       "stats": {
         "reactions": 2,
         "comments": 0
@@ -691,7 +696,7 @@
         }
       ],
       "rank": 20,
-      "previous_rank": 18
+      "previous_rank": 20
     }
   ]
 }
