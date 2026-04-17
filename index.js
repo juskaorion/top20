@@ -15,8 +15,8 @@ const client = new Client({
 const TOKEN = process.env.DISCORD_TOKEN;
 const CHANNELS = [process.env.CHANNEL_ID_1, process.env.CHANNEL_ID_2, process.env.CHANNEL_ID_3];
 
-// MUUTOS 1: Palautetaan taulukko (array) kaikista löytyneistä biiseistä yhden sijaan
-function extractAudioInfos(message) {
+// MUUTOS: Funktiosta tehtiin asynkroninen (async), jotta nettisivun hakeminen onnistuu
+async function extractAudioInfos(message) {
     const results = [];
     const text = message.content;
     let embedTitle = null;
@@ -56,7 +56,25 @@ function extractAudioInfos(message) {
     let driveMatch;
     while ((driveMatch = driveRegex.exec(text)) !== null) {
         if (!driveMatch[0].includes('/folders/')) {
-            results.push({ type: 'drive_file', url: driveMatch[1], title: embedTitle || 'Google Drive Audio' });
+            let driveTitle = embedTitle;
+
+            // MUUTOS: Yritetään hakea tarkka tiedostonimi suoraan Google Driven julkisen sivun HTML:stä
+            try {
+                const response = await fetch(driveMatch[0]);
+                const html = await response.text();
+                const titleMatch = html.match(/<title>(.*?) - Google Drive<\/title>/i);
+                
+                if (titleMatch && titleMatch[1]) {
+                    const fetchedTitle = titleMatch[1].replace(/&amp;/g, '&'); // Korjataan mahdolliset HTML entiteetit
+                    if (!fetchedTitle.toLowerCase().includes('sign in')) {
+                        driveTitle = fetchedTitle;
+                    }
+                }
+            } catch (err) {
+                console.error("Google Drive otsikon haku epäonnistui:", err.message);
+            }
+
+            results.push({ type: 'drive_file', url: driveMatch[1], title: driveTitle || 'Google Drive Audio' });
         }
     }
 
@@ -128,8 +146,8 @@ client.once('ready', async () => {
             const messages = await channel.messages.fetch({ limit: 100 });
             
             for (const [id, message] of messages) {
-                // Haetaan kaikki mahdolliset biisit yhdestä viestistä
-                const audioInfos = extractAudioInfos(message);
+                // MUUTOS: Lisätty await, koska extractAudioInfos on nyt asynkroninen
+                const audioInfos = await extractAudioInfos(message);
                 
                 if (audioInfos.length > 0) {
                     // Pisteet lasketaan vain kerran per viesti, jotta APIa ei kuormiteta turhaan
