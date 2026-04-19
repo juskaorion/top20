@@ -15,7 +15,6 @@ const client = new Client({
 const TOKEN = process.env.DISCORD_TOKEN;
 const CHANNELS = [process.env.CHANNEL_ID_1, process.env.CHANNEL_ID_2, process.env.CHANNEL_ID_3];
 
-// MUUTOS: Funktiosta tehtiin asynkroninen (async), jotta nettisivun hakeminen onnistuu
 async function extractAudioInfos(message) {
     const results = [];
     const text = message.content;
@@ -25,7 +24,6 @@ async function extractAudioInfos(message) {
         embedTitle = message.embeds[0].title;
     }
 
-    // 1. Etsi KAIKKI Discord-liitetiedostot (.forEach loopilla .find sijaan)
     message.attachments.forEach(att => {
         const isAudio = att.contentType && (att.contentType.startsWith('audio/') || att.name.endsWith('.mp3') || att.name.endsWith('.wav'));
         if (isAudio) {
@@ -33,7 +31,6 @@ async function extractAudioInfos(message) {
         }
     });
 
-    // 2. Etsi KAIKKI Dropbox-linkit tekstistä (Regex g-lipulla ja while-loopilla)
     const dropboxRegex = /(https?:\/\/www\.dropbox\.com\/(?:scl\/fi|s)\/[^\s]+)/gi;
     let dbMatch;
     while ((dbMatch = dropboxRegex.exec(text)) !== null) {
@@ -51,21 +48,19 @@ async function extractAudioInfos(message) {
         }
     }
 
-    // 3. Etsi KAIKKI Google Drive -linkit
     const driveRegex = /(https?:\/\/drive\.google\.com\/file\/d\/([a-zA-Z0-9_-]+))/gi;
     let driveMatch;
     while ((driveMatch = driveRegex.exec(text)) !== null) {
         if (!driveMatch[0].includes('/folders/')) {
             let driveTitle = embedTitle;
 
-            // MUUTOS: Yritetään hakea tarkka tiedostonimi suoraan Google Driven julkisen sivun HTML:stä
             try {
                 const response = await fetch(driveMatch[0]);
                 const html = await response.text();
                 const titleMatch = html.match(/<title>(.*?) - Google Drive<\/title>/i);
                 
                 if (titleMatch && titleMatch[1]) {
-                    const fetchedTitle = titleMatch[1].replace(/&amp;/g, '&'); // Korjataan mahdolliset HTML entiteetit
+                    const fetchedTitle = titleMatch[1].replace(/&amp;/g, '&');
                     if (!fetchedTitle.toLowerCase().includes('sign in')) {
                         driveTitle = fetchedTitle;
                     }
@@ -78,14 +73,12 @@ async function extractAudioInfos(message) {
         }
     }
 
-    // 4. Etsi KAIKKI SoundCloud -linkit
     const scRegex = /(https?:\/\/soundcloud\.com\/[^\s]+)/gi;
     let scMatch;
     while ((scMatch = scRegex.exec(text)) !== null) {
         results.push({ type: 'soundcloud_link', url: scMatch[1], title: embedTitle || 'SoundCloud Audio' });
     }
 
-    // 5. Etsi KAIKKI YouTube -linkit
     const ytRegex = /(https?:\/\/(?:www\.)?youtube\.com\/watch\?v=[a-zA-Z0-9_-]+|https?:\/\/youtu\.be\/[a-zA-Z0-9_-]+)/gi;
     let ytMatch;
     while ((ytMatch = ytRegex.exec(text)) !== null) {
@@ -101,7 +94,6 @@ function cleanTitle(title, messageContent) {
         return firstLine || "Nimetön biisi";
     }
     
-    // Varmistetaan ettei URL-enkoodaus pilaa merkkejä (esim. %28 -> '(' )
     let cleaned = title;
     try { cleaned = decodeURIComponent(title); } catch (e) {}
 
@@ -112,8 +104,6 @@ function cleanTitle(title, messageContent) {
         .replace(/\s+/g, ' ')
         .trim();
 
-    // MUUTOS 2: Palautetaan sulut, jos Discord muutti ne alaviivoiksi ja poistimme ne.
-    // Tunnistetaan yleiset remix-päätteet ja kääritään ne sulkuihin, jos sulkuja ei ole.
     if (!cleaned.includes('(') && !cleaned.includes(')')) {
         const remixRegex = /(.*)\s+((?:[a-zA-Z0-9\säöåÄÖÅ]+)\s+(?:mashup|remix|edit|flip|bootleg|vip|mix))$/i;
         const match = cleaned.match(remixRegex);
@@ -125,20 +115,35 @@ function cleanTitle(title, messageContent) {
     return cleaned;
 }
 
-function calculateScore(postedAt, reactionCount, commentCount) {
+// MUUTOS: Lisätty webThumbsCount parametri. (1 peukku = 0.5 pistettä. 5 peukkua = 2.5 pistettä eli kumoaa yhden ikäpäivän sakon)
+function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 0) {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
     
     const baseScore = 500;
     const reactionPoints = reactionCount * 7.5; 
     const commentPoints = commentCount * 12.5;  
+    const webThumbPoints = webThumbsCount * 0.5; // Verkkosivun peukut 
     const agePenalty = ageInDays * 2.5;         
     
-    return Math.max(0, baseScore + reactionPoints + commentPoints - agePenalty);
+    return Math.max(0, baseScore + reactionPoints + commentPoints + webThumbPoints - agePenalty);
 }
 
 client.once('ready', async () => {
     let allValidSongs = [];
+
+    // MUUTOS: Haetaan verkkosivulle kertyneet peukut WordPressin rajapinnasta
+    let wpThumbs = {};
+    try {
+        const wpThumbsResponse = await fetch('https://www.djorion.fi/wp-json/top20/v1/thumbs');
+        if (wpThumbsResponse.ok) {
+            wpThumbs = await wpThumbsResponse.json();
+            console.log("Verkkopeukut haettu onnistuneesti!");
+        }
+    } catch (e) {
+        console.error("Virhe haettaessa verkkopeukkuja:", e);
+    }
+
     for (const channelId of CHANNELS) {
         if (!channelId) continue;
         try {
@@ -146,11 +151,9 @@ client.once('ready', async () => {
             const messages = await channel.messages.fetch({ limit: 100 });
             
             for (const [id, message] of messages) {
-                // MUUTOS: Lisätty await, koska extractAudioInfos on nyt asynkroninen
                 const audioInfos = await extractAudioInfos(message);
                 
                 if (audioInfos.length > 0) {
-                    // Pisteet lasketaan vain kerran per viesti, jotta APIa ei kuormiteta turhaan
                     let reactionCount = 0;
                     let reactionsList = [];
                     message.reactions.cache.forEach(r => { 
@@ -167,13 +170,14 @@ client.once('ready', async () => {
                         } catch (e) {}
                     }
                     
-                    const score = parseFloat(calculateScore(message.createdAt, reactionCount, commentCount).toFixed(1));
-
-                    // Käydään läpi kaikki viestistä löytyneet audiot
                     audioInfos.forEach((audioInfo, index) => {
-                        // Ensimmäinen biisi saa alkuperäisen message.id:n (pitää vanhan sijoitushistorian yllä).
-                        // Seuraavat saavat loppuliitteen (esim. -1, -2), jotta ID:t pysyvät uniikkeina.
                         const uniqueId = index === 0 ? message.id : `${message.id}-${index}`;
+
+                        // MUUTOS: Etsitään tätä kappaletta vastaava peukutusmäärä
+                        const webThumbsCount = wpThumbs[uniqueId] || 0;
+
+                        // MUUTOS: Annetaan webThumbsCount funktiolle
+                        const score = parseFloat(calculateScore(message.createdAt, reactionCount, commentCount, webThumbsCount).toFixed(1));
 
                         allValidSongs.push({
                             id: uniqueId,
@@ -186,7 +190,8 @@ client.once('ready', async () => {
                             discord_url: message.url,
                             posted_at: message.createdAt.toISOString(),
                             score: score,
-                            stats: { reactions: reactionCount, comments: commentCount },
+                            web_thumbs: webThumbsCount, // Tallennetaan peukut jsoniin tiedoksi
+                            stats: { reactions: reactionCount, comments: commentCount, thumbs: webThumbsCount },
                             reactions: reactionsList
                         });
                     });
