@@ -115,7 +115,7 @@ function cleanTitle(title, messageContent) {
     return cleaned;
 }
 
-// MUUTOS: Lisätty webThumbsCount parametri. (1 peukku = 0.5 pistettä. 5 peukkua = 2.5 pistettä eli kumoaa yhden ikäpäivän sakon)
+// MUUTOS: Lisätty webThumbsCount parametri. (1 peukku = 5.5 pistettä. 2 peukkua kumoaa kahden ikäpäivän sakon)
 function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 0) {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
@@ -123,7 +123,7 @@ function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 
     const baseScore = 500;
     const reactionPoints = reactionCount * 7.5; 
     const commentPoints = commentCount * 12.5;  
-    const webThumbPoints = webThumbsCount * 0.5; // Verkkosivun peukut 
+    const webThumbPoints = webThumbsCount * 5.5; // Verkkosivun peukut 
     const agePenalty = ageInDays * 2.5;         
     
     return Math.max(0, baseScore + reactionPoints + commentPoints + webThumbPoints - agePenalty);
