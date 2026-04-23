@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T09:08:42.050Z",
+  "last_updated": "2026-04-23T09:16:30.214Z",
   "top_songs": [
     {
       "id": "1489330055556370462",
@@ -11,12 +11,12 @@
       "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1776011049693",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1489330055556370462",
       "posted_at": "2026-04-02T18:25:55.659Z",
-      "score": 641,
-      "web_thumbs": 5,
+      "score": 674.5,
+      "web_thumbs": 7,
       "stats": {
         "reactions": 25,
         "comments": 0,
-        "thumbs": 5
+        "thumbs": 7
       },
       "reactions": [
         {
@@ -58,7 +58,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1776244003583",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 579.5,
+      "score": 586.9,
       "web_thumbs": 2,
       "stats": {
         "reactions": 13,
@@ -105,7 +105,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1776245754784",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 579.5,
+      "score": 586.9,
       "web_thumbs": 2,
       "stats": {
         "reactions": 13,
@@ -152,7 +152,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1776245757200",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 579.5,
+      "score": 586.9,
       "web_thumbs": 2,
       "stats": {
         "reactions": 13,
@@ -199,7 +199,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1776245759711",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 579.5,
+      "score": 586.9,
       "web_thumbs": 2,
       "stats": {
         "reactions": 13,
@@ -246,7 +246,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1776245762068",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 579,
+      "score": 581.4,
       "web_thumbs": 1,
       "stats": {
         "reactions": 13,
@@ -293,7 +293,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1776427000287",
       "discord_url": "https://discord.com/channels/1174754304758907002/1404380880364900425/1494467264634683463",
       "posted_at": "2026-04-16T22:39:21.748Z",
-      "score": 540.9,
+      "score": 558.4,
       "web_thumbs": 4,
       "stats": {
         "reactions": 7,
@@ -330,7 +330,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1776427005546",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1492988613976260760",
       "posted_at": "2026-04-12T20:43:43.959Z",
-      "score": 537.2,
+      "score": 544.7,
       "web_thumbs": 2,
       "stats": {
         "reactions": 8,
@@ -367,7 +367,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1776427008956",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1493627225092784373",
       "posted_at": "2026-04-14T15:01:20.714Z",
-      "score": 533.6,
+      "score": 536.1,
       "web_thumbs": 1,
       "stats": {
         "reactions": 7,
@@ -409,7 +409,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1776762874041",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495430596002840739",
       "posted_at": "2026-04-19T14:27:17.844Z",
-      "score": 530.6,
+      "score": 528,
       "web_thumbs": 0,
       "stats": {
         "reactions": 5,
@@ -441,7 +441,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1776762878500",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1494890204773879810",
       "posted_at": "2026-04-18T02:39:58.535Z",
-      "score": 520.3,
+      "score": 527.8,
       "web_thumbs": 2,
       "stats": {
         "reactions": 4,
@@ -468,12 +468,12 @@
       "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1776680613598",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1493599829228781649",
       "posted_at": "2026-04-14T13:12:29.031Z",
-      "score": 503.9,
-      "web_thumbs": 2,
+      "score": 516.9,
+      "web_thumbs": 3,
       "stats": {
         "reactions": 3,
         "comments": 0,
-        "thumbs": 2
+        "thumbs": 3
       },
       "reactions": [
         {
@@ -486,43 +486,16 @@
       "previous_rank": 12
     },
     {
-      "id": "1495425678294777886",
-      "song_title": "BOU X SINI YASEMIN - RAKKAUTTA JA PIIKKILANKAA LIKETHAT MASHUP.mp3",
-      "author": "bookeyxoxo",
-      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
-      "message_text": "Laitetaas tää mash-edit vielä tänne langalle ohficiälly jakoon!",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1776680616652",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495425678294777886",
-      "posted_at": "2026-04-19T14:07:45.371Z",
-      "score": 500.5,
-      "web_thumbs": 0,
-      "stats": {
-        "reactions": 1,
-        "comments": 0,
-        "thumbs": 0
-      },
-      "reactions": [
-        {
-          "name": "🔥",
-          "url": null,
-          "count": 1
-        }
-      ],
-      "rank": 13,
-      "previous_rank": 13
-    },
-    {
       "id": "1477792085108068403",
       "song_title": "Aamun-Kuiskaus-Fallihauta-Extended-Daisko-Flip",
       "author": "fallihauta",
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Sarjassamme - \"Remixit jota kukaan ei pyytänyt mutta teinpä silti\" \nTällä kertaa tein Daisko Flip:in aiheesta:\nStella - Aamun Kuiskaus. 🥰\n\nLatauslinkit alla:\nExtended Daisko Flip \n\n\nDaisko Flip",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1776680621852",
+      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1776935752244",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1477792085108068403",
       "posted_at": "2026-03-01T22:18:09.139Z",
-      "score": 500.4,
+      "score": 512.9,
       "web_thumbs": 3,
       "stats": {
         "reactions": 17,
@@ -556,8 +529,35 @@
           "count": 2
         }
       ],
-      "rank": 14,
+      "rank": 13,
       "previous_rank": 14
+    },
+    {
+      "id": "1494738077216673914",
+      "song_title": "Fallihauta vs Pola Bryson - Capone I Need Cosolty Bootleg Master",
+      "author": "cosolty",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1242931257147527281/edb2e9c1736b38ff82affbf3eb7ceee1.webp?size=128",
+      "message_text": "Muushi: \nFallihauta vs. Pola & Bryson - Capone I Need (Cosolty Mashup)",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1776935755346",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1494738077216673914",
+      "posted_at": "2026-04-17T16:35:28.499Z",
+      "score": 509.8,
+      "web_thumbs": 3,
+      "stats": {
+        "reactions": 1,
+        "comments": 0,
+        "thumbs": 3
+      },
+      "reactions": [
+        {
+          "name": "🔥",
+          "url": null,
+          "count": 1
+        }
+      ],
+      "rank": 14,
+      "previous_rank": 17
     },
     {
       "id": "1477792085108068403-1",
@@ -569,7 +569,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1776680626220",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1477792085108068403",
       "posted_at": "2026-03-01T22:18:09.139Z",
-      "score": 499.9,
+      "score": 507.4,
       "web_thumbs": 2,
       "stats": {
         "reactions": 17,
@@ -616,7 +616,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1776680629341",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495001143200448522",
       "posted_at": "2026-04-18T10:00:48.317Z",
-      "score": 498.6,
+      "score": 506.1,
       "web_thumbs": 2,
       "stats": {
         "reactions": 1,
@@ -634,21 +634,42 @@
       "previous_rank": 16
     },
     {
-      "id": "1494738077216673914",
-      "song_title": "Fallihauta vs Pola Bryson - Capone I Need Cosolty Bootleg Master",
-      "author": "cosolty",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1242931257147527281/edb2e9c1736b38ff82affbf3eb7ceee1.webp?size=128",
-      "message_text": "Muushi: \nFallihauta vs. Pola & Bryson - Capone I Need (Cosolty Mashup)",
+      "id": "1495145260882333726",
+      "song_title": "anna puu - kaunis päivä jay (aarnio remix)",
+      "author": "savukala",
+      "author_avatar": "https://cdn.discordapp.com/avatars/268848054461792276/61e05eb44ea9769354f6c8b3a778dff0.webp?size=128",
+      "message_text": "Edelliseltä remix challengelta tämmöne lunkimpi versio :D.",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1776680632377",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1494738077216673914",
-      "posted_at": "2026-04-17T16:35:28.499Z",
-      "score": 496.8,
+      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1776935773900",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495145260882333726",
+      "posted_at": "2026-04-18T19:33:28.650Z",
+      "score": 499.6,
       "web_thumbs": 2,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2
+      },
+      "reactions": [],
+      "rank": 17,
+      "previous_rank": 18
+    },
+    {
+      "id": "1495425678294777886",
+      "song_title": "BOU X SINI YASEMIN - RAKKAUTTA JA PIIKKILANKAA LIKETHAT MASHUP.mp3",
+      "author": "bookeyxoxo",
+      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
+      "message_text": "Laitetaas tää mash-edit vielä tänne langalle ohficiälly jakoon!",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1776935776946",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495425678294777886",
+      "posted_at": "2026-04-19T14:07:45.371Z",
+      "score": 498,
+      "web_thumbs": 0,
       "stats": {
         "reactions": 1,
         "comments": 0,
-        "thumbs": 2
+        "thumbs": 0
       },
       "reactions": [
         {
@@ -657,29 +678,8 @@
           "count": 1
         }
       ],
-      "rank": 17,
-      "previous_rank": 17
-    },
-    {
-      "id": "1495145260882333726",
-      "song_title": "anna puu - kaunis päivä jay (aarnio remix)",
-      "author": "savukala",
-      "author_avatar": "https://cdn.discordapp.com/avatars/268848054461792276/61e05eb44ea9769354f6c8b3a778dff0.webp?size=128",
-      "message_text": "Edelliseltä remix challengelta tämmöne lunkimpi versio :D.",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1776680649639",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495145260882333726",
-      "posted_at": "2026-04-18T19:33:28.650Z",
-      "score": 492.1,
-      "web_thumbs": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2
-      },
-      "reactions": [],
       "rank": 18,
-      "previous_rank": 18
+      "previous_rank": 13
     },
     {
       "id": "1495106580906250420",
@@ -691,7 +691,7 @@
       "audio_url": "https://www.youtube.com/watch?v=1gylQiWW_x4",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1495106580906250420",
       "posted_at": "2026-04-18T16:59:46.625Z",
-      "score": 491.3,
+      "score": 493.8,
       "web_thumbs": 1,
       "stats": {
         "reactions": 0,
@@ -703,31 +703,25 @@
       "previous_rank": 19
     },
     {
-      "id": "1493648953999364206",
-      "song_title": "meik - \"synttärit\"",
-      "author": "turboviiksi",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
-      "message_text": "menevä myös",
-      "audio_type": "youtube_link",
-      "audio_url": "https://www.youtube.com/watch?v=XcfyjvllyTo",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1493648953999364206",
-      "posted_at": "2026-04-14T16:27:41.289Z",
-      "score": 488.8,
-      "web_thumbs": 1,
+      "id": "1494290076715450458",
+      "song_title": "Anna-Puu-Kaunis-P-iv-Kitsu-Funk-U-Remix",
+      "author": "kitsunegar1",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1348999390135844887/b6bb23d91b4b61cc86e438f13af54c5f.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1776935790214",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1494290076715450458",
+      "posted_at": "2026-04-16T10:55:16.856Z",
+      "score": 493.7,
+      "web_thumbs": 2,
       "stats": {
-        "reactions": 1,
+        "reactions": 0,
         "comments": 0,
-        "thumbs": 1
+        "thumbs": 2
       },
-      "reactions": [
-        {
-          "name": "🔥",
-          "url": null,
-          "count": 1
-        }
-      ],
+      "reactions": [],
       "rank": 20,
-      "previous_rank": 20
+      "previous_rank": null
     }
   ]
 }
