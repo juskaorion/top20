@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T09:59:33.003Z",
+  "last_updated": "2026-04-25T07:57:38.748Z",
   "top_songs": [
     {
       "id": "1489330055556370462",
@@ -11,7 +11,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1776011049693",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1489330055556370462",
       "posted_at": "2026-04-02T18:25:55.659Z",
-      "score": 671.9,
+      "score": 669.6,
       "web_thumbs": 7,
       "stats": {
         "reactions": 25,
@@ -58,7 +58,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1776244003583",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 584.4,
+      "score": 582.1,
       "web_thumbs": 2,
       "stats": {
         "reactions": 13,
@@ -105,7 +105,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1776245754784",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 584.4,
+      "score": 582.1,
       "web_thumbs": 2,
       "stats": {
         "reactions": 13,
@@ -152,7 +152,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1776245757200",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 584.4,
+      "score": 582.1,
       "web_thumbs": 2,
       "stats": {
         "reactions": 13,
@@ -199,7 +199,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1776245759711",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 584.4,
+      "score": 582.1,
       "web_thumbs": 2,
       "stats": {
         "reactions": 13,
@@ -246,7 +246,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1776245762068",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 578.9,
+      "score": 576.6,
       "web_thumbs": 1,
       "stats": {
         "reactions": 13,
@@ -293,7 +293,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1776427000287",
       "discord_url": "https://discord.com/channels/1174754304758907002/1404380880364900425/1494467264634683463",
       "posted_at": "2026-04-16T22:39:21.748Z",
-      "score": 555.8,
+      "score": 553.5,
       "web_thumbs": 4,
       "stats": {
         "reactions": 7,
@@ -321,16 +321,90 @@
       "previous_rank": 7
     },
     {
+      "id": "1495430596002840739",
+      "song_title": "MIKA BOOGIE x JUMP AROUND LIKETHAT SPEEDY G MASH",
+      "author": "bookeyxoxo",
+      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
+      "message_text": "samaan syssyyn vielä metsästin usbin syöväreistä tän, pari vuotta sitten tehty yhtä tapahtumaa varten tämmönen ukg-ralli mash :D✌🏻",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1777103833519",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495430596002840739",
+      "posted_at": "2026-04-19T14:27:17.844Z",
+      "score": 551.2,
+      "web_thumbs": 1,
+      "stats": {
+        "reactions": 8,
+        "comments": 0,
+        "thumbs": 1
+      },
+      "reactions": [
+        {
+          "name": "🍆",
+          "url": null,
+          "count": 3
+        },
+        {
+          "name": "👍",
+          "url": null,
+          "count": 4
+        },
+        {
+          "name": "🔥",
+          "url": null,
+          "count": 1
+        }
+      ],
+      "rank": 8,
+      "previous_rank": 11
+    },
+    {
+      "id": "1497135834942410753",
+      "song_title": "Audio Wiskari - Suomi Finland Perkele x Red Flag (Turboviiksi mashup)",
+      "author": "turboviiksi",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
+      "message_text": "näe junttianthem, tee junttijunkkaa",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1777103836433",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1497135834942410753",
+      "posted_at": "2026-04-24T07:23:18.489Z",
+      "score": 547.4,
+      "web_thumbs": 0,
+      "stats": {
+        "reactions": 5,
+        "comments": 1,
+        "thumbs": 0
+      },
+      "reactions": [
+        {
+          "name": "🔥",
+          "url": null,
+          "count": 3
+        },
+        {
+          "name": "🍆",
+          "url": null,
+          "count": 1
+        },
+        {
+          "name": "🕺",
+          "url": null,
+          "count": 1
+        }
+      ],
+      "rank": 9,
+      "previous_rank": 10
+    },
+    {
       "id": "1492988613976260760",
       "song_title": "Hei-Supermario-Capital-D-Gay-Supermario-Remix",
       "author": "miikka_l",
       "author_avatar": "https://cdn.discordapp.com/avatars/1491492786627936368/5445ffd7ffb201a98393cbdf684ea4b1.webp?size=128",
       "message_text": "Pahoittelen jo etukäteen mutta kun tuntuu että porukalla alkaa paniikki iskeä yökerhoissa tän Samuell Hei Supermarion kanssa niin olkaapa hyvät! Toivottavasti ei kenenkään tartte soittaa 😅",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1776427005546",
+      "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1777103841242",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1492988613976260760",
       "posted_at": "2026-04-12T20:43:43.959Z",
-      "score": 542.1,
+      "score": 539.8,
       "web_thumbs": 2,
       "stats": {
         "reactions": 8,
@@ -354,7 +428,7 @@
           "count": 2
         }
       ],
-      "rank": 8,
+      "rank": 10,
       "previous_rank": 8
     },
     {
@@ -364,10 +438,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/731934193986043984/4a14ddf3420945d464d4dd044bd40d42.webp?size=128",
       "message_text": "<@216516150505373696> <@1050844482519699527> 24-bittisestä flacista convertoitu 320kbps mp3",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1776427008956",
+      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1777103845230",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1493627225092784373",
       "posted_at": "2026-04-14T15:01:20.714Z",
-      "score": 533.5,
+      "score": 531.2,
       "web_thumbs": 1,
       "stats": {
         "reactions": 7,
@@ -396,72 +470,8 @@
           "count": 1
         }
       ],
-      "rank": 9,
-      "previous_rank": 9
-    },
-    {
-      "id": "1497135834942410753",
-      "song_title": "Audio Wiskari - Suomi Finland Perkele x Red Flag (Turboviiksi mashup)",
-      "author": "turboviiksi",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
-      "message_text": "näe junttianthem, tee junttijunkkaa",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1777024718400",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1497135834942410753",
-      "posted_at": "2026-04-24T07:23:18.489Z",
-      "score": 527.2,
-      "web_thumbs": 0,
-      "stats": {
-        "reactions": 2,
-        "comments": 1,
-        "thumbs": 0
-      },
-      "reactions": [
-        {
-          "name": "🔥",
-          "url": null,
-          "count": 1
-        },
-        {
-          "name": "🍆",
-          "url": null,
-          "count": 1
-        }
-      ],
-      "rank": 10,
-      "previous_rank": null
-    },
-    {
-      "id": "1495430596002840739",
-      "song_title": "MIKA BOOGIE x JUMP AROUND LIKETHAT SPEEDY G MASH",
-      "author": "bookeyxoxo",
-      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
-      "message_text": "samaan syssyyn vielä metsästin usbin syöväreistä tän, pari vuotta sitten tehty yhtä tapahtumaa varten tämmönen ukg-ralli mash :D✌🏻",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1777024721841",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495430596002840739",
-      "posted_at": "2026-04-19T14:27:17.844Z",
-      "score": 525.5,
-      "web_thumbs": 0,
-      "stats": {
-        "reactions": 5,
-        "comments": 0,
-        "thumbs": 0
-      },
-      "reactions": [
-        {
-          "name": "🍆",
-          "url": null,
-          "count": 2
-        },
-        {
-          "name": "👍",
-          "url": null,
-          "count": 3
-        }
-      ],
       "rank": 11,
-      "previous_rank": 10
+      "previous_rank": 9
     },
     {
       "id": "1494890204773879810",
@@ -473,7 +483,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1777024726396",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1494890204773879810",
       "posted_at": "2026-04-18T02:39:58.535Z",
-      "score": 525.2,
+      "score": 522.9,
       "web_thumbs": 2,
       "stats": {
         "reactions": 4,
@@ -488,33 +498,6 @@
         }
       ],
       "rank": 12,
-      "previous_rank": 11
-    },
-    {
-      "id": "1493599829228781649",
-      "song_title": "What Ya Got 4 Me",
-      "author": "tommybounce",
-      "author_avatar": "https://cdn.discordapp.com/avatars/216516150505373696/4028a5a004892726b6a5221ae1f8efc4.webp?size=128",
-      "message_text": "Gah daym",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1777024733683",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1493599829228781649",
-      "posted_at": "2026-04-14T13:12:29.031Z",
-      "score": 514.3,
-      "web_thumbs": 3,
-      "stats": {
-        "reactions": 3,
-        "comments": 0,
-        "thumbs": 3
-      },
-      "reactions": [
-        {
-          "name": "🔥",
-          "url": null,
-          "count": 3
-        }
-      ],
-      "rank": 13,
       "previous_rank": 12
     },
     {
@@ -524,15 +507,15 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Sarjassamme - \"Remixit jota kukaan ei pyytänyt mutta teinpä silti\" \nTällä kertaa tein Daisko Flip:in aiheesta:\nStella - Aamun Kuiskaus. 🥰\n\nLatauslinkit alla:\nExtended Daisko Flip \n\n\nDaisko Flip",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1777024738095",
+      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1777103850038",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1477792085108068403",
       "posted_at": "2026-03-01T22:18:09.139Z",
-      "score": 510.3,
-      "web_thumbs": 3,
+      "score": 513.5,
+      "web_thumbs": 4,
       "stats": {
         "reactions": 17,
         "comments": 0,
-        "thumbs": 3
+        "thumbs": 4
       },
       "reactions": [
         {
@@ -561,6 +544,33 @@
           "count": 2
         }
       ],
+      "rank": 13,
+      "previous_rank": 14
+    },
+    {
+      "id": "1493599829228781649",
+      "song_title": "What Ya Got 4 Me",
+      "author": "tommybounce",
+      "author_avatar": "https://cdn.discordapp.com/avatars/216516150505373696/4028a5a004892726b6a5221ae1f8efc4.webp?size=128",
+      "message_text": "Gah daym",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1777103857019",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1493599829228781649",
+      "posted_at": "2026-04-14T13:12:29.031Z",
+      "score": 512,
+      "web_thumbs": 3,
+      "stats": {
+        "reactions": 3,
+        "comments": 0,
+        "thumbs": 3
+      },
+      "reactions": [
+        {
+          "name": "🔥",
+          "url": null,
+          "count": 3
+        }
+      ],
       "rank": 14,
       "previous_rank": 13
     },
@@ -574,7 +584,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1777024741397",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1494738077216673914",
       "posted_at": "2026-04-17T16:35:28.499Z",
-      "score": 507.2,
+      "score": 504.9,
       "web_thumbs": 3,
       "stats": {
         "reactions": 1,
@@ -589,7 +599,7 @@
         }
       ],
       "rank": 15,
-      "previous_rank": 14
+      "previous_rank": 15
     },
     {
       "id": "1477792085108068403-1",
@@ -601,7 +611,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1777024745812",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1477792085108068403",
       "posted_at": "2026-03-01T22:18:09.139Z",
-      "score": 504.8,
+      "score": 502.5,
       "web_thumbs": 2,
       "stats": {
         "reactions": 17,
@@ -636,7 +646,7 @@
         }
       ],
       "rank": 16,
-      "previous_rank": 15
+      "previous_rank": 16
     },
     {
       "id": "1495001143200448522",
@@ -648,7 +658,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1777024749229",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495001143200448522",
       "posted_at": "2026-04-18T10:00:48.317Z",
-      "score": 503.5,
+      "score": 501.2,
       "web_thumbs": 2,
       "stats": {
         "reactions": 1,
@@ -663,7 +673,7 @@
         }
       ],
       "rank": 17,
-      "previous_rank": 16
+      "previous_rank": 17
     },
     {
       "id": "1495145260882333726",
@@ -675,7 +685,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1777024767758",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495145260882333726",
       "posted_at": "2026-04-18T19:33:28.650Z",
-      "score": 497,
+      "score": 494.7,
       "web_thumbs": 2,
       "stats": {
         "reactions": 0,
@@ -684,7 +694,7 @@
       },
       "reactions": [],
       "rank": 18,
-      "previous_rank": 17
+      "previous_rank": 18
     },
     {
       "id": "1495425678294777886",
@@ -696,7 +706,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1777024770996",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495425678294777886",
       "posted_at": "2026-04-19T14:07:45.371Z",
-      "score": 495.4,
+      "score": 493.1,
       "web_thumbs": 0,
       "stats": {
         "reactions": 1,
@@ -711,7 +721,7 @@
         }
       ],
       "rank": 19,
-      "previous_rank": 18
+      "previous_rank": 19
     },
     {
       "id": "1495106580906250420",
@@ -723,7 +733,7 @@
       "audio_url": "https://www.youtube.com/watch?v=1gylQiWW_x4",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1495106580906250420",
       "posted_at": "2026-04-18T16:59:46.625Z",
-      "score": 491.2,
+      "score": 488.9,
       "web_thumbs": 1,
       "stats": {
         "reactions": 0,
@@ -732,7 +742,7 @@
       },
       "reactions": [],
       "rank": 20,
-      "previous_rank": 19
+      "previous_rank": 20
     }
   ]
 }
