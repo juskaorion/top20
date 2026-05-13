@@ -15,10 +15,9 @@ const client = new Client({
 const TOKEN = process.env.DISCORD_TOKEN;
 const CHANNELS = [process.env.CHANNEL_ID_1, process.env.CHANNEL_ID_2, process.env.CHANNEL_ID_3];
 
-// Spotify API tunnukset .env tiedostosta
 const SPOTIFY_CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
 const SPOTIFY_CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
-const SPOTIFY_PLAYLIST_ID = '3trehlc2tS8pIoJqMxK6l3'; // Haetaan samalta listalta joka oli WP:ssä
+const SPOTIFY_PLAYLIST_ID = '3trehlc2tS8pIoJqMxK6l3';
 
 async function extractAudioInfos(message) {
     const results = [];
@@ -120,7 +119,6 @@ function cleanTitle(title, messageContent) {
     return cleaned;
 }
 
-// Päivitetty pistelogiikka
 function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 0, source = 'discord') {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
@@ -137,7 +135,6 @@ function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 
         webThumbPoints = webThumbsCount * 5.5; 
         agePenalty = ageInDays * 2.5;          
     } else if (source === 'spotify') {
-        // Spotify: peukut on 2x arvoisia, ja ikäsakko 1.5x suurempi
         webThumbPoints = webThumbsCount * 11.0; 
         agePenalty = ageInDays * 3.75;          
     }
@@ -148,7 +145,7 @@ function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 
 async function getSpotifyTracks(wpThumbs) {
     let spotifySongs = [];
     if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET) {
-        console.error("HUOM! SPOTIFY_CLIENT_ID tai SPOTIFY_CLIENT_SECRET puuttuu .env tiedostosta. Spotify-biisejä ei haeta.");
+        console.error("HUOM! SPOTIFY_CLIENT_ID tai SPOTIFY_CLIENT_SECRET puuttuu. Spotify-biisejä ei haeta.");
         return spotifySongs;
     }
 
@@ -163,6 +160,12 @@ async function getSpotifyTracks(wpThumbs) {
             body: 'grant_type=client_credentials'
         });
         const tokenData = await tokenRes.json();
+        
+        if (!tokenRes.ok) {
+            console.error("Spotify Token Error:", tokenData);
+            return spotifySongs;
+        }
+        
         const token = tokenData.access_token;
 
         console.log("Haetaan Spotifyn soittolista...");
@@ -171,7 +174,12 @@ async function getSpotifyTracks(wpThumbs) {
         });
         const playlistData = await playlistRes.json();
 
-        if (playlistData.items) {
+        if (!playlistRes.ok) {
+            console.error("Spotify Playlist Error:", playlistData);
+            return spotifySongs;
+        }
+
+        if (playlistData.items && playlistData.items.length > 0) {
             playlistData.items.forEach((item) => {
                 const track = item.track;
                 if (!track) return;
@@ -191,14 +199,16 @@ async function getSpotifyTracks(wpThumbs) {
                     author_avatar: track.album.images.length > 0 ? track.album.images[0].url : 'https://www.djorion.fi/wp-content/uploads/default-avatar.png',
                     message_text: '',
                     audio_type: track.preview_url ? 'spotify_preview' : 'spotify_link',
-                    audio_url: track.preview_url || track.external_urls.spotify,
-                    discord_url: track.external_urls.spotify,
+                    audio_url: track.preview_url || track.external_urls?.spotify || '',
+                    discord_url: track.external_urls?.spotify || '',
                     posted_at: addedAt.toISOString(),
                     score: score,
                     web_thumbs: webThumbsCount,
                     stats: { reactions: 0, comments: 0, thumbs: webThumbsCount }
                 });
             });
+        } else {
+            console.log("Spotify palautti tyhjän listan tai rakenne oli odottamaton:", playlistData);
         }
         console.log(`Löydettiin ${spotifySongs.length} biisiä Spotifysta.`);
     } catch (e) {
@@ -248,7 +258,6 @@ client.once('ready', async () => {
                         const webThumbsCount = wpThumbs[uniqueId] || 0;
                         const score = parseFloat(calculateScore(message.createdAt, reactionCount, commentCount, webThumbsCount, 'discord').toFixed(1));
 
-                        // Parsitaan Discord biisin nimi ja artisti ohjeistuksen mukaan
                         let titleCleaned = cleanTitle(audioInfo.title, message.content);
                         let parsedArtist = message.author.username;
                         let parsedTitle = titleCleaned;
@@ -256,7 +265,7 @@ client.once('ready', async () => {
                         if (titleCleaned.includes(' - ')) {
                             const parts = titleCleaned.split(' - ');
                             parsedArtist = parts[0].trim();
-                            parsedTitle = titleCleaned; // Jätetään kokonaiseksi, jotta näkyy Artisti - Biisi
+                            parsedTitle = titleCleaned; 
                         } else {
                             parsedTitle = `${parsedArtist} - ${titleCleaned}`;
                         }
@@ -281,7 +290,6 @@ client.once('ready', async () => {
         } catch (error) { console.error(error); }
     }
     
-    // Haetaan Spotifyn biisit ja lisätään samaan kasaan
     const spotifySongs = await getSpotifyTracks(wpThumbs);
     allValidSongs.push(...spotifySongs);
 
@@ -348,7 +356,6 @@ client.once('ready', async () => {
                         
                         downloadUrl = execSync(`yt-dlp -g -f "bestaudio" "${downloadUrl}"`).toString().trim().split('\n')[0];
                     } else {
-                        // Spotifyn preview_url (30s) ja muut direct linkit putoavat tänne fiksusti
                         try {
                             const durationStr = execSync(`ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "${downloadUrl}"`).toString().trim();
                             const duration = parseFloat(durationStr);
