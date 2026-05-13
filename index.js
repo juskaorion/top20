@@ -118,10 +118,10 @@ function cleanTitle(title, messageContent) {
     return cleaned;
 }
 
-function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 0, source = 'discord') {
+function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 0, source = 'discord', positionBonus = 0) {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
-    const baseScore = 550; // Nostettu 50 pisteellä!
+    const baseScore = 550; // Nostettu 550:een
     
     let reactionPoints = 0;
     let commentPoints = 0;
@@ -138,7 +138,7 @@ function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 
         agePenalty = ageInDays * 3.75;          
     }
     
-    return Math.max(0, baseScore + reactionPoints + commentPoints + webThumbPoints - agePenalty);
+    return Math.max(0, baseScore + reactionPoints + commentPoints + webThumbPoints + positionBonus - agePenalty);
 }
 
 async function getSpotifyTracks(wpThumbs) {
@@ -173,8 +173,8 @@ async function getSpotifyTracks(wpThumbs) {
 
         const token = tokenData.access_token;
 
-        console.log("Haetaan Spotifyn soittolista...");
-        const playlistRes = await fetch(`https://api.spotify.com/v1/playlists/${SPOTIFY_PLAYLIST_ID}/tracks?limit=20`, {
+        console.log("Haetaan Spotifyn soittolista (/items)...");
+        const playlistRes = await fetch(`https://api.spotify.com/v1/playlists/${SPOTIFY_PLAYLIST_ID}/items?limit=20`, {
             headers: { 'Authorization': `Bearer ${token}` }
         });
         const playlistData = await playlistRes.json();
@@ -185,7 +185,7 @@ async function getSpotifyTracks(wpThumbs) {
         }
 
         if (playlistData.items && playlistData.items.length > 0) {
-            playlistData.items.forEach((item) => {
+            playlistData.items.forEach((item, index) => {
                 const track = item.track;
                 if (!track) return;
 
@@ -195,7 +195,11 @@ async function getSpotifyTracks(wpThumbs) {
                 const uniqueId = `spotify-${track.id}`;
                 
                 const webThumbsCount = wpThumbs[uniqueId] || 0;
-                const score = parseFloat(calculateScore(addedAt, 0, 0, webThumbsCount, 'spotify').toFixed(1));
+                
+                // Lasketaan sijoitusbonus: ykkönen (index 0) saa 20p, toinen 19p jne. Ei kumuloidu.
+                const positionBonus = Math.max(0, 20 - index); 
+                
+                const score = parseFloat(calculateScore(addedAt, 0, 0, webThumbsCount, 'spotify', positionBonus).toFixed(1));
 
                 spotifySongs.push({
                     id: uniqueId,
@@ -386,7 +390,7 @@ client.once('ready', async () => {
     }
 
     fs.writeFileSync('top20_songs.json', JSON.stringify({ last_updated: new Date().toISOString(), top_songs: top20 }, null, 2));
-    console.log('Päivitys valmis! Kommentit suojattu.');
+    console.log('Päivitys valmis!');
     client.destroy();
 });
 
