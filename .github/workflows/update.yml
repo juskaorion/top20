@@ -1,54 +1,42 @@
-name: Daily Discord Update
+name: Daily Discord Updateon:schedule:- cron: '0 4 * * *' # Ajaa automaattisesti klo 4 yöllä UTCworkflow_dispatch: # Mahdollistaa manuaalisen ajonpermissions:contents: writejobs:build:runs-on: ubuntu-lateststeps:
+- name: Checkout repository
+  uses: actions/checkout@v4
 
-on:
-  schedule:
-    - cron: '0 4 * * *' # Ajaa automaattisesti klo 4 yöllä UTC
-  workflow_dispatch: # Mahdollistaa manuaalisen ajon
+- name: Setup Node.js
+  uses: actions/setup-node@v4
+  with:
+    node-version: '20'
 
-permissions:
-  contents: write
+- name: Install system dependencies (FFMPEG & yt-dlp)
+  run: |
+    sudo apt-get update
+    sudo apt-get install -y ffmpeg
+    sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+    sudo chmod a+rx /usr/local/bin/yt-dlp
+    
+- name: Install node dependencies
+  run: npm install discord.js dotenv basic-ftp
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+- name: Run data fetch script
+  env:
+    DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+    CHANNEL_ID_1: ${{ secrets.CHANNEL_ID_1 }}
+    CHANNEL_ID_2: ${{ secrets.CHANNEL_ID_2 }}
+    CHANNEL_ID_3: ${{ secrets.CHANNEL_ID_3 }}
+    FTP_HOST: ${{ secrets.FTP_HOST }}
+    FTP_USER: ${{ secrets.FTP_USER }}
+    FTP_PASS: ${{ secrets.FTP_PASS }}
+    FTP_DIR: ${{ secrets.FTP_DIR }}
+    FTP_WEB_URL: ${{ secrets.FTP_WEB_URL }}
+    SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+    SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+  run: node index.js
 
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
-
-    - name: Install system dependencies (FFMPEG & yt-dlp)
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y ffmpeg
-        sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
-        sudo chmod a+rx /usr/local/bin/yt-dlp
-        
-    - name: Install node dependencies
-      run: npm install discord.js dotenv basic-ftp
-
-    - name: Run data fetch script
-      env:
-        DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-        CHANNEL_ID_1: ${{ secrets.CHANNEL_ID_1 }}
-        CHANNEL_ID_2: ${{ secrets.CHANNEL_ID_2 }}
-        CHANNEL_ID_3: ${{ secrets.CHANNEL_ID_3 }}
-        FTP_HOST: ${{ secrets.FTP_HOST }}
-        FTP_USER: ${{ secrets.FTP_USER }}
-        FTP_PASS: ${{ secrets.FTP_PASS }}
-        FTP_DIR: ${{ secrets.FTP_DIR }}
-        FTP_WEB_URL: ${{ secrets.FTP_WEB_URL }}
-      run: node index.js
-
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name 'GitHub Actions Bot'
-        git config --global user.email 'bot@users.noreply.github.com'
-        git add -A
-        git commit -m "Automaattinen listan päivitys" || exit 0
-        git pull --rebase
-        git push
+- name: Commit and Push changes
+  run: |
+    git config --global user.name 'GitHub Actions Bot'
+    git config --global user.email 'bot@users.noreply.github.com'
+    git add -A
+    git commit -m "Automaattinen listan päivitys" || exit 0
+    git pull --rebase
+    git push
