@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T20:03:57.952Z",
+  "last_updated": "2026-05-13T20:07:03.466Z",
   "top_songs": [
     {
       "id": "1489330055556370462",
@@ -139,7 +139,7 @@
         "thumbs": 1
       },
       "rank": 7,
-      "previous_rank": 9
+      "previous_rank": 7
     },
     {
       "id": "1495430596002840739",
@@ -159,7 +159,7 @@
         "thumbs": 2
       },
       "rank": 8,
-      "previous_rank": 7
+      "previous_rank": 8
     },
     {
       "id": "1502235804288679998",
@@ -179,7 +179,7 @@
         "thumbs": 0
       },
       "rank": 9,
-      "previous_rank": 10
+      "previous_rank": 9
     },
     {
       "id": "1494467264634683463",
@@ -199,7 +199,7 @@
         "thumbs": 5
       },
       "rank": 10,
-      "previous_rank": 8
+      "previous_rank": 10
     },
     {
       "id": "1504210039278272623",
@@ -219,7 +219,7 @@
         "thumbs": 0
       },
       "rank": 11,
-      "previous_rank": null
+      "previous_rank": 11
     },
     {
       "id": "1498080628065833092",
@@ -239,7 +239,7 @@
         "thumbs": 0
       },
       "rank": 12,
-      "previous_rank": 11
+      "previous_rank": 12
     },
     {
       "id": "1497135834942410753",
@@ -259,7 +259,7 @@
         "thumbs": 0
       },
       "rank": 13,
-      "previous_rank": 12
+      "previous_rank": 13
     },
     {
       "id": "1501990977399816212",
@@ -279,7 +279,7 @@
         "thumbs": 1
       },
       "rank": 14,
-      "previous_rank": 13
+      "previous_rank": 14
     },
     {
       "id": "1501989951116542094",
@@ -299,7 +299,7 @@
         "thumbs": 1
       },
       "rank": 15,
-      "previous_rank": 14
+      "previous_rank": 15
     },
     {
       "id": "1492988613976260760",
@@ -319,7 +319,7 @@
         "thumbs": 2
       },
       "rank": 16,
-      "previous_rank": 15
+      "previous_rank": 16
     },
     {
       "id": "1503111070028529785",
@@ -339,7 +339,7 @@
         "thumbs": 0
       },
       "rank": 17,
-      "previous_rank": 16
+      "previous_rank": 17
     },
     {
       "id": "1501990182721949920",
@@ -359,7 +359,7 @@
         "thumbs": 0
       },
       "rank": 18,
-      "previous_rank": 17
+      "previous_rank": 18
     },
     {
       "id": "1493627225092784373",
@@ -379,7 +379,7 @@
         "thumbs": 1
       },
       "rank": 19,
-      "previous_rank": 18
+      "previous_rank": 19
     },
     {
       "id": "1501991388127035413",
@@ -399,7 +399,7 @@
         "thumbs": 0
       },
       "rank": 20,
-      "previous_rank": 19
+      "previous_rank": 20
     }
   ]
 }
