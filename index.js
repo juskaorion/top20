@@ -121,7 +121,7 @@ function cleanTitle(title, messageContent) {
 function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 0, source = 'discord', positionBonus = 0) {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
-    const baseScore = 550; // Nostettu 550:een
+    const baseScore = 600; // Nostettu 600:aan
     
     let reactionPoints = 0;
     let commentPoints = 0;
