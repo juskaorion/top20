@@ -57,22 +57,15 @@ async function extractAudioInfos(message) {
     while ((driveMatch = driveRegex.exec(text)) !== null) {
         if (!driveMatch[0].includes('/folders/')) {
             let driveTitle = embedTitle;
-
             try {
                 const response = await fetch(driveMatch[0]);
                 const html = await response.text();
                 const titleMatch = html.match(/<title>(.*?) - Google Drive<\/title>/i);
-                
                 if (titleMatch && titleMatch[1]) {
                     const fetchedTitle = titleMatch[1].replace(/&amp;/g, '&');
-                    if (!fetchedTitle.toLowerCase().includes('sign in')) {
-                        driveTitle = fetchedTitle;
-                    }
+                    if (!fetchedTitle.toLowerCase().includes('sign in')) driveTitle = fetchedTitle;
                 }
-            } catch (err) {
-                console.error("Google Drive otsikon haku epäonnistui:", err.message);
-            }
-
+            } catch (err) { }
             results.push({ type: 'drive_file', url: driveMatch[1], title: driveTitle || 'Google Drive Audio' });
         }
     }
@@ -101,21 +94,13 @@ function cleanTitle(title, messageContent) {
     let cleaned = title;
     try { cleaned = decodeURIComponent(title); } catch (e) {}
 
-    cleaned = cleaned
-        .replace(/\.(mp3|wav|ogg|flac|m4a|aac)(\?.*)?$/i, '')
-        .replace(/_-_/g, ' - ')
-        .replace(/_/g, ' ')
-        .replace(/\s+/g, ' ')
-        .trim();
+    cleaned = cleaned.replace(/\.(mp3|wav|ogg|flac|m4a|aac)(\?.*)?$/i, '').replace(/_-_/g, ' - ').replace(/_/g, ' ').replace(/\s+/g, ' ').trim();
 
     if (!cleaned.includes('(') && !cleaned.includes(')')) {
         const remixRegex = /(.*)\s+((?:[a-zA-Z0-9\säöåÄÖÅ]+)\s+(?:mashup|remix|edit|flip|bootleg|vip|mix))$/i;
         const match = cleaned.match(remixRegex);
-        if (match) {
-            cleaned = `${match[1].trim()} (${match[2].trim()})`;
-        }
+        if (match) cleaned = `${match[1].trim()} (${match[2].trim()})`;
     }
-
     return cleaned;
 }
 
@@ -144,32 +129,32 @@ function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 
 
 async function getSpotifyTracks(wpThumbs) {
     let spotifySongs = [];
-    if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET) {
-        console.error("HUOM! SPOTIFY_CLIENT_ID tai SPOTIFY_CLIENT_SECRET puuttuu. Spotify-biisejä ei haeta.");
-        return spotifySongs;
-    }
+    if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET) return spotifySongs;
 
     try {
-        console.log("Haetaan Spotify API access token...");
+        console.log("Haetaan Spotify API access token (yksinkertainen tapa)...");
+        const authString = Buffer.from(`${SPOTIFY_CLIENT_ID}:${SPOTIFY_CLIENT_SECRET}`).toString('base64');
+        
         const tokenRes = await fetch('https://accounts.spotify.com/api/token', {
             method: 'POST',
-            headers: {
-                'Content-Type': 'application/x-www-form-urlencoded',
-                'Authorization': 'Basic ' + Buffer.from(SPOTIFY_CLIENT_ID + ':' + SPOTIFY_CLIENT_SECRET).toString('base64')
+            headers: { 
+                'Content-Type': 'application/x-www-form-urlencoded', 
+                'Authorization': `Basic ${authString}` 
             },
             body: 'grant_type=client_credentials'
         });
+        
         const tokenData = await tokenRes.json();
         
         if (!tokenRes.ok) {
             console.error("Spotify Token Error:", tokenData);
             return spotifySongs;
         }
-        
+
         const token = tokenData.access_token;
 
         console.log("Haetaan Spotifyn soittolista...");
-        const playlistRes = await fetch(`https://api.spotify.com/v1/playlists/${SPOTIFY_PLAYLIST_ID}/tracks`, {
+        const playlistRes = await fetch(`https://api.spotify.com/v1/playlists/${SPOTIFY_PLAYLIST_ID}/tracks?limit=20`, {
             headers: { 'Authorization': `Bearer ${token}` }
         });
         const playlistData = await playlistRes.json();
@@ -181,7 +166,7 @@ async function getSpotifyTracks(wpThumbs) {
 
         if (playlistData.items && playlistData.items.length > 0) {
             playlistData.items.forEach((item) => {
-                const track = item.track;
+                const track = item.track; 
                 if (!track) return;
 
                 const addedAt = new Date(item.added_at);
@@ -207,8 +192,6 @@ async function getSpotifyTracks(wpThumbs) {
                     stats: { reactions: 0, comments: 0, thumbs: webThumbsCount }
                 });
             });
-        } else {
-            console.log("Spotify palautti tyhjän listan tai rakenne oli odottamaton:", playlistData);
         }
         console.log(`Löydettiin ${spotifySongs.length} biisiä Spotifysta.`);
     } catch (e) {
@@ -227,9 +210,7 @@ client.once('ready', async () => {
             wpThumbs = await wpThumbsResponse.json();
             console.log("Verkkopeukut haettu onnistuneesti!");
         }
-    } catch (e) {
-        console.error("Virhe haettaessa verkkopeukkuja:", e);
-    }
+    } catch (e) { console.error("Virhe haettaessa verkkopeukkuja:", e); }
 
     for (const channelId of CHANNELS) {
         if (!channelId) continue;
@@ -349,11 +330,9 @@ client.once('ready', async () => {
 
                 try {
                     if (song.audio_type === 'soundcloud_link' || song.audio_type === 'youtube_link') {
-                        console.log(`-> Puretaan raakastriimi (yt-dlp)...`);
                         const durationStr = execSync(`yt-dlp --print duration "${downloadUrl}"`).toString().trim();
                         const duration = parseFloat(durationStr);
                         if (!isNaN(duration) && duration > 60) startTime = Math.max(0, (duration / 2) - 30);
-                        
                         downloadUrl = execSync(`yt-dlp -g -f "bestaudio" "${downloadUrl}"`).toString().trim().split('\n')[0];
                     } else {
                         try {
@@ -369,7 +348,6 @@ client.once('ready', async () => {
                     song.audio_url = `${ftpWebUrl}/${outputFilename}?v=${Date.now()}`;
                     song.audio_type = "secure_clip";
                     fs.unlinkSync(outputPath);
-                    console.log(`-> Valmis!`);
                 } catch (err) { 
                     console.error(`-> Virhe sijalla ${song.rank}: Kappaleen lataus tai leikkaus epäonnistui.`); 
                 }
