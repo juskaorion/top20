@@ -186,8 +186,9 @@ async function getSpotifyTracks(wpThumbs) {
 
         if (playlistData.items && playlistData.items.length > 0) {
             playlistData.items.forEach((item, index) => {
-                const track = item.track;
-                if (!track) return;
+                // MUUTOS: Spotify 2026 API /items palauttaa tiedot item.item kentässä, ei item.track
+                const track = item.item || item.track;
+                if (!track || track.type !== 'track') return; // Ohitetaan jos ei löydy tai on esim. podcast episode
 
                 const addedAt = new Date(item.added_at);
                 const artistName = track.artists.map(a => a.name).join(', ');
