@@ -20,6 +20,24 @@ const SPOTIFY_CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
 const SPOTIFY_REFRESH_TOKEN = process.env.SPOTIFY_REFRESH_TOKEN;
 const SPOTIFY_PLAYLIST_ID = '3trehlc2tS8pIoJqMxK6l3';
 
+// === PISTEYTYKSEN ASETUKSET ===
+const SCORE_CONFIG = {
+    BASE_SCORE: 600,            // Kaikkien uusien biisien aloituspistemäärä
+    PLAY_POINTS: 2.2,           // Pisteet per yksi kuuntelu (Play-napin painallus)
+    DISCORD: {
+        REACTION_POINTS: 7.5,   // Pisteet per Discord-reaktio
+        COMMENT_POINTS: 12.5,   // Pisteet per Discord-kommentti (threadissa)
+        THUMB_POINTS: 5.5,      // Pisteet per nettisivun peukku
+        AGE_PENALTY_PER_DAY: 2.5 // Miinuspisteet per päivä (ikäsakko)
+    },
+    SPOTIFY: {
+        THUMB_POINTS: 11.0,     // Pisteet per nettisivun peukku (Tupla-arvo)
+        AGE_PENALTY_PER_DAY: 3.75, // Miinuspisteet per päivä (Kovempi ikäsakko)
+        MAX_POSITION_BONUS: 20  // Listaykkösen saama bonus (laskee 1p per sija alaspäin)
+    }
+};
+// ==============================
+
 async function extractAudioInfos(message) {
     const results = [];
     const text = message.content;
@@ -118,30 +136,32 @@ function cleanTitle(title, messageContent) {
     return cleaned;
 }
 
-function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 0, source = 'discord', positionBonus = 0) {
+function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 0, playCount = 0, source = 'discord', positionBonus = 0) {
     const now = new Date();
     const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
-    const baseScore = 600; // Nostettu 600:aan
+    const baseScore = SCORE_CONFIG.BASE_SCORE; 
     
     let reactionPoints = 0;
     let commentPoints = 0;
     let webThumbPoints = 0;
     let agePenalty = 0;
+    
+    const playPoints = playCount * SCORE_CONFIG.PLAY_POINTS;
 
     if (source === 'discord') {
-        reactionPoints = reactionCount * 7.5; 
-        commentPoints = commentCount * 12.5;  
-        webThumbPoints = webThumbsCount * 5.5; 
-        agePenalty = ageInDays * 2.5;          
+        reactionPoints = reactionCount * SCORE_CONFIG.DISCORD.REACTION_POINTS; 
+        commentPoints = commentCount * SCORE_CONFIG.DISCORD.COMMENT_POINTS;  
+        webThumbPoints = webThumbsCount * SCORE_CONFIG.DISCORD.THUMB_POINTS; 
+        agePenalty = ageInDays * SCORE_CONFIG.DISCORD.AGE_PENALTY_PER_DAY;          
     } else if (source === 'spotify') {
-        webThumbPoints = webThumbsCount * 11.0; 
-        agePenalty = ageInDays * 3.75;          
+        webThumbPoints = webThumbsCount * SCORE_CONFIG.SPOTIFY.THUMB_POINTS; 
+        agePenalty = ageInDays * SCORE_CONFIG.SPOTIFY.AGE_PENALTY_PER_DAY;          
     }
     
-    return Math.max(0, baseScore + reactionPoints + commentPoints + webThumbPoints + positionBonus - agePenalty);
+    return Math.max(0, baseScore + reactionPoints + commentPoints + webThumbPoints + playPoints + positionBonus - agePenalty);
 }
 
-async function getSpotifyTracks(wpThumbs) {
+async function getSpotifyTracks(wpThumbs, wpPlays) {
     let spotifySongs = [];
     if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET || !SPOTIFY_REFRESH_TOKEN) {
         console.error("HUOM! SPOTIFY_CLIENT_ID, SECRET tai REFRESH_TOKEN puuttuu.");
@@ -165,7 +185,6 @@ async function getSpotifyTracks(wpThumbs) {
         });
         
         const tokenData = await tokenRes.json();
-        
         if (!tokenRes.ok) {
             console.error("Spotify Token Error:", tokenData);
             return spotifySongs;
@@ -186,9 +205,8 @@ async function getSpotifyTracks(wpThumbs) {
 
         if (playlistData.items && playlistData.items.length > 0) {
             playlistData.items.forEach((item, index) => {
-                // MUUTOS: Spotify 2026 API /items palauttaa tiedot item.item kentässä, ei item.track
-                const track = item.item || item.track;
-                if (!track || track.type !== 'track') return; // Ohitetaan jos ei löydy tai on esim. podcast episode
+                const track = item.item || item.track; // TÄMÄ ON KORJATTU 2026-versiota varten
+                if (!track || track.type !== 'track') return; 
 
                 const addedAt = new Date(item.added_at);
                 const artistName = track.artists.map(a => a.name).join(', ');
@@ -196,11 +214,10 @@ async function getSpotifyTracks(wpThumbs) {
                 const uniqueId = `spotify-${track.id}`;
                 
                 const webThumbsCount = wpThumbs[uniqueId] || 0;
+                const playCount = wpPlays[uniqueId] || 0;
+                const positionBonus = Math.max(0, SCORE_CONFIG.SPOTIFY.MAX_POSITION_BONUS - index); 
                 
-                // Lasketaan sijoitusbonus: ykkönen (index 0) saa 20p, toinen 19p jne. Ei kumuloidu.
-                const positionBonus = Math.max(0, 20 - index); 
-                
-                const score = parseFloat(calculateScore(addedAt, 0, 0, webThumbsCount, 'spotify', positionBonus).toFixed(1));
+                const score = parseFloat(calculateScore(addedAt, 0, 0, webThumbsCount, playCount, 'spotify', positionBonus).toFixed(1));
 
                 spotifySongs.push({
                     id: uniqueId,
@@ -214,7 +231,7 @@ async function getSpotifyTracks(wpThumbs) {
                     posted_at: addedAt.toISOString(),
                     score: score,
                     web_thumbs: webThumbsCount,
-                    stats: { reactions: 0, comments: 0, thumbs: webThumbsCount }
+                    stats: { reactions: 0, comments: 0, thumbs: webThumbsCount, plays: playCount }
                 });
             });
             console.log(`Löydettiin ${spotifySongs.length} biisiä Spotifysta.`);
@@ -230,15 +247,19 @@ async function getSpotifyTracks(wpThumbs) {
 client.once('ready', async () => {
     let allValidSongs = [];
     let wpThumbs = {};
+    let wpPlays = {}; // Uusi säiliö kuunteluille
     
     try {
-        const wpThumbsResponse = await fetch('https://www.djorion.fi/wp-json/top20/v1/thumbs');
-        if (wpThumbsResponse.ok) {
-            wpThumbs = await wpThumbsResponse.json();
-            console.log("Verkkopeukut haettu onnistuneesti!");
-        }
+        console.log("Haetaan verkkosivun peukut ja kuuntelut...");
+        const [thumbsRes, playsRes] = await Promise.all([
+            fetch('https://www.djorion.fi/wp-json/top20/v1/thumbs'),
+            fetch('https://www.djorion.fi/wp-json/top20/v1/plays')
+        ]);
+        
+        if (thumbsRes.ok) wpThumbs = await thumbsRes.json();
+        if (playsRes.ok) wpPlays = await playsRes.json();
     } catch (e) {
-        console.error("Virhe haettaessa verkkopeukkuja:", e);
+        console.error("Virhe haettaessa WordPress-dataa:", e);
     }
 
     for (const channelId of CHANNELS) {
@@ -266,7 +287,9 @@ client.once('ready', async () => {
                     audioInfos.forEach((audioInfo, index) => {
                         const uniqueId = index === 0 ? message.id : `${message.id}-${index}`;
                         const webThumbsCount = wpThumbs[uniqueId] || 0;
-                        const score = parseFloat(calculateScore(message.createdAt, reactionCount, commentCount, webThumbsCount, 'discord').toFixed(1));
+                        const playCount = wpPlays[uniqueId] || 0;
+                        
+                        const score = parseFloat(calculateScore(message.createdAt, reactionCount, commentCount, webThumbsCount, playCount, 'discord').toFixed(1));
 
                         let titleCleaned = cleanTitle(audioInfo.title, message.content);
                         let parsedArtist = message.author.username;
@@ -292,7 +315,7 @@ client.once('ready', async () => {
                             posted_at: message.createdAt.toISOString(),
                             score: score,
                             web_thumbs: webThumbsCount, 
-                            stats: { reactions: reactionCount, comments: commentCount, thumbs: webThumbsCount }
+                            stats: { reactions: reactionCount, comments: commentCount, thumbs: webThumbsCount, plays: playCount }
                         });
                     });
                 }
@@ -300,7 +323,7 @@ client.once('ready', async () => {
         } catch (error) { console.error(error); }
     }
     
-    const spotifySongs = await getSpotifyTracks(wpThumbs);
+    const spotifySongs = await getSpotifyTracks(wpThumbs, wpPlays);
     allValidSongs.push(...spotifySongs);
 
     allValidSongs.sort((a, b) => b.score - a.score);
