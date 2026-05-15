@@ -18,14 +18,14 @@ const SCORE_CONFIG = {
         COMMENT_VALUE: 12.5,
         WEB_THUMB_VALUE: 5.5,
         WEB_PLAY_VALUE: 10.5,
-        AGE_PENALTY_PER_DAY: 3.5
+        AGE_PENALTY_PER_DAY: 4.5
     },
     
     // Spotifysta tulevien biisien kertoimet
     SPOTIFY: {
         WEB_THUMB_VALUE: 11.0,
         WEB_PLAY_VALUE: 10.5,
-        AGE_PENALTY_PER_DAY: 3.75
+        AGE_PENALTY_PER_DAY: 4.75
     }
 };
 /* ======================================================= */
