@@ -18,14 +18,14 @@ const SCORE_CONFIG = {
         COMMENT_VALUE: 12.5,
         WEB_THUMB_VALUE: 5.5,
         WEB_PLAY_VALUE: 10.5,
-        AGE_PENALTY_PER_DAY: 4.5
+        AGE_PENALTY_PER_DAY: 14.5
     },
     
     // Spotifysta tulevien biisien kertoimet
     SPOTIFY: {
         WEB_THUMB_VALUE: 11.0,
         WEB_PLAY_VALUE: 10.5,
-        AGE_PENALTY_PER_DAY: 4.75
+        AGE_PENALTY_PER_DAY: 14.75
     }
 };
 /* ======================================================= */
@@ -73,7 +73,14 @@ async function extractAudioInfos(message) {
                 urlObj.searchParams.set('raw', '1');
                 let pathname = urlObj.pathname;
                 let filename = decodeURIComponent(pathname.substring(pathname.lastIndexOf('/') + 1));
-                results.push({ type: 'dropbox_link', url: urlObj.toString(), title: filename });
+                
+                // KORJAUS: Käytetään mieluummin Discordin hakemaa otsikkoa (embedTitle) kuin rumaa tiedostonimeä (esim. sisältää viivoja)
+                let finalTitle = filename;
+                if (embedTitle && embedTitle !== 'Dropbox' && !embedTitle.includes('Shared with')) {
+                    finalTitle = embedTitle;
+                }
+
+                results.push({ type: 'dropbox_link', url: urlObj.toString(), title: finalTitle });
             } catch (e) { 
                 results.push({ type: 'dropbox_link', url: urlStr, title: embedTitle || 'Dropbox Audio' }); 
             }
@@ -128,12 +135,19 @@ function cleanTitle(title, messageContent) {
     let cleaned = title;
     try { cleaned = decodeURIComponent(title); } catch (e) {}
 
+    // KORJAUS: Vaihdetaan myös pitkät viivat (en-dash, em-dash) tavallisiksi viivoiksi, jotta ' - ' jako onnistuu myöhemmin
     cleaned = cleaned
         .replace(/\.(mp3|wav|ogg|flac|m4a|aac)(\?.*)?$/i, '')
         .replace(/_-_/g, ' - ')
         .replace(/_/g, ' ')
+        .replace(/[–—]/g, '-') // Normalize en-dash/em-dash
         .replace(/\s+/g, ' ')
         .trim();
+
+    // KORJAUS 2: Jos nimessä ei ole lainkaan välilyöntejä mutta viivoja löytyy (eli se on URL-slug), siivotaan viivat välilyönneiksi
+    if (!cleaned.includes(' ') && cleaned.includes('-')) {
+        cleaned = cleaned.replace(/-/g, ' ');
+    }
 
     if (!cleaned.includes('(') && !cleaned.includes(')')) {
         const remixRegex = /(.*)\s+((?:[a-zA-Z0-9\säöåÄÖÅ]+)\s+(?:mashup|remix|edit|flip|bootleg|vip|mix))$/i;
@@ -221,13 +235,12 @@ async function getSpotifyTracks(wpThumbs, wpPlays) {
                 const track = item.item || item.track;
                 if (!track || track.type !== 'track') return;
 
-                // Haetaan alkuperäinen julkaisupäivä
                 let releaseDateStr = track.album.release_date;
                 if (releaseDateStr) {
                     if (releaseDateStr.length === 4) releaseDateStr += "-01-01";
                     else if (releaseDateStr.length === 7) releaseDateStr += "-01";
                 }
-                const releaseDate = releaseDateStr ? new Date(releaseDateStr) : new Date(item.added_at); // Fallback lisäyspäivään, jos puuttuu
+                const releaseDate = releaseDateStr ? new Date(releaseDateStr) : new Date(item.added_at);
 
                 const artistName = track.artists.map(a => a.name).join(', ');
                 const songTitle = `${artistName} - ${track.name}`;
@@ -236,7 +249,6 @@ async function getSpotifyTracks(wpThumbs, wpPlays) {
                 const webThumbsCount = wpThumbs[uniqueId] || 0;
                 const playCount = wpPlays[uniqueId] || 0;
                 
-                // Päiväkohtainen sijoitusbonus listan perusteella
                 const positionBonus = Math.max(0, 20 - index); 
                 
                 const score = parseFloat(calculateScore(releaseDate, 0, 0, webThumbsCount, playCount, 'spotify', positionBonus).toFixed(1));
