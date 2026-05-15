@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T09:03:48.199Z",
+  "last_updated": "2026-05-15T07:31:10.118Z",
   "top_songs": [
     {
       "id": "1489330055556370462",
@@ -11,14 +11,14 @@
       "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1776011049693",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1489330055556370462",
       "posted_at": "2026-04-02T18:25:55.659Z",
-      "score": 740.5,
-      "web_thumbs": 9,
-      "web_plays": 0,
+      "score": 855.1,
+      "web_thumbs": 11,
+      "web_plays": 27,
       "stats": {
         "reactions": 26,
         "comments": 0,
-        "thumbs": 9,
-        "plays": 0
+        "thumbs": 11,
+        "plays": 27
       },
       "rank": 1,
       "previous_rank": 1
@@ -33,17 +33,83 @@
       "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1778516217217",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 647.5,
+      "score": 691.6,
       "web_thumbs": 3,
-      "web_plays": 0,
+      "web_plays": 14,
       "stats": {
         "reactions": 14,
         "comments": 0,
         "thumbs": 3,
-        "plays": 0
+        "plays": 14
       },
       "rank": 2,
       "previous_rank": 2
+    },
+    {
+      "id": "1501989951116542094",
+      "song_title": "xmies23 - Samuell-vs-Sammy-Virji-Hei-Supermario-Xmies-mashup",
+      "author": "xmies23",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "message_text": "Samuell vs Sammy Virji - Hei Supermario (Xmies mashup)",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1778830226189",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501989951116542094",
+      "posted_at": "2026-05-07T16:51:49.970Z",
+      "score": 685.4,
+      "web_thumbs": 8,
+      "web_plays": 11,
+      "stats": {
+        "reactions": 1,
+        "comments": 0,
+        "thumbs": 8,
+        "plays": 11
+      },
+      "rank": 3,
+      "previous_rank": 17
+    },
+    {
+      "id": "1501990977399816212",
+      "song_title": "xmies23 - Lauri-Haav-vs-Blackout-JA-OVI-KII-Xmies-mashup",
+      "author": "xmies23",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "message_text": "Lauri Haav vs BLACKOUT JA - Ovi kii (Xmies mashup)",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1778830235189",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501990977399816212",
+      "posted_at": "2026-05-07T16:55:54.655Z",
+      "score": 679.9,
+      "web_thumbs": 9,
+      "web_plays": 9,
+      "stats": {
+        "reactions": 1,
+        "comments": 0,
+        "thumbs": 9,
+        "plays": 9
+      },
+      "rank": 4,
+      "previous_rank": 16
+    },
+    {
+      "id": "1499675022476972155",
+      "song_title": "AB vs. Daft Punk vs. Westend - Around the Maailmaa (TEIO Mashup)",
+      "author": "AB vs. Daft Punk vs. Westend",
+      "author_avatar": "https://cdn.discordapp.com/avatars/93735210524356608/96f833cc723d229e56b02baaf35f2356.webp?size=128",
+      "message_text": "AB Ympäri maailmaa vähän clubiystävällisemmässä muodossa! Hyvät vaput!",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1778830238106",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1499675022476972155",
+      "posted_at": "2026-05-01T07:33:07.973Z",
+      "score": 678.5,
+      "web_thumbs": 2,
+      "web_plays": 13,
+      "stats": {
+        "reactions": 6,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 13
+      },
+      "rank": 5,
+      "previous_rank": 7
     },
     {
       "id": "1493677515695194182",
@@ -52,20 +118,42 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
       "message_text": "kuumimmat litkumuussit kesään",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1778516220260",
+      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1778830240680",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 642,
+      "score": 675.1,
       "web_thumbs": 2,
-      "web_plays": 0,
+      "web_plays": 12,
       "stats": {
         "reactions": 14,
         "comments": 0,
         "thumbs": 2,
-        "plays": 0
+        "plays": 12
       },
-      "rank": 3,
+      "rank": 6,
       "previous_rank": 3
+    },
+    {
+      "id": "1493677515695194182-4",
+      "song_title": "Bicep Kanine x Chebaleba - Glue Kesafiilistelyy (Turboviiksi mashup)",
+      "author": "Bicep Kanine x Chebaleba",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
+      "message_text": "kuumimmat litkumuussit kesään",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1778830243299",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
+      "posted_at": "2026-04-14T18:21:10.928Z",
+      "score": 675.1,
+      "web_thumbs": 1,
+      "web_plays": 13,
+      "stats": {
+        "reactions": 14,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 13
+      },
+      "rank": 7,
+      "previous_rank": 6
     },
     {
       "id": "1493677515695194182-1",
@@ -74,19 +162,19 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
       "message_text": "kuumimmat litkumuussit kesään",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1778516223437",
+      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1778830246061",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 642,
+      "score": 658.6,
       "web_thumbs": 2,
-      "web_plays": 0,
+      "web_plays": 9,
       "stats": {
         "reactions": 14,
         "comments": 0,
         "thumbs": 2,
-        "plays": 0
+        "plays": 9
       },
-      "rank": 4,
+      "rank": 8,
       "previous_rank": 4
     },
     {
@@ -96,108 +184,20 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
       "message_text": "kuumimmat litkumuussit kesään",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1778516226722",
+      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1778830248529",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
       "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 642,
-      "web_thumbs": 2,
-      "web_plays": 0,
+      "score": 658.6,
+      "web_thumbs": 3,
+      "web_plays": 8,
       "stats": {
         "reactions": 14,
         "comments": 0,
-        "thumbs": 2,
-        "plays": 0
-      },
-      "rank": 5,
-      "previous_rank": 5
-    },
-    {
-      "id": "1493677515695194182-4",
-      "song_title": "Bicep Kanine x Chebaleba - Glue Kesafiilistelyy (Turboviiksi mashup)",
-      "author": "Bicep Kanine x Chebaleba",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
-      "message_text": "kuumimmat litkumuussit kesään",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1776245762068",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1493677515695194182",
-      "posted_at": "2026-04-14T18:21:10.928Z",
-      "score": 636.5,
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 14,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0
-      },
-      "rank": 6,
-      "previous_rank": 6
-    },
-    {
-      "id": "1499675022476972155",
-      "song_title": "AB vs. Daft Punk vs. Westend - Around the Maailmaa (TEIO Mashup)",
-      "author": "AB vs. Daft Punk vs. Westend",
-      "author_avatar": "https://cdn.discordapp.com/avatars/93735210524356608/96f833cc723d229e56b02baaf35f2356.webp?size=128",
-      "message_text": "AB Ympäri maailmaa vähän clubiystävällisemmässä muodossa! Hyvät vaput!",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1778749380620",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1499675022476972155",
-      "posted_at": "2026-05-01T07:33:07.973Z",
-      "score": 617.8,
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 6,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0
-      },
-      "rank": 7,
-      "previous_rank": 8
-    },
-    {
-      "id": "1495430596002840739",
-      "song_title": "bookeyxoxo - MIKA BOOGIE x JUMP AROUND LIKETHAT SPEEDY G MASH",
-      "author": "bookeyxoxo",
-      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
-      "message_text": "samaan syssyyn vielä metsästin usbin syöväreistä tän, pari vuotta sitten tehty yhtä tapahtumaa varten tämmönen ukg-ralli mash :D✌🏻",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1778749383169",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495430596002840739",
-      "posted_at": "2026-04-19T14:27:17.844Z",
-      "score": 616.6,
-      "web_thumbs": 2,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 9,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 0
-      },
-      "rank": 8,
-      "previous_rank": 9
-    },
-    {
-      "id": "1502235804288679998",
-      "song_title": "Chedda Gedda x MKA - (Standback Bootleg)",
-      "author": "Chedda Gedda x MKA",
-      "author_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
-      "message_text": "Alkuperäsessä oli valmiiks jo nii sopivan olonen meininki et se oikee huus junkkaversioo. Tällänen saatii aikaseks",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1778749388450",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1502235804288679998",
-      "posted_at": "2026-05-08T09:08:45.934Z",
-      "score": 615,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 4,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0
+        "thumbs": 3,
+        "plays": 8
       },
       "rank": 9,
-      "previous_rank": 10
+      "previous_rank": 5
     },
     {
       "id": "1494467264634683463",
@@ -209,17 +209,39 @@
       "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1778749395173",
       "discord_url": "https://discord.com/channels/1174754304758907002/1404380880364900425/1494467264634683463",
       "posted_at": "2026-04-16T22:39:21.748Z",
-      "score": 611.4,
+      "score": 652.2,
       "web_thumbs": 5,
-      "web_plays": 0,
+      "web_plays": 13,
       "stats": {
         "reactions": 7,
         "comments": 0,
         "thumbs": 5,
-        "plays": 0
+        "plays": 13
       },
       "rank": 10,
-      "previous_rank": 11
+      "previous_rank": 10
+    },
+    {
+      "id": "1504503147836608752",
+      "song_title": "spiceice5252 - Linda-Lampenius-Pete-Parkkonen-Liekinheitin-OLIVER-PARIS-CLUB-REMIX-Radio-edit",
+      "author": "spiceice5252",
+      "author_avatar": "https://cdn.discordapp.com/avatars/848309188467884042/b4dc3e3af647c9ac4dc683ee1f6ead03.webp?size=128",
+      "message_text": "Ohhoh, miten tämä on mennyt multa ohi tällainen ihana ryhmä vaikka olin siinä jo ilmeisesti jäsenenä 🙈🙈 no parempi myöhässä kun ei koskaan 😅 \n\nLaitan  nyt tähän uusimman bootlegin 🙏",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1778830252627",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1504503147836608752",
+      "posted_at": "2026-05-14T15:18:22.761Z",
+      "score": 650.1,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 7,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0
+      },
+      "rank": 11,
+      "previous_rank": null
     },
     {
       "id": "spotify-0cYQbCjWALqznlnGpww64G",
@@ -231,61 +253,17 @@
       "audio_url": "https://open.spotify.com/track/0cYQbCjWALqznlnGpww64G",
       "discord_url": "https://open.spotify.com/track/0cYQbCjWALqznlnGpww64G",
       "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 607.1,
-      "web_thumbs": 1,
-      "web_plays": 0,
+      "score": 646.6,
+      "web_thumbs": 2,
+      "web_plays": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
-        "plays": 0
-      },
-      "rank": 11,
-      "previous_rank": 7
-    },
-    {
-      "id": "1504210039278272623",
-      "song_title": "bookeyxoxo - FOOL U KNOW HOW WE DO IT (Extended Mix)",
-      "author": "bookeyxoxo",
-      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
-      "message_text": "ikivihreen samplen pyöräytys",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1778749398616",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1504210039278272623",
-      "posted_at": "2026-05-13T19:53:40.235Z",
-      "score": 606.1,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 1,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0
+        "thumbs": 2,
+        "plays": 6
       },
       "rank": 12,
-      "previous_rank": 14
-    },
-    {
-      "id": "spotify-2D0UE80nfsne2qvQLdheYc",
-      "song_title": "metakomplex - Afterglow",
-      "author": "metakomplex",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27314badd41192502e5fb5e9cbd",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2D0UE80nfsne2qvQLdheYc",
-      "discord_url": "https://open.spotify.com/track/2D0UE80nfsne2qvQLdheYc",
-      "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 605.1,
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0
-      },
-      "rank": 13,
-      "previous_rank": 12
+      "previous_rank": 11
     },
     {
       "id": "1498080628065833092",
@@ -294,86 +272,42 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Sunnuntai Skaban meikäläisen lopputulos aiheesta, Indica - Ikuinen Virta. rok rok ja sillee",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1778749402605",
+      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1778830256700",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1498080628065833092",
       "posted_at": "2026-04-26T21:57:34.723Z",
-      "score": 601.3,
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "score": 641.1,
+      "web_thumbs": 1,
+      "web_plays": 10,
       "stats": {
         "reactions": 6,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0
+        "thumbs": 1,
+        "plays": 10
+      },
+      "rank": 13,
+      "previous_rank": 14
+    },
+    {
+      "id": "1495430596002840739",
+      "song_title": "bookeyxoxo - MIKA BOOGIE x JUMP AROUND LIKETHAT SPEEDY G MASH",
+      "author": "bookeyxoxo",
+      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
+      "message_text": "samaan syssyyn vielä metsästin usbin syöväreistä tän, pari vuotta sitten tehty yhtä tapahtumaa varten tämmönen ukg-ralli mash :D✌🏻",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1778830259222",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1495430596002840739",
+      "posted_at": "2026-04-19T14:27:17.844Z",
+      "score": 640,
+      "web_thumbs": 3,
+      "web_plays": 7,
+      "stats": {
+        "reactions": 10,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 7
       },
       "rank": 14,
-      "previous_rank": 15
-    },
-    {
-      "id": "1497135834942410753",
-      "song_title": "Audio Wiskari - Suomi Finland Perkele x Red Flag (Turboviiksi mashup)",
-      "author": "Audio Wiskari",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
-      "message_text": "näe junttianthem, tee junttijunkkaa",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1778749404983",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1497135834942410753",
-      "posted_at": "2026-04-24T07:23:18.489Z",
-      "score": 599.8,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 5,
-        "comments": 1,
-        "thumbs": 0,
-        "plays": 0
-      },
-      "rank": 15,
-      "previous_rank": 17
-    },
-    {
-      "id": "1501990977399816212",
-      "song_title": "xmies23 - Lauri-Haav-vs-Blackout-JA-OVI-KII-Xmies-mashup",
-      "author": "xmies23",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "Lauri Haav vs BLACKOUT JA - Ovi kii (Xmies mashup)",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1778749414716",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501990977399816212",
-      "posted_at": "2026-05-07T16:55:54.655Z",
-      "score": 596.3,
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 1,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0
-      },
-      "rank": 16,
-      "previous_rank": 19
-    },
-    {
-      "id": "1501989951116542094",
-      "song_title": "xmies23 - Samuell-vs-Sammy-Virji-Hei-Supermario-Xmies-mashup",
-      "author": "xmies23",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "Samuell vs Sammy Virji - Hei Supermario (Xmies mashup)",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1778749423963",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501989951116542094",
-      "posted_at": "2026-05-07T16:51:49.970Z",
-      "score": 596.3,
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 1,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0
-      },
-      "rank": 17,
-      "previous_rank": 20
+      "previous_rank": 8
     },
     {
       "id": "spotify-6z6Z9VVB78xAjM9ru20DSW",
@@ -385,17 +319,105 @@
       "audio_url": "https://open.spotify.com/track/6z6Z9VVB78xAjM9ru20DSW",
       "discord_url": "https://open.spotify.com/track/6z6Z9VVB78xAjM9ru20DSW",
       "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 595.1,
+      "score": 638.1,
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0
+        "plays": 9
+      },
+      "rank": 15,
+      "previous_rank": 18
+    },
+    {
+      "id": "spotify-2D0UE80nfsne2qvQLdheYc",
+      "song_title": "metakomplex - Afterglow",
+      "author": "metakomplex",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27314badd41192502e5fb5e9cbd",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2D0UE80nfsne2qvQLdheYc",
+      "discord_url": "https://open.spotify.com/track/2D0UE80nfsne2qvQLdheYc",
+      "posted_at": "2026-05-08T00:00:00.000Z",
+      "score": 633.6,
+      "web_thumbs": 1,
+      "web_plays": 6,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 6
+      },
+      "rank": 16,
+      "previous_rank": 13
+    },
+    {
+      "id": "1497135834942410753",
+      "song_title": "Audio Wiskari - Suomi Finland Perkele x Red Flag (Turboviiksi mashup)",
+      "author": "Audio Wiskari",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1050844482519699527/20cfef276bca3ea89c52aa3a1cfe3b72.webp?size=128",
+      "message_text": "näe junttianthem, tee junttijunkkaa",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1778830261876",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1497135834942410753",
+      "posted_at": "2026-04-24T07:23:18.489Z",
+      "score": 631.5,
+      "web_thumbs": 0,
+      "web_plays": 10,
+      "stats": {
+        "reactions": 5,
+        "comments": 1,
+        "thumbs": 0,
+        "plays": 10
+      },
+      "rank": 17,
+      "previous_rank": 15
+    },
+    {
+      "id": "1504210039278272623",
+      "song_title": "bookeyxoxo - FOOL U KNOW HOW WE DO IT (Extended Mix)",
+      "author": "bookeyxoxo",
+      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
+      "message_text": "ikivihreen samplen pyöräytys",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1778830265230",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1504210039278272623",
+      "posted_at": "2026-05-13T19:53:40.235Z",
+      "score": 629.8,
+      "web_thumbs": 0,
+      "web_plays": 5,
+      "stats": {
+        "reactions": 1,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 5
       },
       "rank": 18,
-      "previous_rank": null
+      "previous_rank": 12
+    },
+    {
+      "id": "1502235804288679998",
+      "song_title": "Chedda Gedda x MKA - (Standback Bootleg)",
+      "author": "Chedda Gedda x MKA",
+      "author_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "message_text": "Alkuperäsessä oli valmiiks jo nii sopivan olonen meininki et se oikee huus junkkaversioo. Tällänen saatii aikaseks",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1778830270117",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1502235804288679998",
+      "posted_at": "2026-05-08T09:08:45.934Z",
+      "score": 627.7,
+      "web_thumbs": 0,
+      "web_plays": 4,
+      "stats": {
+        "reactions": 4,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 4
+      },
+      "rank": 19,
+      "previous_rank": 9
     },
     {
       "id": "spotify-61rw5gFv36ro3DLixZx8e5",
@@ -407,39 +429,17 @@
       "audio_url": "https://open.spotify.com/track/61rw5gFv36ro3DLixZx8e5",
       "discord_url": "https://open.spotify.com/track/61rw5gFv36ro3DLixZx8e5",
       "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 593.1,
+      "score": 620.6,
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0
-      },
-      "rank": 19,
-      "previous_rank": null
-    },
-    {
-      "id": "1492988613976260760",
-      "song_title": "miikka_l - Hei-Supermario-Capital-D-Gay-Supermario-Remix",
-      "author": "miikka_l",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1491492786627936368/5445ffd7ffb201a98393cbdf684ea4b1.webp?size=128",
-      "message_text": "Pahoittelen jo etukäteen mutta kun tuntuu että porukalla alkaa paniikki iskeä yökerhoissa tän Samuell Hei Supermarion kanssa niin olkaapa hyvät! Toivottavasti ei kenenkään tartte soittaa 😅",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1778749428198",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1492988613976260760",
-      "posted_at": "2026-04-12T20:43:43.959Z",
-      "score": 592.2,
-      "web_thumbs": 2,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 8,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 0
+        "plays": 6
       },
       "rank": 20,
-      "previous_rank": null
+      "previous_rank": 19
     }
   ]
 }
