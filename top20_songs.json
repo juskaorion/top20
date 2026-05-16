@@ -1,28 +1,6 @@
 {
-  "last_updated": "2026-05-15T08:05:45.310Z",
+  "last_updated": "2026-05-16T06:29:23.402Z",
   "top_songs": [
-    {
-      "id": "1501989951116542094",
-      "song_title": "Samuell vs Sammy Virji - Hei Supermario (Xmies mashup)",
-      "author": "Samuell vs Sammy Virji",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "Samuell vs Sammy Virji - Hei Supermario (Xmies mashup)",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1778832273334",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501989951116542094",
-      "posted_at": "2026-05-07T16:51:49.970Z",
-      "score": 656.3,
-      "web_thumbs": 8,
-      "web_plays": 11,
-      "stats": {
-        "reactions": 1,
-        "comments": 0,
-        "thumbs": 8,
-        "plays": 11
-      },
-      "rank": 1,
-      "previous_rank": 3
-    },
     {
       "id": "1504503147836608752",
       "song_title": "Linda Lampenius, Pete Parkkonen - Liekinheitin [OLIVER PARIS CLUB...",
@@ -30,20 +8,42 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/848309188467884042/b4dc3e3af647c9ac4dc683ee1f6ead03.webp?size=128",
       "message_text": "Ohhoh, miten tämä on mennyt multa ohi tällainen ihana ryhmä vaikka olin siinä jo ilmeisesti jäsenenä 🙈🙈 no parempi myöhässä kun ei koskaan 😅 \n\nLaitan  nyt tähän uusimman bootlegin 🙏",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1778832277805",
+      "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1778912915096",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1504503147836608752",
       "posted_at": "2026-05-14T15:18:22.761Z",
-      "score": 642.4,
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "score": 713.3,
+      "web_thumbs": 2,
+      "web_plays": 7,
       "stats": {
         "reactions": 7,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0
+        "thumbs": 2,
+        "plays": 7
+      },
+      "rank": 1,
+      "previous_rank": 2
+    },
+    {
+      "id": "1501989951116542094",
+      "song_title": "Samuell vs Sammy Virji - Hei Supermario (Xmies mashup)",
+      "author": "Samuell vs Sammy Virji",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "message_text": "Samuell vs Sammy Virji - Hei Supermario (Xmies mashup)",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1778912925503",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501989951116542094",
+      "posted_at": "2026-05-07T16:51:49.970Z",
+      "score": 705.8,
+      "web_thumbs": 8,
+      "web_plays": 17,
+      "stats": {
+        "reactions": 1,
+        "comments": 0,
+        "thumbs": 8,
+        "plays": 17
       },
       "rank": 2,
-      "previous_rank": 11
+      "previous_rank": 1
     },
     {
       "id": "1501990977399816212",
@@ -55,17 +55,17 @@
       "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1778832287146",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501990977399816212",
       "posted_at": "2026-05-07T16:55:54.655Z",
-      "score": 640.9,
+      "score": 669.3,
       "web_thumbs": 9,
-      "web_plays": 9,
+      "web_plays": 13,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 9,
-        "plays": 9
+        "plays": 13
       },
       "rank": 3,
-      "previous_rank": 4
+      "previous_rank": 3
     },
     {
       "id": "1504210039278272623",
@@ -77,61 +77,17 @@
       "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1778832290893",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1504210039278272623",
       "posted_at": "2026-05-13T19:53:40.235Z",
-      "score": 638.1,
+      "score": 645.6,
       "web_thumbs": 0,
-      "web_plays": 5,
+      "web_plays": 7,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 0,
-        "plays": 5
+        "plays": 7
       },
       "rank": 4,
-      "previous_rank": 18
-    },
-    {
-      "id": "spotify-55A9lCTGXHxchBuM2CzF4b",
-      "song_title": "MakeFlame - Heaven in Your Eyes",
-      "author": "MakeFlame",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273698fc542d0967d2107cec903",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/55A9lCTGXHxchBuM2CzF4b",
-      "discord_url": "https://open.spotify.com/track/55A9lCTGXHxchBuM2CzF4b",
-      "posted_at": "2026-05-15T00:00:00.000Z",
-      "score": 615,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0
-      },
-      "rank": 5,
-      "previous_rank": null
-    },
-    {
-      "id": "spotify-6z6Z9VVB78xAjM9ru20DSW",
-      "song_title": "Howlan - THE WAY YOU FEEL",
-      "author": "Howlan",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734256cccb17b201bdbe743473",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6z6Z9VVB78xAjM9ru20DSW",
-      "discord_url": "https://open.spotify.com/track/6z6Z9VVB78xAjM9ru20DSW",
-      "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 602.3,
-      "web_thumbs": 0,
-      "web_plays": 9,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 9
-      },
-      "rank": 6,
-      "previous_rank": 15
+      "previous_rank": 4
     },
     {
       "id": "spotify-0cYQbCjWALqznlnGpww64G",
@@ -143,39 +99,17 @@
       "audio_url": "https://open.spotify.com/track/0cYQbCjWALqznlnGpww64G",
       "discord_url": "https://open.spotify.com/track/0cYQbCjWALqznlnGpww64G",
       "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 595.8,
-      "web_thumbs": 2,
-      "web_plays": 6,
+      "score": 636,
+      "web_thumbs": 5,
+      "web_plays": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 2,
-        "plays": 6
+        "thumbs": 5,
+        "plays": 8
       },
-      "rank": 7,
-      "previous_rank": 12
-    },
-    {
-      "id": "1499675022476972155",
-      "song_title": "AB vs. Daft Punk vs. Westend - Around the Maailmaa (TEIO Mashup)",
-      "author": "AB vs. Daft Punk vs. Westend",
-      "author_avatar": "https://cdn.discordapp.com/avatars/93735210524356608/96f833cc723d229e56b02baaf35f2356.webp?size=128",
-      "message_text": "AB Ympäri maailmaa vähän clubiystävällisemmässä muodossa! Hyvät vaput!",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1778832294135",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1499675022476972155",
-      "posted_at": "2026-05-01T07:33:07.973Z",
-      "score": 589.2,
-      "web_thumbs": 2,
-      "web_plays": 13,
-      "stats": {
-        "reactions": 6,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 13
-      },
-      "rank": 8,
-      "previous_rank": 5
+      "rank": 5,
+      "previous_rank": 7
     },
     {
       "id": "spotify-0NS3xyUwissWbgbzwSnRJN",
@@ -187,7 +121,29 @@
       "audio_url": "https://open.spotify.com/track/0NS3xyUwissWbgbzwSnRJN",
       "discord_url": "https://open.spotify.com/track/0NS3xyUwissWbgbzwSnRJN",
       "posted_at": "2026-05-13T00:00:00.000Z",
-      "score": 583.5,
+      "score": 602.3,
+      "web_thumbs": 2,
+      "web_plays": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 1
+      },
+      "rank": 6,
+      "previous_rank": 9
+    },
+    {
+      "id": "spotify-55A9lCTGXHxchBuM2CzF4b",
+      "song_title": "MakeFlame - Heaven in Your Eyes",
+      "author": "MakeFlame",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273698fc542d0967d2107cec903",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/55A9lCTGXHxchBuM2CzF4b",
+      "discord_url": "https://open.spotify.com/track/55A9lCTGXHxchBuM2CzF4b",
+      "posted_at": "2026-05-15T00:00:00.000Z",
+      "score": 601.3,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -196,8 +152,52 @@
         "thumbs": 0,
         "plays": 0
       },
+      "rank": 7,
+      "previous_rank": 5
+    },
+    {
+      "id": "1499675022476972155",
+      "song_title": "AB vs. Daft Punk vs. Westend - Around the Maailmaa (TEIO Mashup)",
+      "author": "AB vs. Daft Punk vs. Westend",
+      "author_avatar": "https://cdn.discordapp.com/avatars/93735210524356608/96f833cc723d229e56b02baaf35f2356.webp?size=128",
+      "message_text": "AB Ympäri maailmaa vähän clubiystävällisemmässä muodossa! Hyvät vaput!",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1778832294135",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1499675022476972155",
+      "posted_at": "2026-05-01T07:33:07.973Z",
+      "score": 596.7,
+      "web_thumbs": 2,
+      "web_plays": 15,
+      "stats": {
+        "reactions": 6,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 15
+      },
+      "rank": 8,
+      "previous_rank": 8
+    },
+    {
+      "id": "spotify-6z6Z9VVB78xAjM9ru20DSW",
+      "song_title": "Howlan - THE WAY YOU FEEL",
+      "author": "Howlan",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734256cccb17b201bdbe743473",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6z6Z9VVB78xAjM9ru20DSW",
+      "discord_url": "https://open.spotify.com/track/6z6Z9VVB78xAjM9ru20DSW",
+      "posted_at": "2026-05-08T00:00:00.000Z",
+      "score": 588.5,
+      "web_thumbs": 0,
+      "web_plays": 9,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 9
+      },
       "rank": 9,
-      "previous_rank": null
+      "previous_rank": 6
     },
     {
       "id": "spotify-2D0UE80nfsne2qvQLdheYc",
@@ -209,7 +209,7 @@
       "audio_url": "https://open.spotify.com/track/2D0UE80nfsne2qvQLdheYc",
       "discord_url": "https://open.spotify.com/track/2D0UE80nfsne2qvQLdheYc",
       "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 582.8,
+      "score": 569,
       "web_thumbs": 1,
       "web_plays": 6,
       "stats": {
@@ -219,7 +219,7 @@
         "plays": 6
       },
       "rank": 10,
-      "previous_rank": 16
+      "previous_rank": 10
     },
     {
       "id": "1502235804288679998",
@@ -231,7 +231,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1778832299712",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1502235804288679998",
       "posted_at": "2026-05-08T09:08:45.934Z",
-      "score": 571.1,
+      "score": 557.6,
       "web_thumbs": 0,
       "web_plays": 4,
       "stats": {
@@ -241,7 +241,7 @@
         "plays": 4
       },
       "rank": 11,
-      "previous_rank": 19
+      "previous_rank": 11
     },
     {
       "id": "spotify-61rw5gFv36ro3DLixZx8e5",
@@ -253,7 +253,7 @@
       "audio_url": "https://open.spotify.com/track/61rw5gFv36ro3DLixZx8e5",
       "discord_url": "https://open.spotify.com/track/61rw5gFv36ro3DLixZx8e5",
       "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 569.8,
+      "score": 556,
       "web_thumbs": 0,
       "web_plays": 6,
       "stats": {
@@ -263,7 +263,7 @@
         "plays": 6
       },
       "rank": 12,
-      "previous_rank": 20
+      "previous_rank": 12
     },
     {
       "id": "1503111070028529785",
@@ -275,17 +275,17 @@
       "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1778832302697",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1503111070028529785",
       "posted_at": "2026-05-10T19:06:45.548Z",
-      "score": 534.2,
+      "score": 531.1,
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0
+        "plays": 1
       },
       "rank": 13,
-      "previous_rank": null
+      "previous_rank": 13
     },
     {
       "id": "1489330055556370462",
@@ -297,17 +297,105 @@
       "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1778832307427",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1489330055556370462",
       "posted_at": "2026-04-02T18:25:55.659Z",
-      "score": 521.8,
+      "score": 529.2,
       "web_thumbs": 11,
-      "web_plays": 27,
+      "web_plays": 29,
       "stats": {
         "reactions": 26,
         "comments": 0,
         "thumbs": 11,
-        "plays": 27
+        "plays": 29
       },
       "rank": 14,
-      "previous_rank": 1
+      "previous_rank": 14
+    },
+    {
+      "id": "1501990182721949920",
+      "song_title": "xmies23 - Incredible Gettomasa v2 (XMIES REMIX)",
+      "author": "xmies23",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "message_text": "Gettomasa vs M-Beat - Incredible Gettomasa (Xmies remix)",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1778912935536",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501990182721949920",
+      "posted_at": "2026-05-07T16:52:45.189Z",
+      "score": 526.3,
+      "web_thumbs": 4,
+      "web_plays": 2,
+      "stats": {
+        "reactions": 1,
+        "comments": 0,
+        "thumbs": 4,
+        "plays": 2
+      },
+      "rank": 15,
+      "previous_rank": 17
+    },
+    {
+      "id": "1501991388127035413",
+      "song_title": "Mirella vs Left-Right - Timanttei xmies mshup",
+      "author": "Mirella vs Left-Right",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "message_text": "Mirella vs Left/Right - Timanttei (Xmies mashup)",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1778912945911",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501991388127035413",
+      "posted_at": "2026-05-07T16:57:32.580Z",
+      "score": 513.8,
+      "web_thumbs": 5,
+      "web_plays": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 5,
+        "plays": 1
+      },
+      "rank": 16,
+      "previous_rank": 18
+    },
+    {
+      "id": "1501991217586507919",
+      "song_title": "Lauri Haav vs T99 - No Haav No Anasthasia (Xmies remix)",
+      "author": "Lauri Haav vs T99",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "message_text": "Lauri Haav vs T99 - No Haav No Anasthasia (Xmies remix)",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1778912953347",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501991217586507919",
+      "posted_at": "2026-05-07T16:56:51.920Z",
+      "score": 513.8,
+      "web_thumbs": 5,
+      "web_plays": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 5,
+        "plays": 1
+      },
+      "rank": 17,
+      "previous_rank": 19
+    },
+    {
+      "id": "1501990408769634344",
+      "song_title": "Isaac Mirella vs Chase & Status - Palamaan",
+      "author": "Isaac Mirella vs Chase & Status",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "message_text": "Ikke & Mirella vs. Chase & Status - Palamaan",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1778912963402",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501990408769634344",
+      "posted_at": "2026-05-07T16:53:39.083Z",
+      "score": 502.8,
+      "web_thumbs": 3,
+      "web_plays": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 1
+      },
+      "rank": 18,
+      "previous_rank": 20
     },
     {
       "id": "spotify-2YIALmHYyQt7fnkxWCyh1i",
@@ -319,17 +407,17 @@
       "audio_url": "https://open.spotify.com/track/2YIALmHYyQt7fnkxWCyh1i",
       "discord_url": "https://open.spotify.com/track/2YIALmHYyQt7fnkxWCyh1i",
       "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 504.8,
-      "web_thumbs": 0,
+      "score": 502,
+      "web_thumbs": 1,
       "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
+        "thumbs": 1,
         "plays": 0
       },
-      "rank": 15,
-      "previous_rank": null
+      "rank": 19,
+      "previous_rank": 15
     },
     {
       "id": "spotify-11ksKI4Pym55rt990IkOlv",
@@ -341,95 +429,7 @@
       "audio_url": "https://open.spotify.com/track/11ksKI4Pym55rt990IkOlv",
       "discord_url": "https://open.spotify.com/track/11ksKI4Pym55rt990IkOlv",
       "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 503.8,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0
-      },
-      "rank": 16,
-      "previous_rank": null
-    },
-    {
-      "id": "1501990182721949920",
-      "song_title": "xmies23 - Incredible Gettomasa v2 (XMIES REMIX)",
-      "author": "xmies23",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "Gettomasa vs M-Beat - Incredible Gettomasa (Xmies remix)",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1778832317760",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501990182721949920",
-      "posted_at": "2026-05-07T16:52:45.189Z",
-      "score": 496.8,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 1,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0
-      },
-      "rank": 17,
-      "previous_rank": null
-    },
-    {
-      "id": "1501991388127035413",
-      "song_title": "Mirella vs Left-Right - Timanttei xmies mshup",
-      "author": "Mirella vs Left-Right",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "Mirella vs Left/Right - Timanttei (Xmies mashup)",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1778832328281",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501991388127035413",
-      "posted_at": "2026-05-07T16:57:32.580Z",
-      "score": 489.4,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0
-      },
-      "rank": 18,
-      "previous_rank": null
-    },
-    {
-      "id": "1501991217586507919",
-      "song_title": "Lauri Haav vs T99 - No Haav No Anasthasia (Xmies remix)",
-      "author": "Lauri Haav vs T99",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "Lauri Haav vs T99 - No Haav No Anasthasia (Xmies remix)",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1778832335459",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501991217586507919",
-      "posted_at": "2026-05-07T16:56:51.920Z",
-      "score": 489.4,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0
-      },
-      "rank": 19,
-      "previous_rank": null
-    },
-    {
-      "id": "1501990408769634344",
-      "song_title": "Isaac Mirella vs Chase & Status - Palamaan",
-      "author": "Isaac Mirella vs Chase & Status",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "Ikke & Mirella vs. Chase & Status - Palamaan",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1778832345309",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501990408769634344",
-      "posted_at": "2026-05-07T16:53:39.083Z",
-      "score": 489.3,
+      "score": 490,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -439,7 +439,7 @@
         "plays": 0
       },
       "rank": 20,
-      "previous_rank": null
+      "previous_rank": 16
     }
   ]
 }
