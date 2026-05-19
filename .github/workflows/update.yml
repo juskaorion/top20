@@ -2,7 +2,7 @@ name: Daily Discord Update
 
 on:
   schedule:
-    - cron: '0 1 * * *' # Ajaa automaattisesti klo 1 yöllä UTC
+    - cron: '15 23 * * *' # Ajaa automaattisesti klo 1 yöllä UTC
   workflow_dispatch: # Mahdollistaa manuaalisen ajon
 
 permissions:
