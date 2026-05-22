@@ -10,7 +10,7 @@ const { execSync } = require('child_process');
    ======================================================= */
 const SCORE_CONFIG = {
     // Aloituspisteet
-    BASE_SCORE: 600,
+    BASE_SCORE: 700,
     
     // Discordista tulevien biisien kertoimet
     DISCORD: {
