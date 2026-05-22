@@ -51,9 +51,13 @@ async function extractAudioInfos(message) {
     const results = [];
     const text = message.content;
     let embedTitle = null;
+    let embedAuthor = null; // UUSI: Tallennetaan upotuksen tekijä
 
-    if (message.embeds && message.embeds.length > 0 && message.embeds[0].title) {
-        embedTitle = message.embeds[0].title;
+    if (message.embeds && message.embeds.length > 0) {
+        const embed = message.embeds[0];
+        if (embed.title) embedTitle = embed.title;
+        // Haetaan kanavan nimi (esim. "Waldo's People - Topic")
+        if (embed.author && embed.author.name) embedAuthor = embed.author.name;
     }
 
     message.attachments.forEach(att => {
@@ -113,13 +117,15 @@ async function extractAudioInfos(message) {
     const scRegex = /(https?:\/\/soundcloud\.com\/[^\s]+)/gi;
     let scMatch;
     while ((scMatch = scRegex.exec(text)) !== null) {
-        results.push({ type: 'soundcloud_link', url: scMatch[1], title: embedTitle || 'SoundCloud Audio' });
+        // UUSI: Lisätty artist: embedAuthor
+        results.push({ type: 'soundcloud_link', url: scMatch[1], title: embedTitle || 'SoundCloud Audio', artist: embedAuthor });
     }
 
     const ytRegex = /(https?:\/\/(?:www\.)?youtube\.com\/watch\?v=[a-zA-Z0-9_-]+|https?:\/\/youtu\.be\/[a-zA-Z0-9_-]+)/gi;
     let ytMatch;
     while ((ytMatch = ytRegex.exec(text)) !== null) {
-        results.push({ type: 'youtube_link', url: ytMatch[1], title: embedTitle || 'YouTube Audio' });
+        // UUSI: Lisätty artist: embedAuthor
+        results.push({ type: 'youtube_link', url: ytMatch[1], title: embedTitle || 'YouTube Audio', artist: embedAuthor });
     }
 
     return results;
@@ -338,15 +344,23 @@ client.once('ready', async () => {
                         const score = parseFloat(calculateScore(message.createdAt, reactionCount, commentCount, webThumbsCount, playCount, 'discord').toFixed(1));
 
                         let titleCleaned = cleanTitle(audioInfo.title, message.content);
-                        let parsedArtist = message.author.username;
+    
+                        // UUSI: Käytetään ensisijaisesti linkin upotuksesta saatua tekijää, toissijaisesti Discordin postaajaa
+                        let parsedArtist = audioInfo.artist || message.author.username;
+    
+                        // UUSI: Siivotaan YouTuben automaattisten musiikkikanavien päätteet pois (esim. "Waldo's People - Topic" -> "Waldo's People")
+                        if (parsedArtist.endsWith(' - Topic')) {
+                        parsedArtist = parsedArtist.replace(' - Topic', '');
+                        }
+
                         let parsedTitle = titleCleaned;
 
                         if (titleCleaned.includes(' - ')) {
-                            const parts = titleCleaned.split(' - ');
-                            parsedArtist = parts[0].trim();
-                            parsedTitle = titleCleaned; 
+                        const parts = titleCleaned.split(' - ');
+                        parsedArtist = parts[0].trim();
+                        parsedTitle = titleCleaned; 
                         } else {
-                            parsedTitle = `${parsedArtist} - ${titleCleaned}`;
+                        parsedTitle = `${parsedArtist} - ${titleCleaned}`;
                         }
 
                         allValidSongs.push({
