@@ -11,7 +11,12 @@ const { execSync } = require('child_process');
 const SCORE_CONFIG = {
     // Aloituspisteet
     BASE_SCORE: 700,
-    
+
+// DYYNAAMINEN SAKKOKERROIN
+    // Mitä pienempi luku, sitä nopeammin ikäsakko kasvaa pisteiden myötä.
+    // Esim. 400 tarkoittaa, että 400 lisäpistettä tuplaa ikäsakon (kerroin 2.0).
+    PENALTY_SCALING_DIVIDER: 400,
+   
     // Discordista tulevien biisien kertoimet
     DISCORD: {
         REACTION_VALUE: 7.5,
@@ -175,21 +180,36 @@ function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 
     let commentPoints = 0;
     let webThumbPoints = 0;
     let webPlayPoints = 0;
-    let agePenalty = 0;
+    let baseAgePenalty = 0;
 
     if (source === 'discord') {
         reactionPoints = reactionCount * SCORE_CONFIG.DISCORD.REACTION_VALUE; 
         commentPoints = commentCount * SCORE_CONFIG.DISCORD.COMMENT_VALUE;  
         webThumbPoints = webThumbsCount * SCORE_CONFIG.DISCORD.WEB_THUMB_VALUE; 
         webPlayPoints = playCount * SCORE_CONFIG.DISCORD.WEB_PLAY_VALUE;
-        agePenalty = ageInDays * SCORE_CONFIG.DISCORD.AGE_PENALTY_PER_DAY;          
+        baseAgePenalty = SCORE_CONFIG.DISCORD.AGE_PENALTY_PER_DAY;          
     } else if (source === 'spotify') {
         webThumbPoints = webThumbsCount * SCORE_CONFIG.SPOTIFY.WEB_THUMB_VALUE; 
         webPlayPoints = playCount * SCORE_CONFIG.SPOTIFY.WEB_PLAY_VALUE;
-        agePenalty = ageInDays * SCORE_CONFIG.SPOTIFY.AGE_PENALTY_PER_DAY;          
+        baseAgePenalty = SCORE_CONFIG.SPOTIFY.AGE_PENALTY_PER_DAY;          
     }
     
-    return Math.max(0, SCORE_CONFIG.BASE_SCORE + reactionPoints + commentPoints + webThumbPoints + webPlayPoints + positionBonus - agePenalty);
+    // Lasketaan kertyneet pisteet
+    const rawInteractionPoints = reactionPoints + commentPoints + webThumbPoints + webPlayPoints + positionBonus;
+
+    // Haetaan kerroin ylhäältä asetuksista ja lasketaan sakko
+    const penaltyMultiplier = 1 + (rawInteractionPoints / SCORE_CONFIG.PENALTY_SCALING_DIVIDER);
+    const totalAgePenalty = ageInDays * baseAgePenalty * penaltyMultiplier;
+    
+    const finalScore = Math.max(0, SCORE_CONFIG.BASE_SCORE + rawInteractionPoints - totalAgePenalty);
+
+    // Palautetaan kaikki olennainen data seurantaa varten
+    return {
+        total: parseFloat(finalScore.toFixed(1)),
+        raw_points: parseFloat(rawInteractionPoints.toFixed(1)),
+        penalty_multiplier: parseFloat(penaltyMultiplier.toFixed(2)),
+        age_penalty: parseFloat(totalAgePenalty.toFixed(1))
+    };
 }
 
 /* STREAMING_CHUNK:Spotify API integration function... */
@@ -257,7 +277,8 @@ async function getSpotifyTracks(wpThumbs, wpPlays) {
                 
                 const positionBonus = Math.max(0, 20 - index); 
                 
-                const score = parseFloat(calculateScore(releaseDate, 0, 0, webThumbsCount, playCount, 'spotify', positionBonus).toFixed(1));
+                const scoreData = calculateScore(releaseDate, 0, 0, webThumbsCount, playCount, 'spotify', positionBonus);
+                const score = scoreData.total;
 
                 spotifySongs.push({
                     id: uniqueId,
@@ -272,7 +293,7 @@ async function getSpotifyTracks(wpThumbs, wpPlays) {
                     score: score,
                     web_thumbs: webThumbsCount,
                     web_plays: playCount,
-                    stats: { reactions: 0, comments: 0, thumbs: webThumbsCount, plays: playCount }
+                    stats: { reactions: 0, comments: 0, thumbs: webThumbsCount, plays: playCount, raw_points: scoreData.raw_points, multiplier: scoreData.penalty_multiplier }
                 });
             });
             console.log(`Löydettiin ${spotifySongs.length} biisiä Spotifysta.`);
@@ -341,7 +362,8 @@ client.once('ready', async () => {
                         const webThumbsCount = wpThumbs[uniqueId] || 0;
                         const playCount = wpPlays[uniqueId] || 0;
 
-                        const score = parseFloat(calculateScore(message.createdAt, reactionCount, commentCount, webThumbsCount, playCount, 'discord').toFixed(1));
+                        const scoreData = calculateScore(message.createdAt, reactionCount, commentCount, webThumbsCount, playCount, 'discord');
+                        const score = scoreData.total;
 
                         let titleCleaned = cleanTitle(audioInfo.title, message.content);
     
@@ -376,7 +398,7 @@ client.once('ready', async () => {
                             score: score,
                             web_thumbs: webThumbsCount, 
                             web_plays: playCount,
-                            stats: { reactions: reactionCount, comments: commentCount, thumbs: webThumbsCount, plays: playCount }
+                            stats: { reactions: reactionCount, comments: commentCount, thumbs: webThumbsCount, plays: playCount, raw_points: scoreData.raw_points, multiplier: scoreData.penalty_multiplier }
                         });
                     });
                 }
@@ -432,7 +454,7 @@ client.once('ready', async () => {
                     continue;
                 }
 
-                console.log(`[PROSESSOIDAAN] Sija ${song.rank}: ${song.song_title}`);
+                console.log(`[PROSESSOIDAAN] Sija ${song.rank}: ${song.song_title} | Pisteet: ${song.score} (Raakapisteet: ${song.stats.raw_points}, Sakko-kerroin: ${song.stats.multiplier}x)`);
                 const outputFilename = `rank_${song.rank}.mp3`;
                 const outputPath = `/tmp/${outputFilename}`;
                 let downloadUrl = song.audio_url;
