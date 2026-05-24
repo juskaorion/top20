@@ -15,7 +15,7 @@ const SCORE_CONFIG = {
 // DYYNAAMINEN SAKKOKERROIN
     // Mitä pienempi luku, sitä nopeammin ikäsakko kasvaa pisteiden myötä.
     // Esim. 400 tarkoittaa, että 400 lisäpistettä tuplaa ikäsakon (kerroin 2.0).
-    PENALTY_SCALING_DIVIDER: 200,
+    PENALTY_SCALING_DIVIDER: 300,
    
     // Discordista tulevien biisien kertoimet
     DISCORD: {
