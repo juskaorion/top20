@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T00:14:52.227Z",
+  "last_updated": "2026-05-25T00:15:06.107Z",
   "top_songs": [
     {
       "id": "1507330380712251494",
@@ -11,19 +11,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1779581644013",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1507330380712251494",
       "posted_at": "2026-05-22T10:32:47.606Z",
-      "score": 724.4,
+      "score": 730.2,
       "web_thumbs": 2,
-      "web_plays": 3,
+      "web_plays": 6,
       "stats": {
         "reactions": 3,
         "comments": 0,
         "thumbs": 2,
-        "plays": 3,
-        "raw_points": 65,
+        "plays": 6,
+        "raw_points": 96.5,
         "multiplier": 1.32
       },
       "rank": 1,
-      "previous_rank": 10
+      "previous_rank": 1
     },
     {
       "id": "spotify-6k7QsqmyWc9Y2G2VXB6fTw",
@@ -35,19 +35,19 @@
       "audio_url": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw",
       "discord_url": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw",
       "posted_at": "2026-05-22T00:00:00.000Z",
-      "score": 719.9,
+      "score": 717.3,
       "web_thumbs": 2,
-      "web_plays": 3,
+      "web_plays": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 3,
-        "raw_points": 73.5,
-        "multiplier": 1.37
+        "plays": 5,
+        "raw_points": 94.5,
+        "multiplier": 1.31
       },
       "rank": 2,
-      "previous_rank": 11
+      "previous_rank": 2
     },
     {
       "id": "spotify-5QhdE27QAhIcZp696tUh3R",
@@ -59,19 +59,19 @@
       "audio_url": "https://open.spotify.com/track/5QhdE27QAhIcZp696tUh3R",
       "discord_url": "https://open.spotify.com/track/5QhdE27QAhIcZp696tUh3R",
       "posted_at": "2026-05-21T00:00:00.000Z",
-      "score": 699.3,
-      "web_thumbs": 2,
-      "web_plays": 4,
+      "score": 706.1,
+      "web_thumbs": 3,
+      "web_plays": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 2,
-        "plays": 4,
-        "raw_points": 82,
-        "multiplier": 1.41
+        "thumbs": 3,
+        "plays": 6,
+        "raw_points": 114,
+        "multiplier": 1.38
       },
       "rank": 3,
-      "previous_rank": 13
+      "previous_rank": 3
     },
     {
       "id": "1507714473845067909",
@@ -83,19 +83,43 @@
       "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1779581646817",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1507714473845067909",
       "posted_at": "2026-05-23T11:59:02.545Z",
-      "score": 690.1,
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "score": 699.4,
+      "web_thumbs": 2,
+      "web_plays": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 0,
-        "multiplier": 1
+        "thumbs": 2,
+        "plays": 2,
+        "raw_points": 32,
+        "multiplier": 1.11
       },
       "rank": 4,
-      "previous_rank": null
+      "previous_rank": 4
+    },
+    {
+      "id": "1504503147836608752",
+      "song_title": "Linda Lampenius, Pete Parkkonen - Liekinheitin [OLIVER PARIS CLUB...",
+      "author": "Linda Lampenius, Pete Parkkonen",
+      "author_avatar": "https://cdn.discordapp.com/avatars/848309188467884042/b4dc3e3af647c9ac4dc683ee1f6ead03.webp?size=128",
+      "message_text": "Ohhoh, miten tämä on mennyt multa ohi tällainen ihana ryhmä vaikka olin siinä jo ilmeisesti jäsenenä 🙈🙈 no parempi myöhässä kun ei koskaan 😅 \n\nLaitan  nyt tähän uusimman bootlegin 🙏",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1779668085663",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1504503147836608752",
+      "posted_at": "2026-05-14T15:18:22.761Z",
+      "score": 680,
+      "web_thumbs": 6,
+      "web_plays": 43,
+      "stats": {
+        "reactions": 10,
+        "comments": 0,
+        "thumbs": 6,
+        "plays": 43,
+        "raw_points": 559.5,
+        "multiplier": 2.87
+      },
+      "rank": 5,
+      "previous_rank": 8
     },
     {
       "id": "1507134188015583414",
@@ -107,7 +131,7 @@
       "audio_url": "https://youtu.be/ADS4yfEPQSU",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1507134188015583414",
       "posted_at": "2026-05-21T21:33:11.622Z",
-      "score": 667.2,
+      "score": 647.7,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -116,34 +140,10 @@
         "thumbs": 0,
         "plays": 1,
         "raw_points": 10.5,
-        "multiplier": 1.05
-      },
-      "rank": 5,
-      "previous_rank": 12
-    },
-    {
-      "id": "spotify-3epDMwAlqrVK2Mh48SW1yM",
-      "song_title": "metakomplex - Afterglow (ABGT677) - Mixed",
-      "author": "metakomplex",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ec1a1fb1b1ba8f61a181c126",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3epDMwAlqrVK2Mh48SW1yM",
-      "discord_url": "https://open.spotify.com/track/3epDMwAlqrVK2Mh48SW1yM",
-      "posted_at": "2026-05-16T00:00:00.000Z",
-      "score": 580.2,
-      "web_thumbs": 4,
-      "web_plays": 10,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 4,
-        "plays": 10,
-        "raw_points": 166,
-        "multiplier": 1.83
+        "multiplier": 1.03
       },
       "rank": 6,
-      "previous_rank": 9
+      "previous_rank": 5
     },
     {
       "id": "spotify-55A9lCTGXHxchBuM2CzF4b",
@@ -155,7 +155,7 @@
       "audio_url": "https://open.spotify.com/track/55A9lCTGXHxchBuM2CzF4b",
       "discord_url": "https://open.spotify.com/track/55A9lCTGXHxchBuM2CzF4b",
       "posted_at": "2026-05-15T00:00:00.000Z",
-      "score": 568.3,
+      "score": 630.2,
       "web_thumbs": 14,
       "web_plays": 18,
       "stats": {
@@ -163,35 +163,35 @@
         "comments": 0,
         "thumbs": 14,
         "plays": 18,
-        "raw_points": 362,
-        "multiplier": 2.81
+        "raw_points": 359,
+        "multiplier": 2.2
       },
       "rank": 7,
-      "previous_rank": 4
+      "previous_rank": 7
     },
     {
-      "id": "1504503147836608752",
-      "song_title": "Linda Lampenius, Pete Parkkonen - Liekinheitin [OLIVER PARIS CLUB...",
-      "author": "Linda Lampenius, Pete Parkkonen",
-      "author_avatar": "https://cdn.discordapp.com/avatars/848309188467884042/b4dc3e3af647c9ac4dc683ee1f6ead03.webp?size=128",
-      "message_text": "Ohhoh, miten tämä on mennyt multa ohi tällainen ihana ryhmä vaikka olin siinä jo ilmeisesti jäsenenä 🙈🙈 no parempi myöhässä kun ei koskaan 😅 \n\nLaitan  nyt tähän uusimman bootlegin 🙏",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1779581653176",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1504503147836608752",
-      "posted_at": "2026-05-14T15:18:22.761Z",
-      "score": 564.6,
-      "web_thumbs": 6,
-      "web_plays": 42,
+      "id": "spotify-3epDMwAlqrVK2Mh48SW1yM",
+      "song_title": "metakomplex - Afterglow (ABGT677) - Mixed",
+      "author": "metakomplex",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ec1a1fb1b1ba8f61a181c126",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3epDMwAlqrVK2Mh48SW1yM",
+      "discord_url": "https://open.spotify.com/track/3epDMwAlqrVK2Mh48SW1yM",
+      "posted_at": "2026-05-16T00:00:00.000Z",
+      "score": 602.6,
+      "web_thumbs": 4,
+      "web_plays": 12,
       "stats": {
-        "reactions": 10,
+        "reactions": 0,
         "comments": 0,
-        "thumbs": 6,
-        "plays": 42,
-        "raw_points": 549,
-        "multiplier": 3.75
+        "thumbs": 4,
+        "plays": 12,
+        "raw_points": 189,
+        "multiplier": 1.63
       },
       "rank": 8,
-      "previous_rank": 2
+      "previous_rank": 6
     },
     {
       "id": "spotify-1jTTNPd1EPWgI4gvJbTtHP",
@@ -203,19 +203,19 @@
       "audio_url": "https://open.spotify.com/track/1jTTNPd1EPWgI4gvJbTtHP",
       "discord_url": "https://open.spotify.com/track/1jTTNPd1EPWgI4gvJbTtHP",
       "posted_at": "2026-05-15T00:00:00.000Z",
-      "score": 552,
+      "score": 587.8,
       "web_thumbs": 6,
-      "web_plays": 14,
+      "web_plays": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 6,
-        "plays": 14,
-        "raw_points": 228,
-        "multiplier": 2.14
+        "plays": 15,
+        "raw_points": 237.5,
+        "multiplier": 1.79
       },
       "rank": 9,
-      "previous_rank": 8
+      "previous_rank": 9
     },
     {
       "id": "1504210039278272623",
@@ -227,7 +227,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1779581656643",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1504210039278272623",
       "posted_at": "2026-05-13T19:53:40.235Z",
-      "score": 503.4,
+      "score": 553.1,
       "web_thumbs": 4,
       "web_plays": 22,
       "stats": {
@@ -236,10 +236,10 @@
         "thumbs": 4,
         "plays": 22,
         "raw_points": 260.5,
-        "multiplier": 2.3
+        "multiplier": 1.87
       },
       "rank": 10,
-      "previous_rank": 6
+      "previous_rank": 10
     },
     {
       "id": "spotify-0NS3xyUwissWbgbzwSnRJN",
@@ -251,7 +251,7 @@
       "audio_url": "https://open.spotify.com/track/0NS3xyUwissWbgbzwSnRJN",
       "discord_url": "https://open.spotify.com/track/0NS3xyUwissWbgbzwSnRJN",
       "posted_at": "2026-05-13T00:00:00.000Z",
-      "score": 464.8,
+      "score": 526.8,
       "web_thumbs": 7,
       "web_plays": 18,
       "stats": {
@@ -259,11 +259,35 @@
         "comments": 0,
         "thumbs": 7,
         "plays": 18,
-        "raw_points": 280,
-        "multiplier": 2.4
+        "raw_points": 278,
+        "multiplier": 1.93
       },
       "rank": 11,
-      "previous_rank": 7
+      "previous_rank": 11
+    },
+    {
+      "id": "spotify-6zmH92opsDQplXfdDzvlAq",
+      "song_title": "Milla Lehto, WOLK - Beast",
+      "author": "Milla Lehto, WOLK",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273fa8eaeea959babd15f5db091",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6zmH92opsDQplXfdDzvlAq",
+      "discord_url": "https://open.spotify.com/track/6zmH92opsDQplXfdDzvlAq",
+      "posted_at": "2026-05-15T00:00:00.000Z",
+      "score": 510.7,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 17,
+        "multiplier": 1.06
+      },
+      "rank": 12,
+      "previous_rank": null
     },
     {
       "id": "1503111070028529785",
@@ -272,22 +296,22 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/121177458161483776/1f5375d1a34920f99fba5e0c187d1b13.webp?size=128",
       "message_text": "Pikanen perus extended. \nIte tykkään tästä Auroran uudesta ni aattelin et vois olla iloa kesän terassille. \nEi siis mitään fancya, stems(fl), pikkusen copypastea ja tallenna.\nKaipa ne soundit pysyi yleisesti kunnen mitään yrittäny ees niille tehdä.",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1779581659520",
+      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1779668090376",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1503111070028529785",
       "posted_at": "2026-05-10T19:06:45.548Z",
-      "score": 408.8,
+      "score": 432.5,
       "web_thumbs": 4,
-      "web_plays": 9,
+      "web_plays": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 4,
-        "plays": 9,
-        "raw_points": 116.5,
-        "multiplier": 1.58
+        "plays": 10,
+        "raw_points": 127,
+        "multiplier": 1.42
       },
-      "rank": 12,
-      "previous_rank": null
+      "rank": 13,
+      "previous_rank": 12
     },
     {
       "id": "spotify-11ksKI4Pym55rt990IkOlv",
@@ -299,43 +323,19 @@
       "audio_url": "https://open.spotify.com/track/11ksKI4Pym55rt990IkOlv",
       "discord_url": "https://open.spotify.com/track/11ksKI4Pym55rt990IkOlv",
       "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 368.7,
+      "score": 363.7,
       "web_thumbs": 2,
-      "web_plays": 0,
+      "web_plays": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 0,
-        "raw_points": 34,
-        "multiplier": 1.17
-      },
-      "rank": 13,
-      "previous_rank": null
-    },
-    {
-      "id": "spotify-5SCh7sgXPfdR1877yhM7lG",
-      "song_title": "Esc, Mineral - Surveillance",
-      "author": "Esc, Mineral",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27386a06ad2da0e2e9924d5e581",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5SCh7sgXPfdR1877yhM7lG",
-      "discord_url": "https://open.spotify.com/track/5SCh7sgXPfdR1877yhM7lG",
-      "posted_at": "2026-05-06T00:00:00.000Z",
-      "score": 342.8,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 8,
-        "multiplier": 1.04
+        "plays": 1,
+        "raw_points": 43.5,
+        "multiplier": 1.15
       },
       "rank": 14,
-      "previous_rank": null
+      "previous_rank": 13
     },
     {
       "id": "1502235804288679998",
@@ -347,7 +347,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1779581664769",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1502235804288679998",
       "posted_at": "2026-05-08T09:08:45.934Z",
-      "score": 307.5,
+      "score": 362.2,
       "web_thumbs": 4,
       "web_plays": 11,
       "stats": {
@@ -356,34 +356,10 @@
         "thumbs": 4,
         "plays": 11,
         "raw_points": 167.5,
-        "multiplier": 1.84
+        "multiplier": 1.56
       },
       "rank": 15,
-      "previous_rank": null
-    },
-    {
-      "id": "1501990182721949920",
-      "song_title": "xmies23 - Incredible Gettomasa v2 (XMIES REMIX)",
-      "author": "xmies23",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "Gettomasa vs M-Beat - Incredible Gettomasa (Xmies remix)",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1779581675107",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501990182721949920",
-      "posted_at": "2026-05-07T16:52:45.189Z",
-      "score": 289.4,
-      "web_thumbs": 10,
-      "web_plays": 9,
-      "stats": {
-        "reactions": 1,
-        "comments": 0,
-        "thumbs": 10,
-        "plays": 9,
-        "raw_points": 157,
-        "multiplier": 1.79
-      },
-      "rank": 16,
-      "previous_rank": null
+      "previous_rank": 15
     },
     {
       "id": "spotify-61rw5gFv36ro3DLixZx8e5",
@@ -395,19 +371,91 @@
       "audio_url": "https://open.spotify.com/track/61rw5gFv36ro3DLixZx8e5",
       "discord_url": "https://open.spotify.com/track/61rw5gFv36ro3DLixZx8e5",
       "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 268.6,
+      "score": 344.5,
       "web_thumbs": 4,
-      "web_plays": 15,
+      "web_plays": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 4,
-        "plays": 15,
-        "raw_points": 212.5,
-        "multiplier": 2.06
+        "plays": 16,
+        "raw_points": 225,
+        "multiplier": 1.75
+      },
+      "rank": 16,
+      "previous_rank": 17
+    },
+    {
+      "id": "1501990182721949920",
+      "song_title": "xmies23 - Incredible Gettomasa v2 (XMIES REMIX)",
+      "author": "xmies23",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "message_text": "Gettomasa vs M-Beat - Incredible Gettomasa (Xmies remix)",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1779668100031",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501990182721949920",
+      "posted_at": "2026-05-07T16:52:45.189Z",
+      "score": 342.9,
+      "web_thumbs": 10,
+      "web_plays": 9,
+      "stats": {
+        "reactions": 1,
+        "comments": 0,
+        "thumbs": 10,
+        "plays": 9,
+        "raw_points": 157,
+        "multiplier": 1.52
       },
       "rank": 17,
-      "previous_rank": 17
+      "previous_rank": 16
+    },
+    {
+      "id": "spotify-6z6Z9VVB78xAjM9ru20DSW",
+      "song_title": "Howlan - THE WAY YOU FEEL",
+      "author": "Howlan",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734256cccb17b201bdbe743473",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6z6Z9VVB78xAjM9ru20DSW",
+      "discord_url": "https://open.spotify.com/track/6z6Z9VVB78xAjM9ru20DSW",
+      "posted_at": "2026-05-08T00:00:00.000Z",
+      "score": 338.7,
+      "web_thumbs": 5,
+      "web_plays": 20,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 5,
+        "plays": 20,
+        "raw_points": 280,
+        "multiplier": 1.93
+      },
+      "rank": 18,
+      "previous_rank": null
+    },
+    {
+      "id": "spotify-2YIALmHYyQt7fnkxWCyh1i",
+      "song_title": "Infekto - Different Story",
+      "author": "Infekto",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2730523ec1ca60531a84710eab5",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2YIALmHYyQt7fnkxWCyh1i",
+      "discord_url": "https://open.spotify.com/track/2YIALmHYyQt7fnkxWCyh1i",
+      "posted_at": "2026-05-08T00:00:00.000Z",
+      "score": 338,
+      "web_thumbs": 11,
+      "web_plays": 15,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 11,
+        "plays": 15,
+        "raw_points": 286.5,
+        "multiplier": 1.96
+      },
+      "rank": 19,
+      "previous_rank": null
     },
     {
       "id": "1501991217586507919",
@@ -416,70 +464,22 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
       "message_text": "Lauri Haav vs T99 - No Haav No Anasthasia (Xmies remix)",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1779581682054",
+      "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1779668106106",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501991217586507919",
       "posted_at": "2026-05-07T16:56:51.920Z",
-      "score": 265.9,
+      "score": 336.7,
       "web_thumbs": 11,
-      "web_plays": 13,
+      "web_plays": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 11,
-        "plays": 13,
-        "raw_points": 197,
-        "multiplier": 1.98
-      },
-      "rank": 18,
-      "previous_rank": 20
-    },
-    {
-      "id": "1501990408769634344",
-      "song_title": "Isaac Mirella vs Chase & Status - Palamaan",
-      "author": "Isaac Mirella vs Chase & Status",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "Ikke & Mirella vs. Chase & Status - Palamaan",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1779581692226",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501990408769634344",
-      "posted_at": "2026-05-07T16:53:39.083Z",
-      "score": 253.5,
-      "web_thumbs": 11,
-      "web_plays": 15,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 11,
-        "plays": 15,
-        "raw_points": 218,
-        "multiplier": 2.09
-      },
-      "rank": 19,
-      "previous_rank": 18
-    },
-    {
-      "id": "spotify-2SwPb8GLUcpn1iTOWMf4aw",
-      "song_title": "Fanu - Uncut Product",
-      "author": "Fanu",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273bef2b45abca3b6a4fc6d7740",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2SwPb8GLUcpn1iTOWMf4aw",
-      "discord_url": "https://open.spotify.com/track/2SwPb8GLUcpn1iTOWMf4aw",
-      "posted_at": "2026-05-01T00:00:00.000Z",
-      "score": 246.3,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 4,
-        "multiplier": 1.02
+        "plays": 14,
+        "raw_points": 207.5,
+        "multiplier": 1.69
       },
       "rank": 20,
-      "previous_rank": null
+      "previous_rank": 18
     }
   ]
 }
