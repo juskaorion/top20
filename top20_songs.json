@@ -1,30 +1,6 @@
 {
-  "last_updated": "2026-05-26T00:17:06.483Z",
+  "last_updated": "2026-05-27T00:19:17.779Z",
   "top_songs": [
-    {
-      "id": "1507330380712251494",
-      "song_title": "Käärijä & The Prodigy - Klo23 vs Voodoo People (10xx Bootleg) (Z...",
-      "author": "Käärijä & The Prodigy",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400342055412301855/cfefee5f4831030bd3358722adf5f8eb.webp?size=128",
-      "message_text": "Ladattavissa suoraan Soundcloudista 🔥 ❤️",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1779581644013",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1507330380712251494",
-      "posted_at": "2026-05-22T10:32:47.606Z",
-      "score": 744.7,
-      "web_thumbs": 2,
-      "web_plays": 11,
-      "stats": {
-        "reactions": 3,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 11,
-        "raw_points": 149,
-        "multiplier": 1.5
-      },
-      "rank": 1,
-      "previous_rank": 1
-    },
     {
       "id": "1507714473845067909",
       "song_title": "Kehlani - Folded (Jays Remix)",
@@ -32,22 +8,46 @@
       "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
       "message_text": "Viimeisin remix jonka sain valmiiksi.",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1779754610226",
+      "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1779841146559",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1507714473845067909",
       "posted_at": "2026-05-23T11:59:02.545Z",
-      "score": 735.5,
+      "score": 741.8,
       "web_thumbs": 5,
-      "web_plays": 7,
+      "web_plays": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 5,
-        "plays": 7,
-        "raw_points": 101,
-        "multiplier": 1.34
+        "plays": 11,
+        "raw_points": 143,
+        "multiplier": 1.48
+      },
+      "rank": 1,
+      "previous_rank": 2
+    },
+    {
+      "id": "1507330380712251494",
+      "song_title": "Käärijä & The Prodigy - Klo23 vs Voodoo People (10xx Bootleg) (Z...",
+      "author": "Käärijä & The Prodigy",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400342055412301855/cfefee5f4831030bd3358722adf5f8eb.webp?size=128",
+      "message_text": "Ladattavissa suoraan Soundcloudista 🔥 ❤️",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1779841155886",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1507330380712251494",
+      "posted_at": "2026-05-22T10:32:47.606Z",
+      "score": 737.7,
+      "web_thumbs": 2,
+      "web_plays": 14,
+      "stats": {
+        "reactions": 3,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 14,
+        "raw_points": 180.5,
+        "multiplier": 1.6
       },
       "rank": 2,
-      "previous_rank": 4
+      "previous_rank": 1
     },
     {
       "id": "spotify-6k7QsqmyWc9Y2G2VXB6fTw",
@@ -59,19 +59,19 @@
       "audio_url": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw",
       "discord_url": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw",
       "posted_at": "2026-05-22T00:00:00.000Z",
-      "score": 714.9,
-      "web_thumbs": 2,
-      "web_plays": 8,
+      "score": 701.7,
+      "web_thumbs": 3,
+      "web_plays": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 2,
-        "plays": 8,
-        "raw_points": 126,
-        "multiplier": 1.42
+        "thumbs": 3,
+        "plays": 9,
+        "raw_points": 147.5,
+        "multiplier": 1.49
       },
       "rank": 3,
-      "previous_rank": 2
+      "previous_rank": 3
     },
     {
       "id": "spotify-5QhdE27QAhIcZp696tUh3R",
@@ -83,19 +83,19 @@
       "audio_url": "https://open.spotify.com/track/5QhdE27QAhIcZp696tUh3R",
       "discord_url": "https://open.spotify.com/track/5QhdE27QAhIcZp696tUh3R",
       "posted_at": "2026-05-21T00:00:00.000Z",
-      "score": 694,
+      "score": 678.4,
       "web_thumbs": 3,
-      "web_plays": 8,
+      "web_plays": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 3,
-        "plays": 8,
-        "raw_points": 136,
-        "multiplier": 1.45
+        "plays": 10,
+        "raw_points": 157,
+        "multiplier": 1.52
       },
       "rank": 4,
-      "previous_rank": 3
+      "previous_rank": 4
     },
     {
       "id": "spotify-6PtNkBOcmmM4Pkn14U2cDk",
@@ -107,19 +107,19 @@
       "audio_url": "https://open.spotify.com/track/6PtNkBOcmmM4Pkn14U2cDk",
       "discord_url": "https://open.spotify.com/track/6PtNkBOcmmM4Pkn14U2cDk",
       "posted_at": "2026-05-22T00:00:00.000Z",
-      "score": 635.1,
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "score": 641,
+      "web_thumbs": 1,
+      "web_plays": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 18,
-        "multiplier": 1.06
+        "thumbs": 1,
+        "plays": 3,
+        "raw_points": 57.5,
+        "multiplier": 1.19
       },
       "rank": 5,
-      "previous_rank": null
+      "previous_rank": 5
     },
     {
       "id": "1507134188015583414",
@@ -131,7 +131,7 @@
       "audio_url": "https://youtu.be/ADS4yfEPQSU",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1507134188015583414",
       "posted_at": "2026-05-21T21:33:11.622Z",
-      "score": 627.5,
+      "score": 607.3,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -155,19 +155,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1779754616313",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1504503147836608752",
       "posted_at": "2026-05-14T15:18:22.761Z",
-      "score": 624.1,
+      "score": 572.2,
       "web_thumbs": 6,
-      "web_plays": 43,
+      "web_plays": 45,
       "stats": {
         "reactions": 10,
         "comments": 0,
         "thumbs": 6,
-        "plays": 43,
-        "raw_points": 559.5,
-        "multiplier": 2.87
+        "plays": 45,
+        "raw_points": 580.5,
+        "multiplier": 2.94
       },
       "rank": 7,
-      "previous_rank": 5
+      "previous_rank": 7
     },
     {
       "id": "spotify-55A9lCTGXHxchBuM2CzF4b",
@@ -179,19 +179,19 @@
       "audio_url": "https://open.spotify.com/track/55A9lCTGXHxchBuM2CzF4b",
       "discord_url": "https://open.spotify.com/track/55A9lCTGXHxchBuM2CzF4b",
       "posted_at": "2026-05-15T00:00:00.000Z",
-      "score": 595.8,
+      "score": 553.7,
       "web_thumbs": 15,
-      "web_plays": 20,
+      "web_plays": 21,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 15,
-        "plays": 20,
-        "raw_points": 389,
-        "multiplier": 2.3
+        "plays": 21,
+        "raw_points": 401.5,
+        "multiplier": 2.34
       },
       "rank": 8,
-      "previous_rank": 7
+      "previous_rank": 8
     },
     {
       "id": "spotify-3epDMwAlqrVK2Mh48SW1yM",
@@ -203,19 +203,19 @@
       "audio_url": "https://open.spotify.com/track/3epDMwAlqrVK2Mh48SW1yM",
       "discord_url": "https://open.spotify.com/track/3epDMwAlqrVK2Mh48SW1yM",
       "posted_at": "2026-05-16T00:00:00.000Z",
-      "score": 569.7,
-      "web_thumbs": 4,
-      "web_plays": 12,
+      "score": 544.5,
+      "web_thumbs": 5,
+      "web_plays": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 4,
-        "plays": 12,
-        "raw_points": 186,
-        "multiplier": 1.62
+        "thumbs": 5,
+        "plays": 13,
+        "raw_points": 208.5,
+        "multiplier": 1.69
       },
       "rank": 9,
-      "previous_rank": 8
+      "previous_rank": 9
     },
     {
       "id": "spotify-1jTTNPd1EPWgI4gvJbTtHP",
@@ -227,19 +227,19 @@
       "audio_url": "https://open.spotify.com/track/1jTTNPd1EPWgI4gvJbTtHP",
       "discord_url": "https://open.spotify.com/track/1jTTNPd1EPWgI4gvJbTtHP",
       "posted_at": "2026-05-15T00:00:00.000Z",
-      "score": 556,
+      "score": 522.4,
       "web_thumbs": 6,
-      "web_plays": 16,
+      "web_plays": 17,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 6,
-        "plays": 16,
-        "raw_points": 249,
-        "multiplier": 1.83
+        "plays": 17,
+        "raw_points": 258.5,
+        "multiplier": 1.86
       },
       "rank": 10,
-      "previous_rank": 9
+      "previous_rank": 10
     },
     {
       "id": "1504210039278272623",
@@ -251,19 +251,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1779754619481",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1504210039278272623",
       "posted_at": "2026-05-13T19:53:40.235Z",
-      "score": 521,
+      "score": 484.7,
       "web_thumbs": 4,
-      "web_plays": 24,
+      "web_plays": 25,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 4,
-        "plays": 24,
-        "raw_points": 281.5,
-        "multiplier": 1.94
+        "plays": 25,
+        "raw_points": 292,
+        "multiplier": 1.97
       },
       "rank": 11,
-      "previous_rank": 10
+      "previous_rank": 11
     },
     {
       "id": "spotify-6zmH92opsDQplXfdDzvlAq",
@@ -275,16 +275,16 @@
       "audio_url": "https://open.spotify.com/track/6zmH92opsDQplXfdDzvlAq",
       "discord_url": "https://open.spotify.com/track/6zmH92opsDQplXfdDzvlAq",
       "posted_at": "2026-05-15T00:00:00.000Z",
-      "score": 496.2,
-      "web_thumbs": 1,
-      "web_plays": 1,
+      "score": 479.1,
+      "web_thumbs": 2,
+      "web_plays": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
-        "plays": 1,
-        "raw_points": 38.5,
-        "multiplier": 1.13
+        "thumbs": 2,
+        "plays": 2,
+        "raw_points": 61,
+        "multiplier": 1.2
       },
       "rank": 12,
       "previous_rank": 12
@@ -299,19 +299,19 @@
       "audio_url": "https://open.spotify.com/track/0NS3xyUwissWbgbzwSnRJN",
       "discord_url": "https://open.spotify.com/track/0NS3xyUwissWbgbzwSnRJN",
       "posted_at": "2026-05-13T00:00:00.000Z",
-      "score": 489.2,
+      "score": 452.5,
       "web_thumbs": 7,
-      "web_plays": 18,
+      "web_plays": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 7,
-        "plays": 18,
-        "raw_points": 278,
-        "multiplier": 1.93
+        "plays": 19,
+        "raw_points": 288.5,
+        "multiplier": 1.96
       },
       "rank": 13,
-      "previous_rank": 11
+      "previous_rank": 13
     },
     {
       "id": "1503111070028529785",
@@ -323,19 +323,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1779754621851",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1503111070028529785",
       "posted_at": "2026-05-10T19:06:45.548Z",
-      "score": 404.8,
+      "score": 375.8,
       "web_thumbs": 4,
-      "web_plays": 11,
+      "web_plays": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 4,
-        "plays": 11,
-        "raw_points": 137.5,
-        "multiplier": 1.46
+        "plays": 12,
+        "raw_points": 148,
+        "multiplier": 1.49
       },
       "rank": 14,
-      "previous_rank": 13
+      "previous_rank": 14
     },
     {
       "id": "spotify-11ksKI4Pym55rt990IkOlv",
@@ -347,19 +347,19 @@
       "audio_url": "https://open.spotify.com/track/11ksKI4Pym55rt990IkOlv",
       "discord_url": "https://open.spotify.com/track/11ksKI4Pym55rt990IkOlv",
       "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 339.7,
+      "score": 314,
       "web_thumbs": 2,
-      "web_plays": 2,
+      "web_plays": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 2,
-        "raw_points": 53,
-        "multiplier": 1.18
+        "plays": 3,
+        "raw_points": 64.5,
+        "multiplier": 1.22
       },
       "rank": 15,
-      "previous_rank": 14
+      "previous_rank": 15
     },
     {
       "id": "1502235804288679998",
@@ -371,19 +371,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1779754626482",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1502235804288679998",
       "posted_at": "2026-05-08T09:08:45.934Z",
-      "score": 330.2,
+      "score": 296.9,
       "web_thumbs": 4,
-      "web_plays": 12,
+      "web_plays": 13,
       "stats": {
         "reactions": 4,
         "comments": 0,
         "thumbs": 4,
-        "plays": 12,
-        "raw_points": 178,
-        "multiplier": 1.59
+        "plays": 13,
+        "raw_points": 188.5,
+        "multiplier": 1.63
       },
       "rank": 16,
-      "previous_rank": 15
+      "previous_rank": 16
     },
     {
       "id": "1501990182721949920",
@@ -395,43 +395,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1779668100031",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501990182721949920",
       "posted_at": "2026-05-07T16:52:45.189Z",
-      "score": 311.2,
-      "web_thumbs": 10,
+      "score": 279.3,
+      "web_thumbs": 11,
       "web_plays": 10,
       "stats": {
         "reactions": 1,
         "comments": 0,
-        "thumbs": 10,
+        "thumbs": 11,
         "plays": 10,
-        "raw_points": 167.5,
-        "multiplier": 1.56
+        "raw_points": 173,
+        "multiplier": 1.58
       },
       "rank": 17,
       "previous_rank": 17
-    },
-    {
-      "id": "spotify-61rw5gFv36ro3DLixZx8e5",
-      "song_title": "Joysic, Lazz, Sam Heselwood - Before This Ends",
-      "author": "Joysic, Lazz, Sam Heselwood",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2730089e11017cd6c934398ad2b",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/61rw5gFv36ro3DLixZx8e5",
-      "discord_url": "https://open.spotify.com/track/61rw5gFv36ro3DLixZx8e5",
-      "posted_at": "2026-05-08T00:00:00.000Z",
-      "score": 308.9,
-      "web_thumbs": 4,
-      "web_plays": 17,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 4,
-        "plays": 17,
-        "raw_points": 233.5,
-        "multiplier": 1.78
-      },
-      "rank": 18,
-      "previous_rank": 16
     },
     {
       "id": "spotify-5SCh7sgXPfdR1877yhM7lG",
@@ -443,19 +419,43 @@
       "audio_url": "https://open.spotify.com/track/5SCh7sgXPfdR1877yhM7lG",
       "discord_url": "https://open.spotify.com/track/5SCh7sgXPfdR1877yhM7lG",
       "posted_at": "2026-05-06T00:00:00.000Z",
-      "score": 307.7,
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "score": 278.7,
+      "web_thumbs": 1,
+      "web_plays": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 7,
-        "multiplier": 1.02
+        "thumbs": 1,
+        "plays": 1,
+        "raw_points": 31.5,
+        "multiplier": 1.1
+      },
+      "rank": 18,
+      "previous_rank": 19
+    },
+    {
+      "id": "spotify-61rw5gFv36ro3DLixZx8e5",
+      "song_title": "Joysic, Lazz, Sam Heselwood - Before This Ends",
+      "author": "Joysic, Lazz, Sam Heselwood",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2730089e11017cd6c934398ad2b",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/61rw5gFv36ro3DLixZx8e5",
+      "discord_url": "https://open.spotify.com/track/61rw5gFv36ro3DLixZx8e5",
+      "posted_at": "2026-05-08T00:00:00.000Z",
+      "score": 272.6,
+      "web_thumbs": 4,
+      "web_plays": 18,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 4,
+        "plays": 18,
+        "raw_points": 240,
+        "multiplier": 1.8
       },
       "rank": 19,
-      "previous_rank": null
+      "previous_rank": 18
     },
     {
       "id": "1501991217586507919",
@@ -467,16 +467,16 @@
       "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1779668106106",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1501991217586507919",
       "posted_at": "2026-05-07T16:56:51.920Z",
-      "score": 301.7,
-      "web_thumbs": 11,
+      "score": 266.5,
+      "web_thumbs": 12,
       "web_plays": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 11,
+        "thumbs": 12,
         "plays": 15,
-        "raw_points": 218,
-        "multiplier": 1.73
+        "raw_points": 223.5,
+        "multiplier": 1.75
       },
       "rank": 20,
       "previous_rank": 20
