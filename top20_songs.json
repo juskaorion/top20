@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-02T01:38:23.578Z",
+  "last_updated": "2026-06-02T13:05:18.419Z",
   "top_songs": [
     {
       "id": "1510998501096685831",
@@ -7,23 +7,47 @@
       "author": "Duck Sauce",
       "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
       "message_text": "",
-      "audio_type": "dropbox_link",
-      "audio_url": "https://www.dropbox.com/scl/fi/vvuqjbprnbbsxmdfmxukm/Duck-Sauce-Barbra-Streisand-KONSTA-HELENIUS-Xmies-Remix.wav?rlkey=okth1j135pi07dg2lw2lt0qic&dl=0&raw=1",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1780405473338",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1510998501096685831",
       "posted_at": "2026-06-01T13:28:35.656Z",
-      "score": 733.6,
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "score": 745,
+      "web_thumbs": 1,
+      "web_plays": 1,
       "stats": {
-        "reactions": 6,
+        "reactions": 7,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 45,
-        "multiplier": 1.15
+        "thumbs": 1,
+        "plays": 1,
+        "raw_points": 68.5,
+        "multiplier": 1.23
       },
       "rank": 1,
-      "previous_rank": null
+      "previous_rank": 1
+    },
+    {
+      "id": "1509346258131882156",
+      "song_title": "Käärijä, Baby Lasagna vs Hoax - Hoax Dab (Xmies Mashup)",
+      "author": "Käärijä, Baby Lasagna vs Hoax",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1780405481482",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1509346258131882156",
+      "posted_at": "2026-05-28T00:03:10.236Z",
+      "score": 679.2,
+      "web_thumbs": 0,
+      "web_plays": 13,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 13,
+        "raw_points": 136.5,
+        "multiplier": 1.46
+      },
+      "rank": 2,
+      "previous_rank": 15
     },
     {
       "id": "1510907307075305595",
@@ -35,7 +59,7 @@
       "audio_url": "https://www.youtube.com/watch?v=eJpbB5uZiC8",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1510907307075305595",
       "posted_at": "2026-06-01T07:26:13.307Z",
-      "score": 685.2,
+      "score": 675.9,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -46,8 +70,32 @@
         "raw_points": 0,
         "multiplier": 1
       },
-      "rank": 2,
-      "previous_rank": null
+      "rank": 3,
+      "previous_rank": 2
+    },
+    {
+      "id": "1509489547447242824",
+      "song_title": "Rohaan - Easy For Them Expace Patreon Remix COMP MASTER",
+      "author": "Rohaan",
+      "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1780405487497",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1509489547447242824",
+      "posted_at": "2026-05-28T09:32:33.071Z",
+      "score": 672.2,
+      "web_thumbs": 1,
+      "web_plays": 7,
+      "stats": {
+        "reactions": 4,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 7,
+        "raw_points": 109,
+        "multiplier": 1.36
+      },
+      "rank": 4,
+      "previous_rank": 12
     },
     {
       "id": "1510008980569591868",
@@ -55,191 +103,23 @@
       "author": "JVG X Disclosure X Interplanetary Criminal",
       "author_avatar": "https://cdn.discordapp.com/avatars/93735210524356608/96f833cc723d229e56b02baaf35f2356.webp?size=128",
       "message_text": "",
-      "audio_type": "dropbox_link",
-      "audio_url": "https://www.dropbox.com/scl/fi/vkjzn660blqfph81yg0mg/JVG-X-Disclosure-X-Interplanetary-Criminal-Nelisilm-vs.-King-Steps-TEIO-Mashup.mp3?rlkey=msyx1so5obbhjcovjska7d4n8&st=881unhp5&dl=0&raw=1",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1780405496777",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1510008980569591868",
       "posted_at": "2026-05-29T19:56:35.578Z",
-      "score": 642.8,
+      "score": 665.1,
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 4,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0,
-        "raw_points": 7.5,
-        "multiplier": 1.02
-      },
-      "rank": 3,
-      "previous_rank": 5
-    },
-    {
-      "id": "spotify-0c7z6nKCAkbK2LEYEloNGs",
-      "song_title": "MakeFlame - Alive",
-      "author": "MakeFlame",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273de599d6fa3591043dac2c440",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0c7z6nKCAkbK2LEYEloNGs",
-      "discord_url": "https://open.spotify.com/track/0c7z6nKCAkbK2LEYEloNGs",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 635.4,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 20,
-        "multiplier": 1.07
-      },
-      "rank": 4,
-      "previous_rank": 11
-    },
-    {
-      "id": "spotify-1VcpQRtzHqWKo2MChRe7CX",
-      "song_title": "metakomplex - Feeling",
-      "author": "metakomplex",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737b1b367602b42f4a1428a0d8",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1VcpQRtzHqWKo2MChRe7CX",
-      "discord_url": "https://open.spotify.com/track/1VcpQRtzHqWKo2MChRe7CX",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 634.7,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 19,
-        "multiplier": 1.06
+        "plays": 4,
+        "raw_points": 49.5,
+        "multiplier": 1.17
       },
       "rank": 5,
-      "previous_rank": 7
-    },
-    {
-      "id": "spotify-0NjOkbPe8Im01l5UZq4dPd",
-      "song_title": "DJ FKU - MONTAGEM SONHO",
-      "author": "DJ FKU",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273b11dcb38a9fd6eb201d45775",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0NjOkbPe8Im01l5UZq4dPd",
-      "discord_url": "https://open.spotify.com/track/0NjOkbPe8Im01l5UZq4dPd",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 633.9,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 18,
-        "multiplier": 1.06
-      },
-      "rank": 6,
-      "previous_rank": 10
-    },
-    {
-      "id": "spotify-7E9xtctAMkH5ThwmOQSv3X",
-      "song_title": "LUMI - YOGA",
-      "author": "LUMI",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273640ccc4a5e1c6a9dffc390c6",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7E9xtctAMkH5ThwmOQSv3X",
-      "discord_url": "https://open.spotify.com/track/7E9xtctAMkH5ThwmOQSv3X",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 633.2,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 17,
-        "multiplier": 1.06
-      },
-      "rank": 7,
-      "previous_rank": 12
-    },
-    {
-      "id": "spotify-21b7QHZsmQ09HCyp4HNStD",
-      "song_title": "Thomas Will, Chris Candela - Time's Up",
-      "author": "Thomas Will, Chris Candela",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273456bc0bc76b6b049d6066619",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/21b7QHZsmQ09HCyp4HNStD",
-      "discord_url": "https://open.spotify.com/track/21b7QHZsmQ09HCyp4HNStD",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 632.4,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 16,
-        "multiplier": 1.05
-      },
-      "rank": 8,
-      "previous_rank": null
-    },
-    {
-      "id": "spotify-6pbXO87bRpQ5hgHjPaPUtN",
-      "song_title": "Sattalite, Ruqiyah. - bullet",
-      "author": "Sattalite, Ruqiyah.",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ab89a1bd726d90ccdd96a348",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6pbXO87bRpQ5hgHjPaPUtN",
-      "discord_url": "https://open.spotify.com/track/6pbXO87bRpQ5hgHjPaPUtN",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 631.7,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 15,
-        "multiplier": 1.05
-      },
-      "rank": 9,
-      "previous_rank": 13
-    },
-    {
-      "id": "spotify-7yKlWkqmlEpqAqJA7WYJ81",
-      "song_title": "Muffler, Cat Knight - Some Kinda Crazy - Radio Edit",
-      "author": "Muffler, Cat Knight",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a7ff1f9185564f930f1f21ea",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7yKlWkqmlEpqAqJA7WYJ81",
-      "discord_url": "https://open.spotify.com/track/7yKlWkqmlEpqAqJA7WYJ81",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 631,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 14,
-        "multiplier": 1.05
-      },
-      "rank": 10,
-      "previous_rank": 8
+      "previous_rank": 3
     },
     {
       "id": "spotify-1nEecV1N4v3XEO0ZhJDBaB",
@@ -251,43 +131,235 @@
       "audio_url": "https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB",
       "discord_url": "https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 630.2,
+      "score": 643.1,
+      "web_thumbs": 1,
+      "web_plays": 2,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 2,
+        "raw_points": 45,
+        "multiplier": 1.15
+      },
+      "rank": 6,
+      "previous_rank": 11
+    },
+    {
+      "id": "1509346015571083365",
+      "song_title": "Käärijä, Baby Lasagna vs Hoax - Hoax Dab (Xmies Mashup)",
+      "author": "Käärijä, Baby Lasagna vs Hoax",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1780405506372",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1509346015571083365",
+      "posted_at": "2026-05-28T00:02:12.405Z",
+      "score": 642.4,
+      "web_thumbs": 1,
+      "web_plays": 7,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 7,
+        "raw_points": 79,
+        "multiplier": 1.26
+      },
+      "rank": 7,
+      "previous_rank": 16
+    },
+    {
+      "id": "1507714473845067909",
+      "song_title": "Kehlani - Folded (Jays Remix)",
+      "author": "Kehlani",
+      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "message_text": "Viimeisin remix jonka sain valmiiksi.",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1780405509307",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1507714473845067909",
+      "posted_at": "2026-05-23T11:59:02.545Z",
+      "score": 641.2,
+      "web_thumbs": 5,
+      "web_plays": 35,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 5,
+        "plays": 35,
+        "raw_points": 395,
+        "multiplier": 2.32
+      },
+      "rank": 8,
+      "previous_rank": 18
+    },
+    {
+      "id": "spotify-0c7z6nKCAkbK2LEYEloNGs",
+      "song_title": "MakeFlame - Alive",
+      "author": "MakeFlame",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273de599d6fa3591043dac2c440",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0c7z6nKCAkbK2LEYEloNGs",
+      "discord_url": "https://open.spotify.com/track/0c7z6nKCAkbK2LEYEloNGs",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 640.3,
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0,
-        "raw_points": 13,
-        "multiplier": 1.04
+        "plays": 2,
+        "raw_points": 41,
+        "multiplier": 1.14
       },
-      "rank": 11,
-      "previous_rank": 9
+      "rank": 9,
+      "previous_rank": 4
     },
     {
-      "id": "1509489547447242824",
-      "song_title": "Rohaan - Easy For Them Expace Patreon Remix COMP MASTER",
-      "author": "Rohaan",
-      "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
+      "id": "spotify-1VcpQRtzHqWKo2MChRe7CX",
+      "song_title": "metakomplex - Feeling",
+      "author": "metakomplex",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737b1b367602b42f4a1428a0d8",
       "message_text": "",
-      "audio_type": "discord_attachment",
-      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1509489547145117716/Rohaan_-_Easy_For_Them_Expace_Patreon_Remix_COMP_MASTER.wav?ex=6a1f4bf0&is=6a1dfa70&hm=e3147a0f300c6ee6c8aaeeb28639c99586d9cec30fc219e04679c8e21ff54b97&",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1509489547447242824",
-      "posted_at": "2026-05-28T09:32:33.071Z",
-      "score": 629.8,
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/1VcpQRtzHqWKo2MChRe7CX",
+      "discord_url": "https://open.spotify.com/track/1VcpQRtzHqWKo2MChRe7CX",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 639.9,
+      "web_thumbs": 1,
+      "web_plays": 1,
       "stats": {
-        "reactions": 4,
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "raw_points": 40.5,
+        "multiplier": 1.14
+      },
+      "rank": 10,
+      "previous_rank": 5
+    },
+    {
+      "id": "spotify-7E9xtctAMkH5ThwmOQSv3X",
+      "song_title": "LUMI - YOGA",
+      "author": "LUMI",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273640ccc4a5e1c6a9dffc390c6",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7E9xtctAMkH5ThwmOQSv3X",
+      "discord_url": "https://open.spotify.com/track/7E9xtctAMkH5ThwmOQSv3X",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 638.2,
+      "web_thumbs": 0,
+      "web_plays": 2,
+      "stats": {
+        "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0,
-        "raw_points": 30,
-        "multiplier": 1.1
+        "plays": 2,
+        "raw_points": 38,
+        "multiplier": 1.13
+      },
+      "rank": 11,
+      "previous_rank": 7
+    },
+    {
+      "id": "spotify-7yKlWkqmlEpqAqJA7WYJ81",
+      "song_title": "Muffler, Cat Knight - Some Kinda Crazy - Radio Edit",
+      "author": "Muffler, Cat Knight",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a7ff1f9185564f930f1f21ea",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7yKlWkqmlEpqAqJA7WYJ81",
+      "discord_url": "https://open.spotify.com/track/7yKlWkqmlEpqAqJA7WYJ81",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 636.4,
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "raw_points": 35.5,
+        "multiplier": 1.12
       },
       "rank": 12,
-      "previous_rank": 2
+      "previous_rank": 10
+    },
+    {
+      "id": "spotify-0NjOkbPe8Im01l5UZq4dPd",
+      "song_title": "DJ FKU - MONTAGEM SONHO",
+      "author": "DJ FKU",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273b11dcb38a9fd6eb201d45775",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0NjOkbPe8Im01l5UZq4dPd",
+      "discord_url": "https://open.spotify.com/track/0NjOkbPe8Im01l5UZq4dPd",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 631.5,
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "raw_points": 28.5,
+        "multiplier": 1.09
+      },
+      "rank": 13,
+      "previous_rank": 6
+    },
+    {
+      "id": "spotify-21b7QHZsmQ09HCyp4HNStD",
+      "song_title": "Thomas Will, Chris Candela - Time's Up",
+      "author": "Thomas Will, Chris Candela",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273456bc0bc76b6b049d6066619",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/21b7QHZsmQ09HCyp4HNStD",
+      "discord_url": "https://open.spotify.com/track/21b7QHZsmQ09HCyp4HNStD",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 630.4,
+      "web_thumbs": 1,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 0,
+        "raw_points": 27,
+        "multiplier": 1.09
+      },
+      "rank": 14,
+      "previous_rank": 8
+    },
+    {
+      "id": "spotify-6pbXO87bRpQ5hgHjPaPUtN",
+      "song_title": "Sattalite, Ruqiyah. - bullet",
+      "author": "Sattalite, Ruqiyah.",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ab89a1bd726d90ccdd96a348",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6pbXO87bRpQ5hgHjPaPUtN",
+      "discord_url": "https://open.spotify.com/track/6pbXO87bRpQ5hgHjPaPUtN",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 629.3,
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "raw_points": 25.5,
+        "multiplier": 1.08
+      },
+      "rank": 15,
+      "previous_rank": 9
     },
     {
       "id": "spotify-18TAhf2pitvopuaxZcQUqH",
@@ -299,19 +371,19 @@
       "audio_url": "https://open.spotify.com/track/18TAhf2pitvopuaxZcQUqH",
       "discord_url": "https://open.spotify.com/track/18TAhf2pitvopuaxZcQUqH",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 629.5,
-      "web_thumbs": 0,
+      "score": 627.6,
+      "web_thumbs": 1,
       "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
+        "thumbs": 1,
         "plays": 0,
-        "raw_points": 12,
-        "multiplier": 1.04
+        "raw_points": 23,
+        "multiplier": 1.08
       },
-      "rank": 13,
-      "previous_rank": 14
+      "rank": 16,
+      "previous_rank": 13
     },
     {
       "id": "spotify-7GgfHcUbOXlWMiXthQgZRr",
@@ -323,7 +395,7 @@
       "audio_url": "https://open.spotify.com/track/7GgfHcUbOXlWMiXthQgZRr",
       "discord_url": "https://open.spotify.com/track/7GgfHcUbOXlWMiXthQgZRr",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 628,
+      "score": 618.4,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -334,56 +406,8 @@
         "raw_points": 10,
         "multiplier": 1.03
       },
-      "rank": 14,
-      "previous_rank": 15
-    },
-    {
-      "id": "1509346258131882156",
-      "song_title": "Käärijä, Baby Lasagna vs Hoax - Hoax Dab (Xmies Mashup)",
-      "author": "Käärijä, Baby Lasagna vs Hoax",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "",
-      "audio_type": "dropbox_link",
-      "audio_url": "https://www.dropbox.com/scl/fi/z4ocyt1hj3iys7tbb3tv5/K-rij-Baby-Lasagna-vs-Hoax-Hoax-Dab-Xmies-Mashup.wav?rlkey=oy9218pvrf06m2k6v0j90lhy8&dl=0&raw=1",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1509346258131882156",
-      "posted_at": "2026-05-28T00:03:10.236Z",
-      "score": 601.2,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 0,
-        "multiplier": 1
-      },
-      "rank": 15,
-      "previous_rank": 1
-    },
-    {
-      "id": "1509346015571083365",
-      "song_title": "Käärijä, Baby Lasagna vs Hoax - Hoax Dab (Xmies Mashup)",
-      "author": "Käärijä, Baby Lasagna vs Hoax",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "",
-      "audio_type": "soundcloud_link",
-      "audio_url": "https://soundcloud.com/xmies23/ka-a-rija-baby-lasagna-vs-hoax",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1509346015571083365",
-      "posted_at": "2026-05-28T00:02:12.405Z",
-      "score": 601.2,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 0,
-        "multiplier": 1
-      },
-      "rank": 16,
-      "previous_rank": 6
+      "rank": 17,
+      "previous_rank": 14
     },
     {
       "id": "spotify-6qL1c0iuEhxV8a1Rt1l3ww",
@@ -395,7 +419,7 @@
       "audio_url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww",
       "discord_url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww",
       "posted_at": "2026-05-27T00:00:00.000Z",
-      "score": 588.3,
+      "score": 578.7,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -406,32 +430,8 @@
         "raw_points": 11,
         "multiplier": 1.04
       },
-      "rank": 17,
-      "previous_rank": 17
-    },
-    {
-      "id": "1507714473845067909",
-      "song_title": "Kehlani - Folded (Jays Remix)",
-      "author": "Kehlani",
-      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-      "message_text": "Viimeisin remix jonka sain valmiiksi.",
-      "audio_type": "discord_attachment",
-      "audio_url": "https://cdn.discordapp.com/attachments/1177157041165434910/1507714474881187900/Kehlani_-_Folded_Jays_Remix.mp3?ex=6a1f6e46&is=6a1e1cc6&hm=02239a7b127aaea33bf14d2f8f6059b5fb0d3415df292586021fc53b9a8074f1&",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1507714473845067909",
-      "posted_at": "2026-05-23T11:59:02.545Z",
-      "score": 513.4,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 0,
-        "multiplier": 1
-      },
       "rank": 18,
-      "previous_rank": 3
+      "previous_rank": 17
     },
     {
       "id": "1507330380712251494",
@@ -439,23 +439,23 @@
       "author": "Käärijä & The Prodigy",
       "author_avatar": "https://cdn.discordapp.com/avatars/400342055412301855/cfefee5f4831030bd3358722adf5f8eb.webp?size=128",
       "message_text": "Ladattavissa suoraan Soundcloudista 🔥 ❤️",
-      "audio_type": "soundcloud_link",
-      "audio_url": "https://soundcloud.com/zuppis/kaarija-the-prodigy-klo23-voodoo-people-10xx-bootleg-zuppis-mashup",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1780405518418",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1507330380712251494",
       "posted_at": "2026-05-22T10:32:47.606Z",
-      "score": 499.7,
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "score": 554.1,
+      "web_thumbs": 2,
+      "web_plays": 21,
       "stats": {
         "reactions": 3,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 22.5,
-        "multiplier": 1.07
+        "thumbs": 2,
+        "plays": 21,
+        "raw_points": 254,
+        "multiplier": 1.85
       },
       "rank": 19,
-      "previous_rank": 16
+      "previous_rank": 19
     },
     {
       "id": "spotify-6k7QsqmyWc9Y2G2VXB6fTw",
@@ -467,19 +467,19 @@
       "audio_url": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw",
       "discord_url": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw",
       "posted_at": "2026-05-22T00:00:00.000Z",
-      "score": 486.7,
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "score": 524.8,
+      "web_thumbs": 4,
+      "web_plays": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 9,
-        "multiplier": 1.03
+        "thumbs": 4,
+        "plays": 14,
+        "raw_points": 200,
+        "multiplier": 1.67
       },
       "rank": 20,
-      "previous_rank": 18
+      "previous_rank": 20
     }
   ]
 }
