@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+env:
+  # Vaimentaa mahdollisen Node-varoitusviestin
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,7 +23,7 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '20'
+        node-version: '24' # Päivitetty uuteen versioon!
 
     - name: Install FFMPEG
       run: sudo apt-get update && sudo apt-get install -y ffmpeg
@@ -47,17 +51,17 @@ jobs:
       run: node index.js
 
     - name: Commit and Push changes
-        run: |
-          git config --global user.name 'GitHub Actions Bot'
-          git config --global user.email 'bot@actions.github.com'
-          git add top20_songs.json
-          
-          # Tehdään commit. Jos data ei muuttunut, ei kaadeta ajoa.
-          git commit -m "Automaattinen listan päivitys" || echo "Ei uutta commitattavaa"
-          
-          # Haetaan uudet muutokset reposta, mutta jos tulee konflikti JSONin kanssa, 
-          # pidetään botin juuri tekemä versio (-X ours)
-          git pull --rebase -X ours origin main
-          
-          # Pusketaan muutokset takaisin GitHubiin
-          git push origin main
+      run: |
+        git config --global user.name 'GitHub Actions Bot'
+        git config --global user.email 'bot@actions.github.com'
+        git add top20_songs.json
+        
+        # Tehdään commit. Jos data ei muuttunut, ei kaadeta ajoa.
+        git commit -m "Automaattinen listan päivitys" || echo "Ei uutta commitattavaa"
+        
+        # Haetaan uudet muutokset reposta, mutta jos tulee konflikti JSONin kanssa, 
+        # pidetään botin juuri tekemä versio (-X ours)
+        git pull --rebase -X ours origin main
+        
+        # Pusketaan muutokset takaisin GitHubiin
+        git push origin main
