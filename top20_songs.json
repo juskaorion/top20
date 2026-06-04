@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T01:47:16.123Z",
+  "last_updated": "2026-06-04T01:48:41.291Z",
   "top_songs": [
     {
       "id": "1510998501096685831",
@@ -11,16 +11,16 @@
       "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1780405473338",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1510998501096685831",
       "posted_at": "2026-06-01T13:28:35.656Z",
-      "score": 739,
+      "score": 729.6,
       "web_thumbs": 1,
-      "web_plays": 1,
+      "web_plays": 2,
       "stats": {
-        "reactions": 8,
+        "reactions": 9,
         "comments": 0,
         "thumbs": 1,
-        "plays": 1,
-        "raw_points": 76,
-        "multiplier": 1.25
+        "plays": 2,
+        "raw_points": 94,
+        "multiplier": 1.31
       },
       "rank": 1,
       "previous_rank": 1
@@ -35,7 +35,7 @@
       "audio_url": "https://www.youtube.com/watch?v=eJpbB5uZiC8",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1510907307075305595",
       "posted_at": "2026-06-01T07:26:13.307Z",
-      "score": 665.6,
+      "score": 646.1,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -47,7 +47,7 @@
         "multiplier": 1
       },
       "rank": 2,
-      "previous_rank": 3
+      "previous_rank": 2
     },
     {
       "id": "1509346258131882156",
@@ -59,7 +59,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1780451233272",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1509346258131882156",
       "posted_at": "2026-05-28T00:03:10.236Z",
-      "score": 664.2,
+      "score": 635.8,
       "web_thumbs": 0,
       "web_plays": 13,
       "stats": {
@@ -71,7 +71,7 @@
         "multiplier": 1.46
       },
       "rank": 3,
-      "previous_rank": 2
+      "previous_rank": 3
     },
     {
       "id": "1509489547447242824",
@@ -83,7 +83,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1780405487497",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1509489547447242824",
       "posted_at": "2026-05-28T09:32:33.071Z",
-      "score": 658.1,
+      "score": 631.5,
       "web_thumbs": 1,
       "web_plays": 7,
       "stats": {
@@ -107,7 +107,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1780405496777",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1510008980569591868",
       "posted_at": "2026-05-29T19:56:35.578Z",
-      "score": 653.1,
+      "score": 630.4,
       "web_thumbs": 0,
       "web_plays": 4,
       "stats": {
@@ -131,7 +131,7 @@
       "audio_url": "https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB",
       "discord_url": "https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 634.6,
+      "score": 611.8,
       "web_thumbs": 1,
       "web_plays": 2,
       "stats": {
@@ -146,30 +146,6 @@
       "previous_rank": 6
     },
     {
-      "id": "1509346015571083365",
-      "song_title": "Käärijä, Baby Lasagna vs Hoax - Hoax Dab (Xmies Mashup)",
-      "author": "Käärijä, Baby Lasagna vs Hoax",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1780405506372",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1509346015571083365",
-      "posted_at": "2026-05-28T00:02:12.405Z",
-      "score": 629.4,
-      "web_thumbs": 1,
-      "web_plays": 7,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 7,
-        "raw_points": 79,
-        "multiplier": 1.26
-      },
-      "rank": 7,
-      "previous_rank": 7
-    },
-    {
       "id": "spotify-1VcpQRtzHqWKo2MChRe7CX",
       "song_title": "metakomplex - Feeling",
       "author": "metakomplex",
@@ -179,7 +155,7 @@
       "audio_url": "https://open.spotify.com/track/1VcpQRtzHqWKo2MChRe7CX",
       "discord_url": "https://open.spotify.com/track/1VcpQRtzHqWKo2MChRe7CX",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 626.9,
+      "score": 606.6,
       "web_thumbs": 1,
       "web_plays": 1,
       "stats": {
@@ -187,11 +163,11 @@
         "comments": 0,
         "thumbs": 1,
         "plays": 1,
-        "raw_points": 38.5,
-        "multiplier": 1.13
+        "raw_points": 41.5,
+        "multiplier": 1.14
       },
-      "rank": 8,
-      "previous_rank": 10
+      "rank": 7,
+      "previous_rank": 8
     },
     {
       "id": "spotify-0c7z6nKCAkbK2LEYEloNGs",
@@ -203,7 +179,7 @@
       "audio_url": "https://open.spotify.com/track/0c7z6nKCAkbK2LEYEloNGs",
       "discord_url": "https://open.spotify.com/track/0c7z6nKCAkbK2LEYEloNGs",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 625.8,
+      "score": 605.7,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -211,11 +187,35 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 2,
-        "raw_points": 37,
-        "multiplier": 1.12
+        "raw_points": 40,
+        "multiplier": 1.13
+      },
+      "rank": 8,
+      "previous_rank": 9
+    },
+    {
+      "id": "1509346015571083365",
+      "song_title": "Käärijä, Baby Lasagna vs Hoax - Hoax Dab (Xmies Mashup)",
+      "author": "Käärijä, Baby Lasagna vs Hoax",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1780537718847",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1509346015571083365",
+      "posted_at": "2026-05-28T00:02:12.405Z",
+      "score": 604.7,
+      "web_thumbs": 1,
+      "web_plays": 7,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 7,
+        "raw_points": 79,
+        "multiplier": 1.26
       },
       "rank": 9,
-      "previous_rank": 9
+      "previous_rank": 7
     },
     {
       "id": "spotify-7yKlWkqmlEpqAqJA7WYJ81",
@@ -227,7 +227,7 @@
       "audio_url": "https://open.spotify.com/track/7yKlWkqmlEpqAqJA7WYJ81",
       "discord_url": "https://open.spotify.com/track/7yKlWkqmlEpqAqJA7WYJ81",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 625.5,
+      "score": 603.6,
       "web_thumbs": 1,
       "web_plays": 1,
       "stats": {
@@ -239,7 +239,7 @@
         "multiplier": 1.12
       },
       "rank": 10,
-      "previous_rank": 12
+      "previous_rank": 10
     },
     {
       "id": "spotify-7E9xtctAMkH5ThwmOQSv3X",
@@ -251,7 +251,7 @@
       "audio_url": "https://open.spotify.com/track/7E9xtctAMkH5ThwmOQSv3X",
       "discord_url": "https://open.spotify.com/track/7E9xtctAMkH5ThwmOQSv3X",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 624.5,
+      "score": 600.9,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -259,8 +259,8 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 2,
-        "raw_points": 35,
-        "multiplier": 1.12
+        "raw_points": 32,
+        "multiplier": 1.11
       },
       "rank": 11,
       "previous_rank": 11
@@ -275,7 +275,7 @@
       "audio_url": "https://open.spotify.com/track/0NjOkbPe8Im01l5UZq4dPd",
       "discord_url": "https://open.spotify.com/track/0NjOkbPe8Im01l5UZq4dPd",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 620.8,
+      "score": 598.2,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -283,35 +283,35 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 1,
-        "raw_points": 29.5,
-        "multiplier": 1.1
+        "raw_points": 27.5,
+        "multiplier": 1.09
       },
       "rank": 12,
-      "previous_rank": 13
+      "previous_rank": 12
     },
     {
-      "id": "1507714473845067909",
-      "song_title": "Kehlani - Folded (Jays Remix)",
-      "author": "Kehlani",
-      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-      "message_text": "Viimeisin remix jonka sain valmiiksi.",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1780451236122",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1507714473845067909",
-      "posted_at": "2026-05-23T11:59:02.545Z",
-      "score": 620.6,
-      "web_thumbs": 5,
-      "web_plays": 36,
+      "id": "spotify-21b7QHZsmQ09HCyp4HNStD",
+      "song_title": "Thomas Will, Chris Candela - Time's Up",
+      "author": "Thomas Will, Chris Candela",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273456bc0bc76b6b049d6066619",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/21b7QHZsmQ09HCyp4HNStD",
+      "discord_url": "https://open.spotify.com/track/21b7QHZsmQ09HCyp4HNStD",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 597.9,
+      "web_thumbs": 1,
+      "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 5,
-        "plays": 36,
-        "raw_points": 405.5,
-        "multiplier": 2.35
+        "thumbs": 1,
+        "plays": 0,
+        "raw_points": 27,
+        "multiplier": 1.09
       },
       "rank": 13,
-      "previous_rank": 8
+      "previous_rank": null
     },
     {
       "id": "spotify-6pbXO87bRpQ5hgHjPaPUtN",
@@ -323,7 +323,7 @@
       "audio_url": "https://open.spotify.com/track/6pbXO87bRpQ5hgHjPaPUtN",
       "discord_url": "https://open.spotify.com/track/6pbXO87bRpQ5hgHjPaPUtN",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 616.1,
+      "score": 596.4,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -331,11 +331,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 1,
-        "raw_points": 22.5,
-        "multiplier": 1.07
+        "raw_points": 24.5,
+        "multiplier": 1.08
       },
       "rank": 14,
-      "previous_rank": 15
+      "previous_rank": 14
     },
     {
       "id": "spotify-18TAhf2pitvopuaxZcQUqH",
@@ -347,7 +347,7 @@
       "audio_url": "https://open.spotify.com/track/18TAhf2pitvopuaxZcQUqH",
       "discord_url": "https://open.spotify.com/track/18TAhf2pitvopuaxZcQUqH",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 615.8,
+      "score": 593,
       "web_thumbs": 1,
       "web_plays": 0,
       "stats": {
@@ -355,35 +355,11 @@
         "comments": 0,
         "thumbs": 1,
         "plays": 0,
-        "raw_points": 22,
-        "multiplier": 1.07
+        "raw_points": 19,
+        "multiplier": 1.06
       },
       "rank": 15,
-      "previous_rank": 16
-    },
-    {
-      "id": "spotify-4gwX0O4EeQm7X5kuI3iuBC",
-      "song_title": "Thomas Will, Kaita - Back To Me",
-      "author": "Thomas Will, Kaita",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273456bc0bc76b6b049d6066619",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4gwX0O4EeQm7X5kuI3iuBC",
-      "discord_url": "https://open.spotify.com/track/4gwX0O4EeQm7X5kuI3iuBC",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 614.5,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 20,
-        "multiplier": 1.07
-      },
-      "rank": 16,
-      "previous_rank": null
+      "previous_rank": 15
     },
     {
       "id": "spotify-7GgfHcUbOXlWMiXthQgZRr",
@@ -395,7 +371,7 @@
       "audio_url": "https://open.spotify.com/track/7GgfHcUbOXlWMiXthQgZRr",
       "discord_url": "https://open.spotify.com/track/7GgfHcUbOXlWMiXthQgZRr",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 609.8,
+      "score": 588.8,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -403,11 +379,35 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 13,
+        "raw_points": 12,
         "multiplier": 1.04
       },
-      "rank": 17,
+      "rank": 16,
       "previous_rank": 17
+    },
+    {
+      "id": "1507714473845067909",
+      "song_title": "Kehlani - Folded (Jays Remix)",
+      "author": "Kehlani",
+      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "message_text": "Viimeisin remix jonka sain valmiiksi.",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1780537721290",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1507714473845067909",
+      "posted_at": "2026-05-23T11:59:02.545Z",
+      "score": 578.6,
+      "web_thumbs": 6,
+      "web_plays": 37,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 6,
+        "plays": 37,
+        "raw_points": 421.5,
+        "multiplier": 2.41
+      },
+      "rank": 17,
+      "previous_rank": 13
     },
     {
       "id": "spotify-6qL1c0iuEhxV8a1Rt1l3ww",
@@ -419,7 +419,7 @@
       "audio_url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww",
       "discord_url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww",
       "posted_at": "2026-05-27T00:00:00.000Z",
-      "score": 566.4,
+      "score": 548.7,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -427,8 +427,8 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 8,
-        "multiplier": 1.03
+        "raw_points": 13,
+        "multiplier": 1.04
       },
       "rank": 18,
       "previous_rank": 18
@@ -443,7 +443,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1780405518418",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1507330380712251494",
       "posted_at": "2026-05-22T10:32:47.606Z",
-      "score": 537.6,
+      "score": 500.9,
       "web_thumbs": 2,
       "web_plays": 22,
       "stats": {
@@ -467,7 +467,7 @@
       "audio_url": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw",
       "discord_url": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw",
       "posted_at": "2026-05-22T00:00:00.000Z",
-      "score": 507.6,
+      "score": 475.2,
       "web_thumbs": 4,
       "web_plays": 14,
       "stats": {
@@ -475,7 +475,7 @@
         "comments": 0,
         "thumbs": 4,
         "plays": 14,
-        "raw_points": 200,
+        "raw_points": 201,
         "multiplier": 1.67
       },
       "rank": 20,
