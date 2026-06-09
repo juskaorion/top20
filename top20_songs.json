@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08T00:22:32.483Z",
+  "last_updated": "2026-06-09T00:16:25.813Z",
   "top_songs": [
     {
       "id": "spotify-3xUqEhaTiFoYyAdqISx5K1",
@@ -11,31 +11,7 @@
       "audio_url": "https://open.spotify.com/track/3xUqEhaTiFoYyAdqISx5K1",
       "discord_url": "https://open.spotify.com/track/3xUqEhaTiFoYyAdqISx5K1",
       "posted_at": "2026-06-06T00:00:00.000Z",
-      "score": 674.6,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 16,
-        "multiplier": 1.05
-      },
-      "rank": 1,
-      "previous_rank": null
-    },
-    {
-      "id": "spotify-2lkXw1cdpKpJ1YOarhbkEu",
-      "song_title": "DeejaVu, CØRT, Séb Mont - Day And Night",
-      "author": "DeejaVu, CØRT, Séb Mont",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273932438ab53e0327e67901e67",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2lkXw1cdpKpJ1YOarhbkEu",
-      "discord_url": "https://open.spotify.com/track/2lkXw1cdpKpJ1YOarhbkEu",
-      "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 657.3,
+      "score": 657.4,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -46,32 +22,8 @@
         "raw_points": 20,
         "multiplier": 1.07
       },
-      "rank": 2,
-      "previous_rank": 7
-    },
-    {
-      "id": "spotify-3bEy8JyfwoWh8e6nly8kQG",
-      "song_title": "KUOKKA, SIDEHOE - Good Time",
-      "author": "KUOKKA, SIDEHOE",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ed6b770725a7bdc8cac39eb0",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3bEy8JyfwoWh8e6nly8kQG",
-      "discord_url": "https://open.spotify.com/track/3bEy8JyfwoWh8e6nly8kQG",
-      "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 656.5,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 19,
-        "multiplier": 1.06
-      },
-      "rank": 3,
-      "previous_rank": 4
+      "rank": 1,
+      "previous_rank": 1
     },
     {
       "id": "spotify-4vJ8ZYVtkl1lYYPRQF0e8f",
@@ -83,7 +35,31 @@
       "audio_url": "https://open.spotify.com/track/4vJ8ZYVtkl1lYYPRQF0e8f",
       "discord_url": "https://open.spotify.com/track/4vJ8ZYVtkl1lYYPRQF0e8f",
       "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 655.7,
+      "score": 635.8,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 19,
+        "multiplier": 1.06
+      },
+      "rank": 2,
+      "previous_rank": 4
+    },
+    {
+      "id": "spotify-2lkXw1cdpKpJ1YOarhbkEu",
+      "song_title": "DeejaVu, CØRT, Séb Mont - Day And Night",
+      "author": "DeejaVu, CØRT, Séb Mont",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273932438ab53e0327e67901e67",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2lkXw1cdpKpJ1YOarhbkEu",
+      "discord_url": "https://open.spotify.com/track/2lkXw1cdpKpJ1YOarhbkEu",
+      "posted_at": "2026-06-05T00:00:00.000Z",
+      "score": 635.1,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -94,8 +70,32 @@
         "raw_points": 18,
         "multiplier": 1.06
       },
+      "rank": 3,
+      "previous_rank": 2
+    },
+    {
+      "id": "spotify-3bEy8JyfwoWh8e6nly8kQG",
+      "song_title": "KUOKKA, SIDEHOE - Good Time",
+      "author": "KUOKKA, SIDEHOE",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ed6b770725a7bdc8cac39eb0",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3bEy8JyfwoWh8e6nly8kQG",
+      "discord_url": "https://open.spotify.com/track/3bEy8JyfwoWh8e6nly8kQG",
+      "posted_at": "2026-06-05T00:00:00.000Z",
+      "score": 634.3,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 17,
+        "multiplier": 1.06
+      },
       "rank": 4,
-      "previous_rank": 5
+      "previous_rank": 3
     },
     {
       "id": "spotify-4h4pN8EbGHVCL6397zCOYi",
@@ -107,7 +107,7 @@
       "audio_url": "https://open.spotify.com/track/4h4pN8EbGHVCL6397zCOYi",
       "discord_url": "https://open.spotify.com/track/4h4pN8EbGHVCL6397zCOYi",
       "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 654.9,
+      "score": 633.6,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -115,59 +115,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 17,
-        "multiplier": 1.06
+        "raw_points": 16,
+        "multiplier": 1.05
       },
       "rank": 5,
-      "previous_rank": 2
-    },
-    {
-      "id": "spotify-4DfZQ3OqpWvoyT8MMjTpPg",
-      "song_title": "DOG HUSTLERS, JVG - Nelisilmä",
-      "author": "DOG HUSTLERS, JVG",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273cb6e2eed62c66f701842e1c0",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg",
-      "discord_url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg",
-      "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 653.3,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 15,
-        "multiplier": 1.05
-      },
-      "rank": 6,
-      "previous_rank": 6
-    },
-    {
-      "id": "spotify-6VB3yhIuvCt9sFawoub4CG",
-      "song_title": "DJVI - Little Two",
-      "author": "DJVI",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c3c5a732c8346e7135b62bfd",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6VB3yhIuvCt9sFawoub4CG",
-      "discord_url": "https://open.spotify.com/track/6VB3yhIuvCt9sFawoub4CG",
-      "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 652.5,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 14,
-        "multiplier": 1.05
-      },
-      "rank": 7,
-      "previous_rank": 8
+      "previous_rank": 5
     },
     {
       "id": "spotify-2iaLxUNIWtJiFbRpNOUix9",
@@ -179,7 +131,7 @@
       "audio_url": "https://open.spotify.com/track/2iaLxUNIWtJiFbRpNOUix9",
       "discord_url": "https://open.spotify.com/track/2iaLxUNIWtJiFbRpNOUix9",
       "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 650,
+      "score": 632.9,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -187,11 +139,83 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 11,
+        "raw_points": 15,
+        "multiplier": 1.05
+      },
+      "rank": 6,
+      "previous_rank": 8
+    },
+    {
+      "id": "spotify-6VB3yhIuvCt9sFawoub4CG",
+      "song_title": "DJVI - Little Two",
+      "author": "DJVI",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c3c5a732c8346e7135b62bfd",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6VB3yhIuvCt9sFawoub4CG",
+      "discord_url": "https://open.spotify.com/track/6VB3yhIuvCt9sFawoub4CG",
+      "posted_at": "2026-06-05T00:00:00.000Z",
+      "score": 632.1,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 14,
+        "multiplier": 1.05
+      },
+      "rank": 7,
+      "previous_rank": 7
+    },
+    {
+      "id": "spotify-4DfZQ3OqpWvoyT8MMjTpPg",
+      "song_title": "DOG HUSTLERS, JVG - Nelisilmä",
+      "author": "DOG HUSTLERS, JVG",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273cb6e2eed62c66f701842e1c0",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg",
+      "discord_url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg",
+      "posted_at": "2026-06-05T00:00:00.000Z",
+      "score": 630.7,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 12,
         "multiplier": 1.04
       },
       "rank": 8,
-      "previous_rank": 3
+      "previous_rank": 6
+    },
+    {
+      "id": "spotify-2Oqb8XeJvS2q8FhdWBZM6j",
+      "song_title": "DJ FKU, DJ MOIGUS - WHISTLE FUNK",
+      "author": "DJ FKU, DJ MOIGUS",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273fbab41dfe790358cc91610f2",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2Oqb8XeJvS2q8FhdWBZM6j",
+      "discord_url": "https://open.spotify.com/track/2Oqb8XeJvS2q8FhdWBZM6j",
+      "posted_at": "2026-06-05T00:00:00.000Z",
+      "score": 626.2,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 6,
+        "multiplier": 1.02
+      },
+      "rank": 9,
+      "previous_rank": 15
     },
     {
       "id": "1510998501096685831",
@@ -200,10 +224,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1780878141904",
+      "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1780964175048",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1510998501096685831",
       "posted_at": "2026-06-01T13:28:35.656Z",
-      "score": 622,
+      "score": 597.3,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -214,8 +238,8 @@
         "raw_points": 82.5,
         "multiplier": 1.27
       },
-      "rank": 9,
-      "previous_rank": 1
+      "rank": 10,
+      "previous_rank": 9
     },
     {
       "id": "1510907307075305595",
@@ -227,7 +251,7 @@
       "audio_url": "https://www.youtube.com/watch?v=eJpbB5uZiC8",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1510907307075305595",
       "posted_at": "2026-06-01T07:26:13.307Z",
-      "score": 569.2,
+      "score": 549.8,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -238,8 +262,8 @@
         "raw_points": 0,
         "multiplier": 1
       },
-      "rank": 10,
-      "previous_rank": 9
+      "rank": 11,
+      "previous_rank": 10
     },
     {
       "id": "1510008980569591868",
@@ -248,10 +272,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/93735210524356608/96f833cc723d229e56b02baaf35f2356.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1780878152482",
+      "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1780964185813",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1510008980569591868",
       "posted_at": "2026-05-29T19:56:35.578Z",
-      "score": 523.9,
+      "score": 504,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -262,8 +286,32 @@
         "raw_points": 7.5,
         "multiplier": 1.02
       },
-      "rank": 11,
-      "previous_rank": 10
+      "rank": 12,
+      "previous_rank": 11
+    },
+    {
+      "id": "spotify-21b7QHZsmQ09HCyp4HNStD",
+      "song_title": "Thomas Will, Chris Candela - Time's Up",
+      "author": "Thomas Will, Chris Candela",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273456bc0bc76b6b049d6066619",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/21b7QHZsmQ09HCyp4HNStD",
+      "discord_url": "https://open.spotify.com/track/21b7QHZsmQ09HCyp4HNStD",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 489,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 13,
+        "multiplier": 1.04
+      },
+      "rank": 13,
+      "previous_rank": null
     },
     {
       "id": "spotify-1VcpQRtzHqWKo2MChRe7CX",
@@ -275,7 +323,7 @@
       "audio_url": "https://open.spotify.com/track/1VcpQRtzHqWKo2MChRe7CX",
       "discord_url": "https://open.spotify.com/track/1VcpQRtzHqWKo2MChRe7CX",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 509.2,
+      "score": 488.4,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -283,11 +331,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 13,
+        "raw_points": 11,
         "multiplier": 1.04
       },
-      "rank": 12,
-      "previous_rank": 16
+      "rank": 14,
+      "previous_rank": 12
     },
     {
       "id": "spotify-0c7z6nKCAkbK2LEYEloNGs",
@@ -299,31 +347,7 @@
       "audio_url": "https://open.spotify.com/track/0c7z6nKCAkbK2LEYEloNGs",
       "discord_url": "https://open.spotify.com/track/0c7z6nKCAkbK2LEYEloNGs",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 508.9,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 12,
-        "multiplier": 1.04
-      },
-      "rank": 13,
-      "previous_rank": 14
-    },
-    {
-      "id": "spotify-7E9xtctAMkH5ThwmOQSv3X",
-      "song_title": "LUMI - YOGA",
-      "author": "LUMI",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273640ccc4a5e1c6a9dffc390c6",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7E9xtctAMkH5ThwmOQSv3X",
-      "discord_url": "https://open.spotify.com/track/7E9xtctAMkH5ThwmOQSv3X",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 508.2,
+      "score": 488.1,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -334,104 +358,8 @@
         "raw_points": 10,
         "multiplier": 1.03
       },
-      "rank": 14,
-      "previous_rank": 17
-    },
-    {
-      "id": "spotify-2Oqb8XeJvS2q8FhdWBZM6j",
-      "song_title": "DJ FKU, DJ MOIGUS - WHISTLE FUNK",
-      "author": "DJ FKU, DJ MOIGUS",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273fbab41dfe790358cc91610f2",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2Oqb8XeJvS2q8FhdWBZM6j",
-      "discord_url": "https://open.spotify.com/track/2Oqb8XeJvS2q8FhdWBZM6j",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 507.8,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 9,
-        "multiplier": 1.03
-      },
       "rank": 15,
-      "previous_rank": 20
-    },
-    {
-      "id": "spotify-1nEecV1N4v3XEO0ZhJDBaB",
-      "song_title": "Solarstone, Orkidea - Slowmotion VII",
-      "author": "Solarstone, Orkidea",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734ec91f6979c13c0b763ebe5a",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB",
-      "discord_url": "https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 507.5,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 8,
-        "multiplier": 1.03
-      },
-      "rank": 16,
-      "previous_rank": 15
-    },
-    {
-      "id": "spotify-0QQSuhXlSTzTDN6NvkBw5m",
-      "song_title": "Thomas Will - Got No Love",
-      "author": "Thomas Will",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273456bc0bc76b6b049d6066619",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0QQSuhXlSTzTDN6NvkBw5m",
-      "discord_url": "https://open.spotify.com/track/0QQSuhXlSTzTDN6NvkBw5m",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 507.1,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 7,
-        "multiplier": 1.02
-      },
-      "rank": 17,
       "previous_rank": 13
-    },
-    {
-      "id": "spotify-7GgfHcUbOXlWMiXthQgZRr",
-      "song_title": "DJ Larry W - Lie with You",
-      "author": "DJ Larry W",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273b9b7f82481f30f91a1b95ae4",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7GgfHcUbOXlWMiXthQgZRr",
-      "discord_url": "https://open.spotify.com/track/7GgfHcUbOXlWMiXthQgZRr",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 506.8,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 6,
-        "multiplier": 1.02
-      },
-      "rank": 18,
-      "previous_rank": null
     },
     {
       "id": "spotify-6pbXO87bRpQ5hgHjPaPUtN",
@@ -443,7 +371,7 @@
       "audio_url": "https://open.spotify.com/track/6pbXO87bRpQ5hgHjPaPUtN",
       "discord_url": "https://open.spotify.com/track/6pbXO87bRpQ5hgHjPaPUtN",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 506.1,
+      "score": 487.8,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -451,11 +379,59 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 4,
-        "multiplier": 1.01
+        "raw_points": 9,
+        "multiplier": 1.03
       },
-      "rank": 19,
-      "previous_rank": 18
+      "rank": 16,
+      "previous_rank": 19
+    },
+    {
+      "id": "spotify-7E9xtctAMkH5ThwmOQSv3X",
+      "song_title": "LUMI - YOGA",
+      "author": "LUMI",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273640ccc4a5e1c6a9dffc390c6",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7E9xtctAMkH5ThwmOQSv3X",
+      "discord_url": "https://open.spotify.com/track/7E9xtctAMkH5ThwmOQSv3X",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 487.6,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 8,
+        "multiplier": 1.03
+      },
+      "rank": 17,
+      "previous_rank": 14
+    },
+    {
+      "id": "spotify-1nEecV1N4v3XEO0ZhJDBaB",
+      "song_title": "Solarstone, Orkidea - Slowmotion VII",
+      "author": "Solarstone, Orkidea",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734ec91f6979c13c0b763ebe5a",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB",
+      "discord_url": "https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 487.3,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 7,
+        "multiplier": 1.02
+      },
+      "rank": 18,
+      "previous_rank": 16
     },
     {
       "id": "spotify-18TAhf2pitvopuaxZcQUqH",
@@ -467,7 +443,7 @@
       "audio_url": "https://open.spotify.com/track/18TAhf2pitvopuaxZcQUqH",
       "discord_url": "https://open.spotify.com/track/18TAhf2pitvopuaxZcQUqH",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 505.7,
+      "score": 486.4,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -475,11 +451,35 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 3,
+        "raw_points": 4,
+        "multiplier": 1.01
+      },
+      "rank": 19,
+      "previous_rank": 20
+    },
+    {
+      "id": "spotify-7GgfHcUbOXlWMiXthQgZRr",
+      "song_title": "DJ Larry W - Lie with You",
+      "author": "DJ Larry W",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273b9b7f82481f30f91a1b95ae4",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7GgfHcUbOXlWMiXthQgZRr",
+      "discord_url": "https://open.spotify.com/track/7GgfHcUbOXlWMiXthQgZRr",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 485.9,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 2,
         "multiplier": 1.01
       },
       "rank": 20,
-      "previous_rank": null
+      "previous_rank": 18
     }
   ]
 }
