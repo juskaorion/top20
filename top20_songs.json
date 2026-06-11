@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T01:32:21.927Z",
+  "last_updated": "2026-06-11T01:39:13.960Z",
   "top_songs": [
     {
       "id": "1514005715663061113",
@@ -11,19 +11,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1781055117453",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1514005715663061113",
       "posted_at": "2026-06-09T20:38:11.480Z",
-      "score": 733,
+      "score": 767.6,
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 3,
       "stats": {
-        "reactions": 5,
+        "reactions": 9,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0,
-        "raw_points": 37.5,
-        "multiplier": 1.13
+        "plays": 3,
+        "raw_points": 99,
+        "multiplier": 1.33
       },
       "rank": 1,
-      "previous_rank": null
+      "previous_rank": 1
     },
     {
       "id": "1513788790546763858",
@@ -35,19 +35,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1781055120656",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1513788790546763858",
       "posted_at": "2026-06-09T06:16:12.502Z",
-      "score": 705.7,
+      "score": 703.1,
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 2,
       "stats": {
         "reactions": 3,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0,
-        "raw_points": 22.5,
-        "multiplier": 1.07
+        "plays": 2,
+        "raw_points": 43.5,
+        "multiplier": 1.15
       },
       "rank": 2,
-      "previous_rank": null
+      "previous_rank": 2
     },
     {
       "id": "spotify-3xUqEhaTiFoYyAdqISx5K1",
@@ -59,19 +59,19 @@
       "audio_url": "https://open.spotify.com/track/3xUqEhaTiFoYyAdqISx5K1",
       "discord_url": "https://open.spotify.com/track/3xUqEhaTiFoYyAdqISx5K1",
       "posted_at": "2026-06-06T00:00:00.000Z",
-      "score": 689.6,
+      "score": 677.9,
       "web_thumbs": 2,
-      "web_plays": 5,
+      "web_plays": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 5,
-        "raw_points": 93.5,
-        "multiplier": 1.31
+        "plays": 7,
+        "raw_points": 114.5,
+        "multiplier": 1.38
       },
       "rank": 3,
-      "previous_rank": 1
+      "previous_rank": 3
     },
     {
       "id": "spotify-4vJ8ZYVtkl1lYYPRQF0e8f",
@@ -83,19 +83,19 @@
       "audio_url": "https://open.spotify.com/track/4vJ8ZYVtkl1lYYPRQF0e8f",
       "discord_url": "https://open.spotify.com/track/4vJ8ZYVtkl1lYYPRQF0e8f",
       "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 649.9,
+      "score": 631.9,
       "web_thumbs": 0,
-      "web_plays": 5,
+      "web_plays": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 5,
-        "raw_points": 72.5,
-        "multiplier": 1.24
+        "plays": 6,
+        "raw_points": 83,
+        "multiplier": 1.28
       },
       "rank": 4,
-      "previous_rank": 2
+      "previous_rank": 4
     },
     {
       "id": "spotify-4h4pN8EbGHVCL6397zCOYi",
@@ -107,7 +107,7 @@
       "audio_url": "https://open.spotify.com/track/4h4pN8EbGHVCL6397zCOYi",
       "discord_url": "https://open.spotify.com/track/4h4pN8EbGHVCL6397zCOYi",
       "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 641.8,
+      "score": 618.3,
       "web_thumbs": 1,
       "web_plays": 3,
       "stats": {
@@ -131,7 +131,7 @@
       "audio_url": "https://open.spotify.com/track/3bEy8JyfwoWh8e6nly8kQG",
       "discord_url": "https://open.spotify.com/track/3bEy8JyfwoWh8e6nly8kQG",
       "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 632.8,
+      "score": 610.1,
       "web_thumbs": 1,
       "web_plays": 2,
       "stats": {
@@ -143,31 +143,7 @@
         "multiplier": 1.16
       },
       "rank": 6,
-      "previous_rank": 4
-    },
-    {
-      "id": "spotify-2lkXw1cdpKpJ1YOarhbkEu",
-      "song_title": "DeejaVu, CØRT, Séb Mont - Day And Night",
-      "author": "DeejaVu, CØRT, Séb Mont",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273932438ab53e0327e67901e67",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2lkXw1cdpKpJ1YOarhbkEu",
-      "discord_url": "https://open.spotify.com/track/2lkXw1cdpKpJ1YOarhbkEu",
-      "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 626.7,
-      "web_thumbs": 0,
-      "web_plays": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 2,
-        "raw_points": 38,
-        "multiplier": 1.13
-      },
-      "rank": 7,
-      "previous_rank": 3
+      "previous_rank": 6
     },
     {
       "id": "spotify-2Oqb8XeJvS2q8FhdWBZM6j",
@@ -179,19 +155,19 @@
       "audio_url": "https://open.spotify.com/track/2Oqb8XeJvS2q8FhdWBZM6j",
       "discord_url": "https://open.spotify.com/track/2Oqb8XeJvS2q8FhdWBZM6j",
       "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 624.7,
+      "score": 609.2,
       "web_thumbs": 0,
-      "web_plays": 2,
+      "web_plays": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 2,
-        "raw_points": 35,
-        "multiplier": 1.12
+        "plays": 3,
+        "raw_points": 45.5,
+        "multiplier": 1.15
       },
-      "rank": 8,
-      "previous_rank": 9
+      "rank": 7,
+      "previous_rank": 8
     },
     {
       "id": "spotify-6VB3yhIuvCt9sFawoub4CG",
@@ -203,43 +179,19 @@
       "audio_url": "https://open.spotify.com/track/6VB3yhIuvCt9sFawoub4CG",
       "discord_url": "https://open.spotify.com/track/6VB3yhIuvCt9sFawoub4CG",
       "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 624.1,
+      "score": 608.6,
       "web_thumbs": 0,
-      "web_plays": 2,
+      "web_plays": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 2,
-        "raw_points": 34,
-        "multiplier": 1.11
+        "plays": 3,
+        "raw_points": 44.5,
+        "multiplier": 1.15
       },
-      "rank": 9,
-      "previous_rank": 7
-    },
-    {
-      "id": "1510998501096685831",
-      "song_title": "Duck Sauce - Barbra Streisand (KONSTA HELENIUS) [Xmies Remix]",
-      "author": "Duck Sauce",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1780964175048",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1510998501096685831",
-      "posted_at": "2026-06-01T13:28:35.656Z",
-      "score": 623,
-      "web_thumbs": 2,
-      "web_plays": 10,
-      "stats": {
-        "reactions": 11,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 10,
-        "raw_points": 198.5,
-        "multiplier": 1.66
-      },
-      "rank": 10,
-      "previous_rank": 10
+      "rank": 8,
+      "previous_rank": 9
     },
     {
       "id": "spotify-2iaLxUNIWtJiFbRpNOUix9",
@@ -251,19 +203,43 @@
       "audio_url": "https://open.spotify.com/track/2iaLxUNIWtJiFbRpNOUix9",
       "discord_url": "https://open.spotify.com/track/2iaLxUNIWtJiFbRpNOUix9",
       "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 622.4,
+      "score": 607.1,
       "web_thumbs": 1,
-      "web_plays": 1,
+      "web_plays": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
-        "plays": 1,
-        "raw_points": 31.5,
-        "multiplier": 1.1
+        "plays": 2,
+        "raw_points": 42,
+        "multiplier": 1.14
       },
-      "rank": 11,
-      "previous_rank": 6
+      "rank": 9,
+      "previous_rank": 11
+    },
+    {
+      "id": "spotify-2lkXw1cdpKpJ1YOarhbkEu",
+      "song_title": "DeejaVu, CØRT, Séb Mont - Day And Night",
+      "author": "DeejaVu, CØRT, Séb Mont",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273932438ab53e0327e67901e67",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2lkXw1cdpKpJ1YOarhbkEu",
+      "discord_url": "https://open.spotify.com/track/2lkXw1cdpKpJ1YOarhbkEu",
+      "posted_at": "2026-06-05T00:00:00.000Z",
+      "score": 604.7,
+      "web_thumbs": 0,
+      "web_plays": 2,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 2,
+        "raw_points": 38,
+        "multiplier": 1.13
+      },
+      "rank": 10,
+      "previous_rank": 7
     },
     {
       "id": "spotify-4DfZQ3OqpWvoyT8MMjTpPg",
@@ -275,19 +251,43 @@
       "audio_url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg",
       "discord_url": "https://open.spotify.com/track/4DfZQ3OqpWvoyT8MMjTpPg",
       "posted_at": "2026-06-05T00:00:00.000Z",
-      "score": 619,
+      "score": 604.1,
       "web_thumbs": 0,
-      "web_plays": 1,
+      "web_plays": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 1,
-        "raw_points": 26.5,
-        "multiplier": 1.09
+        "plays": 2,
+        "raw_points": 37,
+        "multiplier": 1.12
+      },
+      "rank": 11,
+      "previous_rank": 12
+    },
+    {
+      "id": "1510998501096685831",
+      "song_title": "Duck Sauce - Barbra Streisand (KONSTA HELENIUS) [Xmies Remix]",
+      "author": "Duck Sauce",
+      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1781141951985",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1510998501096685831",
+      "posted_at": "2026-06-01T13:28:35.656Z",
+      "score": 590.4,
+      "web_thumbs": 2,
+      "web_plays": 10,
+      "stats": {
+        "reactions": 11,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 10,
+        "raw_points": 198.5,
+        "multiplier": 1.66
       },
       "rank": 12,
-      "previous_rank": 8
+      "previous_rank": 10
     },
     {
       "id": "1510907307075305595",
@@ -299,19 +299,19 @@
       "audio_url": "https://www.youtube.com/watch?v=eJpbB5uZiC8",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1510907307075305595",
       "posted_at": "2026-06-01T07:26:13.307Z",
-      "score": 542.9,
+      "score": 525.1,
       "web_thumbs": 0,
-      "web_plays": 3,
+      "web_plays": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 3,
-        "raw_points": 31.5,
-        "multiplier": 1.1
+        "plays": 4,
+        "raw_points": 42,
+        "multiplier": 1.14
       },
       "rank": 13,
-      "previous_rank": 11
+      "previous_rank": 13
     },
     {
       "id": "1510008980569591868",
@@ -323,7 +323,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1781055130702",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1510008980569591868",
       "posted_at": "2026-05-29T19:56:35.578Z",
-      "score": 505.7,
+      "score": 480.1,
       "web_thumbs": 0,
       "web_plays": 8,
       "stats": {
@@ -335,7 +335,7 @@
         "multiplier": 1.3
       },
       "rank": 14,
-      "previous_rank": 12
+      "previous_rank": 14
     },
     {
       "id": "spotify-0c7z6nKCAkbK2LEYEloNGs",
@@ -347,7 +347,7 @@
       "audio_url": "https://open.spotify.com/track/0c7z6nKCAkbK2LEYEloNGs",
       "discord_url": "https://open.spotify.com/track/0c7z6nKCAkbK2LEYEloNGs",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 480.8,
+      "score": 456.4,
       "web_thumbs": 1,
       "web_plays": 5,
       "stats": {
@@ -362,6 +362,30 @@
       "previous_rank": 15
     },
     {
+      "id": "spotify-1nEecV1N4v3XEO0ZhJDBaB",
+      "song_title": "Solarstone, Orkidea - Slowmotion VII",
+      "author": "Solarstone, Orkidea",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734ec91f6979c13c0b763ebe5a",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB",
+      "discord_url": "https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 455.6,
+      "web_thumbs": 1,
+      "web_plays": 5,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 5,
+        "raw_points": 69.5,
+        "multiplier": 1.23
+      },
+      "rank": 16,
+      "previous_rank": 17
+    },
+    {
       "id": "spotify-7E9xtctAMkH5ThwmOQSv3X",
       "song_title": "LUMI - YOGA",
       "author": "LUMI",
@@ -371,7 +395,7 @@
       "audio_url": "https://open.spotify.com/track/7E9xtctAMkH5ThwmOQSv3X",
       "discord_url": "https://open.spotify.com/track/7E9xtctAMkH5ThwmOQSv3X",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 477.6,
+      "score": 454.1,
       "web_thumbs": 0,
       "web_plays": 5,
       "stats": {
@@ -382,32 +406,8 @@
         "raw_points": 59.5,
         "multiplier": 1.2
       },
-      "rank": 16,
-      "previous_rank": 17
-    },
-    {
-      "id": "spotify-1nEecV1N4v3XEO0ZhJDBaB",
-      "song_title": "Solarstone, Orkidea - Slowmotion VII",
-      "author": "Solarstone, Orkidea",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734ec91f6979c13c0b763ebe5a",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB",
-      "discord_url": "https://open.spotify.com/track/1nEecV1N4v3XEO0ZhJDBaB",
-      "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 477.5,
-      "web_thumbs": 1,
-      "web_plays": 4,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 4,
-        "raw_points": 59,
-        "multiplier": 1.2
-      },
       "rank": 17,
-      "previous_rank": 18
+      "previous_rank": 16
     },
     {
       "id": "spotify-1VcpQRtzHqWKo2MChRe7CX",
@@ -419,7 +419,7 @@
       "audio_url": "https://open.spotify.com/track/1VcpQRtzHqWKo2MChRe7CX",
       "discord_url": "https://open.spotify.com/track/1VcpQRtzHqWKo2MChRe7CX",
       "posted_at": "2026-05-29T00:00:00.000Z",
-      "score": 476.5,
+      "score": 453.4,
       "web_thumbs": 1,
       "web_plays": 3,
       "stats": {
@@ -431,7 +431,7 @@
         "multiplier": 1.18
       },
       "rank": 18,
-      "previous_rank": 14
+      "previous_rank": 18
     },
     {
       "id": "1509489547447242824",
@@ -443,7 +443,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1781055135267",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1509489547447242824",
       "posted_at": "2026-05-28T09:32:33.071Z",
-      "score": 476,
+      "score": 447.9,
       "web_thumbs": 1,
       "web_plays": 9,
       "stats": {
@@ -455,28 +455,28 @@
         "multiplier": 1.43
       },
       "rank": 19,
-      "previous_rank": null
+      "previous_rank": 19
     },
     {
-      "id": "1509346258131882156",
-      "song_title": "Käärijä, Baby Lasagna vs Hoax - Hoax Dab (Xmies Mashup)",
-      "author": "Käärijä, Baby Lasagna vs Hoax",
-      "author_avatar": "https://cdn.discordapp.com/avatars/400765861046255617/4c6146de64e781184bc9d3cc872b0aa7.webp?size=128",
+      "id": "spotify-6pbXO87bRpQ5hgHjPaPUtN",
+      "song_title": "Sattalite, Ruqiyah. - bullet",
+      "author": "Sattalite, Ruqiyah.",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ab89a1bd726d90ccdd96a348",
       "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1781055141927",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1509346258131882156",
-      "posted_at": "2026-05-28T00:03:10.236Z",
-      "score": 473.8,
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6pbXO87bRpQ5hgHjPaPUtN",
+      "discord_url": "https://open.spotify.com/track/6pbXO87bRpQ5hgHjPaPUtN",
+      "posted_at": "2026-05-29T00:00:00.000Z",
+      "score": 447.9,
       "web_thumbs": 0,
-      "web_plays": 18,
+      "web_plays": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 18,
-        "raw_points": 189,
-        "multiplier": 1.63
+        "plays": 1,
+        "raw_points": 18.5,
+        "multiplier": 1.06
       },
       "rank": 20,
       "previous_rank": null
