@@ -411,7 +411,7 @@ client.once('ready', async () => {
     allValidSongs.push(...spotifySongs);
 
     allValidSongs.sort((a, b) => b.score - a.score);
-    const top20 = allValidSongs.slice(0, 20).map((s, i) => ({ ...s, rank: i + 1 }));
+    const top20 = allValidSongs.slice(0, 30).map((s, i) => ({ ...s, rank: i + 1 }));
 
     let previousDataById = {};
     let previousDataByRank = {};
