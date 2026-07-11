@@ -54,14 +54,30 @@ jobs:
       run: |
         git config --global user.name 'GitHub Actions Bot'
         git config --global user.email 'bot@actions.github.com'
+        
+        # Debug: näytä mitä tiedostoja on muuttunut
+        echo "=== Muuttuneet tiedostot ==="
+        git status --short
+        
+        # Lisää vain top20_songs.json staging-alueelle
         git add top20_songs.json
         
-        # Tehdään commit. Jos data ei muuttunut, ei kaadeta ajoa.
-        git commit -m "Automaattinen listan päivitys" || echo "Ei uutta commitattavaa"
+        # Tarkista onko muutoksia commitoitavaksi
+        if git diff --staged --quiet; then
+          echo "Ei muutoksia top20_songs.json tiedostossa - ohitetaan"
+          exit 0
+        fi
         
-        # Haetaan uudet muutokset reposta, mutta jos tulee konflikti JSONin kanssa, 
-        # pidetään botin juuri tekemä versio (-X ours)
-        git pull --rebase -X ours origin main
+        # Stashaa kaikki muut committoimattomat muutokset pois tieltä
+        git stash --include-untracked || echo "Ei muita muutoksia stashattavaksi"
         
-        # Pusketaan muutokset takaisin GitHubiin
+        # Commitoi top20_songs.json
+        git commit -m "Automaattinen listan päivitys"
+        
+        # Pull rebasella (ours = pidetään meidän versio jos konflikti)
+        git pull --rebase -X ours origin main || echo "Pull varoitus - jatketaan"
+        
+        # Push muutokset
         git push origin main
+        
+        echo "=== Päivitys valmis! ==="
