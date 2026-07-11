@@ -55,7 +55,6 @@ jobs:
         git config --global user.name 'GitHub Actions Bot'
         git config --global user.email 'bot@actions.github.com'
         
-        # Debug: näytä mitä tiedostoja on muuttunut
         echo "=== Muuttuneet tiedostot ==="
         git status --short
         
@@ -68,14 +67,15 @@ jobs:
           exit 0
         fi
         
-        # Stashaa kaikki muut committoimattomat muutokset pois tieltä
-        git stash --include-untracked || echo "Ei muita muutoksia stashattavaksi"
-        
-        # Commitoi top20_songs.json
+        # KORJAUS: Commitoi ENSIN, sitten stashaa loput
         git commit -m "Automaattinen listan päivitys"
         
-        # Pull rebasella (ours = pidetään meidän versio jos konflikti)
-        git pull --rebase -X ours origin main || echo "Pull varoitus - jatketaan"
+        # Nyt stashaa/poista kaikki muut muutokset (node_modules yms)
+        git checkout -- .
+        git clean -fd
+        
+        # Pull rebasella
+        git pull --rebase origin main
         
         # Push muutokset
         git push origin main
