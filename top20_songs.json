@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T00:14:55.334Z",
+  "last_updated": "2026-07-26T00:12:29.293Z",
   "top_songs": [
     {
       "id": "1528862467952869486",
@@ -11,16 +11,16 @@
       "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1784678788056",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1528862467952869486",
       "posted_at": "2026-07-20T20:33:37.251Z",
-      "score": 731.6,
+      "score": 735.3,
       "web_thumbs": 1,
-      "web_plays": 5,
+      "web_plays": 7,
       "stats": {
         "reactions": 4,
         "comments": 0,
         "thumbs": 1,
-        "plays": 5,
-        "raw_points": 88,
-        "multiplier": 1.29
+        "plays": 7,
+        "raw_points": 109,
+        "multiplier": 1.36
       },
       "rank": 1,
       "previous_rank": 1
@@ -35,43 +35,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1784678791320",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1527596192895078571",
       "posted_at": "2026-07-17T08:41:53.751Z",
-      "score": 714.2,
+      "score": 711.7,
       "web_thumbs": 0,
-      "web_plays": 8,
+      "web_plays": 9,
       "stats": {
-        "reactions": 6,
+        "reactions": 7,
         "comments": 0,
         "thumbs": 0,
-        "plays": 8,
-        "raw_points": 129,
-        "multiplier": 1.43
+        "plays": 9,
+        "raw_points": 147,
+        "multiplier": 1.49
       },
       "rank": 2,
       "previous_rank": 2
-    },
-    {
-      "id": "spotify-0kxlPD4V7Uv5FJd4ouv4Z8",
-      "song_title": "Muffler - Decade Of Snowflakes - Extended Mix",
-      "author": "Muffler",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273bdbb29b32a91ee4bcf146801",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0kxlPD4V7Uv5FJd4ouv4Z8",
-      "discord_url": "https://open.spotify.com/track/0kxlPD4V7Uv5FJd4ouv4Z8",
-      "posted_at": "2026-07-24T00:00:00.000Z",
-      "score": 707.7,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 19,
-        "multiplier": 1.06
-      },
-      "rank": 3,
-      "previous_rank": null
     },
     {
       "id": "spotify-5tg9eYykaaIR0rDB8JecxR",
@@ -83,43 +59,19 @@
       "audio_url": "https://open.spotify.com/track/5tg9eYykaaIR0rDB8JecxR",
       "discord_url": "https://open.spotify.com/track/5tg9eYykaaIR0rDB8JecxR",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 695.7,
+      "score": 693.2,
       "web_thumbs": 0,
-      "web_plays": 1,
+      "web_plays": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 1,
-        "raw_points": 30.5,
-        "multiplier": 1.1
+        "plays": 2,
+        "raw_points": 41,
+        "multiplier": 1.14
       },
-      "rank": 4,
-      "previous_rank": 5
-    },
-    {
-      "id": "spotify-37iG51reMn5ffd8yjehbQm",
-      "song_title": "Amuri Tekno - Kaiku",
-      "author": "Amuri Tekno",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d4407f5bc85ef0317a1b8c3d",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
-      "discord_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
-      "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 692.1,
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "raw_points": 26.5,
-        "multiplier": 1.09
-      },
-      "rank": 5,
-      "previous_rank": 3
+      "rank": 3,
+      "previous_rank": 4
     },
     {
       "id": "spotify-7CaQ6t9PatgvvZ3eker63S",
@@ -131,19 +83,43 @@
       "audio_url": "https://open.spotify.com/track/7CaQ6t9PatgvvZ3eker63S",
       "discord_url": "https://open.spotify.com/track/7CaQ6t9PatgvvZ3eker63S",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 684.5,
-      "web_thumbs": 0,
+      "score": 683.7,
+      "web_thumbs": 1,
       "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
+        "thumbs": 1,
         "plays": 0,
-        "raw_points": 18,
-        "multiplier": 1.06
+        "raw_points": 30,
+        "multiplier": 1.1
       },
-      "rank": 6,
-      "previous_rank": null
+      "rank": 4,
+      "previous_rank": 6
+    },
+    {
+      "id": "spotify-37iG51reMn5ffd8yjehbQm",
+      "song_title": "Amuri Tekno - Kaiku",
+      "author": "Amuri Tekno",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d4407f5bc85ef0317a1b8c3d",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
+      "discord_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
+      "posted_at": "2026-07-22T00:00:00.000Z",
+      "score": 681.6,
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "raw_points": 27.5,
+        "multiplier": 1.09
+      },
+      "rank": 5,
+      "previous_rank": 5
     },
     {
       "id": "spotify-6bqmX0GSLp4bMNaexluwKn",
@@ -155,7 +131,7 @@
       "audio_url": "https://open.spotify.com/track/6bqmX0GSLp4bMNaexluwKn",
       "discord_url": "https://open.spotify.com/track/6bqmX0GSLp4bMNaexluwKn",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 680,
+      "score": 669.1,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -166,8 +142,32 @@
         "raw_points": 13,
         "multiplier": 1.04
       },
+      "rank": 6,
+      "previous_rank": 7
+    },
+    {
+      "id": "spotify-7GDTXNtFspZz7d7QhYOJpH",
+      "song_title": "Muffler, Konsta Mikkonen - Riding The Vibe - Extended Mix",
+      "author": "Muffler, Konsta Mikkonen",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27326896f87aabedf68e343f3d3",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7GDTXNtFspZz7d7QhYOJpH",
+      "discord_url": "https://open.spotify.com/track/7GDTXNtFspZz7d7QhYOJpH",
+      "posted_at": "2026-07-17T00:00:00.000Z",
+      "score": 656.1,
+      "web_thumbs": 2,
+      "web_plays": 4,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 4,
+        "raw_points": 74,
+        "multiplier": 1.25
+      },
       "rank": 7,
-      "previous_rank": 4
+      "previous_rank": null
     },
     {
       "id": "spotify-1Zj4KkGWpsC3Fpq8GX2BDp",
@@ -179,7 +179,7 @@
       "audio_url": "https://open.spotify.com/track/1Zj4KkGWpsC3Fpq8GX2BDp",
       "discord_url": "https://open.spotify.com/track/1Zj4KkGWpsC3Fpq8GX2BDp",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 641.8,
+      "score": 632.1,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -187,11 +187,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 2,
-        "raw_points": 36,
-        "multiplier": 1.12
+        "raw_points": 39,
+        "multiplier": 1.13
       },
       "rank": 8,
-      "previous_rank": 6
+      "previous_rank": 8
     },
     {
       "id": "spotify-3MHzC3Mnn3xaxEjvT07XXd",
@@ -203,7 +203,7 @@
       "audio_url": "https://open.spotify.com/track/3MHzC3Mnn3xaxEjvT07XXd",
       "discord_url": "https://open.spotify.com/track/3MHzC3Mnn3xaxEjvT07XXd",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 635.7,
+      "score": 623.6,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -211,11 +211,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 1,
-        "raw_points": 27.5,
+        "raw_points": 26.5,
         "multiplier": 1.09
       },
       "rank": 9,
-      "previous_rank": 8
+      "previous_rank": 9
     },
     {
       "id": "1526285667733209359",
@@ -227,7 +227,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1784851878756",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285667733209359",
       "posted_at": "2026-07-13T17:54:20.204Z",
-      "score": 629.9,
+      "score": 616.6,
       "web_thumbs": 0,
       "web_plays": 4,
       "stats": {
@@ -251,7 +251,7 @@
       "audio_url": "https://open.spotify.com/track/43X14M6R5MXGq7U0FUFKFf",
       "discord_url": "https://open.spotify.com/track/43X14M6R5MXGq7U0FUFKFf",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 623.8,
+      "score": 612.9,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -263,7 +263,7 @@
         "multiplier": 1.04
       },
       "rank": 11,
-      "previous_rank": 9
+      "previous_rank": 11
     },
     {
       "id": "1526286344995999774",
@@ -275,7 +275,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1784938473705",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286344995999774",
       "posted_at": "2026-07-13T17:57:01.676Z",
-      "score": 616.3,
+      "score": 603.8,
       "web_thumbs": 0,
       "web_plays": 4,
       "stats": {
@@ -287,7 +287,7 @@
         "multiplier": 1.19
       },
       "rank": 12,
-      "previous_rank": 11
+      "previous_rank": 12
     },
     {
       "id": "1526286474922688712",
@@ -299,7 +299,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1784938476863",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286474922688712",
       "posted_at": "2026-07-13T17:57:32.653Z",
-      "score": 594.5,
+      "score": 583.3,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -311,7 +311,7 @@
         "multiplier": 1.07
       },
       "rank": 13,
-      "previous_rank": 12
+      "previous_rank": 13
     },
     {
       "id": "1526286035951288370",
@@ -323,7 +323,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1784938480767",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286035951288370",
       "posted_at": "2026-07-13T17:55:47.994Z",
-      "score": 594.5,
+      "score": 583.2,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -335,7 +335,7 @@
         "multiplier": 1.07
       },
       "rank": 14,
-      "previous_rank": 13
+      "previous_rank": 14
     },
     {
       "id": "1526285032933687468",
@@ -347,7 +347,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1784938483921",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285032933687468",
       "posted_at": "2026-07-13T17:51:48.856Z",
-      "score": 594.4,
+      "score": 583.2,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -359,7 +359,7 @@
         "multiplier": 1.07
       },
       "rank": 15,
-      "previous_rank": 14
+      "previous_rank": 15
     },
     {
       "id": "1526285881311232050",
@@ -371,7 +371,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1784938487102",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285881311232050",
       "posted_at": "2026-07-13T17:55:11.125Z",
-      "score": 588.1,
+      "score": 577.2,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -383,7 +383,7 @@
         "multiplier": 1.03
       },
       "rank": 16,
-      "previous_rank": 15
+      "previous_rank": 16
     },
     {
       "id": "1526284617093480519",
@@ -395,7 +395,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1784938490195",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526284617093480519",
       "posted_at": "2026-07-13T17:50:09.712Z",
-      "score": 588.1,
+      "score": 577.2,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -407,7 +407,7 @@
         "multiplier": 1.03
       },
       "rank": 17,
-      "previous_rank": 16
+      "previous_rank": 17
     },
     {
       "id": "spotify-0m5VkpqyXhwof6E8gtzArv",
@@ -419,19 +419,19 @@
       "audio_url": "https://open.spotify.com/track/0m5VkpqyXhwof6E8gtzArv",
       "discord_url": "https://open.spotify.com/track/0m5VkpqyXhwof6E8gtzArv",
       "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 573,
+      "score": 567.1,
       "web_thumbs": 4,
-      "web_plays": 1,
+      "web_plays": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 4,
-        "plays": 1,
-        "raw_points": 64.5,
-        "multiplier": 1.22
+        "plays": 2,
+        "raw_points": 80,
+        "multiplier": 1.27
       },
       "rank": 18,
-      "previous_rank": 17
+      "previous_rank": 18
     },
     {
       "id": "spotify-5GnnulhQ3wyQGcS3Z6Lqn2",
@@ -443,7 +443,7 @@
       "audio_url": "https://open.spotify.com/track/5GnnulhQ3wyQGcS3Z6Lqn2",
       "discord_url": "https://open.spotify.com/track/5GnnulhQ3wyQGcS3Z6Lqn2",
       "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 566.8,
+      "score": 554.6,
       "web_thumbs": 3,
       "web_plays": 1,
       "stats": {
@@ -455,7 +455,7 @@
         "multiplier": 1.17
       },
       "rank": 19,
-      "previous_rank": 20
+      "previous_rank": 19
     },
     {
       "id": "spotify-4PPgV2PXqUwdH9On1tnvaL",
@@ -467,7 +467,7 @@
       "audio_url": "https://open.spotify.com/track/4PPgV2PXqUwdH9On1tnvaL",
       "discord_url": "https://open.spotify.com/track/4PPgV2PXqUwdH9On1tnvaL",
       "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 562.3,
+      "score": 549.1,
       "web_thumbs": 3,
       "web_plays": 0,
       "stats": {
@@ -475,11 +475,11 @@
         "comments": 0,
         "thumbs": 3,
         "plays": 0,
-        "raw_points": 42,
-        "multiplier": 1.14
+        "raw_points": 39,
+        "multiplier": 1.13
       },
       "rank": 20,
-      "previous_rank": 18
+      "previous_rank": 20
     },
     {
       "id": "spotify-3zvsGEFldQsmInVplcQKSx",
@@ -491,7 +491,7 @@
       "audio_url": "https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx",
       "discord_url": "https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx",
       "posted_at": "2026-07-09T00:00:00.000Z",
-      "score": 558.7,
+      "score": 546.9,
       "web_thumbs": 3,
       "web_plays": 2,
       "stats": {
@@ -499,11 +499,11 @@
         "comments": 0,
         "thumbs": 3,
         "plays": 2,
-        "raw_points": 61,
-        "multiplier": 1.2
+        "raw_points": 63,
+        "multiplier": 1.21
       },
       "rank": 21,
-      "previous_rank": 19
+      "previous_rank": 21
     },
     {
       "id": "spotify-1i91kD4peUNpgayZKEpNiA",
@@ -515,7 +515,7 @@
       "audio_url": "https://open.spotify.com/track/1i91kD4peUNpgayZKEpNiA",
       "discord_url": "https://open.spotify.com/track/1i91kD4peUNpgayZKEpNiA",
       "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 558.1,
+      "score": 546.4,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -527,7 +527,7 @@
         "multiplier": 1.11
       },
       "rank": 22,
-      "previous_rank": 21
+      "previous_rank": 22
     },
     {
       "id": "spotify-3nFMvVRAw7r0HV79rH7bY4",
@@ -539,7 +539,7 @@
       "audio_url": "https://open.spotify.com/track/3nFMvVRAw7r0HV79rH7bY4",
       "discord_url": "https://open.spotify.com/track/3nFMvVRAw7r0HV79rH7bY4",
       "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 554,
+      "score": 542.7,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -551,7 +551,7 @@
         "multiplier": 1.08
       },
       "rank": 23,
-      "previous_rank": 22
+      "previous_rank": 23
     },
     {
       "id": "1524576954240471221",
@@ -563,7 +563,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_24.mp3?v=1784938493812",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1524576954240471221",
       "posted_at": "2026-07-09T00:44:31.161Z",
-      "score": 551.4,
+      "score": 539.4,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -575,7 +575,7 @@
         "multiplier": 1.15
       },
       "rank": 24,
-      "previous_rank": 23
+      "previous_rank": 24
     },
     {
       "id": "spotify-2DKG5s0JrRorVDZkA60bHt",
@@ -587,7 +587,7 @@
       "audio_url": "https://open.spotify.com/track/2DKG5s0JrRorVDZkA60bHt",
       "discord_url": "https://open.spotify.com/track/2DKG5s0JrRorVDZkA60bHt",
       "posted_at": "2026-07-09T00:00:00.000Z",
-      "score": 539.1,
+      "score": 528.5,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -595,34 +595,10 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 1,
-        "raw_points": 16.5,
-        "multiplier": 1.05
+        "raw_points": 17.5,
+        "multiplier": 1.06
       },
       "rank": 25,
-      "previous_rank": 24
-    },
-    {
-      "id": "spotify-2rVyQOAHyGobQELpHB8snp",
-      "song_title": "SØNIN - Dreamin'",
-      "author": "SØNIN",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737cb64bccd5dcd82f98fca29d",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2rVyQOAHyGobQELpHB8snp",
-      "discord_url": "https://open.spotify.com/track/2rVyQOAHyGobQELpHB8snp",
-      "posted_at": "2026-07-03T00:00:00.000Z",
-      "score": 521.1,
-      "web_thumbs": 4,
-      "web_plays": 17,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 4,
-        "plays": 17,
-        "raw_points": 227.5,
-        "multiplier": 1.76
-      },
-      "rank": 26,
       "previous_rank": 25
     },
     {
@@ -635,7 +611,7 @@
       "audio_url": "https://www.youtube.com/watch?v=kMEeHY3cpjw",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1523907742379671582",
       "posted_at": "2026-07-07T04:25:18.620Z",
-      "score": 516.8,
+      "score": 505.9,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -646,8 +622,8 @@
         "raw_points": 10.5,
         "multiplier": 1.03
       },
-      "rank": 27,
-      "previous_rank": 26
+      "rank": 26,
+      "previous_rank": 27
     },
     {
       "id": "spotify-3GlU9GPI21Q0x0yzCCJJ7r",
@@ -659,7 +635,7 @@
       "audio_url": "https://open.spotify.com/track/3GlU9GPI21Q0x0yzCCJJ7r",
       "discord_url": "https://open.spotify.com/track/3GlU9GPI21Q0x0yzCCJJ7r",
       "posted_at": "2026-07-03T00:00:00.000Z",
-      "score": 491.6,
+      "score": 477.9,
       "web_thumbs": 1,
       "web_plays": 8,
       "stats": {
@@ -667,34 +643,34 @@
         "comments": 0,
         "thumbs": 1,
         "plays": 8,
-        "raw_points": 99,
+        "raw_points": 100,
         "multiplier": 1.33
       },
-      "rank": 28,
+      "rank": 27,
       "previous_rank": 28
     },
     {
-      "id": "spotify-6yJ1EENoCKrz4tJDUs11XC",
-      "song_title": "Vanhis, James Pound - Sonaari - James Pound Remix",
-      "author": "Vanhis, James Pound",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273b477b1102ceee6d086f1f8e6",
+      "id": "spotify-37pWIUuLtXtrNFXGlPmRWl",
+      "song_title": "Triple M, Pofi - 1MORETIME",
+      "author": "Triple M, Pofi",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c85e2360f23959d6735c7adf",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6yJ1EENoCKrz4tJDUs11XC",
-      "discord_url": "https://open.spotify.com/track/6yJ1EENoCKrz4tJDUs11XC",
+      "audio_url": "https://open.spotify.com/track/37pWIUuLtXtrNFXGlPmRWl",
+      "discord_url": "https://open.spotify.com/track/37pWIUuLtXtrNFXGlPmRWl",
       "posted_at": "2026-07-03T00:00:00.000Z",
-      "score": 491.2,
-      "web_thumbs": 3,
-      "web_plays": 6,
+      "score": 475.4,
+      "web_thumbs": 1,
+      "web_plays": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 3,
-        "plays": 6,
-        "raw_points": 97,
-        "multiplier": 1.32
+        "thumbs": 1,
+        "plays": 7,
+        "raw_points": 87.5,
+        "multiplier": 1.29
       },
-      "rank": 29,
+      "rank": 28,
       "previous_rank": null
     },
     {
@@ -707,16 +683,40 @@
       "audio_url": "https://open.spotify.com/track/2MbTMDuXQR8KHIyFaJo3Q0",
       "discord_url": "https://open.spotify.com/track/2MbTMDuXQR8KHIyFaJo3Q0",
       "posted_at": "2026-07-03T00:00:00.000Z",
-      "score": 479.1,
+      "score": 468.9,
       "web_thumbs": 1,
-      "web_plays": 3,
+      "web_plays": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
-        "plays": 3,
-        "raw_points": 44.5,
-        "multiplier": 1.15
+        "plays": 4,
+        "raw_points": 54,
+        "multiplier": 1.18
+      },
+      "rank": 29,
+      "previous_rank": 30
+    },
+    {
+      "id": "spotify-3S6RtVIYrrBPz5TiO2wdDm",
+      "song_title": "Physics - Hold Back Time",
+      "author": "Physics",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a351075532c3a1b9d15ad22c",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3S6RtVIYrrBPz5TiO2wdDm",
+      "discord_url": "https://open.spotify.com/track/3S6RtVIYrrBPz5TiO2wdDm",
+      "posted_at": "2026-07-03T00:00:00.000Z",
+      "score": 459.2,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 4,
+        "multiplier": 1.01
       },
       "rank": 30,
       "previous_rank": null
