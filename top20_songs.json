@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T00:12:29.293Z",
+  "last_updated": "2026-07-27T00:11:53.599Z",
   "top_songs": [
     {
       "id": "1528862467952869486",
@@ -11,16 +11,16 @@
       "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1784678788056",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1528862467952869486",
       "posted_at": "2026-07-20T20:33:37.251Z",
-      "score": 735.3,
+      "score": 737.4,
       "web_thumbs": 1,
-      "web_plays": 7,
+      "web_plays": 9,
       "stats": {
         "reactions": 4,
         "comments": 0,
         "thumbs": 1,
-        "plays": 7,
-        "raw_points": 109,
-        "multiplier": 1.36
+        "plays": 9,
+        "raw_points": 130,
+        "multiplier": 1.43
       },
       "rank": 1,
       "previous_rank": 1
@@ -35,16 +35,16 @@
       "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1784678791320",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1527596192895078571",
       "posted_at": "2026-07-17T08:41:53.751Z",
-      "score": 711.7,
+      "score": 703.1,
       "web_thumbs": 0,
-      "web_plays": 9,
+      "web_plays": 10,
       "stats": {
         "reactions": 7,
         "comments": 0,
         "thumbs": 0,
-        "plays": 9,
-        "raw_points": 147,
-        "multiplier": 1.49
+        "plays": 10,
+        "raw_points": 157.5,
+        "multiplier": 1.52
       },
       "rank": 2,
       "previous_rank": 2
@@ -59,19 +59,19 @@
       "audio_url": "https://open.spotify.com/track/5tg9eYykaaIR0rDB8JecxR",
       "discord_url": "https://open.spotify.com/track/5tg9eYykaaIR0rDB8JecxR",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 693.2,
+      "score": 689.9,
       "web_thumbs": 0,
-      "web_plays": 2,
+      "web_plays": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 2,
-        "raw_points": 41,
-        "multiplier": 1.14
+        "plays": 3,
+        "raw_points": 51.5,
+        "multiplier": 1.17
       },
       "rank": 3,
-      "previous_rank": 4
+      "previous_rank": 3
     },
     {
       "id": "spotify-7CaQ6t9PatgvvZ3eker63S",
@@ -83,19 +83,19 @@
       "audio_url": "https://open.spotify.com/track/7CaQ6t9PatgvvZ3eker63S",
       "discord_url": "https://open.spotify.com/track/7CaQ6t9PatgvvZ3eker63S",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 683.7,
-      "web_thumbs": 1,
-      "web_plays": 0,
+      "score": 685.8,
+      "web_thumbs": 2,
+      "web_plays": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
-        "plays": 0,
-        "raw_points": 30,
-        "multiplier": 1.1
+        "thumbs": 2,
+        "plays": 1,
+        "raw_points": 46.5,
+        "multiplier": 1.16
       },
       "rank": 4,
-      "previous_rank": 6
+      "previous_rank": 4
     },
     {
       "id": "spotify-37iG51reMn5ffd8yjehbQm",
@@ -107,16 +107,16 @@
       "audio_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
       "discord_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 681.6,
+      "score": 680.4,
       "web_thumbs": 0,
-      "web_plays": 1,
+      "web_plays": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 1,
-        "raw_points": 27.5,
-        "multiplier": 1.09
+        "plays": 2,
+        "raw_points": 40,
+        "multiplier": 1.13
       },
       "rank": 5,
       "previous_rank": 5
@@ -131,7 +131,7 @@
       "audio_url": "https://open.spotify.com/track/6bqmX0GSLp4bMNaexluwKn",
       "discord_url": "https://open.spotify.com/track/6bqmX0GSLp4bMNaexluwKn",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 669.1,
+      "score": 662.3,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -139,11 +139,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 13,
-        "multiplier": 1.04
+        "raw_points": 18,
+        "multiplier": 1.06
       },
       "rank": 6,
-      "previous_rank": 7
+      "previous_rank": 6
     },
     {
       "id": "spotify-7GDTXNtFspZz7d7QhYOJpH",
@@ -155,19 +155,19 @@
       "audio_url": "https://open.spotify.com/track/7GDTXNtFspZz7d7QhYOJpH",
       "discord_url": "https://open.spotify.com/track/7GDTXNtFspZz7d7QhYOJpH",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 656.1,
+      "score": 651.8,
       "web_thumbs": 2,
-      "web_plays": 4,
+      "web_plays": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 4,
-        "raw_points": 74,
-        "multiplier": 1.25
+        "plays": 5,
+        "raw_points": 87.5,
+        "multiplier": 1.29
       },
       "rank": 7,
-      "previous_rank": null
+      "previous_rank": 7
     },
     {
       "id": "spotify-1Zj4KkGWpsC3Fpq8GX2BDp",
@@ -179,7 +179,7 @@
       "audio_url": "https://open.spotify.com/track/1Zj4KkGWpsC3Fpq8GX2BDp",
       "discord_url": "https://open.spotify.com/track/1Zj4KkGWpsC3Fpq8GX2BDp",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 632.1,
+      "score": 619.6,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -187,7 +187,7 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 2,
-        "raw_points": 39,
+        "raw_points": 38,
         "multiplier": 1.13
       },
       "rank": 8,
@@ -203,7 +203,7 @@
       "audio_url": "https://open.spotify.com/track/3MHzC3Mnn3xaxEjvT07XXd",
       "discord_url": "https://open.spotify.com/track/3MHzC3Mnn3xaxEjvT07XXd",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 623.6,
+      "score": 609.5,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -211,35 +211,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 1,
-        "raw_points": 26.5,
-        "multiplier": 1.09
+        "raw_points": 22.5,
+        "multiplier": 1.07
       },
       "rank": 9,
       "previous_rank": 9
-    },
-    {
-      "id": "1526285667733209359",
-      "song_title": "Jaakko kulta - Huone (OZAN remix)",
-      "author": "Jaakko kulta",
-      "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1784851878756",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285667733209359",
-      "posted_at": "2026-07-13T17:54:20.204Z",
-      "score": 616.6,
-      "web_thumbs": 0,
-      "web_plays": 4,
-      "stats": {
-        "reactions": 5,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 4,
-        "raw_points": 79.5,
-        "multiplier": 1.27
-      },
-      "rank": 10,
-      "previous_rank": 10
     },
     {
       "id": "spotify-43X14M6R5MXGq7U0FUFKFf",
@@ -251,7 +227,7 @@
       "audio_url": "https://open.spotify.com/track/43X14M6R5MXGq7U0FUFKFf",
       "discord_url": "https://open.spotify.com/track/43X14M6R5MXGq7U0FUFKFf",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 612.9,
+      "score": 604.7,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -259,11 +235,35 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 11,
-        "multiplier": 1.04
+        "raw_points": 15,
+        "multiplier": 1.05
+      },
+      "rank": 10,
+      "previous_rank": 11
+    },
+    {
+      "id": "1526285667733209359",
+      "song_title": "Jaakko kulta - Huone (OZAN remix)",
+      "author": "Jaakko kulta",
+      "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1785111103853",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285667733209359",
+      "posted_at": "2026-07-13T17:54:20.204Z",
+      "score": 603.3,
+      "web_thumbs": 0,
+      "web_plays": 4,
+      "stats": {
+        "reactions": 5,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 4,
+        "raw_points": 79.5,
+        "multiplier": 1.27
       },
       "rank": 11,
-      "previous_rank": 11
+      "previous_rank": 10
     },
     {
       "id": "1526286344995999774",
@@ -275,43 +275,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1784938473705",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286344995999774",
       "posted_at": "2026-07-13T17:57:01.676Z",
-      "score": 603.8,
+      "score": 596.9,
       "web_thumbs": 0,
-      "web_plays": 4,
+      "web_plays": 5,
       "stats": {
         "reactions": 2,
         "comments": 0,
         "thumbs": 0,
-        "plays": 4,
-        "raw_points": 57,
-        "multiplier": 1.19
+        "plays": 5,
+        "raw_points": 67.5,
+        "multiplier": 1.23
       },
       "rank": 12,
       "previous_rank": 12
-    },
-    {
-      "id": "1526286474922688712",
-      "song_title": "Katy Perry - E.T (OZAN remix)",
-      "author": "Katy Perry",
-      "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1784938476863",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286474922688712",
-      "posted_at": "2026-07-13T17:57:32.653Z",
-      "score": 583.3,
-      "web_thumbs": 0,
-      "web_plays": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 2,
-        "raw_points": 21,
-        "multiplier": 1.07
-      },
-      "rank": 13,
-      "previous_rank": 13
     },
     {
       "id": "1526286035951288370",
@@ -320,21 +296,21 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1784938480767",
+      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1785111107047",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286035951288370",
       "posted_at": "2026-07-13T17:55:47.994Z",
-      "score": 583.2,
+      "score": 577.6,
       "web_thumbs": 0,
-      "web_plays": 2,
+      "web_plays": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 2,
-        "raw_points": 21,
-        "multiplier": 1.07
+        "plays": 3,
+        "raw_points": 31.5,
+        "multiplier": 1.1
       },
-      "rank": 14,
+      "rank": 13,
       "previous_rank": 14
     },
     {
@@ -344,10 +320,34 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1784938483921",
+      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1785111109571",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285032933687468",
       "posted_at": "2026-07-13T17:51:48.856Z",
-      "score": 583.2,
+      "score": 577.6,
+      "web_thumbs": 0,
+      "web_plays": 3,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 3,
+        "raw_points": 31.5,
+        "multiplier": 1.1
+      },
+      "rank": 14,
+      "previous_rank": 15
+    },
+    {
+      "id": "1526286474922688712",
+      "song_title": "Katy Perry - E.T (OZAN remix)",
+      "author": "Katy Perry",
+      "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1785111112103",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286474922688712",
+      "posted_at": "2026-07-13T17:57:32.653Z",
+      "score": 572,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -359,7 +359,7 @@
         "multiplier": 1.07
       },
       "rank": 15,
-      "previous_rank": 15
+      "previous_rank": 13
     },
     {
       "id": "1526285881311232050",
@@ -371,16 +371,16 @@
       "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1784938487102",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285881311232050",
       "posted_at": "2026-07-13T17:55:11.125Z",
-      "score": 577.2,
+      "score": 572,
       "web_thumbs": 0,
-      "web_plays": 1,
+      "web_plays": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 1,
-        "raw_points": 10.5,
-        "multiplier": 1.03
+        "plays": 2,
+        "raw_points": 21,
+        "multiplier": 1.07
       },
       "rank": 16,
       "previous_rank": 16
@@ -395,43 +395,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1784938490195",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526284617093480519",
       "posted_at": "2026-07-13T17:50:09.712Z",
-      "score": 577.2,
+      "score": 572,
       "web_thumbs": 0,
-      "web_plays": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "raw_points": 10.5,
-        "multiplier": 1.03
-      },
-      "rank": 17,
-      "previous_rank": 17
-    },
-    {
-      "id": "spotify-0m5VkpqyXhwof6E8gtzArv",
-      "song_title": "Darude, PAENDA, Junkkataxi - Feel The Beat - Junkkataxi Remix",
-      "author": "Darude, PAENDA, Junkkataxi",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737a6f962c3027caa03067302c",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0m5VkpqyXhwof6E8gtzArv",
-      "discord_url": "https://open.spotify.com/track/0m5VkpqyXhwof6E8gtzArv",
-      "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 567.1,
-      "web_thumbs": 4,
       "web_plays": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 4,
+        "thumbs": 0,
         "plays": 2,
-        "raw_points": 80,
-        "multiplier": 1.27
+        "raw_points": 21,
+        "multiplier": 1.07
       },
-      "rank": 18,
-      "previous_rank": 18
+      "rank": 17,
+      "previous_rank": 17
     },
     {
       "id": "spotify-5GnnulhQ3wyQGcS3Z6Lqn2",
@@ -443,7 +419,7 @@
       "audio_url": "https://open.spotify.com/track/5GnnulhQ3wyQGcS3Z6Lqn2",
       "discord_url": "https://open.spotify.com/track/5GnnulhQ3wyQGcS3Z6Lqn2",
       "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 554.6,
+      "score": 541.4,
       "web_thumbs": 3,
       "web_plays": 1,
       "stats": {
@@ -451,11 +427,35 @@
         "comments": 0,
         "thumbs": 3,
         "plays": 1,
-        "raw_points": 51.5,
+        "raw_points": 49.5,
         "multiplier": 1.17
       },
-      "rank": 19,
+      "rank": 18,
       "previous_rank": 19
+    },
+    {
+      "id": "spotify-4xiCg3YNxj809Z8MJrUtNG",
+      "song_title": "Darude, PAENDA, Ilan Bluestone - Feel The Beat - Ilan Bluestone Remix",
+      "author": "Darude, PAENDA, Ilan Bluestone",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737a6f962c3027caa03067302c",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4xiCg3YNxj809Z8MJrUtNG",
+      "discord_url": "https://open.spotify.com/track/4xiCg3YNxj809Z8MJrUtNG",
+      "posted_at": "2026-07-10T00:00:00.000Z",
+      "score": 541,
+      "web_thumbs": 2,
+      "web_plays": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 1,
+        "raw_points": 48.5,
+        "multiplier": 1.16
+      },
+      "rank": 19,
+      "previous_rank": null
     },
     {
       "id": "spotify-4PPgV2PXqUwdH9On1tnvaL",
@@ -467,7 +467,7 @@
       "audio_url": "https://open.spotify.com/track/4PPgV2PXqUwdH9On1tnvaL",
       "discord_url": "https://open.spotify.com/track/4PPgV2PXqUwdH9On1tnvaL",
       "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 549.1,
+      "score": 538.4,
       "web_thumbs": 3,
       "web_plays": 0,
       "stats": {
@@ -475,35 +475,11 @@
         "comments": 0,
         "thumbs": 3,
         "plays": 0,
-        "raw_points": 39,
-        "multiplier": 1.13
+        "raw_points": 42,
+        "multiplier": 1.14
       },
       "rank": 20,
       "previous_rank": 20
-    },
-    {
-      "id": "spotify-3zvsGEFldQsmInVplcQKSx",
-      "song_title": "Something Good, YOTTO - Good Time (Clothes Off)",
-      "author": "Something Good, YOTTO",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737ff48e7ad09c9ca72db447a8",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx",
-      "discord_url": "https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx",
-      "posted_at": "2026-07-09T00:00:00.000Z",
-      "score": 546.9,
-      "web_thumbs": 3,
-      "web_plays": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 2,
-        "raw_points": 63,
-        "multiplier": 1.21
-      },
-      "rank": 21,
-      "previous_rank": 21
     },
     {
       "id": "spotify-1i91kD4peUNpgayZKEpNiA",
@@ -515,7 +491,7 @@
       "audio_url": "https://open.spotify.com/track/1i91kD4peUNpgayZKEpNiA",
       "discord_url": "https://open.spotify.com/track/1i91kD4peUNpgayZKEpNiA",
       "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 546.4,
+      "score": 534.4,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -523,11 +499,35 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 2,
-        "raw_points": 33,
+        "raw_points": 32,
         "multiplier": 1.11
       },
-      "rank": 22,
+      "rank": 21,
       "previous_rank": 22
+    },
+    {
+      "id": "spotify-3zvsGEFldQsmInVplcQKSx",
+      "song_title": "Something Good, YOTTO - Good Time (Clothes Off)",
+      "author": "Something Good, YOTTO",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737ff48e7ad09c9ca72db447a8",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx",
+      "discord_url": "https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx",
+      "posted_at": "2026-07-09T00:00:00.000Z",
+      "score": 533.8,
+      "web_thumbs": 3,
+      "web_plays": 2,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 2,
+        "raw_points": 62,
+        "multiplier": 1.21
+      },
+      "rank": 22,
+      "previous_rank": 21
     },
     {
       "id": "spotify-3nFMvVRAw7r0HV79rH7bY4",
@@ -539,7 +539,7 @@
       "audio_url": "https://open.spotify.com/track/3nFMvVRAw7r0HV79rH7bY4",
       "discord_url": "https://open.spotify.com/track/3nFMvVRAw7r0HV79rH7bY4",
       "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 542.7,
+      "score": 529.7,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -547,8 +547,8 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 1,
-        "raw_points": 24.5,
-        "multiplier": 1.08
+        "raw_points": 20.5,
+        "multiplier": 1.07
       },
       "rank": 23,
       "previous_rank": 23
@@ -563,7 +563,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_24.mp3?v=1784938493812",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1524576954240471221",
       "posted_at": "2026-07-09T00:44:31.161Z",
-      "score": 539.4,
+      "score": 527.4,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -587,7 +587,7 @@
       "audio_url": "https://open.spotify.com/track/2DKG5s0JrRorVDZkA60bHt",
       "discord_url": "https://open.spotify.com/track/2DKG5s0JrRorVDZkA60bHt",
       "posted_at": "2026-07-09T00:00:00.000Z",
-      "score": 528.5,
+      "score": 517.4,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -611,7 +611,7 @@
       "audio_url": "https://www.youtube.com/watch?v=kMEeHY3cpjw",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1523907742379671582",
       "posted_at": "2026-07-07T04:25:18.620Z",
-      "score": 505.9,
+      "score": 495.1,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -623,7 +623,31 @@
         "multiplier": 1.03
       },
       "rank": 26,
-      "previous_rank": 27
+      "previous_rank": 26
+    },
+    {
+      "id": "spotify-2rVyQOAHyGobQELpHB8snp",
+      "song_title": "SØNIN - Dreamin'",
+      "author": "SØNIN",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737cb64bccd5dcd82f98fca29d",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2rVyQOAHyGobQELpHB8snp",
+      "discord_url": "https://open.spotify.com/track/2rVyQOAHyGobQELpHB8snp",
+      "posted_at": "2026-07-03T00:00:00.000Z",
+      "score": 484.1,
+      "web_thumbs": 4,
+      "web_plays": 17,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 4,
+        "plays": 17,
+        "raw_points": 226.5,
+        "multiplier": 1.75
+      },
+      "rank": 27,
+      "previous_rank": null
     },
     {
       "id": "spotify-3GlU9GPI21Q0x0yzCCJJ7r",
@@ -635,7 +659,7 @@
       "audio_url": "https://open.spotify.com/track/3GlU9GPI21Q0x0yzCCJJ7r",
       "discord_url": "https://open.spotify.com/track/3GlU9GPI21Q0x0yzCCJJ7r",
       "posted_at": "2026-07-03T00:00:00.000Z",
-      "score": 477.9,
+      "score": 463.6,
       "web_thumbs": 1,
       "web_plays": 8,
       "stats": {
@@ -643,11 +667,11 @@
         "comments": 0,
         "thumbs": 1,
         "plays": 8,
-        "raw_points": 100,
+        "raw_points": 98,
         "multiplier": 1.33
       },
-      "rank": 27,
-      "previous_rank": 28
+      "rank": 28,
+      "previous_rank": 27
     },
     {
       "id": "spotify-37pWIUuLtXtrNFXGlPmRWl",
@@ -659,7 +683,7 @@
       "audio_url": "https://open.spotify.com/track/37pWIUuLtXtrNFXGlPmRWl",
       "discord_url": "https://open.spotify.com/track/37pWIUuLtXtrNFXGlPmRWl",
       "posted_at": "2026-07-03T00:00:00.000Z",
-      "score": 475.4,
+      "score": 461.6,
       "web_thumbs": 1,
       "web_plays": 7,
       "stats": {
@@ -667,47 +691,23 @@
         "comments": 0,
         "thumbs": 1,
         "plays": 7,
-        "raw_points": 87.5,
-        "multiplier": 1.29
-      },
-      "rank": 28,
-      "previous_rank": null
-    },
-    {
-      "id": "spotify-2MbTMDuXQR8KHIyFaJo3Q0",
-      "song_title": "Digital Mindz - Wanna Go Fast",
-      "author": "Digital Mindz",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273b04506bb7c4c2647a0d38e28",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2MbTMDuXQR8KHIyFaJo3Q0",
-      "discord_url": "https://open.spotify.com/track/2MbTMDuXQR8KHIyFaJo3Q0",
-      "posted_at": "2026-07-03T00:00:00.000Z",
-      "score": 468.9,
-      "web_thumbs": 1,
-      "web_plays": 4,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 4,
-        "raw_points": 54,
-        "multiplier": 1.18
+        "raw_points": 85.5,
+        "multiplier": 1.28
       },
       "rank": 29,
-      "previous_rank": 30
+      "previous_rank": 28
     },
     {
-      "id": "spotify-3S6RtVIYrrBPz5TiO2wdDm",
-      "song_title": "Physics - Hold Back Time",
-      "author": "Physics",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a351075532c3a1b9d15ad22c",
+      "id": "spotify-5VnoAZyTFiyFkZBKghoGZu",
+      "song_title": "Super8 & Tab, Hero Baldwin, Matt Fax - Burn - Matt Fax Remix",
+      "author": "Super8 & Tab, Hero Baldwin, Matt Fax",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273dcddce7440e502c0d6d91fab",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3S6RtVIYrrBPz5TiO2wdDm",
-      "discord_url": "https://open.spotify.com/track/3S6RtVIYrrBPz5TiO2wdDm",
+      "audio_url": "https://open.spotify.com/track/5VnoAZyTFiyFkZBKghoGZu",
+      "discord_url": "https://open.spotify.com/track/5VnoAZyTFiyFkZBKghoGZu",
       "posted_at": "2026-07-03T00:00:00.000Z",
-      "score": 459.2,
+      "score": 448.7,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -715,8 +715,8 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 4,
-        "multiplier": 1.01
+        "raw_points": 5,
+        "multiplier": 1.02
       },
       "rank": 30,
       "previous_rank": null
