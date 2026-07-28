@@ -1,53 +1,53 @@
 {
-  "last_updated": "2026-07-27T00:11:53.599Z",
+  "last_updated": "2026-07-28T00:12:19.897Z",
   "top_songs": [
     {
-      "id": "1528862467952869486",
-      "song_title": "MADONNA - SORRY LIKETHAT DUB",
-      "author": "MADONNA",
-      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
+      "id": "spotify-37iG51reMn5ffd8yjehbQm",
+      "song_title": "Amuri Tekno - Kaiku",
+      "author": "Amuri Tekno",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d4407f5bc85ef0317a1b8c3d",
       "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1784678788056",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1528862467952869486",
-      "posted_at": "2026-07-20T20:33:37.251Z",
-      "score": 737.4,
-      "web_thumbs": 1,
-      "web_plays": 9,
-      "stats": {
-        "reactions": 4,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 9,
-        "raw_points": 130,
-        "multiplier": 1.43
-      },
-      "rank": 1,
-      "previous_rank": 1
-    },
-    {
-      "id": "1527596192895078571",
-      "song_title": "louna0nline - m0ti0n PAUQ Hard (Trance Bootleg)",
-      "author": "louna0nline",
-      "author_avatar": "https://cdn.discordapp.com/avatars/337703780894244865/97b8d7b07e96568047d160415bc423da.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1784678791320",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1527596192895078571",
-      "posted_at": "2026-07-17T08:41:53.751Z",
-      "score": 703.1,
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
+      "discord_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
+      "posted_at": "2026-07-22T00:00:00.000Z",
+      "score": 652.7,
       "web_thumbs": 0,
-      "web_plays": 10,
+      "web_plays": 0,
       "stats": {
-        "reactions": 7,
+        "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 10,
-        "raw_points": 157.5,
-        "multiplier": 1.52
+        "plays": 0,
+        "raw_points": 20,
+        "multiplier": 1.07
+      },
+      "rank": 1,
+      "previous_rank": 5
+    },
+    {
+      "id": "spotify-6bqmX0GSLp4bMNaexluwKn",
+      "song_title": "Empath - Emotions Beat the Evidence",
+      "author": "Empath",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d4407f5bc85ef0317a1b8c3d",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6bqmX0GSLp4bMNaexluwKn",
+      "discord_url": "https://open.spotify.com/track/6bqmX0GSLp4bMNaexluwKn",
+      "posted_at": "2026-07-22T00:00:00.000Z",
+      "score": 651.9,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 19,
+        "multiplier": 1.06
       },
       "rank": 2,
-      "previous_rank": 2
+      "previous_rank": 6
     },
     {
       "id": "spotify-5tg9eYykaaIR0rDB8JecxR",
@@ -59,16 +59,16 @@
       "audio_url": "https://open.spotify.com/track/5tg9eYykaaIR0rDB8JecxR",
       "discord_url": "https://open.spotify.com/track/5tg9eYykaaIR0rDB8JecxR",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 689.9,
+      "score": 650.3,
       "web_thumbs": 0,
-      "web_plays": 3,
+      "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 3,
-        "raw_points": 51.5,
-        "multiplier": 1.17
+        "plays": 0,
+        "raw_points": 17,
+        "multiplier": 1.06
       },
       "rank": 3,
       "previous_rank": 3
@@ -83,55 +83,7 @@
       "audio_url": "https://open.spotify.com/track/7CaQ6t9PatgvvZ3eker63S",
       "discord_url": "https://open.spotify.com/track/7CaQ6t9PatgvvZ3eker63S",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 685.8,
-      "web_thumbs": 2,
-      "web_plays": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 1,
-        "raw_points": 46.5,
-        "multiplier": 1.16
-      },
-      "rank": 4,
-      "previous_rank": 4
-    },
-    {
-      "id": "spotify-37iG51reMn5ffd8yjehbQm",
-      "song_title": "Amuri Tekno - Kaiku",
-      "author": "Amuri Tekno",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d4407f5bc85ef0317a1b8c3d",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
-      "discord_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
-      "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 680.4,
-      "web_thumbs": 0,
-      "web_plays": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 2,
-        "raw_points": 40,
-        "multiplier": 1.13
-      },
-      "rank": 5,
-      "previous_rank": 5
-    },
-    {
-      "id": "spotify-6bqmX0GSLp4bMNaexluwKn",
-      "song_title": "Empath - Emotions Beat the Evidence",
-      "author": "Empath",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d4407f5bc85ef0317a1b8c3d",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6bqmX0GSLp4bMNaexluwKn",
-      "discord_url": "https://open.spotify.com/track/6bqmX0GSLp4bMNaexluwKn",
-      "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 662.3,
+      "score": 648,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -139,59 +91,59 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 18,
-        "multiplier": 1.06
+        "raw_points": 14,
+        "multiplier": 1.05
       },
-      "rank": 6,
-      "previous_rank": 6
+      "rank": 4,
+      "previous_rank": 4
     },
     {
-      "id": "spotify-7GDTXNtFspZz7d7QhYOJpH",
-      "song_title": "Muffler, Konsta Mikkonen - Riding The Vibe - Extended Mix",
-      "author": "Muffler, Konsta Mikkonen",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27326896f87aabedf68e343f3d3",
+      "id": "1528862467952869486",
+      "song_title": "MADONNA - SORRY LIKETHAT DUB",
+      "author": "MADONNA",
+      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
       "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7GDTXNtFspZz7d7QhYOJpH",
-      "discord_url": "https://open.spotify.com/track/7GDTXNtFspZz7d7QhYOJpH",
-      "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 651.8,
-      "web_thumbs": 2,
-      "web_plays": 5,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 5,
-        "raw_points": 87.5,
-        "multiplier": 1.29
-      },
-      "rank": 7,
-      "previous_rank": 7
-    },
-    {
-      "id": "spotify-1Zj4KkGWpsC3Fpq8GX2BDp",
-      "song_title": "Hildá Länsman, Tuomas Norvio, OTAVA - Dajan - OTAVA remix",
-      "author": "Hildá Länsman, Tuomas Norvio, OTAVA",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d5b6024a67ce445b0f743fe3",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1Zj4KkGWpsC3Fpq8GX2BDp",
-      "discord_url": "https://open.spotify.com/track/1Zj4KkGWpsC3Fpq8GX2BDp",
-      "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 619.6,
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1785197518447",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1528862467952869486",
+      "posted_at": "2026-07-20T20:33:37.251Z",
+      "score": 647.4,
       "web_thumbs": 0,
-      "web_plays": 2,
+      "web_plays": 0,
       "stats": {
-        "reactions": 0,
+        "reactions": 4,
         "comments": 0,
         "thumbs": 0,
-        "plays": 2,
-        "raw_points": 38,
-        "multiplier": 1.13
+        "plays": 0,
+        "raw_points": 30,
+        "multiplier": 1.1
       },
-      "rank": 8,
-      "previous_rank": 8
+      "rank": 5,
+      "previous_rank": 1
+    },
+    {
+      "id": "1527596192895078571",
+      "song_title": "louna0nline - m0ti0n PAUQ Hard (Trance Bootleg)",
+      "author": "louna0nline",
+      "author_avatar": "https://cdn.discordapp.com/avatars/337703780894244865/97b8d7b07e96568047d160415bc423da.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1785197521604",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1527596192895078571",
+      "posted_at": "2026-07-17T08:41:53.751Z",
+      "score": 625.9,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 8,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 60,
+        "multiplier": 1.2
+      },
+      "rank": 6,
+      "previous_rank": 2
     },
     {
       "id": "spotify-3MHzC3Mnn3xaxEjvT07XXd",
@@ -203,19 +155,67 @@
       "audio_url": "https://open.spotify.com/track/3MHzC3Mnn3xaxEjvT07XXd",
       "discord_url": "https://open.spotify.com/track/3MHzC3Mnn3xaxEjvT07XXd",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 609.5,
+      "score": 595.5,
       "web_thumbs": 0,
-      "web_plays": 1,
+      "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 1,
-        "raw_points": 22.5,
-        "multiplier": 1.07
+        "plays": 0,
+        "raw_points": 18,
+        "multiplier": 1.06
+      },
+      "rank": 7,
+      "previous_rank": 9
+    },
+    {
+      "id": "spotify-1Zj4KkGWpsC3Fpq8GX2BDp",
+      "song_title": "Hildá Länsman, Tuomas Norvio, OTAVA - Dajan - OTAVA remix",
+      "author": "Hildá Länsman, Tuomas Norvio, OTAVA",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d5b6024a67ce445b0f743fe3",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/1Zj4KkGWpsC3Fpq8GX2BDp",
+      "discord_url": "https://open.spotify.com/track/1Zj4KkGWpsC3Fpq8GX2BDp",
+      "posted_at": "2026-07-17T00:00:00.000Z",
+      "score": 594.2,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 16,
+        "multiplier": 1.05
+      },
+      "rank": 8,
+      "previous_rank": 8
+    },
+    {
+      "id": "spotify-7GDTXNtFspZz7d7QhYOJpH",
+      "song_title": "Muffler, Konsta Mikkonen - Riding The Vibe - Extended Mix",
+      "author": "Muffler, Konsta Mikkonen",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27326896f87aabedf68e343f3d3",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7GDTXNtFspZz7d7QhYOJpH",
+      "discord_url": "https://open.spotify.com/track/7GDTXNtFspZz7d7QhYOJpH",
+      "posted_at": "2026-07-17T00:00:00.000Z",
+      "score": 590.6,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 10,
+        "multiplier": 1.03
       },
       "rank": 9,
-      "previous_rank": 9
+      "previous_rank": 7
     },
     {
       "id": "spotify-43X14M6R5MXGq7U0FUFKFf",
@@ -227,7 +227,7 @@
       "audio_url": "https://open.spotify.com/track/43X14M6R5MXGq7U0FUFKFf",
       "discord_url": "https://open.spotify.com/track/43X14M6R5MXGq7U0FUFKFf",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 604.7,
+      "score": 589.9,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -235,11 +235,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 15,
-        "multiplier": 1.05
+        "raw_points": 9,
+        "multiplier": 1.03
       },
       "rank": 10,
-      "previous_rank": 11
+      "previous_rank": 10
     },
     {
       "id": "1526285667733209359",
@@ -251,19 +251,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1785111103853",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285667733209359",
       "posted_at": "2026-07-13T17:54:20.204Z",
-      "score": 603.3,
+      "score": 569,
       "web_thumbs": 0,
-      "web_plays": 4,
+      "web_plays": 0,
       "stats": {
         "reactions": 5,
         "comments": 0,
         "thumbs": 0,
-        "plays": 4,
-        "raw_points": 79.5,
-        "multiplier": 1.27
+        "plays": 0,
+        "raw_points": 37.5,
+        "multiplier": 1.13
       },
       "rank": 11,
-      "previous_rank": 10
+      "previous_rank": 11
     },
     {
       "id": "1526286344995999774",
@@ -275,67 +275,19 @@
       "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1784938473705",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286344995999774",
       "posted_at": "2026-07-13T17:57:01.676Z",
-      "score": 596.9,
+      "score": 557.8,
       "web_thumbs": 0,
-      "web_plays": 5,
+      "web_plays": 0,
       "stats": {
         "reactions": 2,
         "comments": 0,
         "thumbs": 0,
-        "plays": 5,
-        "raw_points": 67.5,
-        "multiplier": 1.23
+        "plays": 0,
+        "raw_points": 15,
+        "multiplier": 1.05
       },
       "rank": 12,
       "previous_rank": 12
-    },
-    {
-      "id": "1526286035951288370",
-      "song_title": "0zan02 - WILLIA2",
-      "author": "0zan02",
-      "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1785111107047",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286035951288370",
-      "posted_at": "2026-07-13T17:55:47.994Z",
-      "score": 577.6,
-      "web_thumbs": 0,
-      "web_plays": 3,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 3,
-        "raw_points": 31.5,
-        "multiplier": 1.1
-      },
-      "rank": 13,
-      "previous_rank": 14
-    },
-    {
-      "id": "1526285032933687468",
-      "song_title": "David Guetta - Titanium (OZAN remix)",
-      "author": "David Guetta",
-      "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1785111109571",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285032933687468",
-      "posted_at": "2026-07-13T17:51:48.856Z",
-      "score": 577.6,
-      "web_thumbs": 0,
-      "web_plays": 3,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 3,
-        "raw_points": 31.5,
-        "multiplier": 1.1
-      },
-      "rank": 14,
-      "previous_rank": 15
     },
     {
       "id": "1526286474922688712",
@@ -344,21 +296,45 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1785111112103",
+      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1785197524750",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286474922688712",
       "posted_at": "2026-07-13T17:57:32.653Z",
-      "score": 572,
+      "score": 550.3,
       "web_thumbs": 0,
-      "web_plays": 2,
+      "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 2,
-        "raw_points": 21,
-        "multiplier": 1.07
+        "plays": 0,
+        "raw_points": 0,
+        "multiplier": 1
       },
-      "rank": 15,
+      "rank": 13,
+      "previous_rank": 15
+    },
+    {
+      "id": "1526286035951288370",
+      "song_title": "0zan02 - WILLIA2",
+      "author": "0zan02",
+      "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1785197528659",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286035951288370",
+      "posted_at": "2026-07-13T17:55:47.994Z",
+      "score": 550.3,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 0,
+        "multiplier": 1
+      },
+      "rank": 14,
       "previous_rank": 13
     },
     {
@@ -368,22 +344,46 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1784938487102",
+      "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1785197531815",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285881311232050",
       "posted_at": "2026-07-13T17:55:11.125Z",
-      "score": 572,
+      "score": 550.3,
       "web_thumbs": 0,
-      "web_plays": 2,
+      "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 2,
-        "raw_points": 21,
-        "multiplier": 1.07
+        "plays": 0,
+        "raw_points": 0,
+        "multiplier": 1
+      },
+      "rank": 15,
+      "previous_rank": 16
+    },
+    {
+      "id": "1526285032933687468",
+      "song_title": "David Guetta - Titanium (OZAN remix)",
+      "author": "David Guetta",
+      "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1785197534927",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285032933687468",
+      "posted_at": "2026-07-13T17:51:48.856Z",
+      "score": 550.2,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 0,
+        "multiplier": 1
       },
       "rank": 16,
-      "previous_rank": 16
+      "previous_rank": 14
     },
     {
       "id": "1526284617093480519",
@@ -395,139 +395,43 @@
       "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1784938490195",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526284617093480519",
       "posted_at": "2026-07-13T17:50:09.712Z",
-      "score": 572,
+      "score": 550.2,
       "web_thumbs": 0,
-      "web_plays": 2,
+      "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 2,
-        "raw_points": 21,
-        "multiplier": 1.07
+        "plays": 0,
+        "raw_points": 0,
+        "multiplier": 1
       },
       "rank": 17,
       "previous_rank": 17
     },
     {
-      "id": "spotify-5GnnulhQ3wyQGcS3Z6Lqn2",
-      "song_title": "Båssanova, Paleface, Reginald - Warrior - Reginald Remix",
-      "author": "Båssanova, Paleface, Reginald",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27309b4983b77b17a65c67cb873",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5GnnulhQ3wyQGcS3Z6Lqn2",
-      "discord_url": "https://open.spotify.com/track/5GnnulhQ3wyQGcS3Z6Lqn2",
-      "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 541.4,
-      "web_thumbs": 3,
-      "web_plays": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 1,
-        "raw_points": 49.5,
-        "multiplier": 1.17
-      },
-      "rank": 18,
-      "previous_rank": 19
-    },
-    {
-      "id": "spotify-4xiCg3YNxj809Z8MJrUtNG",
-      "song_title": "Darude, PAENDA, Ilan Bluestone - Feel The Beat - Ilan Bluestone Remix",
-      "author": "Darude, PAENDA, Ilan Bluestone",
+      "id": "spotify-0m5VkpqyXhwof6E8gtzArv",
+      "song_title": "Darude, PAENDA, Junkkataxi - Feel The Beat - Junkkataxi Remix",
+      "author": "Darude, PAENDA, Junkkataxi",
       "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737a6f962c3027caa03067302c",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4xiCg3YNxj809Z8MJrUtNG",
-      "discord_url": "https://open.spotify.com/track/4xiCg3YNxj809Z8MJrUtNG",
+      "audio_url": "https://open.spotify.com/track/0m5VkpqyXhwof6E8gtzArv",
+      "discord_url": "https://open.spotify.com/track/0m5VkpqyXhwof6E8gtzArv",
       "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 541,
-      "web_thumbs": 2,
-      "web_plays": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 1,
-        "raw_points": 48.5,
-        "multiplier": 1.16
-      },
-      "rank": 19,
-      "previous_rank": null
-    },
-    {
-      "id": "spotify-4PPgV2PXqUwdH9On1tnvaL",
-      "song_title": "Telm & Wilson - Static",
-      "author": "Telm & Wilson",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273714624137ebb295772fb332d",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4PPgV2PXqUwdH9On1tnvaL",
-      "discord_url": "https://open.spotify.com/track/4PPgV2PXqUwdH9On1tnvaL",
-      "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 538.4,
-      "web_thumbs": 3,
+      "score": 516.5,
+      "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 3,
-        "plays": 0,
-        "raw_points": 42,
-        "multiplier": 1.14
-      },
-      "rank": 20,
-      "previous_rank": 20
-    },
-    {
-      "id": "spotify-1i91kD4peUNpgayZKEpNiA",
-      "song_title": "Käärijä, SANNI - Hei me pärjätään",
-      "author": "Käärijä, SANNI",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d51312cece51882f8b553fdc",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1i91kD4peUNpgayZKEpNiA",
-      "discord_url": "https://open.spotify.com/track/1i91kD4peUNpgayZKEpNiA",
-      "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 534.4,
-      "web_thumbs": 0,
-      "web_plays": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
         "thumbs": 0,
-        "plays": 2,
-        "raw_points": 32,
-        "multiplier": 1.11
+        "plays": 0,
+        "raw_points": 15,
+        "multiplier": 1.05
       },
-      "rank": 21,
-      "previous_rank": 22
-    },
-    {
-      "id": "spotify-3zvsGEFldQsmInVplcQKSx",
-      "song_title": "Something Good, YOTTO - Good Time (Clothes Off)",
-      "author": "Something Good, YOTTO",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737ff48e7ad09c9ca72db447a8",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx",
-      "discord_url": "https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx",
-      "posted_at": "2026-07-09T00:00:00.000Z",
-      "score": 533.8,
-      "web_thumbs": 3,
-      "web_plays": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 2,
-        "raw_points": 62,
-        "multiplier": 1.21
-      },
-      "rank": 22,
-      "previous_rank": 21
+      "rank": 18,
+      "previous_rank": null
     },
     {
       "id": "spotify-3nFMvVRAw7r0HV79rH7bY4",
@@ -539,19 +443,91 @@
       "audio_url": "https://open.spotify.com/track/3nFMvVRAw7r0HV79rH7bY4",
       "discord_url": "https://open.spotify.com/track/3nFMvVRAw7r0HV79rH7bY4",
       "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 529.7,
+      "score": 515.7,
       "web_thumbs": 0,
-      "web_plays": 1,
+      "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 1,
-        "raw_points": 20.5,
-        "multiplier": 1.07
+        "plays": 0,
+        "raw_points": 13,
+        "multiplier": 1.04
       },
-      "rank": 23,
+      "rank": 19,
       "previous_rank": 23
+    },
+    {
+      "id": "spotify-1i91kD4peUNpgayZKEpNiA",
+      "song_title": "Käärijä, SANNI - Hei me pärjätään",
+      "author": "Käärijä, SANNI",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d51312cece51882f8b553fdc",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/1i91kD4peUNpgayZKEpNiA",
+      "discord_url": "https://open.spotify.com/track/1i91kD4peUNpgayZKEpNiA",
+      "posted_at": "2026-07-10T00:00:00.000Z",
+      "score": 515.3,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 12,
+        "multiplier": 1.04
+      },
+      "rank": 20,
+      "previous_rank": 21
+    },
+    {
+      "id": "spotify-5GnnulhQ3wyQGcS3Z6Lqn2",
+      "song_title": "Båssanova, Paleface, Reginald - Warrior - Reginald Remix",
+      "author": "Båssanova, Paleface, Reginald",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27309b4983b77b17a65c67cb873",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5GnnulhQ3wyQGcS3Z6Lqn2",
+      "discord_url": "https://open.spotify.com/track/5GnnulhQ3wyQGcS3Z6Lqn2",
+      "posted_at": "2026-07-10T00:00:00.000Z",
+      "score": 515,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 11,
+        "multiplier": 1.04
+      },
+      "rank": 21,
+      "previous_rank": 18
+    },
+    {
+      "id": "spotify-4PPgV2PXqUwdH9On1tnvaL",
+      "song_title": "Telm & Wilson - Static",
+      "author": "Telm & Wilson",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273714624137ebb295772fb332d",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4PPgV2PXqUwdH9On1tnvaL",
+      "discord_url": "https://open.spotify.com/track/4PPgV2PXqUwdH9On1tnvaL",
+      "posted_at": "2026-07-10T00:00:00.000Z",
+      "score": 513.9,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 8,
+        "multiplier": 1.03
+      },
+      "rank": 22,
+      "previous_rank": 20
     },
     {
       "id": "1524576954240471221",
@@ -560,22 +536,46 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/268380722534809601/1a859960cf3e68581824dadb760d5f48.webp?size=128",
       "message_text": "Olgan SWAG biisistä Intro Outro Versio",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_24.mp3?v=1784938493812",
+      "audio_url": "https://www.djorion.fi/top20//rank_23.mp3?v=1785197538244",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1524576954240471221",
       "posted_at": "2026-07-09T00:44:31.161Z",
-      "score": 527.4,
+      "score": 508.3,
       "web_thumbs": 0,
-      "web_plays": 2,
+      "web_plays": 0,
       "stats": {
         "reactions": 3,
         "comments": 0,
         "thumbs": 0,
-        "plays": 2,
-        "raw_points": 43.5,
-        "multiplier": 1.15
+        "plays": 0,
+        "raw_points": 22.5,
+        "multiplier": 1.07
+      },
+      "rank": 23,
+      "previous_rank": 24
+    },
+    {
+      "id": "spotify-3zvsGEFldQsmInVplcQKSx",
+      "song_title": "Something Good, YOTTO - Good Time (Clothes Off)",
+      "author": "Something Good, YOTTO",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737ff48e7ad09c9ca72db447a8",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx",
+      "discord_url": "https://open.spotify.com/track/3zvsGEFldQsmInVplcQKSx",
+      "posted_at": "2026-07-09T00:00:00.000Z",
+      "score": 502.4,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 6,
+        "multiplier": 1.02
       },
       "rank": 24,
-      "previous_rank": 24
+      "previous_rank": 22
     },
     {
       "id": "spotify-2DKG5s0JrRorVDZkA60bHt",
@@ -587,16 +587,16 @@
       "audio_url": "https://open.spotify.com/track/2DKG5s0JrRorVDZkA60bHt",
       "discord_url": "https://open.spotify.com/track/2DKG5s0JrRorVDZkA60bHt",
       "posted_at": "2026-07-09T00:00:00.000Z",
-      "score": 517.4,
+      "score": 502.1,
       "web_thumbs": 0,
-      "web_plays": 1,
+      "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 1,
-        "raw_points": 17.5,
-        "multiplier": 1.06
+        "plays": 0,
+        "raw_points": 5,
+        "multiplier": 1.02
       },
       "rank": 25,
       "previous_rank": 25
@@ -611,19 +611,43 @@
       "audio_url": "https://www.youtube.com/watch?v=kMEeHY3cpjw",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1523907742379671582",
       "posted_at": "2026-07-07T04:25:18.620Z",
-      "score": 495.1,
+      "score": 481.3,
       "web_thumbs": 0,
-      "web_plays": 1,
+      "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 1,
-        "raw_points": 10.5,
-        "multiplier": 1.03
+        "plays": 0,
+        "raw_points": 0,
+        "multiplier": 1
       },
       "rank": 26,
       "previous_rank": 26
+    },
+    {
+      "id": "spotify-5Kngkwm80t0eijXc88u0jH",
+      "song_title": "Physics - Heart of Stone",
+      "author": "Physics",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a351075532c3a1b9d15ad22c",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5Kngkwm80t0eijXc88u0jH",
+      "discord_url": "https://open.spotify.com/track/5Kngkwm80t0eijXc88u0jH",
+      "posted_at": "2026-07-03T00:00:00.000Z",
+      "score": 438.3,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 7,
+        "multiplier": 1.02
+      },
+      "rank": 27,
+      "previous_rank": null
     },
     {
       "id": "spotify-2rVyQOAHyGobQELpHB8snp",
@@ -635,19 +659,19 @@
       "audio_url": "https://open.spotify.com/track/2rVyQOAHyGobQELpHB8snp",
       "discord_url": "https://open.spotify.com/track/2rVyQOAHyGobQELpHB8snp",
       "posted_at": "2026-07-03T00:00:00.000Z",
-      "score": 484.1,
-      "web_thumbs": 4,
-      "web_plays": 17,
+      "score": 437.9,
+      "web_thumbs": 0,
+      "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 4,
-        "plays": 17,
-        "raw_points": 226.5,
-        "multiplier": 1.75
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 4,
+        "multiplier": 1.01
       },
-      "rank": 27,
-      "previous_rank": null
+      "rank": 28,
+      "previous_rank": 27
     },
     {
       "id": "spotify-3GlU9GPI21Q0x0yzCCJJ7r",
@@ -659,40 +683,16 @@
       "audio_url": "https://open.spotify.com/track/3GlU9GPI21Q0x0yzCCJJ7r",
       "discord_url": "https://open.spotify.com/track/3GlU9GPI21Q0x0yzCCJJ7r",
       "posted_at": "2026-07-03T00:00:00.000Z",
-      "score": 463.6,
-      "web_thumbs": 1,
-      "web_plays": 8,
+      "score": 437.8,
+      "web_thumbs": 0,
+      "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
-        "plays": 8,
-        "raw_points": 98,
-        "multiplier": 1.33
-      },
-      "rank": 28,
-      "previous_rank": 27
-    },
-    {
-      "id": "spotify-37pWIUuLtXtrNFXGlPmRWl",
-      "song_title": "Triple M, Pofi - 1MORETIME",
-      "author": "Triple M, Pofi",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c85e2360f23959d6735c7adf",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/37pWIUuLtXtrNFXGlPmRWl",
-      "discord_url": "https://open.spotify.com/track/37pWIUuLtXtrNFXGlPmRWl",
-      "posted_at": "2026-07-03T00:00:00.000Z",
-      "score": 461.6,
-      "web_thumbs": 1,
-      "web_plays": 7,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 7,
-        "raw_points": 85.5,
-        "multiplier": 1.28
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 3,
+        "multiplier": 1.01
       },
       "rank": 29,
       "previous_rank": 28
@@ -707,7 +707,7 @@
       "audio_url": "https://open.spotify.com/track/5VnoAZyTFiyFkZBKghoGZu",
       "discord_url": "https://open.spotify.com/track/5VnoAZyTFiyFkZBKghoGZu",
       "posted_at": "2026-07-03T00:00:00.000Z",
-      "score": 448.7,
+      "score": 437.7,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -715,11 +715,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 5,
-        "multiplier": 1.02
+        "raw_points": 2,
+        "multiplier": 1.01
       },
       "rank": 30,
-      "previous_rank": null
+      "previous_rank": 30
     }
   ]
 }
