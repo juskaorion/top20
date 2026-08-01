@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-07-31T00:15:55.828Z",
+  "last_updated": "2026-08-01T00:16:36.060Z",
   "top_songs": [
     {
-      "id": "spotify-2p3FdHL4kiQRkSdWFekikN",
-      "song_title": "Robbe, Seeko, Instead of Seven - Voodoo People",
-      "author": "Robbe, Seeko, Instead of Seven",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d20092440add5bf310bd81b3",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2p3FdHL4kiQRkSdWFekikN",
-      "discord_url": "https://open.spotify.com/track/2p3FdHL4kiQRkSdWFekikN",
-      "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 718.9,
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "id": "1532518858186031114",
+      "song_title": "fallihauta - Freed From Desire (Fallihauta Daisko Flip)",
+      "author": "fallihauta",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
+      "message_text": "Daisko Flip:",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1785543353900",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518858186031114",
+      "posted_at": "2026-07-30T22:42:48.615Z",
+      "score": 740.3,
+      "web_thumbs": 1,
+      "web_plays": 1,
       "stats": {
-        "reactions": 0,
+        "reactions": 5,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 19,
-        "multiplier": 1.06
+        "thumbs": 1,
+        "plays": 1,
+        "raw_points": 53.5,
+        "multiplier": 1.18
       },
       "rank": 1,
-      "previous_rank": null
+      "previous_rank": 5
     },
     {
       "id": "spotify-5I8YZqgeADPkF3rUyAhpuz",
@@ -35,7 +35,55 @@
       "audio_url": "https://open.spotify.com/track/5I8YZqgeADPkF3rUyAhpuz",
       "discord_url": "https://open.spotify.com/track/5I8YZqgeADPkF3rUyAhpuz",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 716.9,
+      "score": 718.3,
+      "web_thumbs": 1,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 0,
+        "raw_points": 30,
+        "multiplier": 1.1
+      },
+      "rank": 2,
+      "previous_rank": 2
+    },
+    {
+      "id": "spotify-4kVeUODJyaWBz6mPzoeMA8",
+      "song_title": "Milla Lehto, VALTTERI - Back to Life",
+      "author": "Milla Lehto, VALTTERI",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273233282fe79dfe377b617dc2b",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4kVeUODJyaWBz6mPzoeMA8",
+      "discord_url": "https://open.spotify.com/track/4kVeUODJyaWBz6mPzoeMA8",
+      "posted_at": "2026-07-31T00:00:00.000Z",
+      "score": 717.4,
+      "web_thumbs": 1,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 0,
+        "raw_points": 29,
+        "multiplier": 1.1
+      },
+      "rank": 3,
+      "previous_rank": 4
+    },
+    {
+      "id": "spotify-0NUmtofntI1Ttt5uvytSPm",
+      "song_title": "SØNIN, flowanastasia - Tell Me Again",
+      "author": "SØNIN, flowanastasia",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27399d789771641f40f6c699c90",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0NUmtofntI1Ttt5uvytSPm",
+      "discord_url": "https://open.spotify.com/track/0NUmtofntI1Ttt5uvytSPm",
+      "posted_at": "2026-07-31T00:00:00.000Z",
+      "score": 708.7,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -43,10 +91,34 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 17,
-        "multiplier": 1.06
+        "raw_points": 20,
+        "multiplier": 1.07
       },
-      "rank": 2,
+      "rank": 4,
+      "previous_rank": null
+    },
+    {
+      "id": "spotify-0H8Syqc1VPejJxULBFsoGt",
+      "song_title": "metakomplex - 1993",
+      "author": "metakomplex",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734b683d535d99668895120b65",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0H8Syqc1VPejJxULBFsoGt",
+      "discord_url": "https://open.spotify.com/track/0H8Syqc1VPejJxULBFsoGt",
+      "posted_at": "2026-07-31T00:00:00.000Z",
+      "score": 704.8,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 16,
+        "multiplier": 1.05
+      },
+      "rank": 5,
       "previous_rank": null
     },
     {
@@ -59,7 +131,7 @@
       "audio_url": "https://open.spotify.com/track/6LqoV2sKQ683aAWq2zGBLq",
       "discord_url": "https://open.spotify.com/track/6LqoV2sKQ683aAWq2zGBLq",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 714.9,
+      "score": 703.9,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -70,20 +142,20 @@
         "raw_points": 15,
         "multiplier": 1.05
       },
-      "rank": 3,
-      "previous_rank": null
+      "rank": 6,
+      "previous_rank": 3
     },
     {
-      "id": "spotify-4kVeUODJyaWBz6mPzoeMA8",
-      "song_title": "Milla Lehto, VALTTERI - Back to Life",
-      "author": "Milla Lehto, VALTTERI",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273233282fe79dfe377b617dc2b",
+      "id": "spotify-2p3FdHL4kiQRkSdWFekikN",
+      "song_title": "Robbe, Seeko, Instead of Seven - Voodoo People",
+      "author": "Robbe, Seeko, Instead of Seven",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d20092440add5bf310bd81b3",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4kVeUODJyaWBz6mPzoeMA8",
-      "discord_url": "https://open.spotify.com/track/4kVeUODJyaWBz6mPzoeMA8",
+      "audio_url": "https://open.spotify.com/track/2p3FdHL4kiQRkSdWFekikN",
+      "discord_url": "https://open.spotify.com/track/2p3FdHL4kiQRkSdWFekikN",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 713.9,
+      "score": 701.9,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -91,34 +163,58 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 14,
-        "multiplier": 1.05
+        "raw_points": 13,
+        "multiplier": 1.04
       },
-      "rank": 4,
-      "previous_rank": null
+      "rank": 7,
+      "previous_rank": 1
     },
     {
-      "id": "1532518858186031114",
-      "song_title": "fallihauta - Freed From Desire (Fallihauta Daisko Flip)",
+      "id": "1532782173927772200",
+      "song_title": "fallihauta - Weightless (Fallihauta Liquid Flip)",
       "author": "fallihauta",
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
-      "message_text": "Daisko Flip:",
+      "message_text": "Herättelin ja tein valmiiksi tuossa myös yhden rennomman saapasjalan. Tässä Martin Garrix & Arijit Singh - Weightless ja siitä Fallihauta Liquid Flip. 🫶",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1785456924830",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518858186031114",
-      "posted_at": "2026-07-30T22:42:48.615Z",
-      "score": 706.8,
+      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1785543358123",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532782173927772200",
+      "posted_at": "2026-07-31T16:09:07.980Z",
+      "score": 696.5,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
-        "reactions": 1,
+        "reactions": 0,
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 7.5,
-        "multiplier": 1.02
+        "raw_points": 0,
+        "multiplier": 1
       },
-      "rank": 5,
+      "rank": 8,
+      "previous_rank": null
+    },
+    {
+      "id": "spotify-3vLH224FYPedpImJMm3Lzb",
+      "song_title": "Orion - Mindworks",
+      "author": "Orion",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273037fbd28b625093db4a44cb5",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3vLH224FYPedpImJMm3Lzb",
+      "discord_url": "https://open.spotify.com/track/3vLH224FYPedpImJMm3Lzb",
+      "posted_at": "2026-07-30T00:00:00.000Z",
+      "score": 694.7,
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 17,
+        "multiplier": 1.06
+      },
+      "rank": 9,
       "previous_rank": null
     },
     {
@@ -128,10 +224,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Extended Daisko Flip:",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1785456928983",
+      "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1785543362663",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518945482080336",
       "posted_at": "2026-07-30T22:43:09.428Z",
-      "score": 699.3,
+      "score": 688.8,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -142,8 +238,8 @@
         "raw_points": 0,
         "multiplier": 1
       },
-      "rank": 6,
-      "previous_rank": null
+      "rank": 10,
+      "previous_rank": 6
     },
     {
       "id": "1532518727898103858",
@@ -152,10 +248,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1785456931467",
+      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1785543365865",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518727898103858",
       "posted_at": "2026-07-30T22:42:17.552Z",
-      "score": 699.3,
+      "score": 688.8,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -166,8 +262,8 @@
         "raw_points": 0,
         "multiplier": 1
       },
-      "rank": 7,
-      "previous_rank": null
+      "rank": 11,
+      "previous_rank": 7
     },
     {
       "id": "spotify-37iG51reMn5ffd8yjehbQm",
@@ -179,7 +275,7 @@
       "audio_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
       "discord_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 692.3,
+      "score": 668.9,
       "web_thumbs": 4,
       "web_plays": 6,
       "stats": {
@@ -187,35 +283,11 @@
         "comments": 0,
         "thumbs": 4,
         "plays": 6,
-        "raw_points": 127,
-        "multiplier": 1.42
+        "raw_points": 114,
+        "multiplier": 1.38
       },
-      "rank": 8,
-      "previous_rank": 1
-    },
-    {
-      "id": "1528862467952869486",
-      "song_title": "MADONNA - SORRY LIKETHAT DUB",
-      "author": "MADONNA",
-      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1785456934531",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1528862467952869486",
-      "posted_at": "2026-07-20T20:33:37.251Z",
-      "score": 680.7,
-      "web_thumbs": 2,
-      "web_plays": 9,
-      "stats": {
-        "reactions": 4,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 9,
-        "raw_points": 135.5,
-        "multiplier": 1.45
-      },
-      "rank": 9,
-      "previous_rank": 2
+      "rank": 12,
+      "previous_rank": 8
     },
     {
       "id": "spotify-7CaQ6t9PatgvvZ3eker63S",
@@ -227,7 +299,7 @@
       "audio_url": "https://open.spotify.com/track/7CaQ6t9PatgvvZ3eker63S",
       "discord_url": "https://open.spotify.com/track/7CaQ6t9PatgvvZ3eker63S",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 678.6,
+      "score": 665.7,
       "web_thumbs": 5,
       "web_plays": 4,
       "stats": {
@@ -235,11 +307,35 @@
         "comments": 0,
         "thumbs": 5,
         "plays": 4,
-        "raw_points": 107,
+        "raw_points": 109,
         "multiplier": 1.36
       },
-      "rank": 10,
-      "previous_rank": 3
+      "rank": 13,
+      "previous_rank": 10
+    },
+    {
+      "id": "1528862467952869486",
+      "song_title": "MADONNA - SORRY LIKETHAT DUB",
+      "author": "MADONNA",
+      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1785543369652",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1528862467952869486",
+      "posted_at": "2026-07-20T20:33:37.251Z",
+      "score": 665.5,
+      "web_thumbs": 2,
+      "web_plays": 9,
+      "stats": {
+        "reactions": 4,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 9,
+        "raw_points": 135.5,
+        "multiplier": 1.45
+      },
+      "rank": 14,
+      "previous_rank": 9
     },
     {
       "id": "spotify-5tg9eYykaaIR0rDB8JecxR",
@@ -251,7 +347,7 @@
       "audio_url": "https://open.spotify.com/track/5tg9eYykaaIR0rDB8JecxR",
       "discord_url": "https://open.spotify.com/track/5tg9eYykaaIR0rDB8JecxR",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 672.5,
+      "score": 656.6,
       "web_thumbs": 2,
       "web_plays": 6,
       "stats": {
@@ -259,11 +355,11 @@
         "comments": 0,
         "thumbs": 2,
         "plays": 6,
-        "raw_points": 98,
-        "multiplier": 1.33
+        "raw_points": 95,
+        "multiplier": 1.32
       },
-      "rank": 11,
-      "previous_rank": 4
+      "rank": 15,
+      "previous_rank": 11
     },
     {
       "id": "spotify-6bqmX0GSLp4bMNaexluwKn",
@@ -275,7 +371,7 @@
       "audio_url": "https://open.spotify.com/track/6bqmX0GSLp4bMNaexluwKn",
       "discord_url": "https://open.spotify.com/track/6bqmX0GSLp4bMNaexluwKn",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 647.5,
+      "score": 632.2,
       "web_thumbs": 3,
       "web_plays": 1,
       "stats": {
@@ -283,11 +379,11 @@
         "comments": 0,
         "thumbs": 3,
         "plays": 1,
-        "raw_points": 61.5,
-        "multiplier": 1.21
+        "raw_points": 57.5,
+        "multiplier": 1.19
       },
-      "rank": 12,
-      "previous_rank": 7
+      "rank": 16,
+      "previous_rank": 12
     },
     {
       "id": "1527596192895078571",
@@ -296,22 +392,22 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/337703780894244865/97b8d7b07e96568047d160415bc423da.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1785456937149",
+      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1785543372800",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1527596192895078571",
       "posted_at": "2026-07-17T08:41:53.751Z",
-      "score": 642.9,
+      "score": 630.3,
       "web_thumbs": 0,
       "web_plays": 10,
       "stats": {
-        "reactions": 8,
+        "reactions": 9,
         "comments": 0,
         "thumbs": 0,
         "plays": 10,
-        "raw_points": 165,
-        "multiplier": 1.55
+        "raw_points": 172.5,
+        "multiplier": 1.57
       },
-      "rank": 13,
-      "previous_rank": 5
+      "rank": 17,
+      "previous_rank": 13
     },
     {
       "id": "spotify-2u9bOxPvlzR66bowmAN7f2",
@@ -323,7 +419,7 @@
       "audio_url": "https://open.spotify.com/track/2u9bOxPvlzR66bowmAN7f2",
       "discord_url": "https://open.spotify.com/track/2u9bOxPvlzR66bowmAN7f2",
       "posted_at": "2026-07-24T00:00:00.000Z",
-      "score": 638.5,
+      "score": 622.4,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -331,11 +427,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 16,
-        "multiplier": 1.05
+        "raw_points": 9,
+        "multiplier": 1.03
       },
-      "rank": 14,
-      "previous_rank": 6
+      "rank": 18,
+      "previous_rank": 14
     },
     {
       "id": "spotify-7GDTXNtFspZz7d7QhYOJpH",
@@ -347,7 +443,7 @@
       "audio_url": "https://open.spotify.com/track/7GDTXNtFspZz7d7QhYOJpH",
       "discord_url": "https://open.spotify.com/track/7GDTXNtFspZz7d7QhYOJpH",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 602.1,
+      "score": 585.3,
       "web_thumbs": 3,
       "web_plays": 5,
       "stats": {
@@ -355,11 +451,11 @@
         "comments": 0,
         "thumbs": 3,
         "plays": 5,
-        "raw_points": 96.5,
-        "multiplier": 1.32
+        "raw_points": 90.5,
+        "multiplier": 1.3
       },
-      "rank": 15,
-      "previous_rank": 8
+      "rank": 19,
+      "previous_rank": 15
     },
     {
       "id": "spotify-1Zj4KkGWpsC3Fpq8GX2BDp",
@@ -371,7 +467,7 @@
       "audio_url": "https://open.spotify.com/track/1Zj4KkGWpsC3Fpq8GX2BDp",
       "discord_url": "https://open.spotify.com/track/1Zj4KkGWpsC3Fpq8GX2BDp",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 573.8,
+      "score": 561.4,
       "web_thumbs": 1,
       "web_plays": 2,
       "stats": {
@@ -379,11 +475,11 @@
         "comments": 0,
         "thumbs": 1,
         "plays": 2,
-        "raw_points": 41,
-        "multiplier": 1.14
+        "raw_points": 40,
+        "multiplier": 1.13
       },
-      "rank": 16,
-      "previous_rank": 10
+      "rank": 20,
+      "previous_rank": 16
     },
     {
       "id": "spotify-3MHzC3Mnn3xaxEjvT07XXd",
@@ -395,7 +491,7 @@
       "audio_url": "https://open.spotify.com/track/3MHzC3Mnn3xaxEjvT07XXd",
       "discord_url": "https://open.spotify.com/track/3MHzC3Mnn3xaxEjvT07XXd",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 567.7,
+      "score": 557.6,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -403,11 +499,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 2,
-        "raw_points": 29,
-        "multiplier": 1.1
+        "raw_points": 32,
+        "multiplier": 1.11
       },
-      "rank": 17,
-      "previous_rank": 9
+      "rank": 21,
+      "previous_rank": 17
     },
     {
       "id": "spotify-43X14M6R5MXGq7U0FUFKFf",
@@ -419,7 +515,7 @@
       "audio_url": "https://open.spotify.com/track/43X14M6R5MXGq7U0FUFKFf",
       "discord_url": "https://open.spotify.com/track/43X14M6R5MXGq7U0FUFKFf",
       "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 559,
+      "score": 545.2,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -427,11 +523,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 12,
-        "multiplier": 1.04
+        "raw_points": 6,
+        "multiplier": 1.02
       },
-      "rank": 18,
-      "previous_rank": 11
+      "rank": 22,
+      "previous_rank": 18
     },
     {
       "id": "1526285667733209359",
@@ -440,10 +536,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1785456939677",
+      "audio_url": "https://www.djorion.fi/top20//rank_23.mp3?v=1785543375957",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285667733209359",
       "posted_at": "2026-07-13T17:54:20.204Z",
-      "score": 550.2,
+      "score": 536.9,
       "web_thumbs": 0,
       "web_plays": 4,
       "stats": {
@@ -454,8 +550,8 @@
         "raw_points": 79.5,
         "multiplier": 1.27
       },
-      "rank": 19,
-      "previous_rank": 12
+      "rank": 23,
+      "previous_rank": 19
     },
     {
       "id": "1526286344995999774",
@@ -464,10 +560,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1785456942246",
+      "audio_url": "https://www.djorion.fi/top20//rank_24.mp3?v=1785543379215",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286344995999774",
       "posted_at": "2026-07-13T17:57:01.676Z",
-      "score": 545.5,
+      "score": 532.6,
       "web_thumbs": 0,
       "web_plays": 5,
       "stats": {
@@ -478,8 +574,8 @@
         "raw_points": 67.5,
         "multiplier": 1.23
       },
-      "rank": 20,
-      "previous_rank": 13
+      "rank": 24,
+      "previous_rank": 20
     },
     {
       "id": "1526285032933687468",
@@ -488,10 +584,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_21.mp3?v=1785456944838",
+      "audio_url": "https://www.djorion.fi/top20//rank_25.mp3?v=1785543382436",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285032933687468",
       "posted_at": "2026-07-13T17:51:48.856Z",
-      "score": 535.3,
+      "score": 523.3,
       "web_thumbs": 0,
       "web_plays": 4,
       "stats": {
@@ -502,8 +598,8 @@
         "raw_points": 42,
         "multiplier": 1.14
       },
-      "rank": 21,
-      "previous_rank": 14
+      "rank": 25,
+      "previous_rank": 21
     },
     {
       "id": "1526286035951288370",
@@ -512,10 +608,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_22.mp3?v=1785456948197",
+      "audio_url": "https://www.djorion.fi/top20//rank_26.mp3?v=1785543386375",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286035951288370",
       "posted_at": "2026-07-13T17:55:47.994Z",
-      "score": 531.2,
+      "score": 519.6,
       "web_thumbs": 0,
       "web_plays": 3,
       "stats": {
@@ -526,8 +622,8 @@
         "raw_points": 31.5,
         "multiplier": 1.1
       },
-      "rank": 22,
-      "previous_rank": 15
+      "rank": 26,
+      "previous_rank": 22
     },
     {
       "id": "1526284617093480519",
@@ -536,10 +632,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_23.mp3?v=1785456950687",
+      "audio_url": "https://www.djorion.fi/top20//rank_27.mp3?v=1785543389468",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526284617093480519",
       "posted_at": "2026-07-13T17:50:09.712Z",
-      "score": 531.2,
+      "score": 519.5,
       "web_thumbs": 0,
       "web_plays": 3,
       "stats": {
@@ -550,8 +646,8 @@
         "raw_points": 31.5,
         "multiplier": 1.1
       },
-      "rank": 23,
-      "previous_rank": 16
+      "rank": 27,
+      "previous_rank": 23
     },
     {
       "id": "1526286474922688712",
@@ -560,10 +656,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_24.mp3?v=1785456953277",
+      "audio_url": "https://www.djorion.fi/top20//rank_28.mp3?v=1785543392766",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286474922688712",
       "posted_at": "2026-07-13T17:57:32.653Z",
-      "score": 527.1,
+      "score": 515.8,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -574,8 +670,8 @@
         "raw_points": 21,
         "multiplier": 1.07
       },
-      "rank": 24,
-      "previous_rank": 17
+      "rank": 28,
+      "previous_rank": 24
     },
     {
       "id": "1526285881311232050",
@@ -584,10 +680,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_25.mp3?v=1785456955827",
+      "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1785543396060",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285881311232050",
       "posted_at": "2026-07-13T17:55:11.125Z",
-      "score": 527,
+      "score": 515.8,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -598,8 +694,8 @@
         "raw_points": 21,
         "multiplier": 1.07
       },
-      "rank": 25,
-      "previous_rank": 18
+      "rank": 29,
+      "previous_rank": 25
     },
     {
       "id": "spotify-0m5VkpqyXhwof6E8gtzArv",
@@ -611,7 +707,7 @@
       "audio_url": "https://open.spotify.com/track/0m5VkpqyXhwof6E8gtzArv",
       "discord_url": "https://open.spotify.com/track/0m5VkpqyXhwof6E8gtzArv",
       "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 501.4,
+      "score": 486.6,
       "web_thumbs": 5,
       "web_plays": 2,
       "stats": {
@@ -619,107 +715,11 @@
         "comments": 0,
         "thumbs": 5,
         "plays": 2,
-        "raw_points": 83,
-        "multiplier": 1.28
-      },
-      "rank": 26,
-      "previous_rank": null
-    },
-    {
-      "id": "spotify-5GnnulhQ3wyQGcS3Z6Lqn2",
-      "song_title": "Båssanova, Paleface, Reginald - Warrior - Reginald Remix",
-      "author": "Båssanova, Paleface, Reginald",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27309b4983b77b17a65c67cb873",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5GnnulhQ3wyQGcS3Z6Lqn2",
-      "discord_url": "https://open.spotify.com/track/5GnnulhQ3wyQGcS3Z6Lqn2",
-      "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 498.3,
-      "web_thumbs": 5,
-      "web_plays": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 5,
-        "plays": 1,
-        "raw_points": 71.5,
-        "multiplier": 1.24
-      },
-      "rank": 27,
-      "previous_rank": 19
-    },
-    {
-      "id": "spotify-4PPgV2PXqUwdH9On1tnvaL",
-      "song_title": "Telm & Wilson - Static",
-      "author": "Telm & Wilson",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273714624137ebb295772fb332d",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4PPgV2PXqUwdH9On1tnvaL",
-      "discord_url": "https://open.spotify.com/track/4PPgV2PXqUwdH9On1tnvaL",
-      "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 492.1,
-      "web_thumbs": 4,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 4,
-        "plays": 0,
-        "raw_points": 48,
-        "multiplier": 1.16
-      },
-      "rank": 28,
-      "previous_rank": 20
-    },
-    {
-      "id": "spotify-1i91kD4peUNpgayZKEpNiA",
-      "song_title": "Käärijä, SANNI - Hei me pärjätään",
-      "author": "Käärijä, SANNI",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d51312cece51882f8b553fdc",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1i91kD4peUNpgayZKEpNiA",
-      "discord_url": "https://open.spotify.com/track/1i91kD4peUNpgayZKEpNiA",
-      "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 485.5,
-      "web_thumbs": 0,
-      "web_plays": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 2,
-        "raw_points": 23,
-        "multiplier": 1.08
-      },
-      "rank": 29,
-      "previous_rank": 23
-    },
-    {
-      "id": "spotify-3nFMvVRAw7r0HV79rH7bY4",
-      "song_title": "EBEN, Jaimes - Paradise",
-      "author": "EBEN, Jaimes",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2732a490d1491e22f57889a3070",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3nFMvVRAw7r0HV79rH7bY4",
-      "discord_url": "https://open.spotify.com/track/3nFMvVRAw7r0HV79rH7bY4",
-      "posted_at": "2026-07-10T00:00:00.000Z",
-      "score": 483.5,
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "raw_points": 15.5,
-        "multiplier": 1.05
+        "raw_points": 77,
+        "multiplier": 1.26
       },
       "rank": 30,
-      "previous_rank": 24
+      "previous_rank": 26
     }
   ]
 }
