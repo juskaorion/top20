@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T23:48:38.490Z",
+  "last_updated": "2026-08-08T23:44:38.731Z",
   "top_songs": [
     {
       "id": "1532518858186031114",
@@ -11,16 +11,16 @@
       "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1785543353900",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518858186031114",
       "posted_at": "2026-07-30T22:42:48.615Z",
-      "score": 833.6,
+      "score": 834,
       "web_thumbs": 5,
-      "web_plays": 22,
+      "web_plays": 25,
       "stats": {
         "reactions": 6,
         "comments": 0,
         "thumbs": 5,
-        "plays": 22,
-        "raw_points": 303.5,
-        "multiplier": 2.01
+        "plays": 25,
+        "raw_points": 335,
+        "multiplier": 2.12
       },
       "rank": 1,
       "previous_rank": 1
@@ -35,16 +35,16 @@
       "audio_url": "https://open.spotify.com/track/4kVeUODJyaWBz6mPzoeMA8",
       "discord_url": "https://open.spotify.com/track/4kVeUODJyaWBz6mPzoeMA8",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 732.4,
+      "score": 737.2,
       "web_thumbs": 3,
-      "web_plays": 11,
+      "web_plays": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 3,
-        "plays": 11,
-        "raw_points": 161.5,
-        "multiplier": 1.54
+        "plays": 14,
+        "raw_points": 192,
+        "multiplier": 1.64
       },
       "rank": 2,
       "previous_rank": 2
@@ -59,91 +59,19 @@
       "audio_url": "https://open.spotify.com/track/0NUmtofntI1Ttt5uvytSPm",
       "discord_url": "https://open.spotify.com/track/0NUmtofntI1Ttt5uvytSPm",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 719.1,
+      "score": 718,
       "web_thumbs": 2,
-      "web_plays": 10,
+      "web_plays": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 10,
-        "raw_points": 143,
-        "multiplier": 1.48
+        "plays": 12,
+        "raw_points": 164,
+        "multiplier": 1.55
       },
       "rank": 3,
-      "previous_rank": 6
-    },
-    {
-      "id": "1532782173927772200",
-      "song_title": "fallihauta - Weightless (Fallihauta Liquid Flip)",
-      "author": "fallihauta",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
-      "message_text": "Herättelin ja tein valmiiksi tuossa myös yhden rennomman saapasjalan. Tässä Martin Garrix & Arijit Singh - Weightless ja siitä Fallihauta Liquid Flip. 🫶",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1786146502151",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532782173927772200",
-      "posted_at": "2026-07-31T16:09:07.980Z",
-      "score": 711.3,
-      "web_thumbs": 3,
-      "web_plays": 9,
-      "stats": {
-        "reactions": 1,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 9,
-        "raw_points": 118.5,
-        "multiplier": 1.4
-      },
-      "rank": 4,
-      "previous_rank": 5
-    },
-    {
-      "id": "spotify-769AxPMOqVapHP7T9QB5cE",
-      "song_title": "CHAXZER, DJ FKU - DANÇAR NO SALÃO",
-      "author": "CHAXZER, DJ FKU",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a57c16b42b3ad1e3188d222f",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/769AxPMOqVapHP7T9QB5cE",
-      "discord_url": "https://open.spotify.com/track/769AxPMOqVapHP7T9QB5cE",
-      "posted_at": "2026-08-07T00:00:00.000Z",
-      "score": 708.9,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 20,
-        "multiplier": 1.07
-      },
-      "rank": 5,
-      "previous_rank": null
-    },
-    {
-      "id": "spotify-0Iy989SEoZBNXunYBA2f69",
-      "song_title": "ILYAA, mattmoth, Robbe - Hero Komplex",
-      "author": "ILYAA, mattmoth, Robbe",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ffe0e7cafa487621066182f2",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0Iy989SEoZBNXunYBA2f69",
-      "discord_url": "https://open.spotify.com/track/0Iy989SEoZBNXunYBA2f69",
-      "posted_at": "2026-08-07T00:00:00.000Z",
-      "score": 707,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 18,
-        "multiplier": 1.06
-      },
-      "rank": 6,
-      "previous_rank": null
+      "previous_rank": 3
     },
     {
       "id": "spotify-1bEbuPbAnZmDlzRjK5ROkk",
@@ -155,43 +83,67 @@
       "audio_url": "https://open.spotify.com/track/1bEbuPbAnZmDlzRjK5ROkk",
       "discord_url": "https://open.spotify.com/track/1bEbuPbAnZmDlzRjK5ROkk",
       "posted_at": "2026-08-07T00:00:00.000Z",
-      "score": 706,
-      "web_thumbs": 0,
+      "score": 715.9,
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "raw_points": 39.5,
+        "multiplier": 1.13
+      },
+      "rank": 4,
+      "previous_rank": 7
+    },
+    {
+      "id": "spotify-0Iy989SEoZBNXunYBA2f69",
+      "song_title": "ILYAA, mattmoth, Robbe - Hero Komplex",
+      "author": "ILYAA, mattmoth, Robbe",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ffe0e7cafa487621066182f2",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0Iy989SEoZBNXunYBA2f69",
+      "discord_url": "https://open.spotify.com/track/0Iy989SEoZBNXunYBA2f69",
+      "posted_at": "2026-08-07T00:00:00.000Z",
+      "score": 708,
+      "web_thumbs": 1,
       "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
+        "thumbs": 1,
         "plays": 0,
-        "raw_points": 17,
-        "multiplier": 1.06
+        "raw_points": 31,
+        "multiplier": 1.1
       },
-      "rank": 7,
-      "previous_rank": null
+      "rank": 5,
+      "previous_rank": 6
     },
     {
-      "id": "spotify-0H8Syqc1VPejJxULBFsoGt",
-      "song_title": "metakomplex - 1993",
-      "author": "metakomplex",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734b683d535d99668895120b65",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0H8Syqc1VPejJxULBFsoGt",
-      "discord_url": "https://open.spotify.com/track/0H8Syqc1VPejJxULBFsoGt",
-      "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 702.5,
-      "web_thumbs": 2,
-      "web_plays": 8,
+      "id": "1535562469294997545",
+      "song_title": "ANOTR feat Empire Of The Sun - Talk To You On A Dream (Jays MashUp)",
+      "author": "ANOTR feat Empire Of The Sun",
+      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "message_text": "Eilinen mashup tästä!",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1786232650591",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1535562469294997545",
+      "posted_at": "2026-08-08T08:17:02.051Z",
+      "score": 707.9,
+      "web_thumbs": 0,
+      "web_plays": 0,
       "stats": {
-        "reactions": 0,
+        "reactions": 2,
         "comments": 0,
-        "thumbs": 2,
-        "plays": 8,
-        "raw_points": 120,
-        "multiplier": 1.4
+        "thumbs": 0,
+        "plays": 0,
+        "raw_points": 15,
+        "multiplier": 1.05
       },
-      "rank": 8,
-      "previous_rank": 3
+      "rank": 6,
+      "previous_rank": null
     },
     {
       "id": "spotify-3dvGjzbWaHVAPizttedtpn",
@@ -203,6 +155,30 @@
       "audio_url": "https://open.spotify.com/track/3dvGjzbWaHVAPizttedtpn",
       "discord_url": "https://open.spotify.com/track/3dvGjzbWaHVAPizttedtpn",
       "posted_at": "2026-08-06T00:00:00.000Z",
+      "score": 703.1,
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "raw_points": 38.5,
+        "multiplier": 1.13
+      },
+      "rank": 7,
+      "previous_rank": 9
+    },
+    {
+      "id": "spotify-769AxPMOqVapHP7T9QB5cE",
+      "song_title": "CHAXZER, DJ FKU - DANÇAR NO SALÃO",
+      "author": "CHAXZER, DJ FKU",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a57c16b42b3ad1e3188d222f",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/769AxPMOqVapHP7T9QB5cE",
+      "discord_url": "https://open.spotify.com/track/769AxPMOqVapHP7T9QB5cE",
+      "posted_at": "2026-08-07T00:00:00.000Z",
       "score": 696.8,
       "web_thumbs": 0,
       "web_plays": 0,
@@ -214,8 +190,56 @@
         "raw_points": 19,
         "multiplier": 1.06
       },
+      "rank": 8,
+      "previous_rank": 5
+    },
+    {
+      "id": "1532782173927772200",
+      "song_title": "fallihauta - Weightless (Fallihauta Liquid Flip)",
+      "author": "fallihauta",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
+      "message_text": "Herättelin ja tein valmiiksi tuossa myös yhden rennomman saapasjalan. Tässä Martin Garrix & Arijit Singh - Weightless ja siitä Fallihauta Liquid Flip. 🫶",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1786232654775",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532782173927772200",
+      "posted_at": "2026-07-31T16:09:07.980Z",
+      "score": 696.7,
+      "web_thumbs": 3,
+      "web_plays": 9,
+      "stats": {
+        "reactions": 1,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 9,
+        "raw_points": 118.5,
+        "multiplier": 1.4
+      },
       "rank": 9,
-      "previous_rank": null
+      "previous_rank": 4
+    },
+    {
+      "id": "spotify-0H8Syqc1VPejJxULBFsoGt",
+      "song_title": "metakomplex - 1993",
+      "author": "metakomplex",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734b683d535d99668895120b65",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0H8Syqc1VPejJxULBFsoGt",
+      "discord_url": "https://open.spotify.com/track/0H8Syqc1VPejJxULBFsoGt",
+      "posted_at": "2026-07-31T00:00:00.000Z",
+      "score": 685.1,
+      "web_thumbs": 2,
+      "web_plays": 8,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 8,
+        "raw_points": 116,
+        "multiplier": 1.39
+      },
+      "rank": 10,
+      "previous_rank": 8
     },
     {
       "id": "spotify-5I8YZqgeADPkF3rUyAhpuz",
@@ -227,7 +251,7 @@
       "audio_url": "https://open.spotify.com/track/5I8YZqgeADPkF3rUyAhpuz",
       "discord_url": "https://open.spotify.com/track/5I8YZqgeADPkF3rUyAhpuz",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 696,
+      "score": 681.7,
       "web_thumbs": 3,
       "web_plays": 6,
       "stats": {
@@ -238,8 +262,8 @@
         "raw_points": 111,
         "multiplier": 1.37
       },
-      "rank": 10,
-      "previous_rank": 7
+      "rank": 11,
+      "previous_rank": 10
     },
     {
       "id": "spotify-2p3FdHL4kiQRkSdWFekikN",
@@ -251,7 +275,7 @@
       "audio_url": "https://open.spotify.com/track/2p3FdHL4kiQRkSdWFekikN",
       "discord_url": "https://open.spotify.com/track/2p3FdHL4kiQRkSdWFekikN",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 678.4,
+      "score": 666.3,
       "web_thumbs": 2,
       "web_plays": 5,
       "stats": {
@@ -259,11 +283,11 @@
         "comments": 0,
         "thumbs": 2,
         "plays": 5,
-        "raw_points": 86.5,
+        "raw_points": 88.5,
         "multiplier": 1.29
       },
-      "rank": 11,
-      "previous_rank": 10
+      "rank": 12,
+      "previous_rank": 11
     },
     {
       "id": "spotify-3vLH224FYPedpImJMm3Lzb",
@@ -275,19 +299,19 @@
       "audio_url": "https://open.spotify.com/track/3vLH224FYPedpImJMm3Lzb",
       "discord_url": "https://open.spotify.com/track/3vLH224FYPedpImJMm3Lzb",
       "posted_at": "2026-07-30T00:00:00.000Z",
-      "score": 653.6,
-      "web_thumbs": 2,
-      "web_plays": 4,
+      "score": 662.8,
+      "web_thumbs": 3,
+      "web_plays": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 2,
-        "plays": 4,
-        "raw_points": 70,
-        "multiplier": 1.23
+        "thumbs": 3,
+        "plays": 6,
+        "raw_points": 104,
+        "multiplier": 1.35
       },
-      "rank": 12,
-      "previous_rank": 16
+      "rank": 13,
+      "previous_rank": 12
     },
     {
       "id": "spotify-6Iy9sbeD2wYPXxLfmJxFB6",
@@ -299,43 +323,19 @@
       "audio_url": "https://open.spotify.com/track/6Iy9sbeD2wYPXxLfmJxFB6",
       "discord_url": "https://open.spotify.com/track/6Iy9sbeD2wYPXxLfmJxFB6",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 652.1,
-      "web_thumbs": 2,
+      "score": 651.5,
+      "web_thumbs": 3,
       "web_plays": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 2,
+        "thumbs": 3,
         "plays": 2,
-        "raw_points": 50,
-        "multiplier": 1.17
-      },
-      "rank": 13,
-      "previous_rank": 9
-    },
-    {
-      "id": "spotify-6LqoV2sKQ683aAWq2zGBLq",
-      "song_title": "Axel Thesleff, David Satori, Balkan Bump - Shadow Caravan",
-      "author": "Axel Thesleff, David Satori, Balkan Bump",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273994adaa5b8d041d7194ac304",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6LqoV2sKQ683aAWq2zGBLq",
-      "discord_url": "https://open.spotify.com/track/6LqoV2sKQ683aAWq2zGBLq",
-      "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 646.7,
-      "web_thumbs": 0,
-      "web_plays": 3,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 3,
-        "raw_points": 42.5,
-        "multiplier": 1.14
+        "raw_points": 67,
+        "multiplier": 1.22
       },
       "rank": 14,
-      "previous_rank": 4
+      "previous_rank": 13
     },
     {
       "id": "spotify-0clQCsVXyRj9mhPsUgRGSz",
@@ -347,19 +347,19 @@
       "audio_url": "https://open.spotify.com/track/0clQCsVXyRj9mhPsUgRGSz",
       "discord_url": "https://open.spotify.com/track/0clQCsVXyRj9mhPsUgRGSz",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 645.6,
-      "web_thumbs": 1,
-      "web_plays": 2,
+      "score": 647.1,
+      "web_thumbs": 2,
+      "web_plays": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
-        "plays": 2,
-        "raw_points": 41,
-        "multiplier": 1.14
+        "thumbs": 2,
+        "plays": 3,
+        "raw_points": 60.5,
+        "multiplier": 1.2
       },
       "rank": 15,
-      "previous_rank": 13
+      "previous_rank": 15
     },
     {
       "id": "spotify-6OAmxDwPpVcJysG3pufRdV",
@@ -371,19 +371,43 @@
       "audio_url": "https://open.spotify.com/track/6OAmxDwPpVcJysG3pufRdV",
       "discord_url": "https://open.spotify.com/track/6OAmxDwPpVcJysG3pufRdV",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 638.8,
-      "web_thumbs": 1,
+      "score": 635.4,
+      "web_thumbs": 2,
       "web_plays": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
+        "thumbs": 2,
         "plays": 1,
-        "raw_points": 31.5,
-        "multiplier": 1.1
+        "raw_points": 43.5,
+        "multiplier": 1.15
       },
       "rank": 16,
-      "previous_rank": 11
+      "previous_rank": 16
+    },
+    {
+      "id": "spotify-6LqoV2sKQ683aAWq2zGBLq",
+      "song_title": "Axel Thesleff, David Satori, Balkan Bump - Shadow Caravan",
+      "author": "Axel Thesleff, David Satori, Balkan Bump",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273994adaa5b8d041d7194ac304",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6LqoV2sKQ683aAWq2zGBLq",
+      "discord_url": "https://open.spotify.com/track/6LqoV2sKQ683aAWq2zGBLq",
+      "posted_at": "2026-07-31T00:00:00.000Z",
+      "score": 633.4,
+      "web_thumbs": 0,
+      "web_plays": 3,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 3,
+        "raw_points": 40.5,
+        "multiplier": 1.14
+      },
+      "rank": 17,
+      "previous_rank": 14
     },
     {
       "id": "1532518945482080336",
@@ -392,10 +416,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Extended Daisko Flip:",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1786146506268",
+      "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1786232659565",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518945482080336",
       "posted_at": "2026-07-30T22:43:09.428Z",
-      "score": 638.2,
+      "score": 626.6,
       "web_thumbs": 0,
       "web_plays": 3,
       "stats": {
@@ -406,8 +430,8 @@
         "raw_points": 31.5,
         "multiplier": 1.1
       },
-      "rank": 17,
-      "previous_rank": 14
+      "rank": 18,
+      "previous_rank": 17
     },
     {
       "id": "1532518727898103858",
@@ -416,10 +440,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1786146509123",
+      "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1786232662655",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518727898103858",
       "posted_at": "2026-07-30T22:42:17.552Z",
-      "score": 630.6,
+      "score": 619.4,
       "web_thumbs": 0,
       "web_plays": 2,
       "stats": {
@@ -430,32 +454,32 @@
         "raw_points": 21,
         "multiplier": 1.07
       },
-      "rank": 18,
-      "previous_rank": 15
+      "rank": 19,
+      "previous_rank": 18
     },
     {
-      "id": "spotify-37iG51reMn5ffd8yjehbQm",
-      "song_title": "Amuri Tekno - Kaiku",
-      "author": "Amuri Tekno",
+      "id": "spotify-5tg9eYykaaIR0rDB8JecxR",
+      "song_title": "Joonas Aleksi - Darra",
+      "author": "Joonas Aleksi",
       "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d4407f5bc85ef0317a1b8c3d",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
-      "discord_url": "https://open.spotify.com/track/37iG51reMn5ffd8yjehbQm",
+      "audio_url": "https://open.spotify.com/track/5tg9eYykaaIR0rDB8JecxR",
+      "discord_url": "https://open.spotify.com/track/5tg9eYykaaIR0rDB8JecxR",
       "posted_at": "2026-07-22T00:00:00.000Z",
-      "score": 578.5,
-      "web_thumbs": 6,
-      "web_plays": 7,
+      "score": 562.8,
+      "web_thumbs": 4,
+      "web_plays": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 6,
-        "plays": 7,
-        "raw_points": 140.5,
+        "thumbs": 4,
+        "plays": 9,
+        "raw_points": 139.5,
         "multiplier": 1.47
       },
-      "rank": 19,
-      "previous_rank": 21
+      "rank": 20,
+      "previous_rank": null
     },
     {
       "id": "1528862467952869486",
@@ -464,10 +488,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1786146512615",
+      "audio_url": "https://www.djorion.fi/top20//rank_21.mp3?v=1786232666384",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1528862467952869486",
       "posted_at": "2026-07-20T20:33:37.251Z",
-      "score": 568.8,
+      "score": 552.6,
       "web_thumbs": 3,
       "web_plays": 11,
       "stats": {
@@ -478,8 +502,32 @@
         "raw_points": 162,
         "multiplier": 1.54
       },
-      "rank": 20,
-      "previous_rank": 23
+      "rank": 21,
+      "previous_rank": 20
+    },
+    {
+      "id": "spotify-7CaQ6t9PatgvvZ3eker63S",
+      "song_title": "Lope & Kantola - Numaye",
+      "author": "Lope & Kantola",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a1c1d2a598445fd12c69f62a",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7CaQ6t9PatgvvZ3eker63S",
+      "discord_url": "https://open.spotify.com/track/7CaQ6t9PatgvvZ3eker63S",
+      "posted_at": "2026-07-22T00:00:00.000Z",
+      "score": 551.7,
+      "web_thumbs": 5,
+      "web_plays": 5,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 5,
+        "plays": 5,
+        "raw_points": 109.5,
+        "multiplier": 1.36
+      },
+      "rank": 22,
+      "previous_rank": null
     },
     {
       "id": "spotify-2u9bOxPvlzR66bowmAN7f2",
@@ -491,7 +539,7 @@
       "audio_url": "https://open.spotify.com/track/2u9bOxPvlzR66bowmAN7f2",
       "discord_url": "https://open.spotify.com/track/2u9bOxPvlzR66bowmAN7f2",
       "posted_at": "2026-07-24T00:00:00.000Z",
-      "score": 556.6,
+      "score": 542.9,
       "web_thumbs": 1,
       "web_plays": 1,
       "stats": {
@@ -499,11 +547,11 @@
         "comments": 0,
         "thumbs": 1,
         "plays": 1,
-        "raw_points": 29.5,
-        "multiplier": 1.1
+        "raw_points": 24.5,
+        "multiplier": 1.08
       },
-      "rank": 21,
-      "previous_rank": 19
+      "rank": 23,
+      "previous_rank": 21
     },
     {
       "id": "spotify-4VeDtIrBdUFEtWPzAc8UmA",
@@ -515,7 +563,7 @@
       "audio_url": "https://open.spotify.com/track/4VeDtIrBdUFEtWPzAc8UmA",
       "discord_url": "https://open.spotify.com/track/4VeDtIrBdUFEtWPzAc8UmA",
       "posted_at": "2026-07-24T00:00:00.000Z",
-      "score": 549,
+      "score": 539.4,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -523,11 +571,11 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 1,
-        "raw_points": 13.5,
-        "multiplier": 1.04
+        "raw_points": 16.5,
+        "multiplier": 1.05
       },
-      "rank": 22,
-      "previous_rank": 18
+      "rank": 24,
+      "previous_rank": 22
     },
     {
       "id": "spotify-5xB5UL2K8xTmW0CEPqHWcO",
@@ -539,7 +587,7 @@
       "audio_url": "https://open.spotify.com/track/5xB5UL2K8xTmW0CEPqHWcO",
       "discord_url": "https://open.spotify.com/track/5xB5UL2K8xTmW0CEPqHWcO",
       "posted_at": "2026-07-24T00:00:00.000Z",
-      "score": 545,
+      "score": 534.3,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -550,8 +598,8 @@
         "raw_points": 5,
         "multiplier": 1.02
       },
-      "rank": 23,
-      "previous_rank": 20
+      "rank": 25,
+      "previous_rank": 23
     },
     {
       "id": "spotify-6RoEtMPKkpbdipowumI4UX",
@@ -563,7 +611,7 @@
       "audio_url": "https://open.spotify.com/track/6RoEtMPKkpbdipowumI4UX",
       "discord_url": "https://open.spotify.com/track/6RoEtMPKkpbdipowumI4UX",
       "posted_at": "2026-07-24T00:00:00.000Z",
-      "score": 544.5,
+      "score": 533.9,
       "web_thumbs": 0,
       "web_plays": 0,
       "stats": {
@@ -574,8 +622,8 @@
         "raw_points": 4,
         "multiplier": 1.01
       },
-      "rank": 24,
-      "previous_rank": 17
+      "rank": 26,
+      "previous_rank": 24
     },
     {
       "id": "1527596192895078571",
@@ -584,10 +632,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/337703780894244865/97b8d7b07e96568047d160415bc423da.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_25.mp3?v=1786146515391",
+      "audio_url": "https://www.djorion.fi/top20//rank_27.mp3?v=1786232669390",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1527596192895078571",
       "posted_at": "2026-07-17T08:41:53.751Z",
-      "score": 518.7,
+      "score": 501.6,
       "web_thumbs": 1,
       "web_plays": 11,
       "stats": {
@@ -598,32 +646,8 @@
         "raw_points": 188.5,
         "multiplier": 1.63
       },
-      "rank": 25,
-      "previous_rank": 24
-    },
-    {
-      "id": "spotify-3MHzC3Mnn3xaxEjvT07XXd",
-      "song_title": "DJ FKU - MONTAGEM PAREDÃO",
-      "author": "DJ FKU",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ca7e9649086bfd64554e6204",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3MHzC3Mnn3xaxEjvT07XXd",
-      "discord_url": "https://open.spotify.com/track/3MHzC3Mnn3xaxEjvT07XXd",
-      "posted_at": "2026-07-17T00:00:00.000Z",
-      "score": 474.4,
-      "web_thumbs": 0,
-      "web_plays": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 2,
-        "raw_points": 23,
-        "multiplier": 1.08
-      },
-      "rank": 26,
-      "previous_rank": null
+      "rank": 27,
+      "previous_rank": 25
     },
     {
       "id": "1526285667733209359",
@@ -632,21 +656,21 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_27.mp3?v=1785888927677",
+      "audio_url": "https://www.djorion.fi/top20//rank_28.mp3?v=1786232672522",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285667733209359",
       "posted_at": "2026-07-13T17:54:20.204Z",
-      "score": 446.6,
+      "score": 433.5,
       "web_thumbs": 0,
-      "web_plays": 6,
+      "web_plays": 7,
       "stats": {
         "reactions": 5,
         "comments": 0,
         "thumbs": 0,
-        "plays": 6,
-        "raw_points": 100.5,
-        "multiplier": 1.33
+        "plays": 7,
+        "raw_points": 111,
+        "multiplier": 1.37
       },
-      "rank": 27,
+      "rank": 28,
       "previous_rank": 27
     },
     {
@@ -656,10 +680,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_28.mp3?v=1785888932502",
+      "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1786232675723",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286344995999774",
       "posted_at": "2026-07-13T17:57:01.676Z",
-      "score": 445.2,
+      "score": 431.7,
       "web_thumbs": 0,
       "web_plays": 7,
       "stats": {
@@ -670,7 +694,7 @@
         "raw_points": 88.5,
         "multiplier": 1.29
       },
-      "rank": 28,
+      "rank": 29,
       "previous_rank": 28
     },
     {
@@ -680,10 +704,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1786146518489",
+      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1786232678730",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526285032933687468",
       "posted_at": "2026-07-13T17:51:48.856Z",
-      "score": 442.2,
+      "score": 429.6,
       "web_thumbs": 0,
       "web_plays": 6,
       "stats": {
@@ -694,32 +718,8 @@
         "raw_points": 63,
         "multiplier": 1.21
       },
-      "rank": 29,
-      "previous_rank": null
-    },
-    {
-      "id": "1526286035951288370",
-      "song_title": "0zan02 - WILLIA2",
-      "author": "0zan02",
-      "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1785888947017",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286035951288370",
-      "posted_at": "2026-07-13T17:55:47.994Z",
-      "score": 441,
-      "web_thumbs": 0,
-      "web_plays": 5,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 5,
-        "raw_points": 52.5,
-        "multiplier": 1.18
-      },
       "rank": 30,
-      "previous_rank": 30
+      "previous_rank": 29
     }
   ]
 }
