@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T23:34:03.110Z",
+  "last_updated": "2026-08-16T23:33:38.582Z",
   "top_songs": [
     {
       "id": "spotify-3dvGjzbWaHVAPizttedtpn",
@@ -11,19 +11,19 @@
       "audio_url": "https://open.spotify.com/track/3dvGjzbWaHVAPizttedtpn",
       "discord_url": "https://open.spotify.com/track/3dvGjzbWaHVAPizttedtpn",
       "posted_at": "2026-08-06T00:00:00.000Z",
-      "score": 1026.3,
+      "score": 986.5,
       "web_thumbs": 34,
-      "web_plays": 22,
+      "web_plays": 23,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 34,
-        "plays": 22,
-        "raw_points": 837,
-        "multiplier": 3.79
+        "plays": 23,
+        "raw_points": 859.5,
+        "multiplier": 3.87
       },
       "rank": 1,
-      "previous_rank": 10
+      "previous_rank": 1
     },
     {
       "id": "1536692941173555240",
@@ -35,7 +35,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1786836822368",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1536692941173555240",
       "posted_at": "2026-08-11T11:09:07.550Z",
-      "score": 835,
+      "score": 810.5,
       "web_thumbs": 3,
       "web_plays": 9,
       "stats": {
@@ -47,7 +47,7 @@
         "multiplier": 1.82
       },
       "rank": 2,
-      "previous_rank": 4
+      "previous_rank": 2
     },
     {
       "id": "1535562469294997545",
@@ -59,7 +59,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1786836824637",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1535562469294997545",
       "posted_at": "2026-08-08T08:17:02.051Z",
-      "score": 791.2,
+      "score": 764.4,
       "web_thumbs": 5,
       "web_plays": 12,
       "stats": {
@@ -71,55 +71,7 @@
         "multiplier": 1.99
       },
       "rank": 3,
-      "previous_rank": 5
-    },
-    {
-      "id": "1532518858186031114",
-      "song_title": "fallihauta - Freed From Desire (Fallihauta Daisko Flip)",
-      "author": "fallihauta",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
-      "message_text": "Daisko Flip:",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1786836828708",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518858186031114",
-      "posted_at": "2026-07-30T22:42:48.615Z",
-      "score": 733.5,
-      "web_thumbs": 6,
-      "web_plays": 40,
-      "stats": {
-        "reactions": 6,
-        "comments": 0,
-        "thumbs": 6,
-        "plays": 40,
-        "raw_points": 898,
-        "multiplier": 3.99
-      },
-      "rank": 4,
-      "previous_rank": 11
-    },
-    {
-      "id": "spotify-1HeI9O84rw6fvX1UZjVy9Q",
-      "song_title": "Robbe - You Make Me Feel",
-      "author": "Robbe",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273122cd20065c7ab3e2b277bec",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1HeI9O84rw6fvX1UZjVy9Q",
-      "discord_url": "https://open.spotify.com/track/1HeI9O84rw6fvX1UZjVy9Q",
-      "posted_at": "2026-08-14T00:00:00.000Z",
-      "score": 708.3,
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "raw_points": 38.5,
-        "multiplier": 1.13
-      },
-      "rank": 5,
-      "previous_rank": 1
+      "previous_rank": 3
     },
     {
       "id": "spotify-5HTGdvnjZ0tfTu4ATeonMo",
@@ -131,7 +83,7 @@
       "audio_url": "https://open.spotify.com/track/5HTGdvnjZ0tfTu4ATeonMo",
       "discord_url": "https://open.spotify.com/track/5HTGdvnjZ0tfTu4ATeonMo",
       "posted_at": "2026-08-14T00:00:00.000Z",
-      "score": 707.4,
+      "score": 694.8,
       "web_thumbs": 0,
       "web_plays": 1,
       "stats": {
@@ -139,35 +91,35 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 1,
-        "raw_points": 37.5,
-        "multiplier": 1.13
+        "raw_points": 40.5,
+        "multiplier": 1.14
       },
-      "rank": 6,
-      "previous_rank": 3
+      "rank": 4,
+      "previous_rank": 6
     },
     {
-      "id": "spotify-1bEbuPbAnZmDlzRjK5ROkk",
-      "song_title": "Muffler - Two Hours",
-      "author": "Muffler",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e7e935d5feb919938f7355e2",
+      "id": "spotify-1HeI9O84rw6fvX1UZjVy9Q",
+      "song_title": "Robbe - You Make Me Feel",
+      "author": "Robbe",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273122cd20065c7ab3e2b277bec",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1bEbuPbAnZmDlzRjK5ROkk",
-      "discord_url": "https://open.spotify.com/track/1bEbuPbAnZmDlzRjK5ROkk",
-      "posted_at": "2026-08-07T00:00:00.000Z",
-      "score": 693.7,
-      "web_thumbs": 5,
-      "web_plays": 6,
+      "audio_url": "https://open.spotify.com/track/1HeI9O84rw6fvX1UZjVy9Q",
+      "discord_url": "https://open.spotify.com/track/1HeI9O84rw6fvX1UZjVy9Q",
+      "posted_at": "2026-08-14T00:00:00.000Z",
+      "score": 693.9,
+      "web_thumbs": 0,
+      "web_plays": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 5,
-        "plays": 6,
-        "raw_points": 193,
-        "multiplier": 1.64
+        "thumbs": 0,
+        "plays": 1,
+        "raw_points": 39.5,
+        "multiplier": 1.13
       },
-      "rank": 7,
-      "previous_rank": 9
+      "rank": 5,
+      "previous_rank": 5
     },
     {
       "id": "spotify-24VY3Xl0EEaFTjk9Bugqf4",
@@ -179,19 +131,67 @@
       "audio_url": "https://open.spotify.com/track/24VY3Xl0EEaFTjk9Bugqf4",
       "discord_url": "https://open.spotify.com/track/24VY3Xl0EEaFTjk9Bugqf4",
       "posted_at": "2026-08-14T00:00:00.000Z",
-      "score": 691.5,
-      "web_thumbs": 0,
+      "score": 684.9,
+      "web_thumbs": 1,
       "web_plays": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
+        "thumbs": 1,
         "plays": 0,
-        "raw_points": 20,
-        "multiplier": 1.07
+        "raw_points": 29,
+        "multiplier": 1.1
+      },
+      "rank": 6,
+      "previous_rank": 8
+    },
+    {
+      "id": "1532518858186031114",
+      "song_title": "fallihauta - Freed From Desire (Fallihauta Daisko Flip)",
+      "author": "fallihauta",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
+      "message_text": "Daisko Flip:",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1786923211123",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518858186031114",
+      "posted_at": "2026-07-30T22:42:48.615Z",
+      "score": 679.6,
+      "web_thumbs": 6,
+      "web_plays": 40,
+      "stats": {
+        "reactions": 6,
+        "comments": 0,
+        "thumbs": 6,
+        "plays": 40,
+        "raw_points": 898,
+        "multiplier": 3.99
+      },
+      "rank": 7,
+      "previous_rank": 4
+    },
+    {
+      "id": "spotify-1bEbuPbAnZmDlzRjK5ROkk",
+      "song_title": "Muffler - Two Hours",
+      "author": "Muffler",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e7e935d5feb919938f7355e2",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/1bEbuPbAnZmDlzRjK5ROkk",
+      "discord_url": "https://open.spotify.com/track/1bEbuPbAnZmDlzRjK5ROkk",
+      "posted_at": "2026-08-07T00:00:00.000Z",
+      "score": 670.5,
+      "web_thumbs": 5,
+      "web_plays": 6,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 5,
+        "plays": 6,
+        "raw_points": 191,
+        "multiplier": 1.64
       },
       "rank": 8,
-      "previous_rank": 2
+      "previous_rank": 7
     },
     {
       "id": "spotify-0Iy989SEoZBNXunYBA2f69",
@@ -203,7 +203,7 @@
       "audio_url": "https://open.spotify.com/track/0Iy989SEoZBNXunYBA2f69",
       "discord_url": "https://open.spotify.com/track/0Iy989SEoZBNXunYBA2f69",
       "posted_at": "2026-08-07T00:00:00.000Z",
-      "score": 650.2,
+      "score": 629.1,
       "web_thumbs": 2,
       "web_plays": 4,
       "stats": {
@@ -211,35 +211,11 @@
         "comments": 0,
         "thumbs": 2,
         "plays": 4,
-        "raw_points": 120,
-        "multiplier": 1.4
+        "raw_points": 116,
+        "multiplier": 1.39
       },
       "rank": 9,
-      "previous_rank": 8
-    },
-    {
-      "id": "spotify-4kVeUODJyaWBz6mPzoeMA8",
-      "song_title": "Milla Lehto, VALTTERI - Back to Life",
-      "author": "Milla Lehto, VALTTERI",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273233282fe79dfe377b617dc2b",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4kVeUODJyaWBz6mPzoeMA8",
-      "discord_url": "https://open.spotify.com/track/4kVeUODJyaWBz6mPzoeMA8",
-      "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 644.9,
-      "web_thumbs": 6,
-      "web_plays": 24,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 6,
-        "plays": 24,
-        "raw_points": 572,
-        "multiplier": 2.91
-      },
-      "rank": 10,
-      "previous_rank": 16
+      "previous_rank": 9
     },
     {
       "id": "spotify-769AxPMOqVapHP7T9QB5cE",
@@ -251,7 +227,7 @@
       "audio_url": "https://open.spotify.com/track/769AxPMOqVapHP7T9QB5cE",
       "discord_url": "https://open.spotify.com/track/769AxPMOqVapHP7T9QB5cE",
       "posted_at": "2026-08-07T00:00:00.000Z",
-      "score": 634.2,
+      "score": 618.7,
       "web_thumbs": 0,
       "web_plays": 4,
       "stats": {
@@ -259,11 +235,35 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 4,
-        "raw_points": 93,
-        "multiplier": 1.31
+        "raw_points": 97,
+        "multiplier": 1.32
+      },
+      "rank": 10,
+      "previous_rank": 11
+    },
+    {
+      "id": "spotify-4kVeUODJyaWBz6mPzoeMA8",
+      "song_title": "Milla Lehto, VALTTERI - Back to Life",
+      "author": "Milla Lehto, VALTTERI",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273233282fe79dfe377b617dc2b",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4kVeUODJyaWBz6mPzoeMA8",
+      "discord_url": "https://open.spotify.com/track/4kVeUODJyaWBz6mPzoeMA8",
+      "posted_at": "2026-07-31T00:00:00.000Z",
+      "score": 606.1,
+      "web_thumbs": 6,
+      "web_plays": 24,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 6,
+        "plays": 24,
+        "raw_points": 574,
+        "multiplier": 2.91
       },
       "rank": 11,
-      "previous_rank": 6
+      "previous_rank": 10
     },
     {
       "id": "spotify-0NUmtofntI1Ttt5uvytSPm",
@@ -275,7 +275,7 @@
       "audio_url": "https://open.spotify.com/track/0NUmtofntI1Ttt5uvytSPm",
       "discord_url": "https://open.spotify.com/track/0NUmtofntI1Ttt5uvytSPm",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 612.3,
+      "score": 579.2,
       "web_thumbs": 3,
       "web_plays": 20,
       "stats": {
@@ -283,11 +283,11 @@
         "comments": 0,
         "thumbs": 3,
         "plays": 20,
-        "raw_points": 456,
-        "multiplier": 2.52
+        "raw_points": 460,
+        "multiplier": 2.53
       },
       "rank": 12,
-      "previous_rank": 15
+      "previous_rank": 12
     },
     {
       "id": "1532782173927772200",
@@ -299,7 +299,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1786836832732",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532782173927772200",
       "posted_at": "2026-07-31T16:09:07.980Z",
-      "score": 604.6,
+      "score": 575,
       "web_thumbs": 4,
       "web_plays": 16,
       "stats": {
@@ -311,31 +311,7 @@
         "multiplier": 2.19
       },
       "rank": 13,
-      "previous_rank": 12
-    },
-    {
-      "id": "spotify-5MuF2eTJPY6lUpit4B323V",
-      "song_title": "Darude, PAENDA, Ilan Bluestone - Feel The Beat - Ilan Bluestone Extended Remix",
-      "author": "Darude, PAENDA, Ilan Bluestone",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2731eb418e643f50de56f021244",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5MuF2eTJPY6lUpit4B323V",
-      "discord_url": "https://open.spotify.com/track/5MuF2eTJPY6lUpit4B323V",
-      "posted_at": "2026-08-07T00:00:00.000Z",
-      "score": 590.1,
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "raw_points": 19,
-        "multiplier": 1.06
-      },
-      "rank": 14,
-      "previous_rank": null
+      "previous_rank": 13
     },
     {
       "id": "spotify-0H8Syqc1VPejJxULBFsoGt",
@@ -347,7 +323,7 @@
       "audio_url": "https://open.spotify.com/track/0H8Syqc1VPejJxULBFsoGt",
       "discord_url": "https://open.spotify.com/track/0H8Syqc1VPejJxULBFsoGt",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 571,
+      "score": 544.3,
       "web_thumbs": 5,
       "web_plays": 12,
       "stats": {
@@ -355,11 +331,11 @@
         "comments": 0,
         "thumbs": 5,
         "plays": 12,
-        "raw_points": 309,
-        "multiplier": 2.03
+        "raw_points": 312,
+        "multiplier": 2.04
       },
-      "rank": 15,
-      "previous_rank": 14
+      "rank": 14,
+      "previous_rank": 15
     },
     {
       "id": "spotify-5I8YZqgeADPkF3rUyAhpuz",
@@ -371,7 +347,7 @@
       "audio_url": "https://open.spotify.com/track/5I8YZqgeADPkF3rUyAhpuz",
       "discord_url": "https://open.spotify.com/track/5I8YZqgeADPkF3rUyAhpuz",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 558.9,
+      "score": 534.2,
       "web_thumbs": 5,
       "web_plays": 10,
       "stats": {
@@ -379,11 +355,11 @@
         "comments": 0,
         "thumbs": 5,
         "plays": 10,
-        "raw_points": 266,
-        "multiplier": 1.89
+        "raw_points": 269,
+        "multiplier": 1.9
       },
-      "rank": 16,
-      "previous_rank": null
+      "rank": 15,
+      "previous_rank": 16
     },
     {
       "id": "spotify-0clQCsVXyRj9mhPsUgRGSz",
@@ -395,7 +371,7 @@
       "audio_url": "https://open.spotify.com/track/0clQCsVXyRj9mhPsUgRGSz",
       "discord_url": "https://open.spotify.com/track/0clQCsVXyRj9mhPsUgRGSz",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 550,
+      "score": 527.3,
       "web_thumbs": 6,
       "web_plays": 8,
       "stats": {
@@ -403,8 +379,32 @@
         "comments": 0,
         "thumbs": 6,
         "plays": 8,
-        "raw_points": 234,
-        "multiplier": 1.78
+        "raw_points": 240,
+        "multiplier": 1.8
+      },
+      "rank": 16,
+      "previous_rank": 17
+    },
+    {
+      "id": "spotify-6Iy9sbeD2wYPXxLfmJxFB6",
+      "song_title": "Digital Mindz - For You",
+      "author": "Digital Mindz",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2732a0aab3a2df3852df83f9592",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6Iy9sbeD2wYPXxLfmJxFB6",
+      "discord_url": "https://open.spotify.com/track/6Iy9sbeD2wYPXxLfmJxFB6",
+      "posted_at": "2026-07-31T00:00:00.000Z",
+      "score": 512,
+      "web_thumbs": 4,
+      "web_plays": 6,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 4,
+        "plays": 6,
+        "raw_points": 175,
+        "multiplier": 1.58
       },
       "rank": 17,
       "previous_rank": 19
@@ -419,7 +419,7 @@
       "audio_url": "https://open.spotify.com/track/3vLH224FYPedpImJMm3Lzb",
       "discord_url": "https://open.spotify.com/track/3vLH224FYPedpImJMm3Lzb",
       "posted_at": "2026-07-30T00:00:00.000Z",
-      "score": 535.5,
+      "score": 509.6,
       "web_thumbs": 4,
       "web_plays": 11,
       "stats": {
@@ -431,31 +431,7 @@
         "multiplier": 1.92
       },
       "rank": 18,
-      "previous_rank": 22
-    },
-    {
-      "id": "spotify-6Iy9sbeD2wYPXxLfmJxFB6",
-      "song_title": "Digital Mindz - For You",
-      "author": "Digital Mindz",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2732a0aab3a2df3852df83f9592",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6Iy9sbeD2wYPXxLfmJxFB6",
-      "discord_url": "https://open.spotify.com/track/6Iy9sbeD2wYPXxLfmJxFB6",
-      "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 534,
-      "web_thumbs": 4,
-      "web_plays": 6,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 4,
-        "plays": 6,
-        "raw_points": 177,
-        "multiplier": 1.59
-      },
-      "rank": 19,
-      "previous_rank": 17
+      "previous_rank": 18
     },
     {
       "id": "1532518945482080336",
@@ -464,10 +440,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Extended Daisko Flip:",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1786750567349",
+      "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1786923215534",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518945482080336",
       "posted_at": "2026-07-30T22:43:09.428Z",
-      "score": 517.8,
+      "score": 498.7,
       "web_thumbs": 0,
       "web_plays": 6,
       "stats": {
@@ -478,7 +454,7 @@
         "raw_points": 123,
         "multiplier": 1.41
       },
-      "rank": 20,
+      "rank": 19,
       "previous_rank": 20
     },
     {
@@ -491,7 +467,7 @@
       "audio_url": "https://open.spotify.com/track/6LqoV2sKQ683aAWq2zGBLq",
       "discord_url": "https://open.spotify.com/track/6LqoV2sKQ683aAWq2zGBLq",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 515,
+      "score": 496.6,
       "web_thumbs": 0,
       "web_plays": 5,
       "stats": {
@@ -502,8 +478,8 @@
         "raw_points": 109.5,
         "multiplier": 1.36
       },
-      "rank": 21,
-      "previous_rank": 13
+      "rank": 20,
+      "previous_rank": 21
     },
     {
       "id": "spotify-6OAmxDwPpVcJysG3pufRdV",
@@ -515,7 +491,7 @@
       "audio_url": "https://open.spotify.com/track/6OAmxDwPpVcJysG3pufRdV",
       "discord_url": "https://open.spotify.com/track/6OAmxDwPpVcJysG3pufRdV",
       "posted_at": "2026-07-31T00:00:00.000Z",
-      "score": 513.3,
+      "score": 494.5,
       "web_thumbs": 3,
       "web_plays": 3,
       "stats": {
@@ -523,11 +499,11 @@
         "comments": 0,
         "thumbs": 3,
         "plays": 3,
-        "raw_points": 103.5,
-        "multiplier": 1.34
+        "raw_points": 100.5,
+        "multiplier": 1.33
       },
-      "rank": 22,
-      "previous_rank": 18
+      "rank": 21,
+      "previous_rank": 22
     },
     {
       "id": "1532518727898103858",
@@ -536,10 +512,10 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_23.mp3?v=1786836835109",
+      "audio_url": "https://www.djorion.fi/top20//rank_22.mp3?v=1786923218582",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518727898103858",
       "posted_at": "2026-07-30T22:42:17.552Z",
-      "score": 506.3,
+      "score": 489.2,
       "web_thumbs": 0,
       "web_plays": 4,
       "stats": {
@@ -550,8 +526,8 @@
         "raw_points": 82,
         "multiplier": 1.27
       },
-      "rank": 23,
-      "previous_rank": 21
+      "rank": 22,
+      "previous_rank": 23
     },
     {
       "id": "spotify-0AixooPs2wDVw0ny5VVQYT",
@@ -563,7 +539,7 @@
       "audio_url": "https://open.spotify.com/track/0AixooPs2wDVw0ny5VVQYT",
       "discord_url": "https://open.spotify.com/track/0AixooPs2wDVw0ny5VVQYT",
       "posted_at": "2026-07-24T00:00:00.000Z",
-      "score": 388.2,
+      "score": 372.6,
       "web_thumbs": 2,
       "web_plays": 1,
       "stats": {
@@ -571,11 +547,35 @@
         "comments": 0,
         "thumbs": 2,
         "plays": 1,
-        "raw_points": 44.5,
-        "multiplier": 1.15
+        "raw_points": 46.5,
+        "multiplier": 1.16
+      },
+      "rank": 23,
+      "previous_rank": 24
+    },
+    {
+      "id": "spotify-5xB5UL2K8xTmW0CEPqHWcO",
+      "song_title": "Nic Johnston, Flawx, Robbe - Fck That Beat",
+      "author": "Nic Johnston, Flawx, Robbe",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27323150f9c45e0679ea2c465ac",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5xB5UL2K8xTmW0CEPqHWcO",
+      "discord_url": "https://open.spotify.com/track/5xB5UL2K8xTmW0CEPqHWcO",
+      "posted_at": "2026-07-24T00:00:00.000Z",
+      "score": 371.3,
+      "web_thumbs": 0,
+      "web_plays": 3,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 3,
+        "raw_points": 62.5,
+        "multiplier": 1.21
       },
       "rank": 24,
-      "previous_rank": 24
+      "previous_rank": null
     },
     {
       "id": "spotify-6RoEtMPKkpbdipowumI4UX",
@@ -587,7 +587,7 @@
       "audio_url": "https://open.spotify.com/track/6RoEtMPKkpbdipowumI4UX",
       "discord_url": "https://open.spotify.com/track/6RoEtMPKkpbdipowumI4UX",
       "posted_at": "2026-07-24T00:00:00.000Z",
-      "score": 387.6,
+      "score": 371.2,
       "web_thumbs": 0,
       "web_plays": 3,
       "stats": {
@@ -595,7 +595,7 @@
         "comments": 0,
         "thumbs": 0,
         "plays": 3,
-        "raw_points": 62.5,
+        "raw_points": 63.5,
         "multiplier": 1.21
       },
       "rank": 25,
@@ -611,7 +611,7 @@
       "audio_url": "https://open.spotify.com/track/2u9bOxPvlzR66bowmAN7f2",
       "discord_url": "https://open.spotify.com/track/2u9bOxPvlzR66bowmAN7f2",
       "posted_at": "2026-07-24T00:00:00.000Z",
-      "score": 387.2,
+      "score": 370.3,
       "web_thumbs": 1,
       "web_plays": 3,
       "stats": {
@@ -623,7 +623,7 @@
         "multiplier": 1.25
       },
       "rank": 26,
-      "previous_rank": 23
+      "previous_rank": 26
     },
     {
       "id": "1528862467952869486",
@@ -635,7 +635,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_27.mp3?v=1786665478100",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1528862467952869486",
       "posted_at": "2026-07-20T20:33:37.251Z",
-      "score": 288.7,
+      "score": 260.2,
       "web_thumbs": 3,
       "web_plays": 14,
       "stats": {
@@ -659,7 +659,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_28.mp3?v=1786836837585",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286474922688712",
       "posted_at": "2026-07-13T17:57:32.653Z",
-      "score": 200.6,
+      "score": 182.5,
       "web_thumbs": 0,
       "web_plays": 5,
       "stats": {
@@ -671,7 +671,7 @@
         "multiplier": 1.34
       },
       "rank": 28,
-      "previous_rank": 29
+      "previous_rank": 28
     },
     {
       "id": "1526286035951288370",
@@ -683,7 +683,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1786836840734",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286035951288370",
       "posted_at": "2026-07-13T17:55:47.994Z",
-      "score": 200.5,
+      "score": 182.4,
       "web_thumbs": 0,
       "web_plays": 5,
       "stats": {
@@ -695,7 +695,7 @@
         "multiplier": 1.34
       },
       "rank": 29,
-      "previous_rank": 30
+      "previous_rank": 29
     },
     {
       "id": "1526284617093480519",
@@ -707,7 +707,7 @@
       "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1786836843110",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526284617093480519",
       "posted_at": "2026-07-13T17:50:09.712Z",
-      "score": 197.7,
+      "score": 179.4,
       "web_thumbs": 1,
       "web_plays": 5,
       "stats": {
@@ -719,7 +719,7 @@
         "multiplier": 1.36
       },
       "rank": 30,
-      "previous_rank": null
+      "previous_rank": 30
     }
   ]
 }
