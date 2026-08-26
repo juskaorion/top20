@@ -5,34 +5,153 @@ const ftp = require('basic-ftp');
 const { execSync } = require('child_process');
 
 /* =======================================================
-   ASETUKSET JA PISTEYTYS
-   Näitä muuttamalla voit säätää listan käyttäytymistä
+   UUSI PISTEYTYSALGORITMI - SPÄMMÄYKSEN ESTO
    ======================================================= */
 const SCORE_CONFIG = {
-    // Aloituspisteet
     BASE_SCORE: 700,
-
-// DYYNAAMINEN SAKKOKERROIN
-    // Mitä pienempi luku, sitä nopeammin ikäsakko kasvaa pisteiden myötä.
-    // Esim. 400 tarkoittaa, että 400 lisäpistettä tuplaa ikäsakon (kerroin 2.0).
-    PENALTY_SCALING_DIVIDER: 300,
-   
-    // Discordista tulevien biisien kertoimet
+    NEWCOMER_BONUS: 100,
+    NEWCOMER_GRACE_DAYS: 3,      // Ei sakkoa 3 päivää
+    NEWCOMER_CATCHUP_DAYS: 6,    // Päivään 6 asti kiinniotto
+    
+    // Spämmäysrajat (absoluuttiset)
+    SPAM_THRESHOLDS: {
+        THUMBS: 15,
+        PLAYS: 25,
+        VIDEOS: 15,
+        REACTIONS: 20
+    },
+    
     DISCORD: {
-        REACTION_VALUE: 7.5,
-        COMMENT_VALUE: 12.5,
-        WEB_THUMB_VALUE: 5.5,
-        WEB_PLAY_VALUE: 20.5,
+        REACTION_WEIGHT: 7.5,
+        COMMENT_WEIGHT: 12.5,
+        THUMB_WEIGHT: 5.5,
+        PLAY_WEIGHT: 20.5,
+        VIDEO_WEIGHT: 60.0,
         AGE_PENALTY_PER_DAY: 13.5
     },
     
-    // Spotifysta tulevien biisien kertoimet
     SPOTIFY: {
-        WEB_THUMB_VALUE: 11.0,
-        WEB_PLAY_VALUE: 20.5,
+        THUMB_WEIGHT: 11.0,
+        PLAY_WEIGHT: 20.5,
+        VIDEO_WEIGHT: 60.0,
         AGE_PENALTY_PER_DAY: 13.5
-    }
+    },
+    
+    PENALTY_SCALING_DIVIDER: 300
 };
+
+/**
+ * Gentle logaritminen normalisointi spämmäyksen estämiseksi
+ */
+function smartNormalize(value, threshold, baseWeight) {
+    if (value === 0) return 0;
+    
+    if (value <= threshold) {
+        return value * baseWeight;
+    } else {
+        const normalPart = threshold * baseWeight;
+        const excessValue = value - threshold;
+        const logPart = Math.log1p(excessValue) * baseWeight * 0.6;
+        return normalPart + logPart;
+    }
+}
+
+/**
+ * Lineaarinen laskenta ikäsakkoa varten
+ */
+function linearPoints(value, baseWeight) {
+    return value * baseWeight;
+}
+
+/**
+ * UUSI PISTEYTYSALGORITMI
+ */
+function calculateScoreWithContext(song, allSongs, source = 'discord') {
+    const now = new Date();
+    const postedAt = new Date(song.posted_at);
+    const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
+    
+    const config = source === 'discord' ? SCORE_CONFIG.DISCORD : SCORE_CONFIG.SPOTIFY;
+    const thresholds = SCORE_CONFIG.SPAM_THRESHOLDS;
+    
+    // Display-pisteet (logaritmilla)
+    let displayReactionPoints = 0;
+    let displayCommentPoints = 0;
+    
+    if (source === 'discord') {
+        displayReactionPoints = smartNormalize(
+            song.stats.reactions, 
+            thresholds.REACTIONS, 
+            config.REACTION_WEIGHT
+        );
+        displayCommentPoints = smartNormalize(
+            song.stats.comments, 
+            thresholds.REACTIONS,
+            config.COMMENT_WEIGHT
+        );
+    }
+    
+    const displayThumbPoints = smartNormalize(song.stats.thumbs, thresholds.THUMBS, config.THUMB_WEIGHT);
+    const displayPlayPoints = smartNormalize(song.stats.plays, thresholds.PLAYS, config.PLAY_WEIGHT);
+    const displayVideoPoints = smartNormalize(song.stats.videos || 0, thresholds.VIDEOS, config.VIDEO_WEIGHT);
+    
+    const displayPoints = displayReactionPoints + displayCommentPoints + 
+                          displayThumbPoints + displayPlayPoints + displayVideoPoints;
+    
+    // Penalty-pisteet (lineaarisella)
+    let penaltyReactionPoints = 0;
+    let penaltyCommentPoints = 0;
+    
+    if (source === 'discord') {
+        penaltyReactionPoints = linearPoints(song.stats.reactions, config.REACTION_WEIGHT);
+        penaltyCommentPoints = linearPoints(song.stats.comments, config.COMMENT_WEIGHT);
+    }
+    
+    const penaltyThumbPoints = linearPoints(song.stats.thumbs, config.THUMB_WEIGHT);
+    const penaltyPlayPoints = linearPoints(song.stats.plays, config.PLAY_WEIGHT);
+    const penaltyVideoPoints = linearPoints(song.stats.videos || 0, config.VIDEO_WEIGHT);
+    
+    const penaltyPoints = penaltyReactionPoints + penaltyCommentPoints + 
+                          penaltyThumbPoints + penaltyPlayPoints + penaltyVideoPoints;
+    
+    // Newcomer-logiikka
+    const isNewcomer = !song.previous_rank;
+    let newcomerBonus = 0;
+    let effectiveAge = ageInDays;
+    
+    if (isNewcomer) {
+        newcomerBonus = SCORE_CONFIG.NEWCOMER_BONUS;
+        
+        if (ageInDays <= SCORE_CONFIG.NEWCOMER_GRACE_DAYS) {
+            effectiveAge = 0;
+        } else if (ageInDays < SCORE_CONFIG.NEWCOMER_CATCHUP_DAYS) {
+            effectiveAge = ageInDays - SCORE_CONFIG.NEWCOMER_GRACE_DAYS;
+        }
+    }
+    
+    // Ikäsakko (käyttää lineaarisia pisteitä!)
+    const penaltyMultiplier = 1 + (penaltyPoints / SCORE_CONFIG.PENALTY_SCALING_DIVIDER);
+    const agePenalty = effectiveAge * config.AGE_PENALTY_PER_DAY * penaltyMultiplier;
+    
+    // Lopullinen score
+    const finalScore = Math.max(0, 
+        SCORE_CONFIG.BASE_SCORE 
+        + displayPoints
+        + newcomerBonus
+        + (song.positionBonus || 0)
+        - agePenalty
+    );
+    
+    return {
+        total: parseFloat(finalScore.toFixed(1)),
+        raw_points: parseFloat(displayPoints.toFixed(1)),
+        penalty_base: parseFloat(penaltyPoints.toFixed(1)),
+        penalty_multiplier: parseFloat(penaltyMultiplier.toFixed(2)),
+        age_penalty: parseFloat(agePenalty.toFixed(1)),
+        is_newcomer: isNewcomer,
+        effective_age: parseFloat(effectiveAge.toFixed(1))
+    };
+}
 /* ======================================================= */
 
 const client = new Client({
@@ -56,12 +175,11 @@ async function extractAudioInfos(message) {
     const results = [];
     const text = message.content;
     let embedTitle = null;
-    let embedAuthor = null; // UUSI: Tallennetaan upotuksen tekijä
+    let embedAuthor = null;
 
     if (message.embeds && message.embeds.length > 0) {
         const embed = message.embeds[0];
         if (embed.title) embedTitle = embed.title;
-        // Haetaan kanavan nimi (esim. "Waldo's People - Topic")
         if (embed.author && embed.author.name) embedAuthor = embed.author.name;
     }
 
@@ -83,7 +201,6 @@ async function extractAudioInfos(message) {
                 let pathname = urlObj.pathname;
                 let filename = decodeURIComponent(pathname.substring(pathname.lastIndexOf('/') + 1));
                 
-                // KORJAUS: Käytetään mieluummin Discordin hakemaa otsikkoa (embedTitle) kuin rumaa tiedostonimeä (esim. sisältää viivoja)
                 let finalTitle = filename;
                 if (embedTitle && embedTitle !== 'Dropbox' && !embedTitle.includes('Shared with')) {
                     finalTitle = embedTitle;
@@ -122,14 +239,12 @@ async function extractAudioInfos(message) {
     const scRegex = /(https?:\/\/soundcloud\.com\/[^\s]+)/gi;
     let scMatch;
     while ((scMatch = scRegex.exec(text)) !== null) {
-        // UUSI: Lisätty artist: embedAuthor
         results.push({ type: 'soundcloud_link', url: scMatch[1], title: embedTitle || 'SoundCloud Audio', artist: embedAuthor });
     }
 
     const ytRegex = /(https?:\/\/(?:www\.)?youtube\.com\/watch\?v=[a-zA-Z0-9_-]+|https?:\/\/youtu\.be\/[a-zA-Z0-9_-]+)/gi;
     let ytMatch;
     while ((ytMatch = ytRegex.exec(text)) !== null) {
-        // UUSI: Lisätty artist: embedAuthor
         results.push({ type: 'youtube_link', url: ytMatch[1], title: embedTitle || 'YouTube Audio', artist: embedAuthor });
     }
 
@@ -146,16 +261,14 @@ function cleanTitle(title, messageContent) {
     let cleaned = title;
     try { cleaned = decodeURIComponent(title); } catch (e) {}
 
-    // KORJAUS: Vaihdetaan myös pitkät viivat (en-dash, em-dash) tavallisiksi viivoiksi, jotta ' - ' jako onnistuu myöhemmin
     cleaned = cleaned
         .replace(/\.(mp3|wav|ogg|flac|m4a|aac)(\?.*)?$/i, '')
         .replace(/_-_/g, ' - ')
         .replace(/_/g, ' ')
-        .replace(/[–—]/g, '-') // Normalize en-dash/em-dash
+        .replace(/[–—]/g, '-')
         .replace(/\s+/g, ' ')
         .trim();
 
-    // KORJAUS 2: Jos nimessä ei ole lainkaan välilyöntejä mutta viivoja löytyy (eli se on URL-slug), siivotaan viivat välilyönneiksi
     if (!cleaned.includes(' ') && cleaned.includes('-')) {
         cleaned = cleaned.replace(/-/g, ' ');
     }
@@ -171,49 +284,8 @@ function cleanTitle(title, messageContent) {
     return cleaned;
 }
 
-/* STREAMING_CHUNK:Scoring calculation logic... */
-function calculateScore(postedAt, reactionCount, commentCount, webThumbsCount = 0, playCount = 0, source = 'discord', positionBonus = 0) {
-    const now = new Date();
-    const ageInDays = (now - postedAt) / (1000 * 60 * 60 * 24);
-    
-    let reactionPoints = 0;
-    let commentPoints = 0;
-    let webThumbPoints = 0;
-    let webPlayPoints = 0;
-    let baseAgePenalty = 0;
-
-    if (source === 'discord') {
-        reactionPoints = reactionCount * SCORE_CONFIG.DISCORD.REACTION_VALUE; 
-        commentPoints = commentCount * SCORE_CONFIG.DISCORD.COMMENT_VALUE;  
-        webThumbPoints = webThumbsCount * SCORE_CONFIG.DISCORD.WEB_THUMB_VALUE; 
-        webPlayPoints = playCount * SCORE_CONFIG.DISCORD.WEB_PLAY_VALUE;
-        baseAgePenalty = SCORE_CONFIG.DISCORD.AGE_PENALTY_PER_DAY;          
-    } else if (source === 'spotify') {
-        webThumbPoints = webThumbsCount * SCORE_CONFIG.SPOTIFY.WEB_THUMB_VALUE; 
-        webPlayPoints = playCount * SCORE_CONFIG.SPOTIFY.WEB_PLAY_VALUE;
-        baseAgePenalty = SCORE_CONFIG.SPOTIFY.AGE_PENALTY_PER_DAY;          
-    }
-    
-    // Lasketaan kertyneet pisteet
-    const rawInteractionPoints = reactionPoints + commentPoints + webThumbPoints + webPlayPoints + positionBonus;
-
-    // Haetaan kerroin ylhäältä asetuksista ja lasketaan sakko
-    const penaltyMultiplier = 1 + (rawInteractionPoints / SCORE_CONFIG.PENALTY_SCALING_DIVIDER);
-    const totalAgePenalty = ageInDays * baseAgePenalty * penaltyMultiplier;
-    
-    const finalScore = Math.max(0, SCORE_CONFIG.BASE_SCORE + rawInteractionPoints - totalAgePenalty);
-
-    // Palautetaan kaikki olennainen data seurantaa varten
-    return {
-        total: parseFloat(finalScore.toFixed(1)),
-        raw_points: parseFloat(rawInteractionPoints.toFixed(1)),
-        penalty_multiplier: parseFloat(penaltyMultiplier.toFixed(2)),
-        age_penalty: parseFloat(totalAgePenalty.toFixed(1))
-    };
-}
-
 /* STREAMING_CHUNK:Spotify API integration function... */
-async function getSpotifyTracks(wpThumbs, wpPlays) {
+async function getSpotifyTracks(wpThumbs, wpPlays, wpVideos) {
     let spotifySongs = [];
     if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET || !SPOTIFY_REFRESH_TOKEN) {
         console.error("HUOM! SPOTIFY_CLIENT_ID, SECRET tai REFRESH_TOKEN puuttuu.");
@@ -274,12 +346,10 @@ async function getSpotifyTracks(wpThumbs, wpPlays) {
                 
                 const webThumbsCount = wpThumbs[uniqueId] || 0;
                 const playCount = wpPlays[uniqueId] || 0;
+                const videoCount = wpVideos[uniqueId] || 0;
                 
                 const positionBonus = Math.max(0, 20 - index); 
                 
-                const scoreData = calculateScore(releaseDate, 0, 0, webThumbsCount, playCount, 'spotify', positionBonus);
-                const score = scoreData.total;
-
                 spotifySongs.push({
                     id: uniqueId,
                     song_title: songTitle,
@@ -290,10 +360,17 @@ async function getSpotifyTracks(wpThumbs, wpPlays) {
                     audio_url: track.preview_url || track.external_urls?.spotify || '',
                     discord_url: track.external_urls?.spotify || '',
                     posted_at: releaseDate.toISOString(),
-                    score: score,
                     web_thumbs: webThumbsCount,
                     web_plays: playCount,
-                    stats: { reactions: 0, comments: 0, thumbs: webThumbsCount, plays: playCount, raw_points: scoreData.raw_points, multiplier: scoreData.penalty_multiplier }
+                    web_videos: videoCount,
+                    positionBonus: positionBonus,
+                    stats: { 
+                        reactions: 0, 
+                        comments: 0, 
+                        thumbs: webThumbsCount, 
+                        plays: playCount,
+                        videos: videoCount
+                    }
                 });
             });
             console.log(`Löydettiin ${spotifySongs.length} biisiä Spotifysta.`);
@@ -308,19 +385,22 @@ async function getSpotifyTracks(wpThumbs, wpPlays) {
 
 /* STREAMING_CHUNK:Main application loop... */
 client.once('ready', async () => {
+    console.log('\n==== UUDEN TANSSIMUSIIKIN LISTA - PÄIVITYS ALKAA ====\n');
+    
     let allValidSongs = [];
     let wpThumbs = {};
     let wpPlays = {};
+    let wpVideos = {};
     
     // Haetaan peukut WP:stä
     try {
         const wpThumbsResponse = await fetch('https://www.djorion.fi/wp-json/top20/v1/thumbs');
         if (wpThumbsResponse.ok) {
             wpThumbs = await wpThumbsResponse.json();
-            console.log("Verkkopeukut haettu onnistuneesti!");
+            console.log("✓ Verkkopeukut haettu onnistuneesti!");
         }
     } catch (e) {
-        console.error("Virhe haettaessa verkkopeukkuja:", e);
+        console.error("✗ Virhe haettaessa verkkopeukkuja:", e);
     }
 
     // Haetaan kuuntelukerrat WP:stä
@@ -328,11 +408,24 @@ client.once('ready', async () => {
         const wpPlaysResponse = await fetch('https://www.djorion.fi/wp-json/top20/v1/plays');
         if (wpPlaysResponse.ok) {
             wpPlays = await wpPlaysResponse.json();
-            console.log("Kuuntelukerrat haettu onnistuneesti!");
+            console.log("✓ Kuuntelukerrat haettu onnistuneesti!");
         }
     } catch (e) {
-        console.error("Virhe haettaessa kuuntelukertoja:", e);
+        console.error("✗ Virhe haettaessa kuuntelukertoja:", e);
     }
+
+    // Haetaan videoklikkaukset WP:stä
+    try {
+        const wpVideosResponse = await fetch('https://www.djorion.fi/wp-json/top20/v1/videos');
+        if (wpVideosResponse.ok) {
+            wpVideos = await wpVideosResponse.json();
+            console.log("✓ Videoklikkaukset haettu onnistuneesti!");
+        }
+    } catch (e) {
+        console.error("✗ Virhe haettaessa videoklikkauksia:", e);
+    }
+
+    console.log('\n==== HAETAAN BIISEJÄ DISCORDISTA ====\n');
 
     /* STREAMING_CHUNK:Discord message fetching... */
     for (const channelId of CHANNELS) {
@@ -361,28 +454,23 @@ client.once('ready', async () => {
                         const uniqueId = index === 0 ? message.id : `${message.id}-${index}`;
                         const webThumbsCount = wpThumbs[uniqueId] || 0;
                         const playCount = wpPlays[uniqueId] || 0;
-
-                        const scoreData = calculateScore(message.createdAt, reactionCount, commentCount, webThumbsCount, playCount, 'discord');
-                        const score = scoreData.total;
+                        const videoCount = wpVideos[uniqueId] || 0;
 
                         let titleCleaned = cleanTitle(audioInfo.title, message.content);
-    
-                        // UUSI: Käytetään ensisijaisesti linkin upotuksesta saatua tekijää, toissijaisesti Discordin postaajaa
                         let parsedArtist = audioInfo.artist || message.author.username;
     
-                        // UUSI: Siivotaan YouTuben automaattisten musiikkikanavien päätteet pois (esim. "Waldo's People - Topic" -> "Waldo's People")
                         if (parsedArtist.endsWith(' - Topic')) {
-                        parsedArtist = parsedArtist.replace(' - Topic', '');
+                            parsedArtist = parsedArtist.replace(' - Topic', '');
                         }
 
                         let parsedTitle = titleCleaned;
 
                         if (titleCleaned.includes(' - ')) {
-                        const parts = titleCleaned.split(' - ');
-                        parsedArtist = parts[0].trim();
-                        parsedTitle = titleCleaned; 
+                            const parts = titleCleaned.split(' - ');
+                            parsedArtist = parts[0].trim();
+                            parsedTitle = titleCleaned; 
                         } else {
-                        parsedTitle = `${parsedArtist} - ${titleCleaned}`;
+                            parsedTitle = `${parsedArtist} - ${titleCleaned}`;
                         }
 
                         allValidSongs.push({
@@ -395,41 +483,84 @@ client.once('ready', async () => {
                             audio_url: audioInfo.url,
                             discord_url: message.url,
                             posted_at: message.createdAt.toISOString(),
-                            score: score,
                             web_thumbs: webThumbsCount, 
                             web_plays: playCount,
-                            stats: { reactions: reactionCount, comments: commentCount, thumbs: webThumbsCount, plays: playCount, raw_points: scoreData.raw_points, multiplier: scoreData.penalty_multiplier }
+                            web_videos: videoCount,
+                            stats: { 
+                                reactions: reactionCount, 
+                                comments: commentCount, 
+                                thumbs: webThumbsCount, 
+                                plays: playCount,
+                                videos: videoCount
+                            }
                         });
                     });
                 }
             }
-        } catch (error) { console.error(error); }
+            console.log(`✓ Kanava ${channelId} käsitelty`);
+        } catch (error) { 
+            console.error(`✗ Virhe kanavalla ${channelId}:`, error); 
+        }
     }
     
+    console.log('\n==== HAETAAN BIISEJÄ SPOTIFYSTA ====\n');
+    
     /* STREAMING_CHUNK:Final list sorting and processing... */
-    const spotifySongs = await getSpotifyTracks(wpThumbs, wpPlays);
+    const spotifySongs = await getSpotifyTracks(wpThumbs, wpPlays, wpVideos);
     allValidSongs.push(...spotifySongs);
 
-    allValidSongs.sort((a, b) => b.score - a.score);
-    const top20 = allValidSongs.slice(0, 30).map((s, i) => ({ ...s, rank: i + 1 }));
+    console.log(`\n✓ Yhteensä ${allValidSongs.length} biisiä haettu\n`);
 
+    // Haetaan edellinen data (previous_rank)
     let previousDataById = {};
-    let previousDataByRank = {};
     try {
         if (fs.existsSync('top20_songs.json')) {
             const prevJson = JSON.parse(fs.readFileSync('top20_songs.json', 'utf8'));
-            if (prevJson && prevJson.top_songs) { 
-                prevJson.top_songs.forEach(s => { 
-                    previousDataByRank[s.rank] = s; 
+            if (prevJson?.top_songs) {
+                prevJson.top_songs.forEach(s => {
                     previousDataById[s.id] = s;
-                }); 
+                });
             }
         }
     } catch (e) {}
+    
+    // Lisää previous_rank
+    allValidSongs = allValidSongs.map(song => ({
+        ...song,
+        previous_rank: previousDataById[song.id]?.rank || null
+    }));
 
-    top20.forEach(song => {
-        const prev = previousDataById[song.id];
-        song.previous_rank = prev ? prev.rank : null;
+    console.log('==== LASKETAAN PISTEET UUDELLA ALGORITMILLA ====\n');
+
+    // Laske scoret uudella algoritmilla
+    allValidSongs = allValidSongs.map(song => {
+        const source = song.id.startsWith('spotify-') ? 'spotify' : 'discord';
+        const scoreData = calculateScoreWithContext(song, allValidSongs, source);
+        
+        return {
+            ...song,
+            score: scoreData.total,
+            stats: {
+                ...song.stats,
+                raw_points: scoreData.raw_points,
+                penalty_base: scoreData.penalty_base,
+                multiplier: scoreData.penalty_multiplier,
+                is_newcomer: scoreData.is_newcomer,
+                effective_age: scoreData.effective_age
+            }
+        };
+    });
+    
+    // Järjestä ja ota top 30
+    allValidSongs.sort((a, b) => b.score - a.score);
+    const top20 = allValidSongs.slice(0, 30).map((s, i) => ({ ...s, rank: i + 1 }));
+
+    console.log('==== TOP 10 ====');
+    top20.slice(0, 10).forEach(s => {
+        const newTag = s.stats.is_newcomer ? '[NEW]' : '';
+        const change = s.previous_rank ? `(${s.previous_rank} → ${s.rank})` : '(Uusi)';
+        console.log(`${s.rank}. ${s.song_title} ${newTag}`);
+        console.log(`   Score: ${s.score} | Pisteet: ${s.stats.raw_points} | Sakko: ${s.stats.multiplier}x ${change}\n`);
     });
 
     /* STREAMING_CHUNK:FTP Uploads and encoding... */
@@ -440,21 +571,21 @@ client.once('ready', async () => {
     const ftpWebUrl = process.env.FTP_WEB_URL || "https://www.djorion.fi/top20";
 
     if (ftpHost && ftpUser && ftpPass) {
-        console.log("\n==== AUDIOKLIPIT JA FTP-SIIRTO ====");
+        console.log("\n==== AUDIOKLIPIT JA FTP-SIIRTO ====\n");
         const ftpClient = new ftp.Client();
         try {
             await ftpClient.access({ host: ftpHost, user: ftpUser, password: ftpPass, secure: false });
             await ftpClient.ensureDir(ftpDir);
 
             for (let song of top20) {
-                const prevSong = previousDataByRank[song.rank];
-                if (prevSong && prevSong.id === song.id && prevSong.audio_url.startsWith(ftpWebUrl)) {
+                const prevSong = previousDataById[song.id];
+                if (prevSong && prevSong.rank === song.rank && prevSong.audio_url.startsWith(ftpWebUrl)) {
                     song.audio_url = prevSong.audio_url;
                     song.audio_type = "secure_clip";
                     continue;
                 }
 
-                console.log(`[PROSESSOIDAAN] Sija ${song.rank}: ${song.song_title} | Pisteet: ${song.score} (Raakapisteet: ${song.stats.raw_points}, Sakko-kerroin: ${song.stats.multiplier}x)`);
+                console.log(`[${song.rank}] ${song.song_title.substring(0, 50)}...`);
                 const outputFilename = `rank_${song.rank}.mp3`;
                 const outputPath = `/tmp/${outputFilename}`;
                 let downloadUrl = song.audio_url;
@@ -467,7 +598,6 @@ client.once('ready', async () => {
 
                 try {
                     if (song.audio_type === 'soundcloud_link' || song.audio_type === 'youtube_link') {
-                        console.log(`-> Puretaan raakastriimi (yt-dlp)...`);
                         const durationStr = execSync(`yt-dlp --print duration "${downloadUrl}"`).toString().trim();
                         const duration = parseFloat(durationStr);
                         if (!isNaN(duration) && duration > 60) startTime = Math.max(0, (duration / 2) - 30);
@@ -488,19 +618,25 @@ client.once('ready', async () => {
                         song.audio_url = `${ftpWebUrl}/${outputFilename}?v=${Date.now()}`;
                         song.audio_type = "secure_clip";
                         fs.unlinkSync(outputPath);
-                        console.log(`-> Valmis!`);
+                        console.log(`   ✓ Ladattu FTP:hen`);
                     }
                 } catch (err) { 
-                    console.error(`-> Virhe sijalla ${song.rank}: Kappaleen lataus tai leikkaus epäonnistui.`); 
+                    console.error(`   ✗ Virhe: ${err.message}`); 
                 }
             }
-        } catch (err) { console.error("FTP Virhe:", err); }
+        } catch (err) { 
+            console.error("FTP Virhe:", err); 
+        }
         ftpClient.close();
     }
 
     /* STREAMING_CHUNK:Finalizing data save... */
-    fs.writeFileSync('top20_songs.json', JSON.stringify({ last_updated: new Date().toISOString(), top_songs: top20 }, null, 2));
-    console.log('Päivitys valmis!');
+    fs.writeFileSync('top20_songs.json', JSON.stringify({ 
+        last_updated: new Date().toISOString(), 
+        top_songs: top20 
+    }, null, 2));
+    
+    console.log('\n==== ✓ PÄIVITYS VALMIS! ====\n');
     client.destroy();
 });
 
