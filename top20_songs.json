@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T05:33:20.768Z",
+  "last_updated": "2026-08-27T04:31:33.248Z",
   "top_songs": [
     {
       "id": "1540041638401806336",
@@ -11,19 +11,24 @@
       "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1787441675661",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1540041638401806336",
       "posted_at": "2026-08-20T16:55:39.185Z",
-      "score": 877.5,
       "web_thumbs": 3,
-      "web_plays": 13,
+      "web_plays": 15,
+      "web_videos": 0,
       "stats": {
         "reactions": 7,
         "comments": 0,
         "thumbs": 3,
-        "plays": 13,
-        "raw_points": 335.5,
-        "multiplier": 2.12
+        "plays": 15,
+        "videos": 0,
+        "raw_points": 376.5,
+        "penalty_base": 376.5,
+        "multiplier": 2.25,
+        "is_newcomer": false,
+        "effective_age": 6.5
       },
-      "rank": 1,
-      "previous_rank": 1
+      "previous_rank": 1,
+      "score": 879.1,
+      "rank": 1
     },
     {
       "id": "1540370877093388398",
@@ -35,43 +40,24 @@
       "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1787528109744",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1540370877093388398",
       "posted_at": "2026-08-21T14:43:55.806Z",
-      "score": 832.5,
       "web_thumbs": 2,
-      "web_plays": 10,
+      "web_plays": 12,
+      "web_videos": 0,
       "stats": {
         "reactions": 4,
         "comments": 0,
         "thumbs": 2,
-        "plays": 10,
-        "raw_points": 246,
-        "multiplier": 1.82
+        "plays": 12,
+        "videos": 0,
+        "raw_points": 287,
+        "penalty_base": 287,
+        "multiplier": 1.96,
+        "is_newcomer": false,
+        "effective_age": 5.6
       },
-      "rank": 2,
-      "previous_rank": 2
-    },
-    {
-      "id": "spotify-5vs2UzJsKr18Xyh18bFy6V",
-      "song_title": "Empath - Psy-op Chaos",
-      "author": "Empath",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2731209a7fb5da0fbe0ead0fe98",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5vs2UzJsKr18Xyh18bFy6V",
-      "discord_url": "https://open.spotify.com/track/5vs2UzJsKr18Xyh18bFy6V",
-      "posted_at": "2026-08-20T00:00:00.000Z",
-      "score": 754.4,
-      "web_thumbs": 3,
-      "web_plays": 7,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 7,
-        "raw_points": 192.5,
-        "multiplier": 1.64
-      },
-      "rank": 3,
-      "previous_rank": 3
+      "previous_rank": 2,
+      "score": 839.7,
+      "rank": 2
     },
     {
       "id": "spotify-2zLIQOljwliXTjnRSJeEvc",
@@ -83,19 +69,85 @@
       "audio_url": "https://open.spotify.com/track/2zLIQOljwliXTjnRSJeEvc",
       "discord_url": "https://open.spotify.com/track/2zLIQOljwliXTjnRSJeEvc",
       "posted_at": "2026-08-21T00:00:00.000Z",
-      "score": 752.9,
-      "web_thumbs": 4,
+      "web_thumbs": 6,
       "web_plays": 5,
+      "web_videos": 0,
+      "positionBonus": 20,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 4,
+        "thumbs": 6,
         "plays": 5,
-        "raw_points": 161.5,
-        "multiplier": 1.54
+        "videos": 0,
+        "raw_points": 168.5,
+        "penalty_base": 168.5,
+        "multiplier": 1.56,
+        "is_newcomer": false,
+        "effective_age": 6.2
       },
-      "rank": 4,
-      "previous_rank": 4
+      "previous_rank": 4,
+      "score": 758,
+      "rank": 3
+    },
+    {
+      "id": "spotify-5vs2UzJsKr18Xyh18bFy6V",
+      "song_title": "Empath - Psy-op Chaos",
+      "author": "Empath",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2731209a7fb5da0fbe0ead0fe98",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5vs2UzJsKr18Xyh18bFy6V",
+      "discord_url": "https://open.spotify.com/track/5vs2UzJsKr18Xyh18bFy6V",
+      "posted_at": "2026-08-20T00:00:00.000Z",
+      "web_thumbs": 3,
+      "web_plays": 7,
+      "web_videos": 0,
+      "positionBonus": 17,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 7,
+        "videos": 0,
+        "raw_points": 176.5,
+        "penalty_base": 176.5,
+        "multiplier": 1.59,
+        "is_newcomer": false,
+        "effective_age": 7.2
+      },
+      "previous_rank": 3,
+      "score": 739.4,
+      "rank": 4
+    },
+    {
+      "id": "spotify-6nePQc4pWlE5zWDc3tXlLG",
+      "song_title": "Diron - LIKE THAT - Radio Edit",
+      "author": "Diron",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734358b8c0d46b289497d22db4",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6nePQc4pWlE5zWDc3tXlLG",
+      "discord_url": "https://open.spotify.com/track/6nePQc4pWlE5zWDc3tXlLG",
+      "posted_at": "2026-08-21T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 11,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 6.2
+      },
+      "previous_rank": null,
+      "score": 727.5,
+      "rank": 5
     },
     {
       "id": "1541062962834444308",
@@ -104,46 +156,27 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
       "message_text": "<:swaghappy:1449518131465687080>",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1787722284573",
+      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1787805079566",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1541062962834444308",
       "posted_at": "2026-08-23T12:34:01.905Z",
-      "score": 724,
       "web_thumbs": 0,
-      "web_plays": 3,
+      "web_plays": 4,
+      "web_videos": 0,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 0,
-        "plays": 3,
-        "raw_points": 69,
-        "multiplier": 1.23
+        "plays": 4,
+        "videos": 0,
+        "raw_points": 89.5,
+        "penalty_base": 89.5,
+        "multiplier": 1.3,
+        "is_newcomer": false,
+        "effective_age": 3.7
       },
-      "rank": 5,
-      "previous_rank": 5
-    },
-    {
-      "id": "1536692941173555240",
-      "song_title": "Kiki - Rakkaudenkipee Junkkataxi Bootleg v4",
-      "author": "Kiki",
-      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
-      "message_text": "edit: jaksoin, fiksattu pari juttua",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1787722286987",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1536692941173555240",
-      "posted_at": "2026-08-11T11:09:07.550Z",
-      "score": 698.9,
-      "web_thumbs": 3,
-      "web_plays": 24,
-      "stats": {
-        "reactions": 11,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 24,
-        "raw_points": 591,
-        "multiplier": 2.97
-      },
-      "rank": 6,
-      "previous_rank": 6
+      "previous_rank": 5,
+      "score": 725.3,
+      "rank": 6
     },
     {
       "id": "spotify-3Ka4HODsqVfFXRtCb6Wm8E",
@@ -155,19 +188,54 @@
       "audio_url": "https://open.spotify.com/track/3Ka4HODsqVfFXRtCb6Wm8E",
       "discord_url": "https://open.spotify.com/track/3Ka4HODsqVfFXRtCb6Wm8E",
       "posted_at": "2026-08-21T00:00:00.000Z",
-      "score": 684.4,
       "web_thumbs": 1,
       "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
         "plays": 2,
-        "raw_points": 72,
-        "multiplier": 1.24
+        "videos": 0,
+        "raw_points": 52,
+        "penalty_base": 52,
+        "multiplier": 1.17,
+        "is_newcomer": false,
+        "effective_age": 6.2
       },
-      "rank": 7,
-      "previous_rank": 7
+      "previous_rank": 7,
+      "score": 673,
+      "rank": 7
+    },
+    {
+      "id": "1536692941173555240",
+      "song_title": "Kiki - Rakkaudenkipee Junkkataxi Bootleg v4",
+      "author": "Kiki",
+      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
+      "message_text": "edit: jaksoin, fiksattu pari juttua",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1787805082696",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1536692941173555240",
+      "posted_at": "2026-08-11T11:09:07.550Z",
+      "web_thumbs": 3,
+      "web_plays": 24,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 11,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 24,
+        "videos": 0,
+        "raw_points": 591,
+        "penalty_base": 591,
+        "multiplier": 2.97,
+        "is_newcomer": false,
+        "effective_age": 15.7
+      },
+      "previous_rank": 6,
+      "score": 660.6,
+      "rank": 8
     },
     {
       "id": "spotify-5B4vZWwZkgtXucEgTlcuoP",
@@ -179,19 +247,25 @@
       "audio_url": "https://open.spotify.com/track/5B4vZWwZkgtXucEgTlcuoP",
       "discord_url": "https://open.spotify.com/track/5B4vZWwZkgtXucEgTlcuoP",
       "posted_at": "2026-08-21T00:00:00.000Z",
-      "score": 668,
       "web_thumbs": 1,
       "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
         "plays": 1,
-        "raw_points": 50.5,
-        "multiplier": 1.17
+        "videos": 0,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
+        "is_newcomer": false,
+        "effective_age": 6.2
       },
-      "rank": 8,
-      "previous_rank": 8
+      "previous_rank": 8,
+      "score": 657.2,
+      "rank": 9
     },
     {
       "id": "spotify-2hZfq7mNxXC2kAlEScNXRT",
@@ -203,43 +277,25 @@
       "audio_url": "https://open.spotify.com/track/2hZfq7mNxXC2kAlEScNXRT",
       "discord_url": "https://open.spotify.com/track/2hZfq7mNxXC2kAlEScNXRT",
       "posted_at": "2026-08-21T00:00:00.000Z",
-      "score": 642.4,
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0,
-        "raw_points": 17,
-        "multiplier": 1.06
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": false,
+        "effective_age": 6.2
       },
-      "rank": 9,
-      "previous_rank": 9
-    },
-    {
-      "id": "spotify-5iVI1ZaRfPovzI0cNo4o66",
-      "song_title": "MakeFlame - Relentless - Radio Edit",
-      "author": "MakeFlame",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273152fa470079edc36dba598c7",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5iVI1ZaRfPovzI0cNo4o66",
-      "discord_url": "https://open.spotify.com/track/5iVI1ZaRfPovzI0cNo4o66",
-      "posted_at": "2026-08-17T00:00:00.000Z",
-      "score": 642,
-      "web_thumbs": 5,
-      "web_plays": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 5,
-        "plays": 2,
-        "raw_points": 114,
-        "multiplier": 1.38
-      },
-      "rank": 10,
-      "previous_rank": 10
+      "previous_rank": 9,
+      "score": 646.2,
+      "rank": 10
     },
     {
       "id": "spotify-29CR5Rt34G0Azavguzb4c1",
@@ -251,19 +307,55 @@
       "audio_url": "https://open.spotify.com/track/29CR5Rt34G0Azavguzb4c1",
       "discord_url": "https://open.spotify.com/track/29CR5Rt34G0Azavguzb4c1",
       "posted_at": "2026-08-21T00:00:00.000Z",
-      "score": 640.1,
       "web_thumbs": 0,
       "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 14,
-        "multiplier": 1.05
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 6.2
       },
-      "rank": 11,
-      "previous_rank": 11
+      "previous_rank": 11,
+      "score": 630.5,
+      "rank": 11
+    },
+    {
+      "id": "spotify-5iVI1ZaRfPovzI0cNo4o66",
+      "song_title": "MakeFlame - Relentless - Radio Edit",
+      "author": "MakeFlame",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273152fa470079edc36dba598c7",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5iVI1ZaRfPovzI0cNo4o66",
+      "discord_url": "https://open.spotify.com/track/5iVI1ZaRfPovzI0cNo4o66",
+      "posted_at": "2026-08-17T00:00:00.000Z",
+      "web_thumbs": 5,
+      "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 16,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 5,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 96,
+        "penalty_base": 96,
+        "multiplier": 1.32,
+        "is_newcomer": false,
+        "effective_age": 10.2
+      },
+      "previous_rank": 10,
+      "score": 630.4,
+      "rank": 12
     },
     {
       "id": "spotify-2xPXJmGSz70PWKmvcLxBHU",
@@ -275,19 +367,25 @@
       "audio_url": "https://open.spotify.com/track/2xPXJmGSz70PWKmvcLxBHU",
       "discord_url": "https://open.spotify.com/track/2xPXJmGSz70PWKmvcLxBHU",
       "posted_at": "2026-08-14T00:00:00.000Z",
-      "score": 610,
       "web_thumbs": 3,
       "web_plays": 6,
+      "web_videos": 0,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 3,
         "plays": 6,
-        "raw_points": 167,
-        "multiplier": 1.56
+        "videos": 0,
+        "raw_points": 156,
+        "penalty_base": 156,
+        "multiplier": 1.52,
+        "is_newcomer": false,
+        "effective_age": 13.2
       },
-      "rank": 12,
-      "previous_rank": 12
+      "previous_rank": 12,
+      "score": 593.4,
+      "rank": 13
     },
     {
       "id": "spotify-5HTGdvnjZ0tfTu4ATeonMo",
@@ -299,19 +397,25 @@
       "audio_url": "https://open.spotify.com/track/5HTGdvnjZ0tfTu4ATeonMo",
       "discord_url": "https://open.spotify.com/track/5HTGdvnjZ0tfTu4ATeonMo",
       "posted_at": "2026-08-14T00:00:00.000Z",
-      "score": 599.2,
       "web_thumbs": 1,
       "web_plays": 6,
+      "web_videos": 0,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
         "plays": 6,
-        "raw_points": 143,
-        "multiplier": 1.48
+        "videos": 0,
+        "raw_points": 134,
+        "penalty_base": 134,
+        "multiplier": 1.45,
+        "is_newcomer": false,
+        "effective_age": 13.2
       },
-      "rank": 13,
-      "previous_rank": 13
+      "previous_rank": 13,
+      "score": 582.4,
+      "rank": 14
     },
     {
       "id": "spotify-6S0uZUxvqjVBqvP8HSsvjX",
@@ -323,19 +427,25 @@
       "audio_url": "https://open.spotify.com/track/6S0uZUxvqjVBqvP8HSsvjX",
       "discord_url": "https://open.spotify.com/track/6S0uZUxvqjVBqvP8HSsvjX",
       "posted_at": "2026-08-16T00:00:00.000Z",
-      "score": 589.4,
       "web_thumbs": 0,
       "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
         "plays": 2,
-        "raw_points": 51,
-        "multiplier": 1.17
+        "videos": 0,
+        "raw_points": 41,
+        "penalty_base": 41,
+        "multiplier": 1.14,
+        "is_newcomer": false,
+        "effective_age": 11.2
       },
-      "rank": 14,
-      "previous_rank": 14
+      "previous_rank": 14,
+      "score": 582.3,
+      "rank": 15
     },
     {
       "id": "spotify-24VY3Xl0EEaFTjk9Bugqf4",
@@ -347,19 +457,25 @@
       "audio_url": "https://open.spotify.com/track/24VY3Xl0EEaFTjk9Bugqf4",
       "discord_url": "https://open.spotify.com/track/24VY3Xl0EEaFTjk9Bugqf4",
       "posted_at": "2026-08-14T00:00:00.000Z",
-      "score": 574,
       "web_thumbs": 3,
       "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 3,
         "plays": 2,
-        "raw_points": 87,
-        "multiplier": 1.29
+        "videos": 0,
+        "raw_points": 74,
+        "penalty_base": 74,
+        "multiplier": 1.25,
+        "is_newcomer": false,
+        "effective_age": 13.2
       },
-      "rank": 15,
-      "previous_rank": 15
+      "previous_rank": 15,
+      "score": 564,
+      "rank": 16
     },
     {
       "id": "spotify-61MOwu8iroNBjdfO9WMkbB",
@@ -371,19 +487,55 @@
       "audio_url": "https://open.spotify.com/track/61MOwu8iroNBjdfO9WMkbB",
       "discord_url": "https://open.spotify.com/track/61MOwu8iroNBjdfO9WMkbB",
       "posted_at": "2026-08-14T00:00:00.000Z",
-      "score": 549.5,
       "web_thumbs": 0,
       "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
         "plays": 1,
-        "raw_points": 32.5,
-        "multiplier": 1.11
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": false,
+        "effective_age": 13.2
       },
-      "rank": 16,
-      "previous_rank": 16
+      "previous_rank": 16,
+      "score": 540.3,
+      "rank": 17
+    },
+    {
+      "id": "spotify-74yxy8jBiDFKkSuy137VwB",
+      "song_title": "Pekka S - They Said",
+      "author": "Pekka S",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27308088c2ec18fa7384ced7a37",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/74yxy8jBiDFKkSuy137VwB",
+      "discord_url": "https://open.spotify.com/track/74yxy8jBiDFKkSuy137VwB",
+      "posted_at": "2026-08-07T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 3,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 52,
+        "penalty_base": 52,
+        "multiplier": 1.17,
+        "is_newcomer": true,
+        "effective_age": 20.2
+      },
+      "previous_rank": null,
+      "score": 535.2,
+      "rank": 18
     },
     {
       "id": "spotify-3Pe5iUGW3pKNdtYG4lRCR9",
@@ -395,19 +547,25 @@
       "audio_url": "https://open.spotify.com/track/3Pe5iUGW3pKNdtYG4lRCR9",
       "discord_url": "https://open.spotify.com/track/3Pe5iUGW3pKNdtYG4lRCR9",
       "posted_at": "2026-08-14T00:00:00.000Z",
-      "score": 538,
       "web_thumbs": 0,
       "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 7,
-        "multiplier": 1.02
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 13.2
       },
-      "rank": 17,
-      "previous_rank": 17
+      "previous_rank": 17,
+      "score": 529,
+      "rank": 19
     },
     {
       "id": "spotify-4zGGmWkS2A6A2WQ6S6v7Fm",
@@ -419,19 +577,25 @@
       "audio_url": "https://open.spotify.com/track/4zGGmWkS2A6A2WQ6S6v7Fm",
       "discord_url": "https://open.spotify.com/track/4zGGmWkS2A6A2WQ6S6v7Fm",
       "posted_at": "2026-08-14T00:00:00.000Z",
-      "score": 537.6,
       "web_thumbs": 0,
       "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 6,
-        "multiplier": 1.02
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 13.2
       },
-      "rank": 18,
-      "previous_rank": 18
+      "previous_rank": 18,
+      "score": 527,
+      "rank": 20
     },
     {
       "id": "spotify-4gCMXDZKNd6zBpYgSwd5Je",
@@ -443,19 +607,25 @@
       "audio_url": "https://open.spotify.com/track/4gCMXDZKNd6zBpYgSwd5Je",
       "discord_url": "https://open.spotify.com/track/4gCMXDZKNd6zBpYgSwd5Je",
       "posted_at": "2026-08-12T00:00:00.000Z",
-      "score": 530,
       "web_thumbs": 3,
       "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 3,
         "plays": 1,
-        "raw_points": 61.5,
-        "multiplier": 1.21
+        "videos": 0,
+        "raw_points": 53.5,
+        "penalty_base": 53.5,
+        "multiplier": 1.18,
+        "is_newcomer": false,
+        "effective_age": 15.2
       },
-      "rank": 19,
-      "previous_rank": 19
+      "previous_rank": 19,
+      "score": 520.9,
+      "rank": 21
     },
     {
       "id": "1535562469294997545",
@@ -464,22 +634,27 @@
       "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
       "message_text": "Eilinen mashup tästä!",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1787722289277",
+      "audio_url": "https://www.djorion.fi/top20//rank_22.mp3?v=1787805085728",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1535562469294997545",
       "posted_at": "2026-08-08T08:17:02.051Z",
-      "score": 527.2,
       "web_thumbs": 5,
       "web_plays": 14,
+      "web_videos": 0,
       "stats": {
         "reactions": 5,
         "comments": 0,
         "thumbs": 5,
         "plays": 14,
+        "videos": 0,
         "raw_points": 352,
-        "multiplier": 2.17
+        "penalty_base": 352,
+        "multiplier": 2.17,
+        "is_newcomer": false,
+        "effective_age": 18.8
       },
-      "rank": 20,
-      "previous_rank": 20
+      "previous_rank": 20,
+      "score": 499.1,
+      "rank": 22
     },
     {
       "id": "spotify-2aDPtkc7hFh9DQHbzAhF6W",
@@ -491,19 +666,25 @@
       "audio_url": "https://open.spotify.com/track/2aDPtkc7hFh9DQHbzAhF6W",
       "discord_url": "https://open.spotify.com/track/2aDPtkc7hFh9DQHbzAhF6W",
       "posted_at": "2026-08-12T00:00:00.000Z",
-      "score": 509,
       "web_thumbs": 0,
       "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
         "plays": 0,
-        "raw_points": 3,
-        "multiplier": 1.01
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 15.2
       },
-      "rank": 21,
-      "previous_rank": 21
+      "previous_rank": 21,
+      "score": 496,
+      "rank": 23
     },
     {
       "id": "spotify-1bEbuPbAnZmDlzRjK5ROkk",
@@ -515,43 +696,25 @@
       "audio_url": "https://open.spotify.com/track/1bEbuPbAnZmDlzRjK5ROkk",
       "discord_url": "https://open.spotify.com/track/1bEbuPbAnZmDlzRjK5ROkk",
       "posted_at": "2026-08-07T00:00:00.000Z",
-      "score": 464.9,
       "web_thumbs": 5,
       "web_plays": 6,
+      "web_videos": 0,
+      "positionBonus": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 5,
         "plays": 6,
-        "raw_points": 182,
-        "multiplier": 1.61
+        "videos": 0,
+        "raw_points": 178,
+        "penalty_base": 178,
+        "multiplier": 1.59,
+        "is_newcomer": false,
+        "effective_age": 20.2
       },
-      "rank": 22,
-      "previous_rank": 22
-    },
-    {
-      "id": "spotify-0Iy989SEoZBNXunYBA2f69",
-      "song_title": "ILYAA, mattmoth, Robbe - Hero Komplex",
-      "author": "ILYAA, mattmoth, Robbe",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ffe0e7cafa487621066182f2",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0Iy989SEoZBNXunYBA2f69",
-      "discord_url": "https://open.spotify.com/track/0Iy989SEoZBNXunYBA2f69",
-      "posted_at": "2026-08-07T00:00:00.000Z",
-      "score": 458.7,
-      "web_thumbs": 3,
-      "web_plays": 5,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 5,
-        "raw_points": 136.5,
-        "multiplier": 1.46
-      },
-      "rank": 23,
-      "previous_rank": 23
+      "previous_rank": 22,
+      "score": 445.7,
+      "rank": 24
     },
     {
       "id": "spotify-5AGUzwbvCfKcKDXC1sdcxh",
@@ -563,43 +726,25 @@
       "audio_url": "https://open.spotify.com/track/5AGUzwbvCfKcKDXC1sdcxh",
       "discord_url": "https://open.spotify.com/track/5AGUzwbvCfKcKDXC1sdcxh",
       "posted_at": "2026-08-07T00:00:00.000Z",
-      "score": 446.4,
       "web_thumbs": 2,
       "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
         "plays": 1,
-        "raw_points": 44.5,
-        "multiplier": 1.15
+        "videos": 0,
+        "raw_points": 42.5,
+        "penalty_base": 42.5,
+        "multiplier": 1.14,
+        "is_newcomer": false,
+        "effective_age": 20.2
       },
-      "rank": 24,
-      "previous_rank": 24
-    },
-    {
-      "id": "spotify-4AcWVmYyhnBrM4lNitidgi",
-      "song_title": "Blastromen - Do You Wanna Play?",
-      "author": "Blastromen",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273df2a778434b277083bea019f",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4AcWVmYyhnBrM4lNitidgi",
-      "discord_url": "https://open.spotify.com/track/4AcWVmYyhnBrM4lNitidgi",
-      "posted_at": "2026-08-07T00:00:00.000Z",
-      "score": 444,
-      "web_thumbs": 2,
-      "web_plays": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 0,
-        "raw_points": 27,
-        "multiplier": 1.09
-      },
-      "rank": 25,
-      "previous_rank": 25
+      "previous_rank": 24,
+      "score": 435.3,
+      "rank": 25
     },
     {
       "id": "1532518727898103858",
@@ -611,19 +756,24 @@
       "audio_url": "https://www.djorion.fi/top20//rank_26.mp3?v=1787528121607",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518727898103858",
       "posted_at": "2026-07-30T22:42:17.552Z",
-      "score": 326.4,
       "web_thumbs": 0,
       "web_plays": 5,
+      "web_videos": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
         "plays": 5,
+        "videos": 0,
         "raw_points": 102.5,
-        "multiplier": 1.34
+        "penalty_base": 102.5,
+        "multiplier": 1.34,
+        "is_newcomer": false,
+        "effective_age": 27.2
       },
-      "rank": 26,
-      "previous_rank": 26
+      "previous_rank": 26,
+      "score": 309.1,
+      "rank": 26
     },
     {
       "id": "1532518945482080336",
@@ -635,19 +785,24 @@
       "audio_url": "https://www.djorion.fi/top20//rank_27.mp3?v=1787528126422",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518945482080336",
       "posted_at": "2026-07-30T22:43:09.428Z",
-      "score": 322.7,
       "web_thumbs": 0,
       "web_plays": 6,
+      "web_videos": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
         "plays": 6,
+        "videos": 0,
         "raw_points": 123,
-        "multiplier": 1.41
+        "penalty_base": 123,
+        "multiplier": 1.41,
+        "is_newcomer": false,
+        "effective_age": 27.2
       },
-      "rank": 27,
-      "previous_rank": 27
+      "previous_rank": 27,
+      "score": 304.5,
+      "rank": 27
     },
     {
       "id": "1532782173927772200",
@@ -659,67 +814,82 @@
       "audio_url": "https://www.djorion.fi/top20//rank_28.mp3?v=1787528131080",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532782173927772200",
       "posted_at": "2026-07-31T16:09:07.980Z",
-      "score": 291.2,
       "web_thumbs": 5,
       "web_plays": 19,
+      "web_videos": 0,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 5,
         "plays": 19,
+        "videos": 0,
         "raw_points": 424.5,
-        "multiplier": 2.42
+        "penalty_base": 424.5,
+        "multiplier": 2.42,
+        "is_newcomer": false,
+        "effective_age": 26.5
       },
-      "rank": 28,
-      "previous_rank": 28
+      "previous_rank": 28,
+      "score": 260,
+      "rank": 28
     },
     {
-      "id": "1532518858186031114",
-      "song_title": "fallihauta - Freed From Desire (Fallihauta Daisko Flip)",
-      "author": "fallihauta",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
-      "message_text": "Daisko Flip:",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1787528135926",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532518858186031114",
-      "posted_at": "2026-07-30T22:42:48.615Z",
-      "score": 177.2,
-      "web_thumbs": 6,
-      "web_plays": 41,
-      "stats": {
-        "reactions": 6,
-        "comments": 0,
-        "thumbs": 6,
-        "plays": 41,
-        "raw_points": 918.5,
-        "multiplier": 4.06
-      },
-      "rank": 29,
-      "previous_rank": 29
-    },
-    {
-      "id": "1526286474922688712",
-      "song_title": "Katy Perry - E.T (OZAN remix)",
-      "author": "Katy Perry",
+      "id": "1526286035951288370",
+      "song_title": "0zan02 - WILLIA2",
+      "author": "0zan02",
       "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1787614475643",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286474922688712",
-      "posted_at": "2026-07-13T17:57:32.653Z",
-      "score": 14.9,
+      "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1787805090061",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526286035951288370",
+      "posted_at": "2026-07-13T17:55:47.994Z",
       "web_thumbs": 0,
       "web_plays": 5,
+      "web_videos": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
         "plays": 5,
+        "videos": 0,
         "raw_points": 102.5,
-        "multiplier": 1.34
+        "penalty_base": 102.5,
+        "multiplier": 1.34,
+        "is_newcomer": true,
+        "effective_age": 44.4
       },
-      "rank": 30,
-      "previous_rank": 30
+      "previous_rank": null,
+      "score": 97.6,
+      "rank": 29
+    },
+    {
+      "id": "1526284617093480519",
+      "song_title": "Calvin harris - How deep is your love (OZAN Remix)",
+      "author": "Calvin harris",
+      "author_avatar": "https://cdn.discordapp.com/avatars/601664193057390593/98b517b60d2cee6adbb7d0b9cc674eb2.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1787805093247",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1526284617093480519",
+      "posted_at": "2026-07-13T17:50:09.712Z",
+      "web_thumbs": 1,
+      "web_plays": 5,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 5,
+        "videos": 0,
+        "raw_points": 108,
+        "penalty_base": 108,
+        "multiplier": 1.36,
+        "is_newcomer": true,
+        "effective_age": 44.4
+      },
+      "previous_rank": null,
+      "score": 92,
+      "rank": 30
     }
   ]
 }
