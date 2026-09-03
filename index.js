@@ -115,7 +115,7 @@ function calculateScoreWithContext(song, allSongs, source = 'discord') {
                           penaltyThumbPoints + penaltyPlayPoints + penaltyVideoPoints;
     
     // Newcomer-logiikka
-    const isNewcomer = !song.previous_rank;
+    const isNewcomer = ageInDays < 7;
     let newcomerBonus = 0;
     let effectiveAge = ageInDays;
     
