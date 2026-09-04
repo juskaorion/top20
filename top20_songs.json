@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-09-03T09:08:09.975Z",
+  "last_updated": "2026-09-04T00:59:18.545Z",
   "top_songs": [
+    {
+      "id": "spotify-0FcFiSvZap29Xr8pD2qxqU",
+      "song_title": "Sharkki, Empath, Club Designs - Twilight Language",
+      "author": "Sharkki, Empath, Club Designs",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2732173297aafeee6dc31c71fa6",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0FcFiSvZap29Xr8pD2qxqU",
+      "discord_url": "https://open.spotify.com/track/0FcFiSvZap29Xr8pD2qxqU",
+      "posted_at": "2026-09-02T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 17,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": null,
+      "score": 817,
+      "rank": 1
+    },
     {
       "id": "1540041638401806336",
       "song_title": "fallihauta - Väärä Nainen (Fallihauta Extended Daisko Flip)",
@@ -8,7 +38,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Tuosta sitten Daiskon hajuinen versio aiheesta; Ida - Väärä Nainen. 🤓 🫶",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1787441675661",
+      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1788483542329",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1540041638401806336",
       "posted_at": "2026-08-20T16:55:39.185Z",
       "web_thumbs": 5,
@@ -24,71 +54,11 @@
         "penalty_base": 828.5,
         "multiplier": 3.76,
         "is_newcomer": false,
-        "effective_age": 13.7
+        "effective_age": 14.3
       },
       "previous_rank": 1,
-      "score": 806.6,
-      "rank": 1
-    },
-    {
-      "id": "spotify-1NPed96NilMPHZZ1Hdb9bG",
-      "song_title": "SØNIN, Leon Bolier - Sirocco",
-      "author": "SØNIN, Leon Bolier",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2738cafa342bb226d951b1ff329",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1NPed96NilMPHZZ1Hdb9bG",
-      "discord_url": "https://open.spotify.com/track/1NPed96NilMPHZZ1Hdb9bG",
-      "posted_at": "2026-08-28T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 4,
-      "web_videos": 0,
-      "positionBonus": 17,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 4,
-        "videos": 0,
-        "raw_points": 104,
-        "penalty_base": 104,
-        "multiplier": 1.35,
-        "is_newcomer": true,
-        "effective_age": 6.4
-      },
-      "previous_rank": null,
-      "score": 805,
+      "score": 773,
       "rank": 2
-    },
-    {
-      "id": "spotify-7CB6R3xqKKaeQNHPIxNAIJ",
-      "song_title": "EBEN, Izzy Bizu - All Of My Love",
-      "author": "EBEN, Izzy Bizu",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2730934ee3cf7bd8e66b45c8251",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7CB6R3xqKKaeQNHPIxNAIJ",
-      "discord_url": "https://open.spotify.com/track/7CB6R3xqKKaeQNHPIxNAIJ",
-      "posted_at": "2026-08-28T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 4,
-      "web_videos": 0,
-      "positionBonus": 18,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 4,
-        "videos": 0,
-        "raw_points": 93,
-        "penalty_base": 93,
-        "multiplier": 1.31,
-        "is_newcomer": true,
-        "effective_age": 6.4
-      },
-      "previous_rank": null,
-      "score": 798.2,
-      "rank": 3
     },
     {
       "id": "1540370877093388398",
@@ -97,7 +67,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1242931257147527281/edb2e9c1736b38ff82affbf3eb7ceee1.webp?size=128",
       "message_text": "Paula Vesalaa litkupianoon muushattuna.",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1788426461968",
+      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1788483546793",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1540370877093388398",
       "posted_at": "2026-08-21T14:43:55.806Z",
       "web_thumbs": 4,
@@ -113,11 +83,11 @@
         "penalty_base": 623,
         "multiplier": 3.08,
         "is_newcomer": false,
-        "effective_age": 12.8
+        "effective_age": 13.4
       },
-      "previous_rank": 2,
-      "score": 792.7,
-      "rank": 4
+      "previous_rank": 4,
+      "score": 765.3,
+      "rank": 3
     },
     {
       "id": "spotify-15FjMK5gFulZAKtZrd2zou",
@@ -143,11 +113,129 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 2.4
+        "effective_age": 6
       },
-      "previous_rank": null,
-      "score": 787.9,
+      "previous_rank": 5,
+      "score": 738.4,
+      "rank": 4
+    },
+    {
+      "id": "1542889414156484670",
+      "song_title": "Danny x Boney M - Teräsmies (J9 Remix - Kimi puhuu kielillä Mashu...",
+      "author": "Danny x Boney M",
+      "author_avatar": "https://cdn.discordapp.com/avatars/369862883796058114/05477a6762d5fa8fdaeac527ac7c367a.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1788483552035",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1542889414156484670",
+      "posted_at": "2026-08-28T13:31:41.834Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 6.5
+      },
+      "previous_rank": 21,
+      "score": 727.1,
       "rank": 5
+    },
+    {
+      "id": "1542889340059914250",
+      "song_title": "ABBA x Supersingers - Anna Anna Abbaa (Kimi puhuu kielillä Mashup)...",
+      "author": "ABBA x Supersingers",
+      "author_avatar": "https://cdn.discordapp.com/avatars/369862883796058114/05477a6762d5fa8fdaeac527ac7c367a.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1788483556052",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1542889340059914250",
+      "posted_at": "2026-08-28T13:31:24.168Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 6.5
+      },
+      "previous_rank": 22,
+      "score": 727.1,
+      "rank": 6
+    },
+    {
+      "id": "spotify-1NPed96NilMPHZZ1Hdb9bG",
+      "song_title": "SØNIN, Leon Bolier - Sirocco",
+      "author": "SØNIN, Leon Bolier",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2738cafa342bb226d951b1ff329",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/1NPed96NilMPHZZ1Hdb9bG",
+      "discord_url": "https://open.spotify.com/track/1NPed96NilMPHZZ1Hdb9bG",
+      "posted_at": "2026-08-28T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 4,
+      "web_videos": 0,
+      "positionBonus": 19,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 4,
+        "videos": 0,
+        "raw_points": 104,
+        "penalty_base": 104,
+        "multiplier": 1.35,
+        "is_newcomer": false,
+        "effective_age": 7
+      },
+      "previous_rank": 2,
+      "score": 695,
+      "rank": 7
+    },
+    {
+      "id": "spotify-7CB6R3xqKKaeQNHPIxNAIJ",
+      "song_title": "EBEN, Izzy Bizu - All Of My Love",
+      "author": "EBEN, Izzy Bizu",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2730934ee3cf7bd8e66b45c8251",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7CB6R3xqKKaeQNHPIxNAIJ",
+      "discord_url": "https://open.spotify.com/track/7CB6R3xqKKaeQNHPIxNAIJ",
+      "posted_at": "2026-08-28T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 4,
+      "web_videos": 0,
+      "positionBonus": 11,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 4,
+        "videos": 0,
+        "raw_points": 93,
+        "penalty_base": 93,
+        "multiplier": 1.31,
+        "is_newcomer": false,
+        "effective_age": 7
+      },
+      "previous_rank": 3,
+      "score": 679.5,
+      "rank": 8
     },
     {
       "id": "spotify-0x4CxGy6MjEA5Awk6TboBO",
@@ -162,7 +250,7 @@
       "web_thumbs": 2,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 13,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -172,12 +260,12 @@
         "raw_points": 83.5,
         "penalty_base": 83.5,
         "multiplier": 1.28,
-        "is_newcomer": true,
-        "effective_age": 6.4
+        "is_newcomer": false,
+        "effective_age": 7
       },
-      "previous_rank": null,
-      "score": 786.4,
-      "rank": 6
+      "previous_rank": 6,
+      "score": 676,
+      "rank": 9
     },
     {
       "id": "spotify-6cmKHiiOQr3JDTc6ccbOq3",
@@ -192,7 +280,7 @@
       "web_thumbs": 3,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 19,
+      "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -202,42 +290,41 @@
         "raw_points": 53.5,
         "penalty_base": 53.5,
         "multiplier": 1.18,
-        "is_newcomer": true,
-        "effective_age": 6.4
+        "is_newcomer": false,
+        "effective_age": 7
       },
-      "previous_rank": null,
-      "score": 771,
-      "rank": 7
+      "previous_rank": 7,
+      "score": 657.5,
+      "rank": 10
     },
     {
-      "id": "spotify-12tnnxt7JsVWppvdrZGls8",
-      "song_title": "Digital Mindz, Radicator - Sting In The Tail",
-      "author": "Digital Mindz, Radicator",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27338ed95e8123a8187a1540a59",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/12tnnxt7JsVWppvdrZGls8",
-      "discord_url": "https://open.spotify.com/track/12tnnxt7JsVWppvdrZGls8",
-      "posted_at": "2026-08-28T00:00:00.000Z",
-      "web_thumbs": 3,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 15,
+      "id": "1541062962834444308",
+      "song_title": "OLGA - TEENAGE DREAM LIKETHAT CLUB MIX.mp3",
+      "author": "OLGA",
+      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
+      "message_text": "<:swaghappy:1449518131465687080>",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1788483558545",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1541062962834444308",
+      "posted_at": "2026-08-23T12:34:01.905Z",
+      "web_thumbs": 1,
+      "web_plays": 7,
+      "web_videos": 1,
       "stats": {
-        "reactions": 0,
+        "reactions": 2,
         "comments": 0,
-        "thumbs": 3,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 33,
-        "penalty_base": 33,
-        "multiplier": 1.11,
-        "is_newcomer": true,
-        "effective_age": 6.4
+        "thumbs": 1,
+        "plays": 7,
+        "videos": 1,
+        "raw_points": 224,
+        "penalty_base": 224,
+        "multiplier": 1.75,
+        "is_newcomer": false,
+        "effective_age": 11.5
       },
-      "previous_rank": null,
-      "score": 752.4,
-      "rank": 8
+      "previous_rank": 16,
+      "score": 652.4,
+      "rank": 11
     },
     {
       "id": "spotify-5Ovr4p8P55YxxmPsDTSC9A",
@@ -252,7 +339,7 @@
       "web_thumbs": 2,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -262,12 +349,42 @@
         "raw_points": 22,
         "penalty_base": 22,
         "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 6.4
+        "is_newcomer": false,
+        "effective_age": 7
       },
-      "previous_rank": null,
-      "score": 743.5,
-      "rank": 9
+      "previous_rank": 9,
+      "score": 638,
+      "rank": 12
+    },
+    {
+      "id": "spotify-12tnnxt7JsVWppvdrZGls8",
+      "song_title": "Digital Mindz, Radicator - Sting In The Tail",
+      "author": "Digital Mindz, Radicator",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27338ed95e8123a8187a1540a59",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/12tnnxt7JsVWppvdrZGls8",
+      "discord_url": "https://open.spotify.com/track/12tnnxt7JsVWppvdrZGls8",
+      "posted_at": "2026-08-28T00:00:00.000Z",
+      "web_thumbs": 3,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 9,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 33,
+        "penalty_base": 33,
+        "multiplier": 1.11,
+        "is_newcomer": false,
+        "effective_age": 7
+      },
+      "previous_rank": 8,
+      "score": 636.5,
+      "rank": 13
     },
     {
       "id": "spotify-2j4vheZsvsm7hGREYaNXgD",
@@ -292,42 +409,12 @@
         "raw_points": 20.5,
         "penalty_base": 20.5,
         "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 6.4
+        "is_newcomer": false,
+        "effective_age": 7
       },
-      "previous_rank": null,
-      "score": 738.5,
-      "rank": 10
-    },
-    {
-      "id": "spotify-3ar2bWL2XdU6QwRBoZMVlE",
-      "song_title": "Submonitor, Teniak - The Wiggler",
-      "author": "Submonitor, Teniak",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273210abaa3cd073397fa1b8258",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3ar2bWL2XdU6QwRBoZMVlE",
-      "discord_url": "https://open.spotify.com/track/3ar2bWL2XdU6QwRBoZMVlE",
-      "posted_at": "2026-08-28T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 12,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 11,
-        "penalty_base": 11,
-        "multiplier": 1.04,
-        "is_newcomer": true,
-        "effective_age": 6.4
-      },
-      "previous_rank": null,
-      "score": 733.7,
-      "rank": 11
+      "previous_rank": 10,
+      "score": 629,
+      "rank": 14
     },
     {
       "id": "spotify-0zfS3fHxo7AbUEf5B982OD",
@@ -342,7 +429,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 11,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -352,12 +439,42 @@
         "raw_points": 11,
         "penalty_base": 11,
         "multiplier": 1.04,
-        "is_newcomer": true,
-        "effective_age": 6.4
+        "is_newcomer": false,
+        "effective_age": 7
       },
-      "previous_rank": null,
-      "score": 732.7,
-      "rank": 12
+      "previous_rank": 12,
+      "score": 624.5,
+      "rank": 15
+    },
+    {
+      "id": "spotify-3ar2bWL2XdU6QwRBoZMVlE",
+      "song_title": "Submonitor, Teniak - The Wiggler",
+      "author": "Submonitor, Teniak",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273210abaa3cd073397fa1b8258",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3ar2bWL2XdU6QwRBoZMVlE",
+      "discord_url": "https://open.spotify.com/track/3ar2bWL2XdU6QwRBoZMVlE",
+      "posted_at": "2026-08-28T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 8,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 11,
+        "penalty_base": 11,
+        "multiplier": 1.04,
+        "is_newcomer": false,
+        "effective_age": 7
+      },
+      "previous_rank": 11,
+      "score": 620.5,
+      "rank": 16
     },
     {
       "id": "spotify-0PK7Bo7txDYKBu8QBhhYkG",
@@ -372,7 +489,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 16,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -382,12 +499,12 @@
         "raw_points": 0,
         "penalty_base": 0,
         "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 6.4
+        "is_newcomer": false,
+        "effective_age": 7
       },
-      "previous_rank": null,
-      "score": 729.9,
-      "rank": 13
+      "previous_rank": 13,
+      "score": 619.9,
+      "rank": 17
     },
     {
       "id": "spotify-5QLIZv4TtKK1LaXDbJes2Q",
@@ -402,7 +519,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -412,12 +529,102 @@
         "raw_points": 0,
         "penalty_base": 0,
         "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 6.4
+        "is_newcomer": false,
+        "effective_age": 7
+      },
+      "previous_rank": 14,
+      "score": 617.9,
+      "rank": 18
+    },
+    {
+      "id": "spotify-6jd4eGnVpqsi4jjHPve4mG",
+      "song_title": "Pandani, drS (FI) - Apetala - drS (FI) remix",
+      "author": "Pandani, drS (FI)",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27341521e5e91eb70927657480c",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6jd4eGnVpqsi4jjHPve4mG",
+      "discord_url": "https://open.spotify.com/track/6jd4eGnVpqsi4jjHPve4mG",
+      "posted_at": "2026-08-28T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 7,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 7
       },
       "previous_rank": null,
-      "score": 722.9,
-      "rank": 14
+      "score": 611.9,
+      "rank": 19
+    },
+    {
+      "id": "spotify-4t5O0IiA1nOGyXJhOTpBdO",
+      "song_title": "Tia Ottman, Reginald - 0.1% - Reginald Remix",
+      "author": "Tia Ottman, Reginald",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273b4978d773424886442efec81",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4t5O0IiA1nOGyXJhOTpBdO",
+      "discord_url": "https://open.spotify.com/track/4t5O0IiA1nOGyXJhOTpBdO",
+      "posted_at": "2026-08-28T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 6,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 7
+      },
+      "previous_rank": null,
+      "score": 610.9,
+      "rank": 20
+    },
+    {
+      "id": "spotify-6HDweH7Q3C4AUlxXRv11pc",
+      "song_title": "Dj Noofi - Survive",
+      "author": "Dj Noofi",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a643ffcf9adbf5dfd292ce0e",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6HDweH7Q3C4AUlxXRv11pc",
+      "discord_url": "https://open.spotify.com/track/6HDweH7Q3C4AUlxXRv11pc",
+      "posted_at": "2026-08-28T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 2,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 7
+      },
+      "previous_rank": null,
+      "score": 606.9,
+      "rank": 21
     },
     {
       "id": "spotify-3tRMzmcfaGxUgSSaGljBD4",
@@ -432,7 +639,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 7,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -442,71 +649,12 @@
         "raw_points": 0,
         "penalty_base": 0,
         "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 7.4
-      },
-      "previous_rank": null,
-      "score": 707.4,
-      "rank": 15
-    },
-    {
-      "id": "1541062962834444308",
-      "song_title": "OLGA - TEENAGE DREAM LIKETHAT CLUB MIX.mp3",
-      "author": "OLGA",
-      "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
-      "message_text": "<:swaghappy:1449518131465687080>",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1788426464736",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1541062962834444308",
-      "posted_at": "2026-08-23T12:34:01.905Z",
-      "web_thumbs": 1,
-      "web_plays": 7,
-      "web_videos": 1,
-      "stats": {
-        "reactions": 2,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 7,
-        "videos": 1,
-        "raw_points": 224,
-        "penalty_base": 224,
-        "multiplier": 1.75,
         "is_newcomer": false,
-        "effective_age": 10.9
+        "effective_age": 8
       },
-      "previous_rank": 3,
-      "score": 668,
-      "rank": 16
-    },
-    {
-      "id": "spotify-2hZfq7mNxXC2kAlEScNXRT",
-      "song_title": "TMPR - A Is for Acid",
-      "author": "TMPR",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733b3d75a37be0904034e8cba7",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2hZfq7mNxXC2kAlEScNXRT",
-      "discord_url": "https://open.spotify.com/track/2hZfq7mNxXC2kAlEScNXRT",
-      "posted_at": "2026-08-21T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 6,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 83.5,
-        "penalty_base": 83.5,
-        "multiplier": 1.28,
-        "is_newcomer": true,
-        "effective_age": 13.4
-      },
-      "previous_rank": null,
-      "score": 658.6,
-      "rank": 17
+      "previous_rank": 15,
+      "score": 595.4,
+      "rank": 22
     },
     {
       "id": "spotify-3Ka4HODsqVfFXRtCb6Wm8E",
@@ -531,12 +679,12 @@
         "raw_points": 72.5,
         "penalty_base": 72.5,
         "multiplier": 1.24,
-        "is_newcomer": true,
-        "effective_age": 13.4
+        "is_newcomer": false,
+        "effective_age": 14
       },
-      "previous_rank": null,
-      "score": 649.2,
-      "rank": 18
+      "previous_rank": 18,
+      "score": 538.1,
+      "rank": 23
     },
     {
       "id": "spotify-5B4vZWwZkgtXucEgTlcuoP",
@@ -551,140 +699,22 @@
       "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 4,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 63,
-        "penalty_base": 63,
-        "multiplier": 1.21,
-        "is_newcomer": true,
-        "effective_age": 13.4
-      },
-      "previous_rank": null,
-      "score": 648.4,
-      "rank": 19
-    },
-    {
-      "id": "spotify-6nePQc4pWlE5zWDc3tXlLG",
-      "song_title": "Diron - LIKE THAT - Radio Edit",
-      "author": "Diron",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734358b8c0d46b289497d22db4",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6nePQc4pWlE5zWDc3tXlLG",
-      "discord_url": "https://open.spotify.com/track/6nePQc4pWlE5zWDc3tXlLG",
-      "posted_at": "2026-08-21T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 2,
-      "web_videos": 0,
-      "positionBonus": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 63,
-        "penalty_base": 63,
-        "multiplier": 1.21,
-        "is_newcomer": true,
-        "effective_age": 13.4
-      },
-      "previous_rank": null,
-      "score": 646.4,
-      "rank": 20
-    },
-    {
-      "id": "1542889414156484670",
-      "song_title": "Danny x Boney M - Teräsmies (J9 Remix - Kimi puhuu kielillä Mashu...",
-      "author": "Danny x Boney M",
-      "author_avatar": "https://cdn.discordapp.com/avatars/369862883796058114/05477a6762d5fa8fdaeac527ac7c367a.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_21.mp3?v=1788426469252",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1542889414156484670",
-      "posted_at": "2026-08-28T13:31:41.834Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": false,
-        "effective_age": 5.8
-      },
-      "previous_rank": 4,
-      "score": 636.6,
-      "rank": 21
-    },
-    {
-      "id": "1542889340059914250",
-      "song_title": "ABBA x Supersingers - Anna Anna Abbaa (Kimi puhuu kielillä Mashup)...",
-      "author": "ABBA x Supersingers",
-      "author_avatar": "https://cdn.discordapp.com/avatars/369862883796058114/05477a6762d5fa8fdaeac527ac7c367a.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_22.mp3?v=1788426473353",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1542889340059914250",
-      "posted_at": "2026-08-28T13:31:24.168Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": false,
-        "effective_age": 5.8
-      },
-      "previous_rank": 5,
-      "score": 636.6,
-      "rank": 22
-    },
-    {
-      "id": "spotify-29CR5Rt34G0Azavguzb4c1",
-      "song_title": "SpettBros, Expace - Eversti Sandels - Expace Remix",
-      "author": "SpettBros, Expace",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c77469560159ad49d71157a6",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/29CR5Rt34G0Azavguzb4c1",
-      "discord_url": "https://open.spotify.com/track/29CR5Rt34G0Azavguzb4c1",
-      "posted_at": "2026-08-21T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 1,
-      "web_videos": 0,
       "positionBonus": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
-        "plays": 1,
+        "thumbs": 2,
+        "plays": 2,
         "videos": 0,
-        "raw_points": 31.5,
-        "penalty_base": 31.5,
-        "multiplier": 1.1,
-        "is_newcomer": true,
-        "effective_age": 13.4
+        "raw_points": 63,
+        "penalty_base": 63,
+        "multiplier": 1.21,
+        "is_newcomer": false,
+        "effective_age": 14
       },
-      "previous_rank": null,
-      "score": 634.9,
-      "rank": 23
+      "previous_rank": 19,
+      "score": 536.6,
+      "rank": 24
     },
     {
       "id": "spotify-5WtcOa9wnK1z7w4MhnmOta",
@@ -699,7 +729,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -709,41 +739,11 @@
         "raw_points": 11,
         "penalty_base": 11,
         "multiplier": 1.04,
-        "is_newcomer": true,
-        "effective_age": 13.4
+        "is_newcomer": false,
+        "effective_age": 14
       },
-      "previous_rank": null,
-      "score": 631.7,
-      "rank": 24
-    },
-    {
-      "id": "spotify-2ijs8AlLDmkCGxnlRju25B",
-      "song_title": "OK NIKO, RNZO - MORE",
-      "author": "OK NIKO, RNZO",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2739f2d67548974e7e4575b7d74",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2ijs8AlLDmkCGxnlRju25B",
-      "discord_url": "https://open.spotify.com/track/2ijs8AlLDmkCGxnlRju25B",
-      "posted_at": "2026-08-21T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 5,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 13.4
-      },
-      "previous_rank": null,
-      "score": 624.4,
+      "previous_rank": 24,
+      "score": 519.5,
       "rank": 25
     },
     {
@@ -769,10 +769,10 @@
         "penalty_base": 673,
         "multiplier": 3.24,
         "is_newcomer": false,
-        "effective_age": 22.9
+        "effective_age": 23.6
       },
-      "previous_rank": 6,
-      "score": 342.2,
+      "previous_rank": 26,
+      "score": 313.2,
       "rank": 26
     },
     {
@@ -798,10 +798,10 @@
         "penalty_base": 393,
         "multiplier": 2.31,
         "is_newcomer": false,
-        "effective_age": 26
+        "effective_age": 26.7
       },
-      "previous_rank": 7,
-      "score": 281.1,
+      "previous_rank": 27,
+      "score": 260.5,
       "rank": 27
     },
     {
@@ -827,10 +827,10 @@
         "penalty_base": 143.5,
         "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 34.4
+        "effective_age": 35.1
       },
-      "previous_rank": 8,
-      "score": 156.3,
+      "previous_rank": 28,
+      "score": 143.1,
       "rank": 28
     },
     {
@@ -856,10 +856,10 @@
         "penalty_base": 164,
         "multiplier": 1.55,
         "is_newcomer": false,
-        "effective_age": 34.4
+        "effective_age": 35.1
       },
-      "previous_rank": 9,
-      "score": 145,
+      "previous_rank": 29,
+      "score": 131.2,
       "rank": 29
     },
     {
@@ -885,9 +885,9 @@
         "penalty_base": 553.5,
         "multiplier": 2.84,
         "is_newcomer": false,
-        "effective_age": 33.7
+        "effective_age": 34.4
       },
-      "previous_rank": 10,
+      "previous_rank": 30,
       "score": 0,
       "rank": 30
     }
