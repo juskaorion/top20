@@ -392,9 +392,9 @@ client.once('ready', async () => {
     let wpPlays = {};
     let wpVideos = {};
     
-    // Haetaan peukut WP:stä
+   // Haetaan peukut WP:stä
     try {
-        const wpThumbsResponse = await fetch('https://www.djorion.fi/wp-json/top20/v1/thumbs');
+        const wpThumbsResponse = await fetch('https://www.djorion.fi/wp-json/top20/v1/thumbs?t=' + Date.now());
         if (wpThumbsResponse.ok) {
             wpThumbs = await wpThumbsResponse.json();
             console.log("✓ Verkkopeukut haettu onnistuneesti!");
@@ -405,7 +405,7 @@ client.once('ready', async () => {
 
     // Haetaan kuuntelukerrat WP:stä
     try {
-        const wpPlaysResponse = await fetch('https://www.djorion.fi/wp-json/top20/v1/plays');
+        const wpPlaysResponse = await fetch('https://www.djorion.fi/wp-json/top20/v1/plays?t=' + Date.now());
         if (wpPlaysResponse.ok) {
             wpPlays = await wpPlaysResponse.json();
             console.log("✓ Kuuntelukerrat haettu onnistuneesti!");
@@ -416,7 +416,7 @@ client.once('ready', async () => {
 
     // Haetaan videoklikkaukset WP:stä
     try {
-        const wpVideosResponse = await fetch('https://www.djorion.fi/wp-json/top20/v1/videos');
+        const wpVideosResponse = await fetch('https://www.djorion.fi/wp-json/top20/v1/videos?t=' + Date.now());
         if (wpVideosResponse.ok) {
             wpVideos = await wpVideosResponse.json();
             console.log("✓ Videoklikkaukset haettu onnistuneesti!");
