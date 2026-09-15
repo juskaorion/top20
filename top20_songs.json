@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T01:04:27.186Z",
+  "last_updated": "2026-09-15T01:27:25.694Z",
   "top_songs": [
     {
       "id": "1547212256272715796",
@@ -12,23 +12,53 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1547212256272715796",
       "posted_at": "2026-09-09T11:49:07.709Z",
       "web_thumbs": 1,
-      "web_plays": 5,
+      "web_plays": 6,
       "web_videos": 0,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 1,
-        "plays": 5,
+        "plays": 6,
         "videos": 0,
-        "raw_points": 115.5,
-        "penalty_base": 115.5,
-        "multiplier": 1.39,
+        "raw_points": 136,
+        "penalty_base": 136,
+        "multiplier": 1.45,
         "is_newcomer": true,
-        "effective_age": 1.6
+        "effective_age": 2.6
       },
-      "previous_rank": 10,
-      "score": 886.5,
+      "previous_rank": 1,
+      "score": 885.6,
       "rank": 1
+    },
+    {
+      "id": "spotify-5X1oLVPf6UHnUaGbCwCbLH",
+      "song_title": "Robbe, Blaze U - Propane Nightmares",
+      "author": "Robbe, Blaze U",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2738bf3e4864bac218970d0eeae",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5X1oLVPf6UHnUaGbCwCbLH",
+      "discord_url": "https://open.spotify.com/track/5X1oLVPf6UHnUaGbCwCbLH",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 19,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 42.5,
+        "penalty_base": 42.5,
+        "multiplier": 1.14,
+        "is_newcomer": true,
+        "effective_age": 1.1
+      },
+      "previous_rank": 3,
+      "score": 845.2,
+      "rank": 2
     },
     {
       "id": "spotify-7z3VIwgNnjwOjFtLzNAi4o",
@@ -41,53 +71,23 @@
       "discord_url": "https://open.spotify.com/track/7z3VIwgNnjwOjFtLzNAi4o",
       "posted_at": "2026-09-11T00:00:00.000Z",
       "web_thumbs": 2,
-      "web_plays": 0,
+      "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 0,
+        "plays": 1,
         "videos": 0,
-        "raw_points": 22,
-        "penalty_base": 22,
-        "multiplier": 1.07,
+        "raw_points": 42.5,
+        "penalty_base": 42.5,
+        "multiplier": 1.14,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 1.1
       },
-      "previous_rank": 5,
-      "score": 838.4,
-      "rank": 2
-    },
-    {
-      "id": "spotify-5X1oLVPf6UHnUaGbCwCbLH",
-      "song_title": "Robbe, Blaze U - Propane Nightmares",
-      "author": "Robbe, Blaze U",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2738bf3e4864bac218970d0eeae",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5X1oLVPf6UHnUaGbCwCbLH",
-      "discord_url": "https://open.spotify.com/track/5X1oLVPf6UHnUaGbCwCbLH",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 18,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 11,
-        "penalty_base": 11,
-        "multiplier": 1.04,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 3,
-      "score": 828.4,
+      "previous_rank": 2,
+      "score": 840.2,
       "rank": 3
     },
     {
@@ -101,84 +101,24 @@
       "discord_url": "https://open.spotify.com/track/5hcPsbXz9DGqkbGTLYc5nS",
       "posted_at": "2026-09-11T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 1,
       "web_videos": 0,
       "positionBonus": 20,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0,
+        "plays": 1,
         "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 2,
-      "score": 819.4,
-      "rank": 4
-    },
-    {
-      "id": "spotify-1o5hUnQpsXDe1UPsWENm9b",
-      "song_title": "Devinity, Taylor Mosley - Cloud9 - Radio Edit",
-      "author": "Devinity, Taylor Mosley",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273824defe0ad47e4abed778ea4",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1o5hUnQpsXDe1UPsWENm9b",
-      "discord_url": "https://open.spotify.com/track/1o5hUnQpsXDe1UPsWENm9b",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 19,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 1.1
       },
       "previous_rank": 4,
-      "score": 818.4,
-      "rank": 5
-    },
-    {
-      "id": "spotify-06ZdagcN7jWwnFKSVkKcaH",
-      "song_title": "DJ FKU - MONTAGEM PASSADA",
-      "author": "DJ FKU",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27389ac3b80446bd9b41406d846",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/06ZdagcN7jWwnFKSVkKcaH",
-      "discord_url": "https://open.spotify.com/track/06ZdagcN7jWwnFKSVkKcaH",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 16,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 9,
-      "score": 815.4,
-      "rank": 6
+      "score": 825.2,
+      "rank": 4
     },
     {
       "id": "spotify-6JmJCPlfl3HC4bFTldffyj",
@@ -191,24 +131,54 @@
       "discord_url": "https://open.spotify.com/track/6JmJCPlfl3HC4bFTldffyj",
       "posted_at": "2026-09-11T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 15,
+      "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0,
+        "plays": 1,
         "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 1.1
       },
-      "previous_rank": 1,
-      "score": 814.4,
-      "rank": 7
+      "previous_rank": 7,
+      "score": 823.2,
+      "rank": 5
+    },
+    {
+      "id": "spotify-1o5hUnQpsXDe1UPsWENm9b",
+      "song_title": "Devinity, Taylor Mosley - Cloud9 - Radio Edit",
+      "author": "Devinity, Taylor Mosley",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273824defe0ad47e4abed778ea4",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/1o5hUnQpsXDe1UPsWENm9b",
+      "discord_url": "https://open.spotify.com/track/1o5hUnQpsXDe1UPsWENm9b",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 17,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 1.1
+      },
+      "previous_rank": 5,
+      "score": 822.2,
+      "rank": 6
     },
     {
       "id": "spotify-00Z9WmVcIwku3jznYh7KkT",
@@ -221,23 +191,53 @@
       "discord_url": "https://open.spotify.com/track/00Z9WmVcIwku3jznYh7KkT",
       "posted_at": "2026-09-11T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0,
+        "plays": 1,
         "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 1.1
+      },
+      "previous_rank": 8,
+      "score": 821.2,
+      "rank": 7
+    },
+    {
+      "id": "spotify-06ZdagcN7jWwnFKSVkKcaH",
+      "song_title": "DJ FKU - MONTAGEM PASSADA",
+      "author": "DJ FKU",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27389ac3b80446bd9b41406d846",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/06ZdagcN7jWwnFKSVkKcaH",
+      "discord_url": "https://open.spotify.com/track/06ZdagcN7jWwnFKSVkKcaH",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 15,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 1.1
       },
       "previous_rank": 6,
-      "score": 813.4,
+      "score": 820.2,
       "rank": 8
     },
     {
@@ -253,7 +253,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 13,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -264,10 +264,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 1.1
       },
-      "previous_rank": 8,
-      "score": 812.4,
+      "previous_rank": 9,
+      "score": 797.7,
       "rank": 9
     },
     {
@@ -294,10 +294,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 1.1
       },
-      "previous_rank": 7,
-      "score": 810.4,
+      "previous_rank": 10,
+      "score": 796.7,
       "rank": 10
     },
     {
@@ -311,54 +311,24 @@
       "discord_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
       "posted_at": "2026-09-09T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0,
+        "plays": 1,
         "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 2
+        "effective_age": 6.1
       },
-      "previous_rank": null,
-      "score": 784.4,
+      "previous_rank": 11,
+      "score": 746.1,
       "rank": 11
-    },
-    {
-      "id": "spotify-6xPQQ3V5VeZu5sNcwMB3uU",
-      "song_title": "Axel Thesleff, Milana May, THEØNESS - Zenith",
-      "author": "Axel Thesleff, Milana May, THEØNESS",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273bb2b6f19499cd5fd5d0cf4ad",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6xPQQ3V5VeZu5sNcwMB3uU",
-      "discord_url": "https://open.spotify.com/track/6xPQQ3V5VeZu5sNcwMB3uU",
-      "posted_at": "2026-09-08T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 9,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 6
-      },
-      "previous_rank": null,
-      "score": 727.4,
-      "rank": 12
     },
     {
       "id": "1545297122105102396",
@@ -366,8 +336,8 @@
       "author": "SpettBros",
       "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
       "message_text": "Siitä mun remix Eversti Sandelsista jakoon! Masterissa <@1190615066261860366> 💪",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1789347862808",
+      "audio_type": "drive_file",
+      "audio_url": "https://drive.google.com/file/d/1KXZAAQVpEY4jhuE1pj06yjZE6roRXbqo",
       "discord_url": "https://discord.com/channels/1174754304758907002/1404380880364900425/1545297122105102396",
       "posted_at": "2026-09-04T04:59:04.142Z",
       "web_thumbs": 2,
@@ -383,11 +353,11 @@
         "penalty_base": 222.5,
         "multiplier": 1.74,
         "is_newcomer": false,
-        "effective_age": 9.8
+        "effective_age": 10.9
       },
-      "previous_rank": 12,
-      "score": 691.2,
-      "rank": 13
+      "previous_rank": 13,
+      "score": 667.3,
+      "rank": 12
     },
     {
       "id": "spotify-3kcU4sBCrp7h5uk79TyNiH",
@@ -400,24 +370,24 @@
       "discord_url": "https://open.spotify.com/track/3kcU4sBCrp7h5uk79TyNiH",
       "posted_at": "2026-09-04T00:00:00.000Z",
       "web_thumbs": 2,
-      "web_plays": 2,
+      "web_plays": 3,
       "web_videos": 1,
       "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 2,
+        "plays": 3,
         "videos": 1,
-        "raw_points": 123,
-        "penalty_base": 123,
-        "multiplier": 1.41,
+        "raw_points": 143.5,
+        "penalty_base": 143.5,
+        "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 10
+        "effective_age": 11.1
       },
-      "previous_rank": 13,
-      "score": 641.8,
-      "rank": 14
+      "previous_rank": 14,
+      "score": 632.8,
+      "rank": 13
     },
     {
       "id": "spotify-0pdHUqIO7lvfn5Xc2OHXeN",
@@ -432,7 +402,7 @@
       "web_thumbs": 0,
       "web_plays": 3,
       "web_videos": 1,
-      "positionBonus": 3,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -443,10 +413,40 @@
         "penalty_base": 121.5,
         "multiplier": 1.41,
         "is_newcomer": false,
-        "effective_age": 10
+        "effective_age": 11.1
       },
-      "previous_rank": 20,
-      "score": 634,
+      "previous_rank": 15,
+      "score": 615.7,
+      "rank": 14
+    },
+    {
+      "id": "spotify-0NxIP1usEPg1xI1QIhMmHH",
+      "song_title": "Axel Thesleff, Milana May, THEØNESS - Mon Dragon",
+      "author": "Axel Thesleff, Milana May, THEØNESS",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273bb2b6f19499cd5fd5d0cf4ad",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0NxIP1usEPg1xI1QIhMmHH",
+      "discord_url": "https://open.spotify.com/track/0NxIP1usEPg1xI1QIhMmHH",
+      "posted_at": "2026-09-08T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 8,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 7.1
+      },
+      "previous_rank": null,
+      "score": 612.7,
       "rank": 15
     },
     {
@@ -462,7 +462,7 @@
       "web_thumbs": 1,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 7,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -473,10 +473,10 @@
         "penalty_base": 72.5,
         "multiplier": 1.24,
         "is_newcomer": false,
-        "effective_age": 10
+        "effective_age": 11.1
       },
       "previous_rank": 16,
-      "score": 611.1,
+      "score": 596.1,
       "rank": 16
     },
     {
@@ -492,7 +492,7 @@
       "web_thumbs": 1,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -503,10 +503,10 @@
         "penalty_base": 31.5,
         "multiplier": 1.1,
         "is_newcomer": false,
-        "effective_age": 10
+        "effective_age": 11.1
       },
-      "previous_rank": 14,
-      "score": 589.7,
+      "previous_rank": 17,
+      "score": 573.5,
       "rank": 17
     },
     {
@@ -522,7 +522,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -533,10 +533,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 10
+        "effective_age": 11.1
       },
-      "previous_rank": 17,
-      "score": 580.6,
+      "previous_rank": 18,
+      "score": 567,
       "rank": 18
     },
     {
@@ -552,7 +552,7 @@
       "web_thumbs": 2,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 4,
+      "positionBonus": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -563,41 +563,11 @@
         "penalty_base": 22,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 10
+        "effective_age": 11.1
       },
-      "previous_rank": 21,
-      "score": 580.5,
+      "previous_rank": 19,
+      "score": 563.7,
       "rank": 19
-    },
-    {
-      "id": "spotify-5KVFDDIVnBv47KCQcaI0rD",
-      "song_title": "Nightstop, AikaPoliisi - Miljoona Mailia",
-      "author": "Nightstop, AikaPoliisi",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d812d233d86f79e9ddd40557",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5KVFDDIVnBv47KCQcaI0rD",
-      "discord_url": "https://open.spotify.com/track/5KVFDDIVnBv47KCQcaI0rD",
-      "posted_at": "2026-09-04T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 6,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": false,
-        "effective_age": 10
-      },
-      "previous_rank": 15,
-      "score": 570.4,
-      "rank": 20
     },
     {
       "id": "spotify-16Jw0uaprylxAy7CjySmEA",
@@ -612,7 +582,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 1,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -623,10 +593,40 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 10
+        "effective_age": 11.1
       },
-      "previous_rank": 19,
-      "score": 565.4,
+      "previous_rank": 21,
+      "score": 555.7,
+      "rank": 20
+    },
+    {
+      "id": "spotify-5KVFDDIVnBv47KCQcaI0rD",
+      "song_title": "Nightstop, AikaPoliisi - Miljoona Mailia",
+      "author": "Nightstop, AikaPoliisi",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d812d233d86f79e9ddd40557",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5KVFDDIVnBv47KCQcaI0rD",
+      "discord_url": "https://open.spotify.com/track/5KVFDDIVnBv47KCQcaI0rD",
+      "posted_at": "2026-09-04T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 3,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 11.1
+      },
+      "previous_rank": 20,
+      "score": 553.7,
       "rank": 21
     },
     {
@@ -642,7 +642,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 2,
+      "positionBonus": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -653,10 +653,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13.1
       },
-      "previous_rank": null,
-      "score": 548.8,
+      "previous_rank": 22,
+      "score": 533.1,
       "rank": 22
     },
     {
@@ -682,10 +682,10 @@
         "penalty_base": 82,
         "multiplier": 1.27,
         "is_newcomer": false,
-        "effective_age": 16.5
+        "effective_age": 17.5
       },
       "previous_rank": 23,
-      "score": 498.7,
+      "score": 481.2,
       "rank": 23
     },
     {
@@ -711,10 +711,10 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 16.5
+        "effective_age": 17.5
       },
       "previous_rank": 24,
-      "score": 488.1,
+      "score": 472.5,
       "rank": 24
     },
     {
@@ -740,10 +740,10 @@
         "penalty_base": 285.5,
         "multiplier": 1.95,
         "is_newcomer": false,
-        "effective_age": 21.5
+        "effective_age": 22.5
       },
       "previous_rank": 25,
-      "score": 418.5,
+      "score": 391.7,
       "rank": 25
     },
     {
@@ -769,10 +769,10 @@
         "penalty_base": 705,
         "multiplier": 3.35,
         "is_newcomer": false,
-        "effective_age": 23.4
+        "effective_age": 24.4
       },
       "previous_rank": 26,
-      "score": 333.4,
+      "score": 287.4,
       "rank": 26
     },
     {
@@ -798,10 +798,10 @@
         "penalty_base": 890,
         "multiplier": 3.97,
         "is_newcomer": false,
-        "effective_age": 24.3
+        "effective_age": 25.4
       },
       "previous_rank": 27,
-      "score": 206.2,
+      "score": 151.8,
       "rank": 27
     },
     {
@@ -815,19 +815,19 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1536692941173555240",
       "posted_at": "2026-08-11T11:09:07.550Z",
       "web_thumbs": 4,
-      "web_plays": 29,
+      "web_plays": 30,
       "web_videos": 1,
       "stats": {
         "reactions": 13,
         "comments": 0,
         "thumbs": 4,
-        "plays": 29,
+        "plays": 30,
         "videos": 1,
-        "raw_points": 711.8,
-        "penalty_base": 774,
-        "multiplier": 3.58,
+        "raw_points": 714,
+        "penalty_base": 794.5,
+        "multiplier": 3.65,
         "is_newcomer": false,
-        "effective_age": 33.6
+        "effective_age": 34.6
       },
       "previous_rank": 28,
       "score": 0,
@@ -843,20 +843,20 @@
       "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1789002242020",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1535562469294997545",
       "posted_at": "2026-08-08T08:17:02.051Z",
-      "web_thumbs": 6,
-      "web_plays": 18,
-      "web_videos": 1,
+      "web_thumbs": 7,
+      "web_plays": 20,
+      "web_videos": 2,
       "stats": {
         "reactions": 5,
         "comments": 0,
-        "thumbs": 6,
-        "plays": 18,
-        "videos": 1,
-        "raw_points": 499.5,
-        "penalty_base": 499.5,
-        "multiplier": 2.67,
+        "thumbs": 7,
+        "plays": 20,
+        "videos": 2,
+        "raw_points": 606,
+        "penalty_base": 606,
+        "multiplier": 3.02,
         "is_newcomer": false,
-        "effective_age": 36.7
+        "effective_age": 37.7
       },
       "previous_rank": 29,
       "score": 0,
@@ -885,9 +885,9 @@
         "penalty_base": 553.5,
         "multiplier": 2.84,
         "is_newcomer": false,
-        "effective_age": 44.4
+        "effective_age": 45.4
       },
-      "previous_rank": null,
+      "previous_rank": 30,
       "score": 0,
       "rank": 30
     }
