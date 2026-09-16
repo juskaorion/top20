@@ -1,33 +1,34 @@
 {
-  "last_updated": "2026-09-15T01:27:25.694Z",
+  "last_updated": "2026-09-16T01:25:18.939Z",
   "top_songs": [
     {
-      "id": "1547212256272715796",
-      "song_title": "Isac Elliot - Mannerheim WBmix Extended",
-      "author": "Isac Elliot",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1077164420892987442/a833c784955a1100e4a26792e8626e46.webp?size=128",
-      "message_text": "Pitkästä aikaa tuli käänneltyä ja väänneltyä muutamia biisejä uuteen uskoon. Tässä tällanen kiukkupussiremix mannerheim-biisistä😅",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1789347845032",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1547212256272715796",
-      "posted_at": "2026-09-09T11:49:07.709Z",
-      "web_thumbs": 1,
-      "web_plays": 6,
-      "web_videos": 0,
+      "id": "spotify-5hcPsbXz9DGqkbGTLYc5nS",
+      "song_title": "Tarmo, Tan Mercy, Starmode - The Record",
+      "author": "Tarmo, Tan Mercy, Starmode",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ee81dacb34d247846cc5d475",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5hcPsbXz9DGqkbGTLYc5nS",
+      "discord_url": "https://open.spotify.com/track/5hcPsbXz9DGqkbGTLYc5nS",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 2,
+      "web_videos": 1,
+      "positionBonus": 16,
       "stats": {
-        "reactions": 1,
+        "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
-        "plays": 6,
-        "videos": 0,
-        "raw_points": 136,
-        "penalty_base": 136,
-        "multiplier": 1.45,
+        "thumbs": 0,
+        "plays": 2,
+        "videos": 1,
+        "raw_points": 101,
+        "penalty_base": 101,
+        "multiplier": 1.34,
         "is_newcomer": true,
-        "effective_age": 2.6
+        "effective_age": 2.1
       },
-      "previous_rank": 1,
-      "score": 885.6,
+      "previous_rank": 4,
+      "score": 879.9,
       "rank": 1
     },
     {
@@ -54,11 +55,41 @@
         "penalty_base": 42.5,
         "multiplier": 1.14,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
-      "previous_rank": 3,
-      "score": 845.2,
+      "previous_rank": 2,
+      "score": 829.8,
       "rank": 2
+    },
+    {
+      "id": "spotify-1o5hUnQpsXDe1UPsWENm9b",
+      "song_title": "Devinity, Taylor Mosley - Cloud9 - Radio Edit",
+      "author": "Devinity, Taylor Mosley",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273824defe0ad47e4abed778ea4",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/1o5hUnQpsXDe1UPsWENm9b",
+      "discord_url": "https://open.spotify.com/track/1o5hUnQpsXDe1UPsWENm9b",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 20,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 41,
+        "penalty_base": 41,
+        "multiplier": 1.14,
+        "is_newcomer": true,
+        "effective_age": 2.1
+      },
+      "previous_rank": 6,
+      "score": 829.4,
+      "rank": 3
     },
     {
       "id": "spotify-7z3VIwgNnjwOjFtLzNAi4o",
@@ -73,7 +104,7 @@
       "web_thumbs": 2,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -84,81 +115,80 @@
         "penalty_base": 42.5,
         "multiplier": 1.14,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
-      "previous_rank": 2,
-      "score": 840.2,
-      "rank": 3
-    },
-    {
-      "id": "spotify-5hcPsbXz9DGqkbGTLYc5nS",
-      "song_title": "Tarmo, Tan Mercy, Starmode - The Record",
-      "author": "Tarmo, Tan Mercy, Starmode",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ee81dacb34d247846cc5d475",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5hcPsbXz9DGqkbGTLYc5nS",
-      "discord_url": "https://open.spotify.com/track/5hcPsbXz9DGqkbGTLYc5nS",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 20,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 1.1
-      },
-      "previous_rank": 4,
-      "score": 825.2,
+      "previous_rank": 3,
+      "score": 828.8,
       "rank": 4
     },
     {
-      "id": "spotify-6JmJCPlfl3HC4bFTldffyj",
-      "song_title": "Joysic - Burning With You",
-      "author": "Joysic",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273fd556271ed66f36ed61896f1",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6JmJCPlfl3HC4bFTldffyj",
-      "discord_url": "https://open.spotify.com/track/6JmJCPlfl3HC4bFTldffyj",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
+      "id": "1547212256272715796",
+      "song_title": "Isac Elliot - Mannerheim WBmix Extended",
+      "author": "Isac Elliot",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1077164420892987442/a833c784955a1100e4a26792e8626e46.webp?size=128",
+      "message_text": "Pitkästä aikaa tuli käänneltyä ja väänneltyä muutamia biisejä uuteen uskoon. Tässä tällanen kiukkupussiremix mannerheim-biisistä😅",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1789521874724",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1547212256272715796",
+      "posted_at": "2026-09-09T11:49:07.709Z",
+      "web_thumbs": 1,
+      "web_plays": 7,
       "web_videos": 0,
-      "positionBonus": 18,
       "stats": {
-        "reactions": 0,
+        "reactions": 1,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
+        "thumbs": 1,
+        "plays": 7,
         "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
+        "raw_points": 156.5,
+        "penalty_base": 156.5,
+        "multiplier": 1.52,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 6.6
       },
-      "previous_rank": 7,
-      "score": 823.2,
+      "previous_rank": 1,
+      "score": 821.6,
       "rank": 5
     },
     {
-      "id": "spotify-1o5hUnQpsXDe1UPsWENm9b",
-      "song_title": "Devinity, Taylor Mosley - Cloud9 - Radio Edit",
-      "author": "Devinity, Taylor Mosley",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273824defe0ad47e4abed778ea4",
+      "id": "spotify-00Z9WmVcIwku3jznYh7KkT",
+      "song_title": "Pepe Deluxé - Operation Thunderbroom",
+      "author": "Pepe Deluxé",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a4e0ef99fe258d952a495b75",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1o5hUnQpsXDe1UPsWENm9b",
-      "discord_url": "https://open.spotify.com/track/1o5hUnQpsXDe1UPsWENm9b",
+      "audio_url": "https://open.spotify.com/track/00Z9WmVcIwku3jznYh7KkT",
+      "discord_url": "https://open.spotify.com/track/00Z9WmVcIwku3jznYh7KkT",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 11,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
+        "is_newcomer": true,
+        "effective_age": 2.1
+      },
+      "previous_rank": 7,
+      "score": 811.8,
+      "rank": 6
+    },
+    {
+      "id": "spotify-06ZdagcN7jWwnFKSVkKcaH",
+      "song_title": "DJ FKU - MONTAGEM PASSADA",
+      "author": "DJ FKU",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27389ac3b80446bd9b41406d846",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/06ZdagcN7jWwnFKSVkKcaH",
+      "discord_url": "https://open.spotify.com/track/06ZdagcN7jWwnFKSVkKcaH",
       "posted_at": "2026-09-11T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 1,
@@ -174,51 +204,21 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 1.1
-      },
-      "previous_rank": 5,
-      "score": 822.2,
-      "rank": 6
-    },
-    {
-      "id": "spotify-00Z9WmVcIwku3jznYh7KkT",
-      "song_title": "Pepe Deluxé - Operation Thunderbroom",
-      "author": "Pepe Deluxé",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a4e0ef99fe258d952a495b75",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/00Z9WmVcIwku3jznYh7KkT",
-      "discord_url": "https://open.spotify.com/track/00Z9WmVcIwku3jznYh7KkT",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 16,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
       "previous_rank": 8,
-      "score": 821.2,
+      "score": 807.8,
       "rank": 7
     },
     {
-      "id": "spotify-06ZdagcN7jWwnFKSVkKcaH",
-      "song_title": "DJ FKU - MONTAGEM PASSADA",
-      "author": "DJ FKU",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27389ac3b80446bd9b41406d846",
+      "id": "spotify-6JmJCPlfl3HC4bFTldffyj",
+      "song_title": "Joysic - Burning With You",
+      "author": "Joysic",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273fd556271ed66f36ed61896f1",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/06ZdagcN7jWwnFKSVkKcaH",
-      "discord_url": "https://open.spotify.com/track/06ZdagcN7jWwnFKSVkKcaH",
+      "audio_url": "https://open.spotify.com/track/6JmJCPlfl3HC4bFTldffyj",
+      "discord_url": "https://open.spotify.com/track/6JmJCPlfl3HC4bFTldffyj",
       "posted_at": "2026-09-11T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 1,
@@ -234,11 +234,70 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
-      "previous_rank": 6,
-      "score": 820.2,
+      "previous_rank": 5,
+      "score": 805.8,
       "rank": 8
+    },
+    {
+      "id": "1549447083512041623",
+      "song_title": "Depeche ModeAllen Watts Remix feat Swedish House Mafia vs Lykke Li - Enjoy The Happiness (Jays MashUp)",
+      "author": "Depeche ModeAllen Watts Remix feat Swedish House Mafia vs Lykke Li",
+      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "message_text": "Viikon muushi tänne myös. 😀",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1789521877154",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1549447083512041623",
+      "posted_at": "2026-09-15T15:49:32.044Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": null,
+      "score": 800,
+      "rank": 9
+    },
+    {
+      "id": "spotify-2JPcJtjUbwvyOrkqvnngRs",
+      "song_title": "I Think I Broke Something - Heads Up",
+      "author": "I Think I Broke Something",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e149fc21fb4c048391b5f0e0",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
+      "discord_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
+      "posted_at": "2026-09-09T00:00:00.000Z",
+      "web_thumbs": 5,
+      "web_plays": 4,
+      "web_videos": 2,
+      "positionBonus": 9,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 5,
+        "plays": 4,
+        "videos": 2,
+        "raw_points": 257,
+        "penalty_base": 257,
+        "multiplier": 1.86,
+        "is_newcomer": false,
+        "effective_age": 7.1
+      },
+      "previous_rank": 11,
+      "score": 789.1,
+      "rank": 10
     },
     {
       "id": "spotify-7pBCBVZqTLm28uVyNelCp4",
@@ -253,7 +312,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -264,11 +323,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
       "previous_rank": 9,
-      "score": 797.7,
-      "rank": 9
+      "score": 786.2,
+      "rank": 11
     },
     {
       "id": "spotify-4aCLOxtiN3FFfxdFo2Iu6o",
@@ -283,7 +342,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 11,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -294,41 +353,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
       "previous_rank": 10,
-      "score": 796.7,
-      "rank": 10
-    },
-    {
-      "id": "spotify-2JPcJtjUbwvyOrkqvnngRs",
-      "song_title": "I Think I Broke Something - Heads Up",
-      "author": "I Think I Broke Something",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e149fc21fb4c048391b5f0e0",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
-      "discord_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
-      "posted_at": "2026-09-09T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 13,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 6.1
-      },
-      "previous_rank": 11,
-      "score": 746.1,
-      "rank": 11
+      "score": 785.2,
+      "rank": 12
     },
     {
       "id": "1545297122105102396",
@@ -336,8 +365,8 @@
       "author": "SpettBros",
       "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
       "message_text": "Siitä mun remix Eversti Sandelsista jakoon! Masterissa <@1190615066261860366> 💪",
-      "audio_type": "drive_file",
-      "audio_url": "https://drive.google.com/file/d/1KXZAAQVpEY4jhuE1pj06yjZE6roRXbqo",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1789521892631",
       "discord_url": "https://discord.com/channels/1174754304758907002/1404380880364900425/1545297122105102396",
       "posted_at": "2026-09-04T04:59:04.142Z",
       "web_thumbs": 2,
@@ -353,11 +382,41 @@
         "penalty_base": 222.5,
         "multiplier": 1.74,
         "is_newcomer": false,
-        "effective_age": 10.9
+        "effective_age": 11.9
       },
-      "previous_rank": 13,
-      "score": 667.3,
-      "rank": 12
+      "previous_rank": 12,
+      "score": 643.9,
+      "rank": 13
+    },
+    {
+      "id": "spotify-5zQi5QRNqDm7JHaNJZHaRN",
+      "song_title": "Diron - Tanz",
+      "author": "Diron",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273f6f78796382995c8cc4d4e90",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5zQi5QRNqDm7JHaNJZHaRN",
+      "discord_url": "https://open.spotify.com/track/5zQi5QRNqDm7JHaNJZHaRN",
+      "posted_at": "2026-09-04T00:00:00.000Z",
+      "web_thumbs": 3,
+      "web_plays": 4,
+      "web_videos": 1,
+      "positionBonus": 6,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 4,
+        "videos": 1,
+        "raw_points": 175,
+        "penalty_base": 175,
+        "multiplier": 1.58,
+        "is_newcomer": false,
+        "effective_age": 12.1
+      },
+      "previous_rank": null,
+      "score": 623.2,
+      "rank": 14
     },
     {
       "id": "spotify-3kcU4sBCrp7h5uk79TyNiH",
@@ -383,11 +442,11 @@
         "penalty_base": 143.5,
         "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
-      "previous_rank": 14,
-      "score": 632.8,
-      "rank": 13
+      "previous_rank": 13,
+      "score": 612.8,
+      "rank": 15
     },
     {
       "id": "spotify-0pdHUqIO7lvfn5Xc2OHXeN",
@@ -413,41 +472,11 @@
         "penalty_base": 121.5,
         "multiplier": 1.41,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
-      "previous_rank": 15,
-      "score": 615.7,
-      "rank": 14
-    },
-    {
-      "id": "spotify-0NxIP1usEPg1xI1QIhMmHH",
-      "song_title": "Axel Thesleff, Milana May, THEØNESS - Mon Dragon",
-      "author": "Axel Thesleff, Milana May, THEØNESS",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273bb2b6f19499cd5fd5d0cf4ad",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0NxIP1usEPg1xI1QIhMmHH",
-      "discord_url": "https://open.spotify.com/track/0NxIP1usEPg1xI1QIhMmHH",
-      "posted_at": "2026-09-08T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 8,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": false,
-        "effective_age": 7.1
-      },
-      "previous_rank": null,
-      "score": 612.7,
-      "rank": 15
+      "previous_rank": 14,
+      "score": 596.8,
+      "rank": 16
     },
     {
       "id": "spotify-3KqN8Y8QspnJVW6mw58e7W",
@@ -462,7 +491,7 @@
       "web_thumbs": 1,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -473,11 +502,11 @@
         "penalty_base": 72.5,
         "multiplier": 1.24,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
       "previous_rank": 16,
-      "score": 596.1,
-      "rank": 16
+      "score": 582.4,
+      "rank": 17
     },
     {
       "id": "spotify-5TURhM2FvhMXGM0Nz2fJtq",
@@ -490,53 +519,23 @@
       "discord_url": "https://open.spotify.com/track/5TURhM2FvhMXGM0Nz2fJtq",
       "posted_at": "2026-09-04T00:00:00.000Z",
       "web_thumbs": 1,
-      "web_plays": 1,
+      "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 7,
+      "positionBonus": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
-        "plays": 1,
+        "plays": 2,
         "videos": 0,
-        "raw_points": 31.5,
-        "penalty_base": 31.5,
-        "multiplier": 1.1,
+        "raw_points": 52,
+        "penalty_base": 52,
+        "multiplier": 1.17,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
       "previous_rank": 17,
-      "score": 573.5,
-      "rank": 17
-    },
-    {
-      "id": "spotify-5cMAu4AB42oY31EN5VqCAf",
-      "song_title": "Kooma - stop motion - Sped Up",
-      "author": "Kooma",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733c6b73f4b9092ff79374d0fd",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5cMAu4AB42oY31EN5VqCAf",
-      "discord_url": "https://open.spotify.com/track/5cMAu4AB42oY31EN5VqCAf",
-      "posted_at": "2026-09-04T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 6,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": false,
-        "effective_age": 11.1
-      },
-      "previous_rank": 18,
-      "score": 567,
+      "score": 563,
       "rank": 18
     },
     {
@@ -552,7 +551,7 @@
       "web_thumbs": 2,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 2,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -563,40 +562,40 @@
         "penalty_base": 22,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
       "previous_rank": 19,
-      "score": 563.7,
+      "score": 555.3,
       "rank": 19
     },
     {
-      "id": "spotify-16Jw0uaprylxAy7CjySmEA",
-      "song_title": "Audrum - Lost",
-      "author": "Audrum",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2731c088957429a619765ef422e",
+      "id": "spotify-5cMAu4AB42oY31EN5VqCAf",
+      "song_title": "Kooma - stop motion - Sped Up",
+      "author": "Kooma",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733c6b73f4b9092ff79374d0fd",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/16Jw0uaprylxAy7CjySmEA",
-      "discord_url": "https://open.spotify.com/track/16Jw0uaprylxAy7CjySmEA",
+      "audio_url": "https://open.spotify.com/track/5cMAu4AB42oY31EN5VqCAf",
+      "discord_url": "https://open.spotify.com/track/5cMAu4AB42oY31EN5VqCAf",
       "posted_at": "2026-09-04T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0,
+        "plays": 1,
         "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
-      "previous_rank": 21,
-      "score": 555.7,
+      "previous_rank": 18,
+      "score": 553.6,
       "rank": 20
     },
     {
@@ -612,6 +611,36 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
+      "positionBonus": 5,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 12.1
+      },
+      "previous_rank": 21,
+      "score": 542.2,
+      "rank": 21
+    },
+    {
+      "id": "spotify-16Jw0uaprylxAy7CjySmEA",
+      "song_title": "Audrum - Lost",
+      "author": "Audrum",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2731c088957429a619765ef422e",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/16Jw0uaprylxAy7CjySmEA",
+      "discord_url": "https://open.spotify.com/track/16Jw0uaprylxAy7CjySmEA",
+      "posted_at": "2026-09-04T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
       "positionBonus": 3,
       "stats": {
         "reactions": 0,
@@ -623,41 +652,41 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
       "previous_rank": 20,
-      "score": 553.7,
-      "rank": 21
+      "score": 540.2,
+      "rank": 22
     },
     {
-      "id": "spotify-0FcFiSvZap29Xr8pD2qxqU",
-      "song_title": "Sharkki, Empath, Club Designs - Twilight Language",
-      "author": "Sharkki, Empath, Club Designs",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2732173297aafeee6dc31c71fa6",
+      "id": "spotify-6UuJ5AeGdoyme5bAGhuznU",
+      "song_title": "Middle Milk, Anna Timgren - Trippin Over",
+      "author": "Middle Milk, Anna Timgren",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27390c88fbbff7450d1a3410faf",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0FcFiSvZap29Xr8pD2qxqU",
-      "discord_url": "https://open.spotify.com/track/0FcFiSvZap29Xr8pD2qxqU",
+      "audio_url": "https://open.spotify.com/track/6UuJ5AeGdoyme5bAGhuznU",
+      "discord_url": "https://open.spotify.com/track/6UuJ5AeGdoyme5bAGhuznU",
       "posted_at": "2026-09-02T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 1,
+      "web_plays": 0,
       "web_videos": 0,
       "positionBonus": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 1,
+        "plays": 0,
         "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
-      "previous_rank": 22,
-      "score": 533.1,
-      "rank": 22
+      "previous_rank": null,
+      "score": 511.2,
+      "rank": 23
     },
     {
       "id": "1542889414156484670",
@@ -666,7 +695,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/369862883796058114/05477a6762d5fa8fdaeac527ac7c367a.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_23.mp3?v=1789175174494",
+      "audio_url": "https://www.djorion.fi/top20//rank_24.mp3?v=1789521897844",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1542889414156484670",
       "posted_at": "2026-08-28T13:31:41.834Z",
       "web_thumbs": 0,
@@ -682,11 +711,11 @@
         "penalty_base": 82,
         "multiplier": 1.27,
         "is_newcomer": false,
-        "effective_age": 17.5
+        "effective_age": 18.5
       },
       "previous_rank": 23,
-      "score": 481.2,
-      "rank": 23
+      "score": 464.1,
+      "rank": 24
     },
     {
       "id": "1542889340059914250",
@@ -695,7 +724,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/369862883796058114/05477a6762d5fa8fdaeac527ac7c367a.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_24.mp3?v=1789175178547",
+      "audio_url": "https://www.djorion.fi/top20//rank_25.mp3?v=1789521901921",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1542889340059914250",
       "posted_at": "2026-08-28T13:31:24.168Z",
       "web_thumbs": 0,
@@ -711,11 +740,11 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 17.5
+        "effective_age": 18.5
       },
       "previous_rank": 24,
-      "score": 472.5,
-      "rank": 24
+      "score": 457.2,
+      "rank": 25
     },
     {
       "id": "1541062962834444308",
@@ -724,7 +753,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/202803342563475456/7f1cae8567ff505c53f40417f0bc4214.webp?size=128",
       "message_text": "<:swaghappy:1449518131465687080>",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_25.mp3?v=1789002228813",
+      "audio_url": "https://www.djorion.fi/top20//rank_26.mp3?v=1789521904433",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1541062962834444308",
       "posted_at": "2026-08-23T12:34:01.905Z",
       "web_thumbs": 1,
@@ -740,11 +769,11 @@
         "penalty_base": 285.5,
         "multiplier": 1.95,
         "is_newcomer": false,
-        "effective_age": 22.5
+        "effective_age": 23.5
       },
       "previous_rank": 25,
-      "score": 391.7,
-      "rank": 25
+      "score": 365.4,
+      "rank": 26
     },
     {
       "id": "1540370877093388398",
@@ -753,7 +782,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1242931257147527281/edb2e9c1736b38ff82affbf3eb7ceee1.webp?size=128",
       "message_text": "Paula Vesalaa litkupianoon muushattuna.",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_26.mp3?v=1789002233080",
+      "audio_url": "https://www.djorion.fi/top20//rank_27.mp3?v=1789521909412",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1540370877093388398",
       "posted_at": "2026-08-21T14:43:55.806Z",
       "web_thumbs": 4,
@@ -769,11 +798,11 @@
         "penalty_base": 705,
         "multiplier": 3.35,
         "is_newcomer": false,
-        "effective_age": 24.4
+        "effective_age": 25.4
       },
       "previous_rank": 26,
-      "score": 287.4,
-      "rank": 26
+      "score": 242.3,
+      "rank": 27
     },
     {
       "id": "1540041638401806336",
@@ -782,7 +811,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "Tuosta sitten Daiskon hajuinen versio aiheesta; Ida - Väärä Nainen. 🤓 🫶",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_27.mp3?v=1789002237364",
+      "audio_url": "https://www.djorion.fi/top20//rank_28.mp3?v=1789521913943",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1540041638401806336",
       "posted_at": "2026-08-20T16:55:39.185Z",
       "web_thumbs": 5,
@@ -798,11 +827,11 @@
         "penalty_base": 890,
         "multiplier": 3.97,
         "is_newcomer": false,
-        "effective_age": 25.4
+        "effective_age": 26.4
       },
       "previous_rank": 27,
-      "score": 151.8,
-      "rank": 27
+      "score": 98.3,
+      "rank": 28
     },
     {
       "id": "1536692941173555240",
@@ -811,7 +840,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
       "message_text": "edit: jaksoin, fiksattu pari juttua",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_28.mp3?v=1789002239699",
+      "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1789521916484",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1536692941173555240",
       "posted_at": "2026-08-11T11:09:07.550Z",
       "web_thumbs": 4,
@@ -827,11 +856,11 @@
         "penalty_base": 794.5,
         "multiplier": 3.65,
         "is_newcomer": false,
-        "effective_age": 34.6
+        "effective_age": 35.6
       },
       "previous_rank": 28,
       "score": 0,
-      "rank": 28
+      "rank": 29
     },
     {
       "id": "1535562469294997545",
@@ -840,7 +869,7 @@
       "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
       "message_text": "Eilinen mashup tästä!",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1789002242020",
+      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1789521918939",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1535562469294997545",
       "posted_at": "2026-08-08T08:17:02.051Z",
       "web_thumbs": 7,
@@ -856,38 +885,9 @@
         "penalty_base": 606,
         "multiplier": 3.02,
         "is_newcomer": false,
-        "effective_age": 37.7
+        "effective_age": 38.7
       },
       "previous_rank": 29,
-      "score": 0,
-      "rank": 29
-    },
-    {
-      "id": "1532782173927772200",
-      "song_title": "fallihauta - Weightless (Fallihauta Liquid Flip)",
-      "author": "fallihauta",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
-      "message_text": "Herättelin ja tein valmiiksi tuossa myös yhden rennomman saapasjalan. Tässä Martin Garrix & Arijit Singh - Weightless ja siitä Fallihauta Liquid Flip. 🫶",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1789347867186",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1532782173927772200",
-      "posted_at": "2026-07-31T16:09:07.980Z",
-      "web_thumbs": 5,
-      "web_plays": 22,
-      "web_videos": 1,
-      "stats": {
-        "reactions": 2,
-        "comments": 0,
-        "thumbs": 5,
-        "plays": 22,
-        "videos": 1,
-        "raw_points": 553.5,
-        "penalty_base": 553.5,
-        "multiplier": 2.84,
-        "is_newcomer": false,
-        "effective_age": 45.4
-      },
-      "previous_rank": 30,
       "score": 0,
       "rank": 30
     }
