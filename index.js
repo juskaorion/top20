@@ -387,12 +387,12 @@ async function getSpotifyTracks(wpThumbs, wpPlays, wpVideos) {
 client.once('ready', async () => {
     console.log('\n==== UUDEN TANSSIMUSIIKIN LISTA - PÄIVITYS ALKAA ====\n');
     
-    let allValidSongs = [];
+    let allValidSongs = []; // Sisältää vain tänään haetut
     let wpThumbs = {};
     let wpPlays = {};
     let wpVideos = {};
     
-   // Haetaan peukut WP:stä
+    // Haetaan peukut WP:stä
     try {
         const wpThumbsResponse = await fetch('https://www.djorion.fi/wp-json/top20/v1/thumbs?t=' + Date.now());
         if (wpThumbsResponse.ok) {
@@ -423,6 +423,39 @@ client.once('ready', async () => {
         }
     } catch (e) {
         console.error("✗ Virhe haettaessa videoklikkauksia:", e);
+    }
+
+    /* =======================================================
+       TIETOKANNAN RAKENNUS JA HISTORIAN YLLÄPITO
+       ======================================================= */
+    let previousDataById = {};
+    const songDatabase = new Map();
+    
+    try {
+        if (fs.existsSync('top20_songs.json')) {
+            const prevJson = JSON.parse(fs.readFileSync('top20_songs.json', 'utf8'));
+            if (prevJson?.top_songs) {
+                prevJson.top_songs.forEach(s => {
+                    previousDataById[s.id] = s;
+                    
+                    // Päivitetään vanhoille biiseille heti tuoreet WordPress-tilastot!
+                    const thumbs = wpThumbs[s.id] !== undefined ? wpThumbs[s.id] : s.stats.thumbs;
+                    const plays = wpPlays[s.id] !== undefined ? wpPlays[s.id] : s.stats.plays;
+                    const videos = wpVideos[s.id] !== undefined ? wpVideos[s.id] : (s.stats.videos || 0);
+
+                    s.stats.thumbs = thumbs;
+                    s.stats.plays = plays;
+                    s.stats.videos = videos;
+                    s.web_thumbs = thumbs;
+                    s.web_plays = plays;
+                    s.web_videos = videos;
+
+                    songDatabase.set(s.id, s);
+                });
+            }
+        }
+    } catch (e) {
+        console.log("Vanhaa listaa ei voitu lukea, aloitetaan puhtaalta pöydältä.");
     }
 
     console.log('\n==== HAETAAN BIISEJÄ DISCORDISTA ====\n');
@@ -509,33 +542,41 @@ client.once('ready', async () => {
     const spotifySongs = await getSpotifyTracks(wpThumbs, wpPlays, wpVideos);
     allValidSongs.push(...spotifySongs);
 
-    console.log(`\n✓ Yhteensä ${allValidSongs.length} biisiä haettu\n`);
+    console.log(`\n✓ Yhteensä ${allValidSongs.length} tuoretta päivitystä haettu.`);
 
-    // Haetaan edellinen data (previous_rank)
-    let previousDataById = {};
-    try {
-        if (fs.existsSync('top20_songs.json')) {
-            const prevJson = JSON.parse(fs.readFileSync('top20_songs.json', 'utf8'));
-            if (prevJson?.top_songs) {
-                prevJson.top_songs.forEach(s => {
-                    previousDataById[s.id] = s;
-                });
-            }
+    /* =======================================================
+       YHDISTETÄÄN HAETUT BIISIT TIETOKANTAAN
+       ======================================================= */
+    allValidSongs.forEach(fetchedSong => {
+        const oldSong = songDatabase.get(fetchedSong.id);
+        if (oldSong) {
+            // Biisi on vanha, päivitetään statsit mutta varjellaan alkuperäistä aikaa
+            songDatabase.set(fetchedSong.id, {
+                ...oldSong,
+                ...fetchedSong,
+                posted_at: oldSong.posted_at || fetchedSong.posted_at
+            });
+        } else {
+            // Täysin uusi biisi!
+            songDatabase.set(fetchedSong.id, fetchedSong);
         }
-    } catch (e) {}
-    
-    // Lisää previous_rank
-    allValidSongs = allValidSongs.map(song => ({
+    });
+
+    // Puretaan tietokanta takaisin Arrayksi käsittelyä varten
+    let combinedSongs = Array.from(songDatabase.values());
+
+    // Asetetaan eilisen datan previous_rank kaikille, jotta vertailu on aina relevantti
+    combinedSongs = combinedSongs.map(song => ({
         ...song,
-        previous_rank: previousDataById[song.id]?.rank || null
+        previous_rank: previousDataById[song.id] ? previousDataById[song.id].rank : null
     }));
 
-    console.log('==== LASKETAAN PISTEET UUDELLA ALGORITMILLA ====\n');
+    console.log('\n==== LASKETAAN PISTEET UUDELLA ALGORITMILLA ====\n');
 
-    // Laske scoret uudella algoritmilla
-    allValidSongs = allValidSongs.map(song => {
+    // Laske scoret kaikille (myös niille, joita ei tänään poimittu 100 viestin limitistä!)
+    combinedSongs = combinedSongs.map(song => {
         const source = song.id.startsWith('spotify-') ? 'spotify' : 'discord';
-        const scoreData = calculateScoreWithContext(song, allValidSongs, source);
+        const scoreData = calculateScoreWithContext(song, combinedSongs, source);
         
         return {
             ...song,
@@ -551,9 +592,14 @@ client.once('ready', async () => {
         };
     });
     
-    // Järjestä ja ota top 30
-    allValidSongs.sort((a, b) => b.score - a.score);
-    const top20 = allValidSongs.slice(0, 30).map((s, i) => ({ ...s, rank: i + 1 }));
+    // Järjestä 
+    combinedSongs.sort((a, b) => b.score - a.score);
+
+    // LEIKKURI: Suodatetaan armotta pois kaikki 0 (tai sen alle) jääneet vanhat biisit!
+    const filteredSongs = combinedSongs.filter(s => s.score > 0);
+
+    // Otetaan korkeintaan 30 parasta jäljelle jäänyttä
+    const top20 = filteredSongs.slice(0, 30).map((s, i) => ({ ...s, rank: i + 1 }));
 
     console.log('==== TOP 10 ====');
     top20.slice(0, 10).forEach(s => {
