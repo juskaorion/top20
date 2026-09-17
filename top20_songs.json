@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T10:04:26.595Z",
+  "last_updated": "2026-09-17T10:20:31.636Z",
   "top_songs": [
     {
       "id": "1549447083512041623",
@@ -26,7 +26,7 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": null,
+      "previous_rank": 1,
       "score": 921,
       "rank": 1
     },
@@ -56,8 +56,8 @@
         "is_newcomer": false,
         "effective_age": 8.4
       },
-      "previous_rank": 1,
-      "score": 855,
+      "previous_rank": 2,
+      "score": 854.6,
       "rank": 2
     },
     {
@@ -86,8 +86,8 @@
         "is_newcomer": true,
         "effective_age": 6.4
       },
-      "previous_rank": 2,
-      "score": 816.7,
+      "previous_rank": 3,
+      "score": 816.5,
       "rank": 3
     },
     {
@@ -116,8 +116,8 @@
         "is_newcomer": true,
         "effective_age": 6.4
       },
-      "previous_rank": 6,
-      "score": 763.4,
+      "previous_rank": 4,
+      "score": 763.2,
       "rank": 4
     },
     {
@@ -146,8 +146,8 @@
         "is_newcomer": true,
         "effective_age": 6.4
       },
-      "previous_rank": 3,
-      "score": 762.5,
+      "previous_rank": 5,
+      "score": 762.3,
       "rank": 5
     },
     {
@@ -176,8 +176,8 @@
         "is_newcomer": true,
         "effective_age": 6.4
       },
-      "previous_rank": 4,
-      "score": 761.6,
+      "previous_rank": 6,
+      "score": 761.4,
       "rank": 6
     },
     {
@@ -206,8 +206,8 @@
         "is_newcomer": true,
         "effective_age": 6.4
       },
-      "previous_rank": 5,
-      "score": 759.6,
+      "previous_rank": 7,
+      "score": 759.4,
       "rank": 7
     },
     {
@@ -236,8 +236,8 @@
         "is_newcomer": true,
         "effective_age": 6.4
       },
-      "previous_rank": 7,
-      "score": 746.9,
+      "previous_rank": 8,
+      "score": 746.8,
       "rank": 8
     },
     {
@@ -266,8 +266,8 @@
         "is_newcomer": true,
         "effective_age": 6.4
       },
-      "previous_rank": 8,
-      "score": 742.9,
+      "previous_rank": 9,
+      "score": 742.8,
       "rank": 9
     },
     {
@@ -296,8 +296,8 @@
         "is_newcomer": true,
         "effective_age": 6.4
       },
-      "previous_rank": 9,
-      "score": 726.3,
+      "previous_rank": 10,
+      "score": 726.2,
       "rank": 10
     },
     {
@@ -326,8 +326,8 @@
         "is_newcomer": true,
         "effective_age": 6.4
       },
-      "previous_rank": 10,
-      "score": 723.3,
+      "previous_rank": 11,
+      "score": 723.2,
       "rank": 11
     },
     {
@@ -355,8 +355,8 @@
         "is_newcomer": false,
         "effective_age": 7.9
       },
-      "previous_rank": null,
-      "score": 711.7,
+      "previous_rank": 12,
+      "score": 711.4,
       "rank": 12
     },
     {
@@ -384,8 +384,8 @@
         "is_newcomer": false,
         "effective_age": 13.2
       },
-      "previous_rank": 11,
-      "score": 611.9,
+      "previous_rank": 13,
+      "score": 611.6,
       "rank": 13
     },
     {
@@ -414,8 +414,8 @@
         "is_newcomer": false,
         "effective_age": 9.4
       },
-      "previous_rank": 12,
-      "score": 595.7,
+      "previous_rank": 14,
+      "score": 595.5,
       "rank": 14
     },
     {
@@ -444,8 +444,8 @@
         "is_newcomer": false,
         "effective_age": 13.4
       },
-      "previous_rank": 14,
-      "score": 581.7,
+      "previous_rank": 15,
+      "score": 581.5,
       "rank": 15
     },
     {
@@ -474,8 +474,8 @@
         "is_newcomer": false,
         "effective_age": 13.4
       },
-      "previous_rank": 15,
-      "score": 581.4,
+      "previous_rank": 16,
+      "score": 581.2,
       "rank": 16
     },
     {
@@ -504,8 +504,8 @@
         "is_newcomer": false,
         "effective_age": 15.4
       },
-      "previous_rank": 13,
-      "score": 580.5,
+      "previous_rank": 17,
+      "score": 580.1,
       "rank": 17
     },
     {
@@ -534,8 +534,8 @@
         "is_newcomer": false,
         "effective_age": 13.4
       },
-      "previous_rank": 16,
-      "score": 554.6,
+      "previous_rank": 18,
+      "score": 554.4,
       "rank": 18
     },
     {
@@ -564,8 +564,8 @@
         "is_newcomer": false,
         "effective_age": 13.4
       },
-      "previous_rank": 17,
-      "score": 543.4,
+      "previous_rank": 19,
+      "score": 543.3,
       "rank": 19
     },
     {
@@ -594,8 +594,8 @@
         "is_newcomer": false,
         "effective_age": 13.4
       },
-      "previous_rank": 18,
-      "score": 536.6,
+      "previous_rank": 20,
+      "score": 536.4,
       "rank": 20
     },
     {
@@ -624,8 +624,8 @@
         "is_newcomer": false,
         "effective_age": 13.4
       },
-      "previous_rank": 19,
-      "score": 532,
+      "previous_rank": 21,
+      "score": 531.8,
       "rank": 21
     },
     {
@@ -654,8 +654,8 @@
         "is_newcomer": false,
         "effective_age": 13.4
       },
-      "previous_rank": 20,
-      "score": 526.8,
+      "previous_rank": 22,
+      "score": 526.7,
       "rank": 22
     },
     {
@@ -684,8 +684,8 @@
         "is_newcomer": false,
         "effective_age": 13.4
       },
-      "previous_rank": 21,
-      "score": 519.8,
+      "previous_rank": 23,
+      "score": 519.7,
       "rank": 23
     },
     {
@@ -713,8 +713,8 @@
         "is_newcomer": false,
         "effective_age": 19.9
       },
-      "previous_rank": null,
-      "score": 440.7,
+      "previous_rank": 24,
+      "score": 440.5,
       "rank": 24
     },
     {
@@ -742,8 +742,8 @@
         "is_newcomer": false,
         "effective_age": 19.9
       },
-      "previous_rank": null,
-      "score": 438.5,
+      "previous_rank": 25,
+      "score": 438.3,
       "rank": 25
     },
     {
@@ -771,8 +771,8 @@
         "is_newcomer": false,
         "effective_age": 24.9
       },
-      "previous_rank": null,
-      "score": 327.1,
+      "previous_rank": 26,
+      "score": 326.8,
       "rank": 26
     },
     {
@@ -800,8 +800,8 @@
         "is_newcomer": false,
         "effective_age": 26.8
       },
-      "previous_rank": null,
-      "score": 159.9,
+      "previous_rank": 27,
+      "score": 159.3,
       "rank": 27
     },
     {
@@ -829,67 +829,9 @@
         "is_newcomer": false,
         "effective_age": 27.7
       },
-      "previous_rank": null,
-      "score": 25.5,
+      "previous_rank": 28,
+      "score": 24.8,
       "rank": 28
-    },
-    {
-      "id": "1536692941173555240",
-      "song_title": "Kiki - Rakkaudenkipee Junkkataxi Bootleg v4",
-      "author": "Kiki",
-      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
-      "message_text": "edit: jaksoin, fiksattu pari juttua",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1789639464238",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1536692941173555240",
-      "posted_at": "2026-08-11T11:09:07.550Z",
-      "web_thumbs": 4,
-      "web_plays": 31,
-      "web_videos": 1,
-      "stats": {
-        "reactions": 13,
-        "comments": 0,
-        "thumbs": 4,
-        "plays": 31,
-        "videos": 1,
-        "raw_points": 715.9,
-        "penalty_base": 815,
-        "multiplier": 3.72,
-        "is_newcomer": false,
-        "effective_age": 37
-      },
-      "previous_rank": null,
-      "score": 0,
-      "rank": 29
-    },
-    {
-      "id": "1535562469294997545",
-      "song_title": "ANOTR feat Empire Of The Sun - Talk To You On A Dream (Jays MashUp)",
-      "author": "ANOTR feat Empire Of The Sun",
-      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-      "message_text": "Eilinen mashup tästä!",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1789639466594",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1535562469294997545",
-      "posted_at": "2026-08-08T08:17:02.051Z",
-      "web_thumbs": 7,
-      "web_plays": 21,
-      "web_videos": 2,
-      "stats": {
-        "reactions": 5,
-        "comments": 0,
-        "thumbs": 7,
-        "plays": 21,
-        "videos": 2,
-        "raw_points": 626.5,
-        "penalty_base": 626.5,
-        "multiplier": 3.09,
-        "is_newcomer": false,
-        "effective_age": 40.1
-      },
-      "previous_rank": null,
-      "score": 0,
-      "rank": 30
     }
   ]
 }
