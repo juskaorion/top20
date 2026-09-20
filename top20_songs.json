@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T01:07:45.936Z",
+  "last_updated": "2026-09-20T23:13:54.484Z",
   "top_songs": [
     {
       "id": "1549447083512041623",
@@ -12,22 +12,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1549447083512041623",
       "posted_at": "2026-09-15T15:49:32.044Z",
       "web_thumbs": 5,
-      "web_plays": 13,
+      "web_plays": 14,
       "web_videos": 4,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 5,
-        "plays": 13,
+        "plays": 14,
         "videos": 4,
-        "raw_points": 541.5,
-        "penalty_base": 541.5,
-        "multiplier": 2.8,
+        "raw_points": 562,
+        "penalty_base": 562,
+        "multiplier": 2.87,
         "is_newcomer": true,
-        "effective_age": 1.4
+        "effective_age": 2.3
       },
       "previous_rank": 1,
-      "score": 1289,
+      "score": 1272.5,
       "rank": 1
     },
     {
@@ -41,54 +41,24 @@
       "discord_url": "https://open.spotify.com/track/5hcPsbXz9DGqkbGTLYc5nS",
       "posted_at": "2026-09-11T00:00:00.000Z",
       "web_thumbs": 5,
-      "web_plays": 9,
-      "web_videos": 3,
+      "web_plays": 10,
+      "web_videos": 4,
       "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 5,
-        "plays": 9,
-        "videos": 3,
-        "raw_points": 419.5,
-        "penalty_base": 419.5,
-        "multiplier": 2.4,
+        "plays": 10,
+        "videos": 4,
+        "raw_points": 500,
+        "penalty_base": 500,
+        "multiplier": 2.67,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 8,
-      "score": 841.6,
+      "previous_rank": 2,
+      "score": 856.2,
       "rank": 2
-    },
-    {
-      "id": "spotify-34XrtincHRDtIte3AxEVkz",
-      "song_title": "Freestyle Man - Spazzo",
-      "author": "Freestyle Man",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27350492123defe3a7166511a4b",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
-      "discord_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
-      "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 18,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 11,
-        "penalty_base": 11,
-        "multiplier": 1.04,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 6,
-      "score": 829,
-      "rank": 3
     },
     {
       "id": "spotify-4mOzVMHUTyqMnzy6xpHNwX",
@@ -101,53 +71,83 @@
       "discord_url": "https://open.spotify.com/track/4mOzVMHUTyqMnzy6xpHNwX",
       "posted_at": "2026-09-18T00:00:00.000Z",
       "web_thumbs": 1,
-      "web_plays": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 20,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 4,
+      "score": 851.5,
+      "rank": 3
+    },
+    {
+      "id": "spotify-34XrtincHRDtIte3AxEVkz",
+      "song_title": "Freestyle Man - Spazzo",
+      "author": "Freestyle Man",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27350492123defe3a7166511a4b",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
+      "discord_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
+      "posted_at": "2026-09-18T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 1,
       "web_videos": 0,
       "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
-        "plays": 0,
+        "plays": 1,
         "videos": 0,
-        "raw_points": 11,
-        "penalty_base": 11,
-        "multiplier": 1.04,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 4,
-      "score": 827,
+      "previous_rank": 3,
+      "score": 847.5,
       "rank": 4
     },
     {
-      "id": "spotify-38ds5bJcOUBal6Ewpoiq8z",
-      "song_title": "BESS - Ohita intro (Vain elämää kausi 17)",
-      "author": "BESS",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273b4934bdf4f68ab4e07350758",
+      "id": "spotify-77vkRlG3P5irJws7LJ9RvO",
+      "song_title": "EBEN - Leave It All Behind",
+      "author": "EBEN",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e4c8bbcd439e15ac58b51fcc",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/38ds5bJcOUBal6Ewpoiq8z",
-      "discord_url": "https://open.spotify.com/track/38ds5bJcOUBal6Ewpoiq8z",
+      "audio_url": "https://open.spotify.com/track/77vkRlG3P5irJws7LJ9RvO",
+      "discord_url": "https://open.spotify.com/track/77vkRlG3P5irJws7LJ9RvO",
       "posted_at": "2026-09-18T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 20,
+      "positionBonus": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 0,
+        "plays": 1,
         "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": null,
-      "score": 820,
+      "previous_rank": 7,
+      "score": 839.5,
       "rank": 5
     },
     {
@@ -161,43 +161,43 @@
       "discord_url": "https://open.spotify.com/track/0XwW547V8kkkyjIvUQeqez",
       "posted_at": "2026-09-18T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 19,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 7,
-      "score": 819,
-      "rank": 6
-    },
-    {
-      "id": "spotify-77vkRlG3P5irJws7LJ9RvO",
-      "song_title": "EBEN - Leave It All Behind",
-      "author": "EBEN",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e4c8bbcd439e15ac58b51fcc",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/77vkRlG3P5irJws7LJ9RvO",
-      "discord_url": "https://open.spotify.com/track/77vkRlG3P5irJws7LJ9RvO",
-      "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "web_plays": 1,
       "web_videos": 0,
       "positionBonus": 17,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 6,
+      "score": 837.5,
+      "rank": 6
+    },
+    {
+      "id": "spotify-55Wt7Mvu95ddTKOs5kRV62",
+      "song_title": "Kooma - 4 THOSE WHO CHOSE THE EXIT SIGN <\\3",
+      "author": "Kooma",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273136ef36a5e8754c59438bdaa",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/55Wt7Mvu95ddTKOs5kRV62",
+      "discord_url": "https://open.spotify.com/track/55Wt7Mvu95ddTKOs5kRV62",
+      "posted_at": "2026-09-18T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 18,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
         "plays": 0,
         "videos": 0,
         "raw_points": 0,
@@ -206,39 +206,9 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 5,
-      "score": 817,
+      "previous_rank": null,
+      "score": 818,
       "rank": 7
-    },
-    {
-      "id": "spotify-2JPcJtjUbwvyOrkqvnngRs",
-      "song_title": "I Think I Broke Something - Heads Up",
-      "author": "I Think I Broke Something",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e149fc21fb4c048391b5f0e0",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
-      "discord_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
-      "posted_at": "2026-09-09T00:00:00.000Z",
-      "web_thumbs": 6,
-      "web_plays": 13,
-      "web_videos": 3,
-      "positionBonus": 7,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 6,
-        "plays": 13,
-        "videos": 3,
-        "raw_points": 512.5,
-        "penalty_base": 512.5,
-        "multiplier": 2.71,
-        "is_newcomer": false,
-        "effective_age": 11
-      },
-      "previous_rank": 2,
-      "score": 815.6,
-      "rank": 8
     },
     {
       "id": "spotify-0ZQy76iiUxWgP19v45KWU6",
@@ -253,7 +223,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -266,8 +236,38 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 3,
-      "score": 814,
+      "previous_rank": 9,
+      "score": 813,
+      "rank": 8
+    },
+    {
+      "id": "spotify-2JPcJtjUbwvyOrkqvnngRs",
+      "song_title": "I Think I Broke Something - Heads Up",
+      "author": "I Think I Broke Something",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e149fc21fb4c048391b5f0e0",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
+      "discord_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
+      "posted_at": "2026-09-09T00:00:00.000Z",
+      "web_thumbs": 6,
+      "web_plays": 14,
+      "web_videos": 3,
+      "positionBonus": 6,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 6,
+        "plays": 14,
+        "videos": 3,
+        "raw_points": 533,
+        "penalty_base": 533,
+        "multiplier": 2.78,
+        "is_newcomer": false,
+        "effective_age": 12
+      },
+      "previous_rank": 8,
+      "score": 790.4,
       "rank": 9
     },
     {
@@ -281,22 +281,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1547212256272715796",
       "posted_at": "2026-09-09T11:49:07.709Z",
       "web_thumbs": 1,
-      "web_plays": 9,
+      "web_plays": 10,
       "web_videos": 0,
       "stats": {
         "reactions": 2,
         "comments": 0,
         "thumbs": 1,
-        "plays": 9,
+        "plays": 10,
         "videos": 0,
-        "raw_points": 205,
-        "penalty_base": 205,
-        "multiplier": 1.68,
+        "raw_points": 225.5,
+        "penalty_base": 225.5,
+        "multiplier": 1.75,
         "is_newcomer": false,
-        "effective_age": 10.6
+        "effective_age": 11.5
       },
-      "previous_rank": 9,
-      "score": 665.2,
+      "previous_rank": 10,
+      "score": 654.1,
       "rank": 10
     },
     {
@@ -312,7 +312,7 @@
       "web_thumbs": 2,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 11,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -323,10 +323,10 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 10,
-      "score": 650.5,
+      "previous_rank": 11,
+      "score": 634.8,
       "rank": 11
     },
     {
@@ -342,7 +342,7 @@
       "web_thumbs": 3,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -353,41 +353,11 @@
         "penalty_base": 94.5,
         "multiplier": 1.31,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 11,
-      "score": 638.9,
+      "previous_rank": 12,
+      "score": 625.5,
       "rank": 12
-    },
-    {
-      "id": "spotify-7z3VIwgNnjwOjFtLzNAi4o",
-      "song_title": "KLASS - One More Time",
-      "author": "KLASS",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2735f5953b18d2202f27498797d",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7z3VIwgNnjwOjFtLzNAi4o",
-      "discord_url": "https://open.spotify.com/track/7z3VIwgNnjwOjFtLzNAi4o",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 2,
-      "web_videos": 0,
-      "positionBonus": 13,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 63,
-        "penalty_base": 63,
-        "multiplier": 1.21,
-        "is_newcomer": false,
-        "effective_age": 9
-      },
-      "previous_rank": 13,
-      "score": 628.2,
-      "rank": 13
     },
     {
       "id": "spotify-5X1oLVPf6UHnUaGbCwCbLH",
@@ -402,7 +372,7 @@
       "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -413,10 +383,40 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 12,
-      "score": 627.2,
+      "previous_rank": 14,
+      "score": 611.2,
+      "rank": 13
+    },
+    {
+      "id": "spotify-7z3VIwgNnjwOjFtLzNAi4o",
+      "song_title": "KLASS - One More Time",
+      "author": "KLASS",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2735f5953b18d2202f27498797d",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7z3VIwgNnjwOjFtLzNAi4o",
+      "discord_url": "https://open.spotify.com/track/7z3VIwgNnjwOjFtLzNAi4o",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 5,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 63,
+        "penalty_base": 63,
+        "multiplier": 1.21,
+        "is_newcomer": false,
+        "effective_age": 10
+      },
+      "previous_rank": 13,
+      "score": 605.2,
       "rank": 14
     },
     {
@@ -443,10 +443,10 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 14,
-      "score": 612.2,
+      "previous_rank": 15,
+      "score": 598,
       "rank": 15
     },
     {
@@ -462,7 +462,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -473,41 +473,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 9
-      },
-      "previous_rank": 15,
-      "score": 596,
-      "rank": 16
-    },
-    {
-      "id": "spotify-4aCLOxtiN3FFfxdFo2Iu6o",
-      "song_title": "Psylla - The Allure of Fire",
-      "author": "Psylla",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273bb0424d9e5c0c6fc6892f996",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4aCLOxtiN3FFfxdFo2Iu6o",
-      "discord_url": "https://open.spotify.com/track/4aCLOxtiN3FFfxdFo2Iu6o",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 9,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
       "previous_rank": 16,
-      "score": 586.9,
-      "rank": 17
+      "score": 585.7,
+      "rank": 16
     },
     {
       "id": "spotify-7pBCBVZqTLm28uVyNelCp4",
@@ -522,7 +492,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -533,10 +503,40 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
+      },
+      "previous_rank": 18,
+      "score": 569.4,
+      "rank": 17
+    },
+    {
+      "id": "spotify-4aCLOxtiN3FFfxdFo2Iu6o",
+      "song_title": "Psylla - The Allure of Fire",
+      "author": "Psylla",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273bb0424d9e5c0c6fc6892f996",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4aCLOxtiN3FFfxdFo2Iu6o",
+      "discord_url": "https://open.spotify.com/track/4aCLOxtiN3FFfxdFo2Iu6o",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 3,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 10
       },
       "previous_rank": 17,
-      "score": 585.9,
+      "score": 568.4,
       "rank": 18
     },
     {
@@ -563,17 +563,17 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
       "previous_rank": 19,
-      "score": 557.8,
+      "score": 544.5,
       "rank": 19
     },
     {
       "id": "spotify-6xPQQ3V5VeZu5sNcwMB3uU",
       "song_title": "Axel Thesleff, Milana May, THEØNESS - Zenith",
       "author": "Axel Thesleff, Milana May, THEØNESS",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273bb2b6f19499cd5fd5d0cf4ad",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737c9a6d0b56a1b1da9c9f52d2",
       "message_text": "",
       "audio_type": "spotify_link",
       "audio_url": "https://open.spotify.com/track/6xPQQ3V5VeZu5sNcwMB3uU",
@@ -582,7 +582,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -593,10 +593,10 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
       "previous_rank": 20,
-      "score": 554.4,
+      "score": 536.5,
       "rank": 20
     },
     {
@@ -622,10 +622,10 @@
         "penalty_base": 222.5,
         "multiplier": 1.74,
         "is_newcomer": false,
-        "effective_age": 15.8
+        "effective_age": 16.8
       },
-      "previous_rank": 18,
-      "score": 550.1,
+      "previous_rank": 21,
+      "score": 528.4,
       "rank": 21
     },
     {
@@ -652,10 +652,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
-      "previous_rank": null,
-      "score": 539.4,
+      "previous_rank": 22,
+      "score": 526.9,
       "rank": 22
     },
     {
@@ -682,10 +682,10 @@
         "penalty_base": 153,
         "multiplier": 1.51,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 21,
-      "score": 527.9,
+      "previous_rank": 23,
+      "score": 509.1,
       "rank": 23
     },
     {
@@ -712,10 +712,10 @@
         "penalty_base": 143.5,
         "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 22,
-      "score": 524.2,
+      "previous_rank": 24,
+      "score": 505.9,
       "rank": 24
     },
     {
@@ -742,10 +742,10 @@
         "penalty_base": 72.5,
         "multiplier": 1.24,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 23,
-      "score": 510.5,
+      "previous_rank": 25,
+      "score": 495.1,
       "rank": 25
     },
     {
@@ -761,7 +761,7 @@
       "web_thumbs": 1,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 4,
+      "positionBonus": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -772,41 +772,11 @@
         "penalty_base": 52,
         "multiplier": 1.17,
         "is_newcomer": false,
-        "effective_age": 16
-      },
-      "previous_rank": 25,
-      "score": 501.8,
-      "rank": 26
-    },
-    {
-      "id": "spotify-7eTU5oHbEHOIy4irjtSFdb",
-      "song_title": "Digital Mindz, Radicator - Universe",
-      "author": "Digital Mindz, Radicator",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27314d310b1631126400248cb09",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7eTU5oHbEHOIy4irjtSFdb",
-      "discord_url": "https://open.spotify.com/track/7eTU5oHbEHOIy4irjtSFdb",
-      "posted_at": "2026-09-04T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 3,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 22,
-        "penalty_base": 22,
-        "multiplier": 1.07,
-        "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
       "previous_rank": 26,
-      "score": 492.5,
-      "rank": 27
+      "score": 485.2,
+      "rank": 26
     },
     {
       "id": "spotify-0s0WqQdzPdMADJ8MH40B75",
@@ -832,10 +802,40 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
+      },
+      "previous_rank": 28,
+      "score": 479.5,
+      "rank": 27
+    },
+    {
+      "id": "spotify-7eTU5oHbEHOIy4irjtSFdb",
+      "song_title": "Digital Mindz, Radicator - Universe",
+      "author": "Digital Mindz, Radicator",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27314d310b1631126400248cb09",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7eTU5oHbEHOIy4irjtSFdb",
+      "discord_url": "https://open.spotify.com/track/7eTU5oHbEHOIy4irjtSFdb",
+      "posted_at": "2026-09-04T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 3,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 22,
+        "penalty_base": 22,
+        "multiplier": 1.07,
+        "is_newcomer": false,
+        "effective_age": 17
       },
       "previous_rank": 27,
-      "score": 492.4,
+      "score": 479.1,
       "rank": 28
     },
     {
@@ -862,40 +862,40 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 28,
-      "score": 492.1,
+      "previous_rank": 29,
+      "score": 478.8,
       "rank": 29
     },
     {
-      "id": "spotify-6k1ULqwjvFGpDFiRFOz5bi",
-      "song_title": "VTRAC - Whispers in the Wind",
-      "author": "VTRAC",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273faf06f40b2d4082e619d968f",
+      "id": "spotify-5KVFDDIVnBv47KCQcaI0rD",
+      "song_title": "Nightstop, AikaPoliisi - Miljoona Mailia",
+      "author": "Nightstop, AikaPoliisi",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d812d233d86f79e9ddd40557",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6k1ULqwjvFGpDFiRFOz5bi",
-      "discord_url": "https://open.spotify.com/track/6k1ULqwjvFGpDFiRFOz5bi",
-      "posted_at": "2026-09-02T00:00:00.000Z",
-      "web_thumbs": 21,
-      "web_plays": 5,
-      "web_videos": 2,
+      "audio_url": "https://open.spotify.com/track/5KVFDDIVnBv47KCQcaI0rD",
+      "discord_url": "https://open.spotify.com/track/5KVFDDIVnBv47KCQcaI0rD",
+      "posted_at": "2026-09-04T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
       "positionBonus": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 21,
-        "plays": 5,
-        "videos": 2,
-        "raw_points": 400.3,
-        "penalty_base": 453.5,
-        "multiplier": 2.51,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 18
+        "effective_age": 17
       },
-      "previous_rank": 24,
-      "score": 489.4,
+      "previous_rank": null,
+      "score": 471.9,
       "rank": 30
     }
   ]
