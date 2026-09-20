@@ -170,6 +170,11 @@ const SPOTIFY_CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
 const SPOTIFY_REFRESH_TOKEN = process.env.SPOTIFY_REFRESH_TOKEN;
 const SPOTIFY_PLAYLIST_ID = '3trehlc2tS8pIoJqMxK6l3';
 
+const BLACKLIST = [
+    "spotify-38ds5bJcOUBal6Ewpoiq8z", 
+    "14069985316587479544"
+];
+
 /* STREAMING_CHUNK:Audio data extraction function... */
 async function extractAudioInfos(message) {
     const results = [];
@@ -563,8 +568,8 @@ client.once('ready', async () => {
     });
 
     // Puretaan tietokanta takaisin Arrayksi käsittelyä varten
-    let combinedSongs = Array.from(songDatabase.values());
-
+    let combinedSongs = Array.from(songDatabase.values())
+        .filter(song => !BLACKLIST.includes(song.id));
     // Asetetaan eilisen datan previous_rank kaikille, jotta vertailu on aina relevantti
     combinedSongs = combinedSongs.map(song => ({
         ...song,
