@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T00:05:04.408Z",
+  "last_updated": "2026-09-22T23:36:32.996Z",
   "top_songs": [
     {
       "id": "1549447083512041623",
@@ -12,22 +12,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1549447083512041623",
       "posted_at": "2026-09-15T15:49:32.044Z",
       "web_thumbs": 5,
-      "web_plays": 15,
+      "web_plays": 18,
       "web_videos": 4,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 5,
-        "plays": 15,
+        "plays": 18,
         "videos": 4,
-        "raw_points": 582.5,
-        "penalty_base": 582.5,
-        "multiplier": 2.94,
-        "is_newcomer": true,
-        "effective_age": 6.3
+        "raw_points": 644,
+        "penalty_base": 644,
+        "multiplier": 3.15,
+        "is_newcomer": false,
+        "effective_age": 7.3
       },
       "previous_rank": 1,
-      "score": 1130.6,
+      "score": 1032.9,
       "rank": 1
     },
     {
@@ -41,23 +41,23 @@
       "discord_url": "https://open.spotify.com/track/5hcPsbXz9DGqkbGTLYc5nS",
       "posted_at": "2026-09-11T00:00:00.000Z",
       "web_thumbs": 5,
-      "web_plays": 10,
+      "web_plays": 12,
       "web_videos": 6,
-      "positionBonus": 11,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 5,
-        "plays": 10,
+        "plays": 12,
         "videos": 6,
-        "raw_points": 620,
-        "penalty_base": 620,
-        "multiplier": 3.07,
+        "raw_points": 661,
+        "penalty_base": 661,
+        "multiplier": 3.2,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
       "previous_rank": 2,
-      "score": 875.5,
+      "score": 855.8,
       "rank": 2
     },
     {
@@ -73,7 +73,7 @@
       "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 18,
+      "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -84,10 +84,10 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": true,
-        "effective_age": 1
+        "effective_age": 2
       },
       "previous_rank": 3,
-      "score": 864.6,
+      "score": 846.6,
       "rank": 3
     },
     {
@@ -103,7 +103,7 @@
       "web_thumbs": 1,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 13,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -114,71 +114,11 @@
         "penalty_base": 31.5,
         "multiplier": 1.1,
         "is_newcomer": true,
-        "effective_age": 1
+        "effective_age": 2
       },
       "previous_rank": 4,
-      "score": 829.5,
+      "score": 816.9,
       "rank": 4
-    },
-    {
-      "id": "spotify-77vkRlG3P5irJws7LJ9RvO",
-      "song_title": "EBEN - Leave It All Behind",
-      "author": "EBEN",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e4c8bbcd439e15ac58b51fcc",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/77vkRlG3P5irJws7LJ9RvO",
-      "discord_url": "https://open.spotify.com/track/77vkRlG3P5irJws7LJ9RvO",
-      "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 20,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 1
-      },
-      "previous_rank": 5,
-      "score": 826,
-      "rank": 5
-    },
-    {
-      "id": "spotify-0XwW547V8kkkyjIvUQeqez",
-      "song_title": "Empath - Toms of Finland",
-      "author": "Empath",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273be03d7c05fd596186c53821f",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0XwW547V8kkkyjIvUQeqez",
-      "discord_url": "https://open.spotify.com/track/0XwW547V8kkkyjIvUQeqez",
-      "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 15,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 1
-      },
-      "previous_rank": 6,
-      "score": 821,
-      "rank": 6
     },
     {
       "id": "1551506620717076560",
@@ -187,7 +127,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/191ad6fd019fd40ef4f8df2d0823579d.webp?size=128",
       "message_text": "levikset-mashupit trendaillu tiktokissa nii laitetaas oma mitä oon soitellu kevääst asti jakoon",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1790035482719",
+      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1790120192996",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1551506620717076560",
       "posted_at": "2026-09-21T08:13:23.978Z",
       "web_thumbs": 0,
@@ -205,9 +145,99 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": null,
+      "previous_rank": 7,
       "score": 815,
+      "rank": 5
+    },
+    {
+      "id": "spotify-55Wt7Mvu95ddTKOs5kRV62",
+      "song_title": "Kooma - 4 THOSE WHO CHOSE THE EXIT SIGN <\\3",
+      "author": "Kooma",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273136ef36a5e8754c59438bdaa",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/55Wt7Mvu95ddTKOs5kRV62",
+      "discord_url": "https://open.spotify.com/track/55Wt7Mvu95ddTKOs5kRV62",
+      "posted_at": "2026-09-18T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 20,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 2
+      },
+      "previous_rank": 9,
+      "score": 811.9,
+      "rank": 6
+    },
+    {
+      "id": "spotify-77vkRlG3P5irJws7LJ9RvO",
+      "song_title": "EBEN - Leave It All Behind",
+      "author": "EBEN",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e4c8bbcd439e15ac58b51fcc",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/77vkRlG3P5irJws7LJ9RvO",
+      "discord_url": "https://open.spotify.com/track/77vkRlG3P5irJws7LJ9RvO",
+      "posted_at": "2026-09-18T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 19,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 2
+      },
+      "previous_rank": 5,
+      "score": 810.9,
       "rank": 7
+    },
+    {
+      "id": "spotify-0XwW547V8kkkyjIvUQeqez",
+      "song_title": "Empath - Toms of Finland",
+      "author": "Empath",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273be03d7c05fd596186c53821f",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0XwW547V8kkkyjIvUQeqez",
+      "discord_url": "https://open.spotify.com/track/0XwW547V8kkkyjIvUQeqez",
+      "posted_at": "2026-09-18T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 14,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 2
+      },
+      "previous_rank": 6,
+      "score": 805.9,
+      "rank": 8
     },
     {
       "id": "spotify-0ZQy76iiUxWgP19v45KWU6",
@@ -222,7 +252,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -233,40 +263,10 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": true,
-        "effective_age": 1
+        "effective_age": 2
       },
       "previous_rank": 8,
-      "score": 807,
-      "rank": 8
-    },
-    {
-      "id": "spotify-55Wt7Mvu95ddTKOs5kRV62",
-      "song_title": "Kooma - 4 THOSE WHO CHOSE THE EXIT SIGN <\\3",
-      "author": "Kooma",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273136ef36a5e8754c59438bdaa",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/55Wt7Mvu95ddTKOs5kRV62",
-      "discord_url": "https://open.spotify.com/track/55Wt7Mvu95ddTKOs5kRV62",
-      "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 19,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 1
-      },
-      "previous_rank": 7,
-      "score": 805.5,
+      "score": 794.2,
       "rank": 9
     },
     {
@@ -279,24 +279,24 @@
       "audio_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
       "discord_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
       "posted_at": "2026-09-09T00:00:00.000Z",
-      "web_thumbs": 6,
-      "web_plays": 14,
-      "web_videos": 3,
+      "web_thumbs": 7,
+      "web_plays": 16,
+      "web_videos": 4,
       "positionBonus": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 6,
-        "plays": 14,
-        "videos": 3,
-        "raw_points": 533,
-        "penalty_base": 533,
-        "multiplier": 2.78,
+        "thumbs": 7,
+        "plays": 16,
+        "videos": 4,
+        "raw_points": 645,
+        "penalty_base": 645,
+        "multiplier": 3.15,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
-      "previous_rank": 9,
-      "score": 748.6,
+      "previous_rank": 10,
+      "score": 753.3,
       "rank": 10
     },
     {
@@ -322,11 +322,41 @@
         "penalty_base": 225.5,
         "multiplier": 1.75,
         "is_newcomer": false,
-        "effective_age": 12.5
+        "effective_age": 13.5
       },
-      "previous_rank": 10,
-      "score": 629.7,
+      "previous_rank": 11,
+      "score": 606.5,
       "rank": 11
+    },
+    {
+      "id": "spotify-00Z9WmVcIwku3jznYh7KkT",
+      "song_title": "Pepe Deluxé - Operation Thunderbroom",
+      "author": "Pepe Deluxé",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a4e0ef99fe258d952a495b75",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/00Z9WmVcIwku3jznYh7KkT",
+      "discord_url": "https://open.spotify.com/track/00Z9WmVcIwku3jznYh7KkT",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 4,
+      "web_plays": 4,
+      "web_videos": 0,
+      "positionBonus": 9,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 4,
+        "plays": 4,
+        "videos": 0,
+        "raw_points": 126,
+        "penalty_base": 126,
+        "multiplier": 1.42,
+        "is_newcomer": false,
+        "effective_age": 12
+      },
+      "previous_rank": 13,
+      "score": 605.3,
+      "rank": 12
     },
     {
       "id": "spotify-1o5hUnQpsXDe1UPsWENm9b",
@@ -341,7 +371,7 @@
       "web_thumbs": 2,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 16,
+      "positionBonus": 17,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -352,40 +382,10 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 11
-      },
-      "previous_rank": 11,
-      "score": 620,
-      "rank": 12
-    },
-    {
-      "id": "spotify-00Z9WmVcIwku3jznYh7KkT",
-      "song_title": "Pepe Deluxé - Operation Thunderbroom",
-      "author": "Pepe Deluxé",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a4e0ef99fe258d952a495b75",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/00Z9WmVcIwku3jznYh7KkT",
-      "discord_url": "https://open.spotify.com/track/00Z9WmVcIwku3jznYh7KkT",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 3,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 6,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 94.5,
-        "penalty_base": 94.5,
-        "multiplier": 1.31,
-        "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
       "previous_rank": 12,
-      "score": 605.2,
+      "score": 603.1,
       "rank": 13
     },
     {
@@ -401,7 +401,7 @@
       "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -412,10 +412,10 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
       "previous_rank": 14,
-      "score": 592.3,
+      "score": 577.2,
       "rank": 14
     },
     {
@@ -431,7 +431,7 @@
       "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 7,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -442,10 +442,10 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
-      "previous_rank": 13,
-      "score": 590.3,
+      "previous_rank": 15,
+      "score": 575.2,
       "rank": 15
     },
     {
@@ -461,7 +461,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -472,10 +472,10 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
-      "previous_rank": 15,
-      "score": 586.2,
+      "previous_rank": 16,
+      "score": 569.1,
       "rank": 16
     },
     {
@@ -491,7 +491,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -502,41 +502,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 11
-      },
-      "previous_rank": 16,
-      "score": 573.8,
-      "rank": 17
-    },
-    {
-      "id": "spotify-7pBCBVZqTLm28uVyNelCp4",
-      "song_title": "DJ Zarek, OXXED, WUXI - OMNISCIENT",
-      "author": "DJ Zarek, OXXED, WUXI",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d89e6bf89e97e898b1d96656",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7pBCBVZqTLm28uVyNelCp4",
-      "discord_url": "https://open.spotify.com/track/7pBCBVZqTLm28uVyNelCp4",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 8,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
       "previous_rank": 17,
-      "score": 559.5,
-      "rank": 18
+      "score": 551.7,
+      "rank": 17
     },
     {
       "id": "spotify-4aCLOxtiN3FFfxdFo2Iu6o",
@@ -551,7 +521,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 4,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -562,10 +532,40 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
+      },
+      "previous_rank": 19,
+      "score": 545.2,
+      "rank": 18
+    },
+    {
+      "id": "spotify-7pBCBVZqTLm28uVyNelCp4",
+      "song_title": "DJ Zarek, OXXED, WUXI - OMNISCIENT",
+      "author": "DJ Zarek, OXXED, WUXI",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d89e6bf89e97e898b1d96656",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7pBCBVZqTLm28uVyNelCp4",
+      "discord_url": "https://open.spotify.com/track/7pBCBVZqTLm28uVyNelCp4",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 5,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 12
       },
       "previous_rank": 18,
-      "score": 555.5,
+      "score": 543.2,
       "rank": 19
     },
     {
@@ -592,10 +592,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 14
+        "effective_age": 15
       },
-      "previous_rank": 19,
-      "score": 523.5,
+      "previous_rank": 20,
+      "score": 509.4,
       "rank": 20
     },
     {
@@ -622,10 +622,10 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 14
+        "effective_age": 15
       },
-      "previous_rank": 20,
-      "score": 522,
+      "previous_rank": 21,
+      "score": 508.3,
       "rank": 21
     },
     {
@@ -641,7 +641,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 2,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -652,10 +652,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 14
+        "effective_age": 15
       },
       "previous_rank": 22,
-      "score": 513,
+      "score": 503.7,
       "rank": 22
     },
     {
@@ -681,10 +681,10 @@
         "penalty_base": 222.5,
         "multiplier": 1.74,
         "is_newcomer": false,
-        "effective_age": 17.8
+        "effective_age": 18.8
       },
-      "previous_rank": 21,
-      "score": 504.1,
+      "previous_rank": 23,
+      "score": 481,
       "rank": 23
     },
     {
@@ -711,10 +711,10 @@
         "penalty_base": 153,
         "multiplier": 1.51,
         "is_newcomer": false,
-        "effective_age": 18
+        "effective_age": 19
       },
-      "previous_rank": 23,
-      "score": 488,
+      "previous_rank": 24,
+      "score": 468,
       "rank": 24
     },
     {
@@ -741,10 +741,10 @@
         "penalty_base": 143.5,
         "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 18
+        "effective_age": 19
       },
-      "previous_rank": 24,
-      "score": 485.2,
+      "previous_rank": 25,
+      "score": 465.6,
       "rank": 25
     },
     {
@@ -758,23 +758,23 @@
       "discord_url": "https://open.spotify.com/track/3KqN8Y8QspnJVW6mw58e7W",
       "posted_at": "2026-09-04T00:00:00.000Z",
       "web_thumbs": 1,
-      "web_plays": 3,
+      "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 7,
+      "positionBonus": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
-        "plays": 3,
+        "plays": 4,
         "videos": 0,
-        "raw_points": 72.5,
-        "penalty_base": 72.5,
-        "multiplier": 1.24,
+        "raw_points": 93,
+        "penalty_base": 93,
+        "multiplier": 1.31,
         "is_newcomer": false,
-        "effective_age": 18
+        "effective_age": 19
       },
-      "previous_rank": 25,
-      "score": 477.7,
+      "previous_rank": 26,
+      "score": 459.3,
       "rank": 26
     },
     {
@@ -787,24 +787,24 @@
       "audio_url": "https://open.spotify.com/track/5TURhM2FvhMXGM0Nz2fJtq",
       "discord_url": "https://open.spotify.com/track/5TURhM2FvhMXGM0Nz2fJtq",
       "posted_at": "2026-09-04T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 2,
+      "web_thumbs": 2,
+      "web_plays": 3,
       "web_videos": 0,
       "positionBonus": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
-        "plays": 2,
+        "thumbs": 2,
+        "plays": 3,
         "videos": 0,
-        "raw_points": 52,
-        "penalty_base": 52,
-        "multiplier": 1.17,
+        "raw_points": 83.5,
+        "penalty_base": 83.5,
+        "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 18
+        "effective_age": 19
       },
-      "previous_rank": 26,
-      "score": 468.8,
+      "previous_rank": 27,
+      "score": 457.9,
       "rank": 27
     },
     {
@@ -831,10 +831,10 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 18
+        "effective_age": 19
       },
-      "previous_rank": 27,
-      "score": 465,
+      "previous_rank": 28,
+      "score": 451.3,
       "rank": 28
     },
     {
@@ -861,10 +861,10 @@
         "penalty_base": 22,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 18
+        "effective_age": 19
       },
-      "previous_rank": 28,
-      "score": 464.1,
+      "previous_rank": 29,
+      "score": 449.9,
       "rank": 29
     },
     {
@@ -891,10 +891,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 18
+        "effective_age": 19
       },
-      "previous_rank": 29,
-      "score": 463.8,
+      "previous_rank": 30,
+      "score": 449.7,
       "rank": 30
     }
   ]
