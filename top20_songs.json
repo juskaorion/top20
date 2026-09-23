@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T23:36:32.996Z",
+  "last_updated": "2026-09-23T23:40:34.856Z",
   "top_songs": [
     {
       "id": "1549447083512041623",
@@ -12,23 +12,141 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1549447083512041623",
       "posted_at": "2026-09-15T15:49:32.044Z",
       "web_thumbs": 5,
-      "web_plays": 18,
+      "web_plays": 19,
       "web_videos": 4,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 5,
-        "plays": 18,
+        "plays": 19,
         "videos": 4,
-        "raw_points": 644,
-        "penalty_base": 644,
-        "multiplier": 3.15,
+        "raw_points": 664.5,
+        "penalty_base": 664.5,
+        "multiplier": 3.21,
         "is_newcomer": false,
-        "effective_age": 7.3
+        "effective_age": 8.3
       },
       "previous_rank": 1,
-      "score": 1032.9,
+      "score": 1003.1,
       "rank": 1
+    },
+    {
+      "id": "spotify-4mOzVMHUTyqMnzy6xpHNwX",
+      "song_title": "Darude - Sandstorm - (Storm 25 Mix)",
+      "author": "Darude",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27397ee213d9ca829ce46286cb8",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4mOzVMHUTyqMnzy6xpHNwX",
+      "discord_url": "https://open.spotify.com/track/4mOzVMHUTyqMnzy6xpHNwX",
+      "posted_at": "2026-09-18T00:00:00.000Z",
+      "web_thumbs": 3,
+      "web_plays": 3,
+      "web_videos": 1,
+      "positionBonus": 18,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 3,
+        "videos": 1,
+        "raw_points": 154.5,
+        "penalty_base": 154.5,
+        "multiplier": 1.52,
+        "is_newcomer": true,
+        "effective_age": 3
+      },
+      "previous_rank": 3,
+      "score": 911.4,
+      "rank": 2
+    },
+    {
+      "id": "1552341215159124098",
+      "song_title": "Junkkataxi - KIKAPOO",
+      "author": "Junkkataxi",
+      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
+      "message_text": "tuli tämä vastaan yhtäkkiä niin exporttasin, tää tais olla muistaakseni <@498823068643229700> idea joskus 🤣",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1790206809803",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1552341215159124098",
+      "posted_at": "2026-09-23T15:29:46.799Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 8,
+        "comments": 4,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 110,
+        "penalty_base": 110,
+        "multiplier": 1.37,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": null,
+      "score": 910,
+      "rank": 3
+    },
+    {
+      "id": "1551506620717076560",
+      "song_title": "jemejoo_ - toksiset farkut",
+      "author": "jemejoo_",
+      "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/191ad6fd019fd40ef4f8df2d0823579d.webp?size=128",
+      "message_text": "levikset-mashupit trendaillu tiktokissa nii laitetaas oma mitä oon soitellu kevääst asti jakoon",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1790206812218",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1551506620717076560",
+      "posted_at": "2026-09-21T08:13:23.978Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 1,
+      "stats": {
+        "reactions": 2,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 1,
+        "raw_points": 75,
+        "penalty_base": 75,
+        "multiplier": 1.25,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 5,
+      "score": 875,
+      "rank": 4
+    },
+    {
+      "id": "spotify-34XrtincHRDtIte3AxEVkz",
+      "song_title": "Freestyle Man - Spazzo",
+      "author": "Freestyle Man",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27350492123defe3a7166511a4b",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
+      "discord_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
+      "posted_at": "2026-09-18T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 17,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 52,
+        "penalty_base": 52,
+        "multiplier": 1.17,
+        "is_newcomer": true,
+        "effective_age": 3
+      },
+      "previous_rank": 4,
+      "score": 821.7,
+      "rank": 5
     },
     {
       "id": "spotify-5hcPsbXz9DGqkbGTLYc5nS",
@@ -43,7 +161,7 @@
       "web_thumbs": 5,
       "web_plays": 12,
       "web_videos": 6,
-      "positionBonus": 13,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -54,100 +172,11 @@
         "penalty_base": 661,
         "multiplier": 3.2,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
       "previous_rank": 2,
-      "score": 855.8,
-      "rank": 2
-    },
-    {
-      "id": "spotify-4mOzVMHUTyqMnzy6xpHNwX",
-      "song_title": "Darude - Sandstorm - (Storm 25 Mix)",
-      "author": "Darude",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27397ee213d9ca829ce46286cb8",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4mOzVMHUTyqMnzy6xpHNwX",
-      "discord_url": "https://open.spotify.com/track/4mOzVMHUTyqMnzy6xpHNwX",
-      "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 2,
-      "web_videos": 0,
-      "positionBonus": 16,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 63,
-        "penalty_base": 63,
-        "multiplier": 1.21,
-        "is_newcomer": true,
-        "effective_age": 2
-      },
-      "previous_rank": 3,
-      "score": 846.6,
-      "rank": 3
-    },
-    {
-      "id": "spotify-34XrtincHRDtIte3AxEVkz",
-      "song_title": "Freestyle Man - Spazzo",
-      "author": "Freestyle Man",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27350492123defe3a7166511a4b",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
-      "discord_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
-      "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 15,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 31.5,
-        "penalty_base": 31.5,
-        "multiplier": 1.1,
-        "is_newcomer": true,
-        "effective_age": 2
-      },
-      "previous_rank": 4,
-      "score": 816.9,
-      "rank": 4
-    },
-    {
-      "id": "1551506620717076560",
-      "song_title": "jemejoo_ - toksiset farkut",
-      "author": "jemejoo_",
-      "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/191ad6fd019fd40ef4f8df2d0823579d.webp?size=128",
-      "message_text": "levikset-mashupit trendaillu tiktokissa nii laitetaas oma mitä oon soitellu kevääst asti jakoon",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1790120192996",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1551506620717076560",
-      "posted_at": "2026-09-21T08:13:23.978Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "stats": {
-        "reactions": 2,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 15,
-        "penalty_base": 15,
-        "multiplier": 1.05,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 7,
-      "score": 815,
-      "rank": 5
+      "score": 810.4,
+      "rank": 6
     },
     {
       "id": "spotify-55Wt7Mvu95ddTKOs5kRV62",
@@ -173,11 +202,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 2
+        "effective_age": 3
       },
-      "previous_rank": 9,
-      "score": 811.9,
-      "rank": 6
+      "previous_rank": 6,
+      "score": 797.4,
+      "rank": 7
     },
     {
       "id": "spotify-77vkRlG3P5irJws7LJ9RvO",
@@ -192,7 +221,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 19,
+      "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -203,11 +232,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 2
+        "effective_age": 3
       },
-      "previous_rank": 5,
-      "score": 810.9,
-      "rank": 7
+      "previous_rank": 7,
+      "score": 793.4,
+      "rank": 8
     },
     {
       "id": "spotify-0XwW547V8kkkyjIvUQeqez",
@@ -233,11 +262,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 2
+        "effective_age": 3
       },
-      "previous_rank": 6,
-      "score": 805.9,
-      "rank": 8
+      "previous_rank": 8,
+      "score": 791.4,
+      "rank": 9
     },
     {
       "id": "spotify-0ZQy76iiUxWgP19v45KWU6",
@@ -252,7 +281,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 11,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -263,11 +292,11 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": true,
-        "effective_age": 2
+        "effective_age": 3
       },
-      "previous_rank": 8,
-      "score": 794.2,
-      "rank": 9
+      "previous_rank": 9,
+      "score": 781.2,
+      "rank": 10
     },
     {
       "id": "spotify-2JPcJtjUbwvyOrkqvnngRs",
@@ -282,7 +311,7 @@
       "web_thumbs": 7,
       "web_plays": 16,
       "web_videos": 4,
-      "positionBonus": 3,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -293,39 +322,10 @@
         "penalty_base": 645,
         "multiplier": 3.15,
         "is_newcomer": false,
-        "effective_age": 14
+        "effective_age": 15
       },
       "previous_rank": 10,
-      "score": 753.3,
-      "rank": 10
-    },
-    {
-      "id": "1547212256272715796",
-      "song_title": "Isac Elliot - Mannerheim WBmix Extended",
-      "author": "Isac Elliot",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1077164420892987442/a833c784955a1100e4a26792e8626e46.webp?size=128",
-      "message_text": "Pitkästä aikaa tuli käänneltyä ja väänneltyä muutamia biisejä uuteen uskoon. Tässä tällanen kiukkupussiremix mannerheim-biisistä😅",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1790035485260",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1547212256272715796",
-      "posted_at": "2026-09-09T11:49:07.709Z",
-      "web_thumbs": 1,
-      "web_plays": 10,
-      "web_videos": 0,
-      "stats": {
-        "reactions": 2,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 10,
-        "videos": 0,
-        "raw_points": 225.5,
-        "penalty_base": 225.5,
-        "multiplier": 1.75,
-        "is_newcomer": false,
-        "effective_age": 13.5
-      },
-      "previous_rank": 11,
-      "score": 606.5,
+      "score": 711.7,
       "rank": 11
     },
     {
@@ -341,7 +341,7 @@
       "web_thumbs": 4,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -352,10 +352,10 @@
         "penalty_base": 126,
         "multiplier": 1.42,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
-      "previous_rank": 13,
-      "score": 605.3,
+      "previous_rank": 12,
+      "score": 585.1,
       "rank": 12
     },
     {
@@ -371,7 +371,7 @@
       "web_thumbs": 2,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -382,11 +382,40 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
-      "previous_rank": 12,
-      "score": 603.1,
+      "previous_rank": 13,
+      "score": 582.9,
       "rank": 13
+    },
+    {
+      "id": "1547212256272715796",
+      "song_title": "Isac Elliot - Mannerheim WBmix Extended",
+      "author": "Isac Elliot",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1077164420892987442/a833c784955a1100e4a26792e8626e46.webp?size=128",
+      "message_text": "Pitkästä aikaa tuli käänneltyä ja väänneltyä muutamia biisejä uuteen uskoon. Tässä tällanen kiukkupussiremix mannerheim-biisistä😅",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1790206815050",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1547212256272715796",
+      "posted_at": "2026-09-09T11:49:07.709Z",
+      "web_thumbs": 1,
+      "web_plays": 10,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 2,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 10,
+        "videos": 0,
+        "raw_points": 225.5,
+        "penalty_base": 225.5,
+        "multiplier": 1.75,
+        "is_newcomer": false,
+        "effective_age": 14.5
+      },
+      "previous_rank": 11,
+      "score": 582.8,
+      "rank": 14
     },
     {
       "id": "spotify-7z3VIwgNnjwOjFtLzNAi4o",
@@ -412,11 +441,11 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
       "previous_rank": 14,
-      "score": 577.2,
-      "rank": 14
+      "score": 560.9,
+      "rank": 15
     },
     {
       "id": "spotify-5X1oLVPf6UHnUaGbCwCbLH",
@@ -431,7 +460,7 @@
       "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -442,11 +471,11 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
       "previous_rank": 15,
-      "score": 575.2,
-      "rank": 15
+      "score": 559.9,
+      "rank": 16
     },
     {
       "id": "spotify-6JmJCPlfl3HC4bFTldffyj",
@@ -461,7 +490,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -472,11 +501,11 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
       "previous_rank": 16,
-      "score": 569.1,
-      "rank": 16
+      "score": 554.7,
+      "rank": 17
     },
     {
       "id": "spotify-06ZdagcN7jWwnFKSVkKcaH",
@@ -491,7 +520,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 4,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -502,11 +531,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
       "previous_rank": 17,
-      "score": 551.7,
-      "rank": 17
+      "score": 539.2,
+      "rank": 18
     },
     {
       "id": "spotify-4aCLOxtiN3FFfxdFo2Iu6o",
@@ -532,11 +561,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
-      "previous_rank": 19,
-      "score": 545.2,
-      "rank": 18
+      "previous_rank": 18,
+      "score": 531.7,
+      "rank": 19
     },
     {
       "id": "spotify-7pBCBVZqTLm28uVyNelCp4",
@@ -551,7 +580,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -562,11 +591,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
-      "previous_rank": 18,
-      "score": 543.2,
-      "rank": 19
+      "previous_rank": 19,
+      "score": 527.7,
+      "rank": 20
     },
     {
       "id": "spotify-4aoovbG5dbxNuVhO0Z4ZHv",
@@ -592,11 +621,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
       "previous_rank": 20,
-      "score": 509.4,
-      "rank": 20
+      "score": 494.9,
+      "rank": 21
     },
     {
       "id": "spotify-6xPQQ3V5VeZu5sNcwMB3uU",
@@ -622,11 +651,11 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
       "previous_rank": 21,
-      "score": 508.3,
-      "rank": 21
+      "score": 494.3,
+      "rank": 22
     },
     {
       "id": "spotify-3j3nJiRvfTShOgezEBAwfP",
@@ -652,11 +681,41 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
       "previous_rank": 22,
-      "score": 503.7,
-      "rank": 22
+      "score": 490.2,
+      "rank": 23
+    },
+    {
+      "id": "spotify-459LvhAuWaA6cBGIYjH6S1",
+      "song_title": "Axel Thesleff, Milana May, THEØNESS - Holy Mama, Holy Papa",
+      "author": "Axel Thesleff, Milana May, THEØNESS",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737c9a6d0b56a1b1da9c9f52d2",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/459LvhAuWaA6cBGIYjH6S1",
+      "discord_url": "https://open.spotify.com/track/459LvhAuWaA6cBGIYjH6S1",
+      "posted_at": "2026-09-08T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 16
+      },
+      "previous_rank": null,
+      "score": 485.2,
+      "rank": 24
     },
     {
       "id": "1545297122105102396",
@@ -665,7 +724,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
       "message_text": "Siitä mun remix Eversti Sandelsista jakoon! Masterissa <@1190615066261860366> 💪",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_23.mp3?v=1790035504408",
+      "audio_url": "https://www.djorion.fi/top20//rank_25.mp3?v=1790206834856",
       "discord_url": "https://discord.com/channels/1174754304758907002/1404380880364900425/1545297122105102396",
       "posted_at": "2026-09-04T04:59:04.142Z",
       "web_thumbs": 2,
@@ -681,11 +740,41 @@
         "penalty_base": 222.5,
         "multiplier": 1.74,
         "is_newcomer": false,
-        "effective_age": 18.8
+        "effective_age": 19.8
       },
       "previous_rank": 23,
-      "score": 481,
-      "rank": 23
+      "score": 457.5,
+      "rank": 25
+    },
+    {
+      "id": "spotify-3kcU4sBCrp7h5uk79TyNiH",
+      "song_title": "Nenerchy - Holtiton",
+      "author": "Nenerchy",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2739cb879034e908f138bc7284d",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3kcU4sBCrp7h5uk79TyNiH",
+      "discord_url": "https://open.spotify.com/track/3kcU4sBCrp7h5uk79TyNiH",
+      "posted_at": "2026-09-04T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 3,
+      "web_videos": 1,
+      "positionBonus": 5,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 3,
+        "videos": 1,
+        "raw_points": 143.5,
+        "penalty_base": 143.5,
+        "multiplier": 1.48,
+        "is_newcomer": false,
+        "effective_age": 20
+      },
+      "previous_rank": 25,
+      "score": 449.6,
+      "rank": 26
     },
     {
       "id": "spotify-0pdHUqIO7lvfn5Xc2OHXeN",
@@ -711,41 +800,11 @@
         "penalty_base": 153,
         "multiplier": 1.51,
         "is_newcomer": false,
-        "effective_age": 19
+        "effective_age": 20
       },
       "previous_rank": 24,
-      "score": 468,
-      "rank": 24
-    },
-    {
-      "id": "spotify-3kcU4sBCrp7h5uk79TyNiH",
-      "song_title": "Nenerchy - Holtiton",
-      "author": "Nenerchy",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2739cb879034e908f138bc7284d",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3kcU4sBCrp7h5uk79TyNiH",
-      "discord_url": "https://open.spotify.com/track/3kcU4sBCrp7h5uk79TyNiH",
-      "posted_at": "2026-09-04T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 3,
-      "web_videos": 1,
-      "positionBonus": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 3,
-        "videos": 1,
-        "raw_points": 143.5,
-        "penalty_base": 143.5,
-        "multiplier": 1.48,
-        "is_newcomer": false,
-        "effective_age": 19
-      },
-      "previous_rank": 25,
-      "score": 465.6,
-      "rank": 25
+      "score": 447.6,
+      "rank": 27
     },
     {
       "id": "spotify-3KqN8Y8QspnJVW6mw58e7W",
@@ -771,11 +830,11 @@
         "penalty_base": 93,
         "multiplier": 1.31,
         "is_newcomer": false,
-        "effective_age": 19
+        "effective_age": 20
       },
       "previous_rank": 26,
-      "score": 459.3,
-      "rank": 26
+      "score": 441.5,
+      "rank": 28
     },
     {
       "id": "spotify-5TURhM2FvhMXGM0Nz2fJtq",
@@ -801,11 +860,11 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 19
+        "effective_age": 20
       },
       "previous_rank": 27,
-      "score": 457.9,
-      "rank": 27
+      "score": 440.6,
+      "rank": 29
     },
     {
       "id": "spotify-0s0WqQdzPdMADJ8MH40B75",
@@ -831,70 +890,10 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 19
+        "effective_age": 20
       },
       "previous_rank": 28,
-      "score": 451.3,
-      "rank": 28
-    },
-    {
-      "id": "spotify-7eTU5oHbEHOIy4irjtSFdb",
-      "song_title": "Digital Mindz, Radicator - Universe",
-      "author": "Digital Mindz, Radicator",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27314d310b1631126400248cb09",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7eTU5oHbEHOIy4irjtSFdb",
-      "discord_url": "https://open.spotify.com/track/7eTU5oHbEHOIy4irjtSFdb",
-      "posted_at": "2026-09-04T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 3,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 22,
-        "penalty_base": 22,
-        "multiplier": 1.07,
-        "is_newcomer": false,
-        "effective_age": 19
-      },
-      "previous_rank": 29,
-      "score": 449.9,
-      "rank": 29
-    },
-    {
-      "id": "spotify-5cMAu4AB42oY31EN5VqCAf",
-      "song_title": "Kooma - stop motion - Sped Up",
-      "author": "Kooma",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733c6b73f4b9092ff79374d0fd",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5cMAu4AB42oY31EN5VqCAf",
-      "discord_url": "https://open.spotify.com/track/5cMAu4AB42oY31EN5VqCAf",
-      "posted_at": "2026-09-04T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 3,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": false,
-        "effective_age": 19
-      },
-      "previous_rank": 30,
-      "score": 449.7,
+      "score": 437.3,
       "rank": 30
     }
   ]
