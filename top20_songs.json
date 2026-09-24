@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-09-23T23:40:34.856Z",
+  "last_updated": "2026-09-24T23:53:07.151Z",
   "top_songs": [
+    {
+      "id": "1552341215159124098",
+      "song_title": "Junkkataxi - KIKAPOO",
+      "author": "Junkkataxi",
+      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
+      "message_text": "tuli tämä vastaan yhtäkkiä niin exporttasin, tää tais olla muistaakseni <@498823068643229700> idea joskus 🤣",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1790293962858",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1552341215159124098",
+      "posted_at": "2026-09-23T15:29:46.799Z",
+      "web_thumbs": 1,
+      "web_plays": 3,
+      "web_videos": 1,
+      "stats": {
+        "reactions": 8,
+        "comments": 4,
+        "thumbs": 1,
+        "plays": 3,
+        "videos": 1,
+        "raw_points": 237,
+        "penalty_base": 237,
+        "multiplier": 1.79,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 3,
+      "score": 1037,
+      "rank": 1
+    },
     {
       "id": "1549447083512041623",
       "song_title": "Depeche ModeAllen Watts Remix feat Swedish House Mafia vs Lykke Li - Enjoy The Happiness (Jays MashUp)",
@@ -8,27 +37,56 @@
       "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
       "message_text": "Viikon muushi tänne myös. 😀",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1789639421980",
+      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1790293965205",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1549447083512041623",
       "posted_at": "2026-09-15T15:49:32.044Z",
       "web_thumbs": 5,
-      "web_plays": 19,
+      "web_plays": 22,
       "web_videos": 4,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 5,
-        "plays": 19,
+        "plays": 22,
         "videos": 4,
-        "raw_points": 664.5,
-        "penalty_base": 664.5,
-        "multiplier": 3.21,
+        "raw_points": 726,
+        "penalty_base": 726,
+        "multiplier": 3.42,
         "is_newcomer": false,
-        "effective_age": 8.3
+        "effective_age": 9.3
       },
       "previous_rank": 1,
-      "score": 1003.1,
-      "rank": 1
+      "score": 995,
+      "rank": 2
+    },
+    {
+      "id": "1551506620717076560",
+      "song_title": "jemejoo_ - toksiset farkut",
+      "author": "jemejoo_",
+      "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/191ad6fd019fd40ef4f8df2d0823579d.webp?size=128",
+      "message_text": "levikset-mashupit trendaillu tiktokissa nii laitetaas oma mitä oon soitellu kevääst asti jakoon",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1790293967413",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1551506620717076560",
+      "posted_at": "2026-09-21T08:13:23.978Z",
+      "web_thumbs": 1,
+      "web_plays": 3,
+      "web_videos": 1,
+      "stats": {
+        "reactions": 2,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 3,
+        "videos": 1,
+        "raw_points": 142,
+        "penalty_base": 142,
+        "multiplier": 1.47,
+        "is_newcomer": true,
+        "effective_age": 0.7
+      },
+      "previous_rank": 4,
+      "score": 929,
+      "rank": 3
     },
     {
       "id": "spotify-4mOzVMHUTyqMnzy6xpHNwX",
@@ -41,82 +99,54 @@
       "discord_url": "https://open.spotify.com/track/4mOzVMHUTyqMnzy6xpHNwX",
       "posted_at": "2026-09-18T00:00:00.000Z",
       "web_thumbs": 3,
-      "web_plays": 3,
+      "web_plays": 4,
       "web_videos": 1,
-      "positionBonus": 18,
+      "positionBonus": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 3,
-        "plays": 3,
+        "plays": 4,
         "videos": 1,
-        "raw_points": 154.5,
-        "penalty_base": 154.5,
-        "multiplier": 1.52,
+        "raw_points": 175,
+        "penalty_base": 175,
+        "multiplier": 1.58,
         "is_newcomer": true,
-        "effective_age": 3
+        "effective_age": 7
       },
-      "previous_rank": 3,
-      "score": 911.4,
-      "rank": 2
+      "previous_rank": 2,
+      "score": 844.5,
+      "rank": 4
     },
     {
-      "id": "1552341215159124098",
-      "song_title": "Junkkataxi - KIKAPOO",
-      "author": "Junkkataxi",
-      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
-      "message_text": "tuli tämä vastaan yhtäkkiä niin exporttasin, tää tais olla muistaakseni <@498823068643229700> idea joskus 🤣",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1790206809803",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1552341215159124098",
-      "posted_at": "2026-09-23T15:29:46.799Z",
+      "id": "spotify-3TxGq1iYc4sRMq6OGh1Ks1",
+      "song_title": "MakeFlame - Silent Descent (Suanda 556)",
+      "author": "MakeFlame",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c16ed619ef34faadaf553e93",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
+      "discord_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
+      "posted_at": "2026-09-23T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
+      "positionBonus": 20,
       "stats": {
-        "reactions": 8,
-        "comments": 4,
+        "reactions": 0,
+        "comments": 0,
         "thumbs": 0,
         "plays": 0,
         "videos": 0,
-        "raw_points": 110,
-        "penalty_base": 110,
-        "multiplier": 1.37,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
         "is_newcomer": true,
         "effective_age": 0
       },
       "previous_rank": null,
-      "score": 910,
-      "rank": 3
-    },
-    {
-      "id": "1551506620717076560",
-      "song_title": "jemejoo_ - toksiset farkut",
-      "author": "jemejoo_",
-      "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/191ad6fd019fd40ef4f8df2d0823579d.webp?size=128",
-      "message_text": "levikset-mashupit trendaillu tiktokissa nii laitetaas oma mitä oon soitellu kevääst asti jakoon",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1790206812218",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1551506620717076560",
-      "posted_at": "2026-09-21T08:13:23.978Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 1,
-      "stats": {
-        "reactions": 2,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 1,
-        "raw_points": 75,
-        "penalty_base": 75,
-        "multiplier": 1.25,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 5,
-      "score": 875,
-      "rank": 4
+      "score": 820,
+      "rank": 5
     },
     {
       "id": "spotify-34XrtincHRDtIte3AxEVkz",
@@ -129,24 +159,24 @@
       "discord_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
       "posted_at": "2026-09-18T00:00:00.000Z",
       "web_thumbs": 1,
-      "web_plays": 2,
+      "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
-        "plays": 2,
+        "plays": 4,
         "videos": 0,
-        "raw_points": 52,
-        "penalty_base": 52,
-        "multiplier": 1.17,
+        "raw_points": 93,
+        "penalty_base": 93,
+        "multiplier": 1.31,
         "is_newcomer": true,
-        "effective_age": 3
+        "effective_age": 7
       },
-      "previous_rank": 4,
-      "score": 821.7,
-      "rank": 5
+      "previous_rank": 5,
+      "score": 782.3,
+      "rank": 6
     },
     {
       "id": "spotify-5hcPsbXz9DGqkbGTLYc5nS",
@@ -159,53 +189,23 @@
       "discord_url": "https://open.spotify.com/track/5hcPsbXz9DGqkbGTLYc5nS",
       "posted_at": "2026-09-11T00:00:00.000Z",
       "web_thumbs": 5,
-      "web_plays": 12,
+      "web_plays": 13,
       "web_videos": 6,
-      "positionBonus": 11,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 5,
-        "plays": 12,
+        "plays": 13,
         "videos": 6,
-        "raw_points": 661,
-        "penalty_base": 661,
-        "multiplier": 3.2,
+        "raw_points": 681.5,
+        "penalty_base": 681.5,
+        "multiplier": 3.27,
         "is_newcomer": false,
-        "effective_age": 13
-      },
-      "previous_rank": 2,
-      "score": 810.4,
-      "rank": 6
-    },
-    {
-      "id": "spotify-55Wt7Mvu95ddTKOs5kRV62",
-      "song_title": "Kooma - 4 THOSE WHO CHOSE THE EXIT SIGN <\\3",
-      "author": "Kooma",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273136ef36a5e8754c59438bdaa",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/55Wt7Mvu95ddTKOs5kRV62",
-      "discord_url": "https://open.spotify.com/track/55Wt7Mvu95ddTKOs5kRV62",
-      "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 20,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 3
+        "effective_age": 14
       },
       "previous_rank": 6,
-      "score": 797.4,
+      "score": 777.4,
       "rank": 7
     },
     {
@@ -221,6 +221,36 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
+      "positionBonus": 17,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 7
+      },
+      "previous_rank": 8,
+      "score": 736.6,
+      "rank": 8
+    },
+    {
+      "id": "spotify-55Wt7Mvu95ddTKOs5kRV62",
+      "song_title": "Kooma - 4 THOSE WHO CHOSE THE EXIT SIGN <\\3",
+      "author": "Kooma",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273136ef36a5e8754c59438bdaa",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/55Wt7Mvu95ddTKOs5kRV62",
+      "discord_url": "https://open.spotify.com/track/55Wt7Mvu95ddTKOs5kRV62",
+      "posted_at": "2026-09-18T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
       "positionBonus": 16,
       "stats": {
         "reactions": 0,
@@ -232,11 +262,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 3
+        "effective_age": 7
       },
       "previous_rank": 7,
-      "score": 793.4,
-      "rank": 8
+      "score": 735.6,
+      "rank": 9
     },
     {
       "id": "spotify-0XwW547V8kkkyjIvUQeqez",
@@ -251,7 +281,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -262,11 +292,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 3
+        "effective_age": 7
       },
-      "previous_rank": 8,
-      "score": 791.4,
-      "rank": 9
+      "previous_rank": 9,
+      "score": 734.6,
+      "rank": 10
     },
     {
       "id": "spotify-0ZQy76iiUxWgP19v45KWU6",
@@ -281,7 +311,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -292,11 +322,41 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": true,
-        "effective_age": 3
+        "effective_age": 7
       },
-      "previous_rank": 9,
-      "score": 781.2,
-      "rank": 10
+      "previous_rank": 10,
+      "score": 724.1,
+      "rank": 11
+    },
+    {
+      "id": "spotify-1zKN0MrtvBzpgOEOS8M6Jf",
+      "song_title": "Forester, YOTTO - Electric Soul - YOTTO Remix",
+      "author": "Forester, YOTTO",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27353e67e1661ecb3828b2d2f9a",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf",
+      "discord_url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf",
+      "posted_at": "2026-09-18T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 9,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 7
+      },
+      "previous_rank": null,
+      "score": 714.6,
+      "rank": 12
     },
     {
       "id": "spotify-2JPcJtjUbwvyOrkqvnngRs",
@@ -322,11 +382,11 @@
         "penalty_base": 645,
         "multiplier": 3.15,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
-      "previous_rank": 10,
-      "score": 711.7,
-      "rank": 11
+      "previous_rank": 11,
+      "score": 668.8,
+      "rank": 13
     },
     {
       "id": "spotify-00Z9WmVcIwku3jznYh7KkT",
@@ -339,24 +399,24 @@
       "discord_url": "https://open.spotify.com/track/00Z9WmVcIwku3jznYh7KkT",
       "posted_at": "2026-09-11T00:00:00.000Z",
       "web_thumbs": 4,
-      "web_plays": 4,
+      "web_plays": 5,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 4,
-        "plays": 4,
+        "plays": 5,
         "videos": 0,
-        "raw_points": 126,
-        "penalty_base": 126,
-        "multiplier": 1.42,
+        "raw_points": 146.5,
+        "penalty_base": 146.5,
+        "multiplier": 1.49,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
       "previous_rank": 12,
-      "score": 585.1,
-      "rank": 12
+      "score": 571.3,
+      "rank": 14
     },
     {
       "id": "spotify-1o5hUnQpsXDe1UPsWENm9b",
@@ -371,7 +431,7 @@
       "web_thumbs": 2,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 15,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -382,11 +442,11 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
       "previous_rank": 13,
-      "score": 582.9,
-      "rank": 13
+      "score": 561.6,
+      "rank": 15
     },
     {
       "id": "1547212256272715796",
@@ -395,7 +455,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1077164420892987442/a833c784955a1100e4a26792e8626e46.webp?size=128",
       "message_text": "Pitkästä aikaa tuli käänneltyä ja väänneltyä muutamia biisejä uuteen uskoon. Tässä tällanen kiukkupussiremix mannerheim-biisistä😅",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1790206815050",
+      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1790293969874",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1547212256272715796",
       "posted_at": "2026-09-09T11:49:07.709Z",
       "web_thumbs": 1,
@@ -411,11 +471,11 @@
         "penalty_base": 225.5,
         "multiplier": 1.75,
         "is_newcomer": false,
-        "effective_age": 14.5
+        "effective_age": 15.5
       },
-      "previous_rank": 11,
-      "score": 582.8,
-      "rank": 14
+      "previous_rank": 14,
+      "score": 558.9,
+      "rank": 16
     },
     {
       "id": "spotify-7z3VIwgNnjwOjFtLzNAi4o",
@@ -441,11 +501,11 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
-      "previous_rank": 14,
-      "score": 560.9,
-      "rank": 15
+      "previous_rank": 15,
+      "score": 544.4,
+      "rank": 17
     },
     {
       "id": "spotify-5X1oLVPf6UHnUaGbCwCbLH",
@@ -460,7 +520,7 @@
       "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -471,11 +531,11 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
-      "previous_rank": 15,
-      "score": 559.9,
-      "rank": 16
+      "previous_rank": 16,
+      "score": 538.4,
+      "rank": 18
     },
     {
       "id": "spotify-6JmJCPlfl3HC4bFTldffyj",
@@ -490,7 +550,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 13,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -501,11 +561,11 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
-      "previous_rank": 16,
-      "score": 554.7,
-      "rank": 17
+      "previous_rank": 17,
+      "score": 534.2,
+      "rank": 19
     },
     {
       "id": "spotify-06ZdagcN7jWwnFKSVkKcaH",
@@ -520,7 +580,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -531,41 +591,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 13
-      },
-      "previous_rank": 17,
-      "score": 539.2,
-      "rank": 18
-    },
-    {
-      "id": "spotify-4aCLOxtiN3FFfxdFo2Iu6o",
-      "song_title": "Psylla - The Allure of Fire",
-      "author": "Psylla",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273bb0424d9e5c0c6fc6892f996",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4aCLOxtiN3FFfxdFo2Iu6o",
-      "discord_url": "https://open.spotify.com/track/4aCLOxtiN3FFfxdFo2Iu6o",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 7,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
       "previous_rank": 18,
-      "score": 531.7,
-      "rank": 19
+      "score": 525.7,
+      "rank": 20
     },
     {
       "id": "spotify-7pBCBVZqTLm28uVyNelCp4",
@@ -580,7 +610,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 3,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -591,11 +621,41 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
+      },
+      "previous_rank": 20,
+      "score": 516.1,
+      "rank": 21
+    },
+    {
+      "id": "spotify-4aCLOxtiN3FFfxdFo2Iu6o",
+      "song_title": "Psylla - The Allure of Fire",
+      "author": "Psylla",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273bb0424d9e5c0c6fc6892f996",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4aCLOxtiN3FFfxdFo2Iu6o",
+      "discord_url": "https://open.spotify.com/track/4aCLOxtiN3FFfxdFo2Iu6o",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 2,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 14
       },
       "previous_rank": 19,
-      "score": 527.7,
-      "rank": 20
+      "score": 513.1,
+      "rank": 22
     },
     {
       "id": "spotify-4aoovbG5dbxNuVhO0Z4ZHv",
@@ -621,11 +681,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 20,
-      "score": 494.9,
-      "rank": 21
+      "previous_rank": 21,
+      "score": 480.4,
+      "rank": 23
     },
     {
       "id": "spotify-6xPQQ3V5VeZu5sNcwMB3uU",
@@ -651,11 +711,11 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 21,
-      "score": 494.3,
-      "rank": 22
+      "previous_rank": 22,
+      "score": 480.2,
+      "rank": 24
     },
     {
       "id": "spotify-3j3nJiRvfTShOgezEBAwfP",
@@ -681,11 +741,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 22,
-      "score": 490.2,
-      "rank": 23
+      "previous_rank": 23,
+      "score": 476.6,
+      "rank": 25
     },
     {
       "id": "spotify-459LvhAuWaA6cBGIYjH6S1",
@@ -711,11 +771,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": null,
-      "score": 485.2,
-      "rank": 24
+      "previous_rank": 24,
+      "score": 471.6,
+      "rank": 26
     },
     {
       "id": "1545297122105102396",
@@ -724,7 +784,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
       "message_text": "Siitä mun remix Eversti Sandelsista jakoon! Masterissa <@1190615066261860366> 💪",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_25.mp3?v=1790206834856",
+      "audio_url": "https://www.djorion.fi/top20//rank_27.mp3?v=1790293987151",
       "discord_url": "https://discord.com/channels/1174754304758907002/1404380880364900425/1545297122105102396",
       "posted_at": "2026-09-04T04:59:04.142Z",
       "web_thumbs": 2,
@@ -740,11 +800,11 @@
         "penalty_base": 222.5,
         "multiplier": 1.74,
         "is_newcomer": false,
-        "effective_age": 19.8
+        "effective_age": 20.8
       },
-      "previous_rank": 23,
-      "score": 457.5,
-      "rank": 25
+      "previous_rank": 25,
+      "score": 433.7,
+      "rank": 27
     },
     {
       "id": "spotify-3kcU4sBCrp7h5uk79TyNiH",
@@ -770,11 +830,11 @@
         "penalty_base": 143.5,
         "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 20
+        "effective_age": 21
       },
-      "previous_rank": 25,
-      "score": 449.6,
-      "rank": 26
+      "previous_rank": 26,
+      "score": 429.5,
+      "rank": 28
     },
     {
       "id": "spotify-0pdHUqIO7lvfn5Xc2OHXeN",
@@ -800,11 +860,11 @@
         "penalty_base": 153,
         "multiplier": 1.51,
         "is_newcomer": false,
-        "effective_age": 20
+        "effective_age": 21
       },
-      "previous_rank": 24,
-      "score": 447.6,
-      "rank": 27
+      "previous_rank": 27,
+      "score": 427,
+      "rank": 29
     },
     {
       "id": "spotify-3KqN8Y8QspnJVW6mw58e7W",
@@ -817,83 +877,23 @@
       "discord_url": "https://open.spotify.com/track/3KqN8Y8QspnJVW6mw58e7W",
       "posted_at": "2026-09-04T00:00:00.000Z",
       "web_thumbs": 1,
-      "web_plays": 4,
+      "web_plays": 5,
       "web_videos": 0,
-      "positionBonus": 2,
+      "positionBonus": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
-        "plays": 4,
+        "plays": 5,
         "videos": 0,
-        "raw_points": 93,
-        "penalty_base": 93,
-        "multiplier": 1.31,
+        "raw_points": 113.5,
+        "penalty_base": 113.5,
+        "multiplier": 1.38,
         "is_newcomer": false,
-        "effective_age": 20
-      },
-      "previous_rank": 26,
-      "score": 441.5,
-      "rank": 28
-    },
-    {
-      "id": "spotify-5TURhM2FvhMXGM0Nz2fJtq",
-      "song_title": "Physics - False Friend",
-      "author": "Physics",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27366d3c2591748aded3dff7334",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5TURhM2FvhMXGM0Nz2fJtq",
-      "discord_url": "https://open.spotify.com/track/5TURhM2FvhMXGM0Nz2fJtq",
-      "posted_at": "2026-09-04T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 83.5,
-        "penalty_base": 83.5,
-        "multiplier": 1.28,
-        "is_newcomer": false,
-        "effective_age": 20
-      },
-      "previous_rank": 27,
-      "score": 440.6,
-      "rank": 29
-    },
-    {
-      "id": "spotify-0s0WqQdzPdMADJ8MH40B75",
-      "song_title": "Thomas Will, Chris Candela - Time's Up - Extended",
-      "author": "Thomas Will, Chris Candela",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734cba19b9c6a1d96da7122537",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0s0WqQdzPdMADJ8MH40B75",
-      "discord_url": "https://open.spotify.com/track/0s0WqQdzPdMADJ8MH40B75",
-      "posted_at": "2026-09-04T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 6,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 11,
-        "penalty_base": 11,
-        "multiplier": 1.04,
-        "is_newcomer": false,
-        "effective_age": 20
+        "effective_age": 21
       },
       "previous_rank": 28,
-      "score": 437.3,
+      "score": 425.8,
       "rank": 30
     }
   ]
