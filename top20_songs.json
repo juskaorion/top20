@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T00:25:20.117Z",
+  "last_updated": "2026-10-01T00:33:08.825Z",
   "top_songs": [
     {
       "id": "spotify-3TxGq1iYc4sRMq6OGh1Ks1",
@@ -11,24 +11,24 @@
       "audio_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
       "discord_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
       "posted_at": "2026-09-23T00:00:00.000Z",
-      "web_thumbs": 13,
-      "web_plays": 12,
-      "web_videos": 5,
-      "positionBonus": 13,
+      "web_thumbs": 14,
+      "web_plays": 13,
+      "web_videos": 6,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 13,
-        "plays": 12,
-        "videos": 5,
-        "raw_points": 689,
-        "penalty_base": 689,
-        "multiplier": 3.3,
+        "thumbs": 14,
+        "plays": 13,
+        "videos": 6,
+        "raw_points": 780.5,
+        "penalty_base": 780.5,
+        "multiplier": 3.6,
         "is_newcomer": false,
-        "effective_age": 7
+        "effective_age": 8
       },
       "previous_rank": 1,
-      "score": 1089.7,
+      "score": 1100.4,
       "rank": 1
     },
     {
@@ -41,23 +41,23 @@
       "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1790465776664",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1552341215159124098",
       "posted_at": "2026-09-23T15:29:46.799Z",
-      "web_thumbs": 4,
-      "web_plays": 13,
+      "web_thumbs": 5,
+      "web_plays": 14,
       "web_videos": 2,
       "stats": {
         "reactions": 9,
         "comments": 4,
-        "thumbs": 4,
-        "plays": 13,
+        "thumbs": 5,
+        "plays": 14,
         "videos": 2,
-        "raw_points": 526,
-        "penalty_base": 526,
-        "multiplier": 2.75,
-        "is_newcomer": true,
-        "effective_age": 6.4
+        "raw_points": 552,
+        "penalty_base": 552,
+        "multiplier": 2.84,
+        "is_newcomer": false,
+        "effective_age": 7.4
       },
       "previous_rank": 2,
-      "score": 1089.2,
+      "score": 969.2,
       "rank": 2
     },
     {
@@ -70,25 +70,54 @@
       "audio_url": "https://open.spotify.com/track/6r2R2CzNrujR3NmlCwoKlL",
       "discord_url": "https://open.spotify.com/track/6r2R2CzNrujR3NmlCwoKlL",
       "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 3,
+      "web_thumbs": 3,
+      "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 16,
+      "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 2,
-        "plays": 3,
+        "thumbs": 3,
+        "plays": 4,
         "videos": 0,
-        "raw_points": 83.5,
-        "penalty_base": 83.5,
-        "multiplier": 1.28,
+        "raw_points": 115,
+        "penalty_base": 115,
+        "multiplier": 1.38,
         "is_newcomer": true,
-        "effective_age": 2
+        "effective_age": 6
       },
-      "previous_rank": 5,
-      "score": 864.7,
+      "previous_rank": 3,
+      "score": 820.5,
       "rank": 3
+    },
+    {
+      "id": "1554503352321179698",
+      "song_title": "Eric Prydz - Generate (Dimension Remix)",
+      "author": "Eric Prydz",
+      "author_avatar": "https://cdn.discordapp.com/avatars/216516150505373696/4028a5a004892726b6a5221ae1f8efc4.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1790814783753",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1554503352321179698",
+      "posted_at": "2026-09-29T14:41:20.469Z",
+      "web_thumbs": 1,
+      "web_plays": 0,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 5.5,
+        "penalty_base": 5.5,
+        "multiplier": 1.02,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 8,
+      "score": 805.5,
+      "rank": 4
     },
     {
       "id": "spotify-7brHyrbevs53x45o61wPXl",
@@ -100,25 +129,25 @@
       "audio_url": "https://open.spotify.com/track/7brHyrbevs53x45o61wPXl",
       "discord_url": "https://open.spotify.com/track/7brHyrbevs53x45o61wPXl",
       "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 1,
+      "web_thumbs": 2,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
+        "thumbs": 2,
         "plays": 3,
         "videos": 0,
-        "raw_points": 72.5,
-        "penalty_base": 72.5,
-        "multiplier": 1.24,
+        "raw_points": 83.5,
+        "penalty_base": 83.5,
+        "multiplier": 1.28,
         "is_newcomer": true,
-        "effective_age": 2
+        "effective_age": 6
       },
-      "previous_rank": 7,
-      "score": 855.7,
-      "rank": 4
+      "previous_rank": 4,
+      "score": 794.6,
+      "rank": 5
     },
     {
       "id": "spotify-2DBExJaTnwZKUqTx0MP8HD",
@@ -130,25 +159,25 @@
       "audio_url": "https://open.spotify.com/track/2DBExJaTnwZKUqTx0MP8HD",
       "discord_url": "https://open.spotify.com/track/2DBExJaTnwZKUqTx0MP8HD",
       "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 0,
+      "web_thumbs": 1,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 19,
+      "positionBonus": 20,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
+        "thumbs": 1,
         "plays": 3,
         "videos": 0,
-        "raw_points": 61.5,
-        "penalty_base": 61.5,
-        "multiplier": 1.21,
+        "raw_points": 72.5,
+        "penalty_base": 72.5,
+        "multiplier": 1.24,
         "is_newcomer": true,
-        "effective_age": 2
+        "effective_age": 6
       },
-      "previous_rank": 4,
-      "score": 847.7,
-      "rank": 5
+      "previous_rank": 5,
+      "score": 791.5,
+      "rank": 6
     },
     {
       "id": "spotify-4E8RriYSoa9HzIQhpERUFa",
@@ -160,25 +189,25 @@
       "audio_url": "https://open.spotify.com/track/4E8RriYSoa9HzIQhpERUFa",
       "discord_url": "https://open.spotify.com/track/4E8RriYSoa9HzIQhpERUFa",
       "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 1,
+      "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
       "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
+        "thumbs": 2,
         "plays": 2,
         "videos": 0,
-        "raw_points": 52,
-        "penalty_base": 52,
-        "multiplier": 1.17,
+        "raw_points": 63,
+        "penalty_base": 63,
+        "multiplier": 1.21,
         "is_newcomer": true,
-        "effective_age": 2
+        "effective_age": 6
       },
       "previous_rank": 6,
-      "score": 834,
-      "rank": 6
+      "score": 778.6,
+      "rank": 7
     },
     {
       "id": "spotify-1wkd8ubuDGTvmjEFCaMP5H",
@@ -190,83 +219,25 @@
       "audio_url": "https://open.spotify.com/track/1wkd8ubuDGTvmjEFCaMP5H",
       "discord_url": "https://open.spotify.com/track/1wkd8ubuDGTvmjEFCaMP5H",
       "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 1,
+      "web_thumbs": 2,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 20,
+      "positionBonus": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
+        "thumbs": 2,
         "plays": 0,
         "videos": 0,
-        "raw_points": 11,
-        "penalty_base": 11,
-        "multiplier": 1.04,
+        "raw_points": 22,
+        "penalty_base": 22,
+        "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 2
+        "effective_age": 6
       },
-      "previous_rank": 8,
-      "score": 802.8,
-      "rank": 7
-    },
-    {
-      "id": "1554503352321179698",
-      "song_title": "Eric Prydz - Generate (Dimension Remix)",
-      "author": "Eric Prydz",
-      "author_avatar": "https://cdn.discordapp.com/avatars/216516150505373696/4028a5a004892726b6a5221ae1f8efc4.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1790727915645",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1554503352321179698",
-      "posted_at": "2026-09-29T14:41:20.469Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": null,
-      "score": 800,
+      "previous_rank": 7,
+      "score": 753.7,
       "rank": 8
-    },
-    {
-      "id": "1549447083512041623",
-      "song_title": "Depeche ModeAllen Watts Remix feat Swedish House Mafia vs Lykke Li - Enjoy The Happiness (Jays MashUp)",
-      "author": "Depeche ModeAllen Watts Remix feat Swedish House Mafia vs Lykke Li",
-      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-      "message_text": "Viikon muushi tänne myös. 😀",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1790727917970",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1549447083512041623",
-      "posted_at": "2026-09-15T15:49:32.044Z",
-      "web_thumbs": 7,
-      "web_plays": 31,
-      "web_videos": 7,
-      "stats": {
-        "reactions": 1,
-        "comments": 0,
-        "thumbs": 7,
-        "plays": 31,
-        "videos": 7,
-        "raw_points": 1002.4,
-        "penalty_base": 1101.5,
-        "multiplier": 4.67,
-        "is_newcomer": false,
-        "effective_age": 14.4
-      },
-      "previous_rank": 3,
-      "score": 796.9,
-      "rank": 9
     },
     {
       "id": "spotify-38uszMpm0TIgvK2jvDolcq",
@@ -281,7 +252,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -292,10 +263,40 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": true,
-        "effective_age": 2
+        "effective_age": 6
       },
-      "previous_rank": 9,
-      "score": 792.8,
+      "previous_rank": 10,
+      "score": 739.7,
+      "rank": 9
+    },
+    {
+      "id": "spotify-0LoC4kA2dsELGl9OShBw5O",
+      "song_title": "DJ FKU, KADXIRO - MONTAGEM COLAR",
+      "author": "DJ FKU, KADXIRO",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273b5a2d96e685202eb04fcce1d",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0LoC4kA2dsELGl9OShBw5O",
+      "discord_url": "https://open.spotify.com/track/0LoC4kA2dsELGl9OShBw5O",
+      "posted_at": "2026-09-25T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 17,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 6
+      },
+      "previous_rank": 12,
+      "score": 735.7,
       "rank": 10
     },
     {
@@ -311,7 +312,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 18,
+      "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -322,40 +323,39 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 2
+        "effective_age": 6
       },
-      "previous_rank": 10,
-      "score": 790.8,
+      "previous_rank": 11,
+      "score": 734.7,
       "rank": 11
     },
     {
-      "id": "spotify-0LoC4kA2dsELGl9OShBw5O",
-      "song_title": "DJ FKU, KADXIRO - MONTAGEM COLAR",
-      "author": "DJ FKU, KADXIRO",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273b5a2d96e685202eb04fcce1d",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0LoC4kA2dsELGl9OShBw5O",
-      "discord_url": "https://open.spotify.com/track/0LoC4kA2dsELGl9OShBw5O",
-      "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 15,
+      "id": "1549447083512041623",
+      "song_title": "Depeche ModeAllen Watts Remix feat Swedish House Mafia vs Lykke Li - Enjoy The Happiness (Jays MashUp)",
+      "author": "Depeche ModeAllen Watts Remix feat Swedish House Mafia vs Lykke Li",
+      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "message_text": "Viikon muushi tänne myös. 😀",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1790814786136",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1549447083512041623",
+      "posted_at": "2026-09-15T15:49:32.044Z",
+      "web_thumbs": 7,
+      "web_plays": 31,
+      "web_videos": 7,
       "stats": {
-        "reactions": 0,
+        "reactions": 1,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 2
+        "thumbs": 7,
+        "plays": 31,
+        "videos": 7,
+        "raw_points": 1002.4,
+        "penalty_base": 1101.5,
+        "multiplier": 4.67,
+        "is_newcomer": false,
+        "effective_age": 15.4
       },
-      "previous_rank": 11,
-      "score": 787.8,
+      "previous_rank": 9,
+      "score": 733.5,
       "rank": 12
     },
     {
@@ -381,10 +381,10 @@
         "penalty_base": 276,
         "multiplier": 1.92,
         "is_newcomer": false,
-        "effective_age": 8.7
+        "effective_age": 9.7
       },
-      "previous_rank": 12,
-      "score": 751.1,
+      "previous_rank": 13,
+      "score": 725.1,
       "rank": 13
     },
     {
@@ -411,41 +411,11 @@
         "penalty_base": 359.5,
         "multiplier": 2.2,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
-      "previous_rank": 13,
-      "score": 721.9,
+      "previous_rank": 14,
+      "score": 692,
       "rank": 14
-    },
-    {
-      "id": "spotify-34XrtincHRDtIte3AxEVkz",
-      "song_title": "Freestyle Man - Spazzo",
-      "author": "Freestyle Man",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27350492123defe3a7166511a4b",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
-      "discord_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
-      "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 7,
-      "web_videos": 0,
-      "positionBonus": 5,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 7,
-        "videos": 0,
-        "raw_points": 165.5,
-        "penalty_base": 165.5,
-        "multiplier": 1.55,
-        "is_newcomer": false,
-        "effective_age": 12
-      },
-      "previous_rank": 15,
-      "score": 618.8,
-      "rank": 15
     },
     {
       "id": "spotify-7niB7gHrS3sVhILhHhZTp1",
@@ -460,7 +430,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 11,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -471,10 +441,40 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 7
+        "effective_age": 8
       },
-      "previous_rank": 14,
-      "score": 616.3,
+      "previous_rank": 16,
+      "score": 603.7,
+      "rank": 15
+    },
+    {
+      "id": "spotify-34XrtincHRDtIte3AxEVkz",
+      "song_title": "Freestyle Man - Spazzo",
+      "author": "Freestyle Man",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27350492123defe3a7166511a4b",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
+      "discord_url": "https://open.spotify.com/track/34XrtincHRDtIte3AxEVkz",
+      "posted_at": "2026-09-18T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 7,
+      "web_videos": 0,
+      "positionBonus": 7,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 7,
+        "videos": 0,
+        "raw_points": 165.5,
+        "penalty_base": 165.5,
+        "multiplier": 1.55,
+        "is_newcomer": false,
+        "effective_age": 13
+      },
+      "previous_rank": 15,
+      "score": 599.7,
       "rank": 16
     },
     {
@@ -501,40 +501,40 @@
         "penalty_base": 134,
         "multiplier": 1.45,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
-      "previous_rank": 16,
-      "score": 608.3,
+      "previous_rank": 17,
+      "score": 588.7,
       "rank": 17
     },
     {
-      "id": "spotify-0ZQy76iiUxWgP19v45KWU6",
-      "song_title": "Dj Noofi - Surrender",
-      "author": "Dj Noofi",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2735cb8599357d913c7da13f7a3",
+      "id": "spotify-1zKN0MrtvBzpgOEOS8M6Jf",
+      "song_title": "Forester, YOTTO - Electric Soul - YOTTO Remix",
+      "author": "Forester, YOTTO",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27353e67e1661ecb3828b2d2f9a",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0ZQy76iiUxWgP19v45KWU6",
-      "discord_url": "https://open.spotify.com/track/0ZQy76iiUxWgP19v45KWU6",
+      "audio_url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf",
+      "discord_url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf",
       "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 2,
+      "web_thumbs": 1,
+      "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 2,
-        "plays": 2,
+        "thumbs": 1,
+        "plays": 3,
         "videos": 0,
-        "raw_points": 63,
-        "penalty_base": 63,
-        "multiplier": 1.21,
+        "raw_points": 72.5,
+        "penalty_base": 72.5,
+        "multiplier": 1.24,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
-      "previous_rank": 18,
-      "score": 574.7,
+      "previous_rank": 20,
+      "score": 557.2,
       "rank": 18
     },
     {
@@ -550,7 +550,7 @@
       "web_thumbs": 1,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -561,40 +561,40 @@
         "penalty_base": 52,
         "multiplier": 1.17,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
-      "previous_rank": 20,
-      "score": 573.6,
+      "previous_rank": 19,
+      "score": 556.7,
       "rank": 19
     },
     {
-      "id": "spotify-1zKN0MrtvBzpgOEOS8M6Jf",
-      "song_title": "Forester, YOTTO - Electric Soul - YOTTO Remix",
-      "author": "Forester, YOTTO",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27353e67e1661ecb3828b2d2f9a",
+      "id": "spotify-0ZQy76iiUxWgP19v45KWU6",
+      "song_title": "Dj Noofi - Surrender",
+      "author": "Dj Noofi",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2735cb8599357d913c7da13f7a3",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf",
-      "discord_url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf",
+      "audio_url": "https://open.spotify.com/track/0ZQy76iiUxWgP19v45KWU6",
+      "discord_url": "https://open.spotify.com/track/0ZQy76iiUxWgP19v45KWU6",
       "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 3,
+      "web_thumbs": 2,
+      "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 1,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
-        "plays": 3,
+        "thumbs": 2,
+        "plays": 2,
         "videos": 0,
-        "raw_points": 72.5,
-        "penalty_base": 72.5,
-        "multiplier": 1.24,
+        "raw_points": 63,
+        "penalty_base": 63,
+        "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
-      "previous_rank": 19,
-      "score": 572.1,
+      "previous_rank": 18,
+      "score": 556.3,
       "rank": 20
     },
     {
@@ -610,7 +610,7 @@
       "web_thumbs": 1,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 3,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -621,10 +621,10 @@
         "penalty_base": 52,
         "multiplier": 1.17,
         "is_newcomer": false,
-        "effective_age": 12
+        "effective_age": 13
       },
       "previous_rank": 21,
-      "score": 564.6,
+      "score": 553.7,
       "rank": 21
     },
     {
@@ -651,10 +651,10 @@
         "penalty_base": 810.5,
         "multiplier": 3.7,
         "is_newcomer": false,
-        "effective_age": 19
+        "effective_age": 20
       },
-      "previous_rank": 17,
-      "score": 563.2,
+      "previous_rank": 22,
+      "score": 512.9,
       "rank": 22
     },
     {
@@ -681,10 +681,10 @@
         "penalty_base": 198.5,
         "multiplier": 1.66,
         "is_newcomer": false,
-        "effective_age": 19
+        "effective_age": 20
       },
       "previous_rank": 23,
-      "score": 472.9,
+      "score": 450.3,
       "rank": 23
     },
     {
@@ -699,83 +699,23 @@
       "posted_at": "2026-09-11T00:00:00.000Z",
       "web_thumbs": 2,
       "web_plays": 5,
-      "web_videos": 0,
-      "positionBonus": 6,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 5,
-        "videos": 0,
-        "raw_points": 124.5,
-        "penalty_base": 124.5,
-        "multiplier": 1.42,
-        "is_newcomer": false,
-        "effective_age": 19
-      },
-      "previous_rank": 25,
-      "score": 467.2,
-      "rank": 24
-    },
-    {
-      "id": "spotify-2JPcJtjUbwvyOrkqvnngRs",
-      "song_title": "I Think I Broke Something - Heads Up",
-      "author": "I Think I Broke Something",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e149fc21fb4c048391b5f0e0",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
-      "discord_url": "https://open.spotify.com/track/2JPcJtjUbwvyOrkqvnngRs",
-      "posted_at": "2026-09-09T00:00:00.000Z",
-      "web_thumbs": 8,
-      "web_plays": 22,
-      "web_videos": 4,
-      "positionBonus": 4,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 8,
-        "plays": 22,
-        "videos": 4,
-        "raw_points": 779,
-        "penalty_base": 779,
-        "multiplier": 3.6,
-        "is_newcomer": false,
-        "effective_age": 21
-      },
-      "previous_rank": 22,
-      "score": 462.5,
-      "rank": 25
-    },
-    {
-      "id": "spotify-7z3VIwgNnjwOjFtLzNAi4o",
-      "song_title": "KLASS - One More Time",
-      "author": "KLASS",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2735f5953b18d2202f27498797d",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7z3VIwgNnjwOjFtLzNAi4o",
-      "discord_url": "https://open.spotify.com/track/7z3VIwgNnjwOjFtLzNAi4o",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 4,
-      "web_videos": 0,
+      "web_videos": 1,
       "positionBonus": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 4,
-        "videos": 0,
-        "raw_points": 104,
-        "penalty_base": 104,
-        "multiplier": 1.35,
+        "plays": 5,
+        "videos": 1,
+        "raw_points": 184.5,
+        "penalty_base": 184.5,
+        "multiplier": 1.61,
         "is_newcomer": false,
-        "effective_age": 19
+        "effective_age": 20
       },
       "previous_rank": 24,
-      "score": 460.3,
-      "rank": 26
+      "score": 450,
+      "rank": 24
     },
     {
       "id": "spotify-5X1oLVPf6UHnUaGbCwCbLH",
@@ -801,11 +741,41 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 19
+        "effective_age": 20
+      },
+      "previous_rank": 27,
+      "score": 442,
+      "rank": 25
+    },
+    {
+      "id": "spotify-7z3VIwgNnjwOjFtLzNAi4o",
+      "song_title": "KLASS - One More Time",
+      "author": "KLASS",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2735f5953b18d2202f27498797d",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7z3VIwgNnjwOjFtLzNAi4o",
+      "discord_url": "https://open.spotify.com/track/7z3VIwgNnjwOjFtLzNAi4o",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 4,
+      "web_videos": 0,
+      "positionBonus": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 4,
+        "videos": 0,
+        "raw_points": 104,
+        "penalty_base": 104,
+        "multiplier": 1.35,
+        "is_newcomer": false,
+        "effective_age": 20
       },
       "previous_rank": 26,
-      "score": 460.3,
-      "rank": 27
+      "score": 441,
+      "rank": 26
     },
     {
       "id": "spotify-06ZdagcN7jWwnFKSVkKcaH",
@@ -831,11 +801,11 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 19
+        "effective_age": 20
       },
-      "previous_rank": 27,
-      "score": 456.2,
-      "rank": 28
+      "previous_rank": 28,
+      "score": 440.7,
+      "rank": 27
     },
     {
       "id": "spotify-6JmJCPlfl3HC4bFTldffyj",
@@ -861,11 +831,11 @@
         "penalty_base": 61.5,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 19
+        "effective_age": 20
       },
-      "previous_rank": 28,
-      "score": 456.1,
-      "rank": 29
+      "previous_rank": 29,
+      "score": 439.8,
+      "rank": 28
     },
     {
       "id": "spotify-7pBCBVZqTLm28uVyNelCp4",
@@ -891,10 +861,39 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 19
+        "effective_age": 20
       },
       "previous_rank": 30,
-      "score": 451.2,
+      "score": 436.7,
+      "rank": 29
+    },
+    {
+      "id": "1547212256272715796",
+      "song_title": "Isac Elliot - Mannerheim WBmix Extended",
+      "author": "Isac Elliot",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1077164420892987442/a833c784955a1100e4a26792e8626e46.webp?size=128",
+      "message_text": "Pitkästä aikaa tuli käänneltyä ja väänneltyä muutamia biisejä uuteen uskoon. Tässä tällanen kiukkupussiremix mannerheim-biisistä😅",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1790814788824",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1547212256272715796",
+      "posted_at": "2026-09-09T11:49:07.709Z",
+      "web_thumbs": 2,
+      "web_plays": 12,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 2,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 12,
+        "videos": 0,
+        "raw_points": 272,
+        "penalty_base": 272,
+        "multiplier": 1.91,
+        "is_newcomer": false,
+        "effective_age": 21.5
+      },
+      "previous_rank": null,
+      "score": 417.8,
       "rank": 30
     }
   ]
