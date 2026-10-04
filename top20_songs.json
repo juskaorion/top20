@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T23:46:27.489Z",
+  "last_updated": "2026-10-04T23:57:27.281Z",
   "top_songs": [
     {
       "id": "spotify-3TxGq1iYc4sRMq6OGh1Ks1",
@@ -11,24 +11,24 @@
       "audio_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
       "discord_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
       "posted_at": "2026-09-23T00:00:00.000Z",
-      "web_thumbs": 16,
-      "web_plays": 14,
+      "web_thumbs": 17,
+      "web_plays": 15,
       "web_videos": 7,
       "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 16,
-        "plays": 14,
+        "thumbs": 17,
+        "plays": 15,
         "videos": 7,
-        "raw_points": 876.6,
-        "penalty_base": 883,
-        "multiplier": 3.94,
+        "raw_points": 899.8,
+        "penalty_base": 914.5,
+        "multiplier": 4.05,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
       "previous_rank": 1,
-      "score": 997.5,
+      "score": 950,
       "rank": 1
     },
     {
@@ -54,10 +54,10 @@
         "penalty_base": 153,
         "multiplier": 1.51,
         "is_newcomer": true,
-        "effective_age": 1.4
+        "effective_age": 2.4
       },
-      "previous_rank": 3,
-      "score": 924.9,
+      "previous_rank": 2,
+      "score": 904.4,
       "rank": 2
     },
     {
@@ -83,11 +83,71 @@
         "penalty_base": 662,
         "multiplier": 3.21,
         "is_newcomer": false,
-        "effective_age": 10.3
+        "effective_age": 11.4
       },
-      "previous_rank": 2,
-      "score": 914.2,
+      "previous_rank": 3,
+      "score": 870.6,
       "rank": 3
+    },
+    {
+      "id": "spotify-0JzNWfgM6YxRe76rxEShdN",
+      "song_title": "Muffler - The Frost Spirit",
+      "author": "Muffler",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273175423a6d2c9d41ea8ff7205",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0JzNWfgM6YxRe76rxEShdN",
+      "discord_url": "https://open.spotify.com/track/0JzNWfgM6YxRe76rxEShdN",
+      "posted_at": "2026-10-02T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 14,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 52,
+        "penalty_base": 52,
+        "multiplier": 1.17,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 5,
+      "score": 866,
+      "rank": 4
+    },
+    {
+      "id": "spotify-4Htrpt3EnzfxO8zYWglkQX",
+      "song_title": "Darude, Orion - Sandstorm - Orion Remix",
+      "author": "Darude, Orion",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e80b42c5170232d9dcae08a3",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4Htrpt3EnzfxO8zYWglkQX",
+      "discord_url": "https://open.spotify.com/track/4Htrpt3EnzfxO8zYWglkQX",
+      "posted_at": "2026-10-02T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 20,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 42.5,
+        "penalty_base": 42.5,
+        "multiplier": 1.14,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 9,
+      "score": 862.5,
+      "rank": 5
     },
     {
       "id": "spotify-6wSPbH6HNnjbfGLQBa8QLy",
@@ -117,37 +177,7 @@
       },
       "previous_rank": 4,
       "score": 859,
-      "rank": 4
-    },
-    {
-      "id": "spotify-0JzNWfgM6YxRe76rxEShdN",
-      "song_title": "Muffler - The Frost Spirit",
-      "author": "Muffler",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273175423a6d2c9d41ea8ff7205",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0JzNWfgM6YxRe76rxEShdN",
-      "discord_url": "https://open.spotify.com/track/0JzNWfgM6YxRe76rxEShdN",
-      "posted_at": "2026-10-02T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 20,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 31.5,
-        "penalty_base": 31.5,
-        "multiplier": 1.1,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 6,
-      "score": 851.5,
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "spotify-01tUoIyzGRy6RdDX6yWGWC",
@@ -162,7 +192,7 @@
       "web_thumbs": 1,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -175,24 +205,24 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 5,
-      "score": 848.5,
-      "rank": 6
+      "previous_rank": 6,
+      "score": 850.5,
+      "rank": 7
     },
     {
-      "id": "spotify-32gE2GazEWpNaUaovbsZc8",
-      "song_title": "Modem - Sensaatio",
-      "author": "Modem",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733d6cc5ea2f0d1cb3c0923127",
+      "id": "spotify-4uYTf7MCQC769YKEiVTOfY",
+      "song_title": "MakeFlame - Silent Descent",
+      "author": "MakeFlame",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27305103d808974014b607ee38e",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/32gE2GazEWpNaUaovbsZc8",
-      "discord_url": "https://open.spotify.com/track/32gE2GazEWpNaUaovbsZc8",
+      "audio_url": "https://open.spotify.com/track/4uYTf7MCQC769YKEiVTOfY",
+      "discord_url": "https://open.spotify.com/track/4uYTf7MCQC769YKEiVTOfY",
       "posted_at": "2026-10-02T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 19,
+      "positionBonus": 17,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -205,49 +235,19 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 8,
-      "score": 819,
-      "rank": 7
-    },
-    {
-      "id": "spotify-6kHW0KB8dm9PUWdotPYjtH",
-      "song_title": "Glayden - Creep",
-      "author": "Glayden",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27356657a6c26c487aace7835b4",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6kHW0KB8dm9PUWdotPYjtH",
-      "discord_url": "https://open.spotify.com/track/6kHW0KB8dm9PUWdotPYjtH",
-      "posted_at": "2026-09-30T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 12,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 1
-      },
-      "previous_rank": 7,
-      "score": 818.2,
+      "previous_rank": null,
+      "score": 817,
       "rank": 8
     },
     {
-      "id": "spotify-4Htrpt3EnzfxO8zYWglkQX",
-      "song_title": "Darude, Orion - Sandstorm - Orion Remix",
-      "author": "Darude, Orion",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e80b42c5170232d9dcae08a3",
+      "id": "spotify-32gE2GazEWpNaUaovbsZc8",
+      "song_title": "Modem - Sensaatio",
+      "author": "Modem",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733d6cc5ea2f0d1cb3c0923127",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4Htrpt3EnzfxO8zYWglkQX",
-      "discord_url": "https://open.spotify.com/track/4Htrpt3EnzfxO8zYWglkQX",
+      "audio_url": "https://open.spotify.com/track/32gE2GazEWpNaUaovbsZc8",
+      "discord_url": "https://open.spotify.com/track/32gE2GazEWpNaUaovbsZc8",
       "posted_at": "2026-10-02T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
@@ -265,9 +265,39 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": null,
+      "previous_rank": 7,
       "score": 816,
       "rank": 9
+    },
+    {
+      "id": "spotify-6kHW0KB8dm9PUWdotPYjtH",
+      "song_title": "Glayden - Creep",
+      "author": "Glayden",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27356657a6c26c487aace7835b4",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6kHW0KB8dm9PUWdotPYjtH",
+      "discord_url": "https://open.spotify.com/track/6kHW0KB8dm9PUWdotPYjtH",
+      "posted_at": "2026-09-30T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 15,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 2
+      },
+      "previous_rank": 8,
+      "score": 806.7,
+      "rank": 10
     },
     {
       "id": "spotify-713cnkCVk5SF8kNl6We0ix",
@@ -293,11 +323,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 1
       },
-      "previous_rank": null,
-      "score": 815,
-      "rank": 10
+      "previous_rank": 10,
+      "score": 801.5,
+      "rank": 11
     },
     {
       "id": "spotify-6r2R2CzNrujR3NmlCwoKlL",
@@ -312,7 +342,7 @@
       "web_thumbs": 4,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -323,39 +353,10 @@
         "penalty_base": 126,
         "multiplier": 1.42,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 9,
-      "score": 663.7,
-      "rank": 11
-    },
-    {
-      "id": "1551506620717076560",
-      "song_title": "jemejoo_ - toksiset farkut",
-      "author": "jemejoo_",
-      "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/191ad6fd019fd40ef4f8df2d0823579d.webp?size=128",
-      "message_text": "levikset-mashupit trendaillu tiktokissa nii laitetaas oma mitä oon soitellu kevääst asti jakoon",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1791071185158",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1551506620717076560",
-      "posted_at": "2026-09-21T08:13:23.978Z",
-      "web_thumbs": 3,
-      "web_plays": 10,
-      "web_videos": 1,
-      "stats": {
-        "reactions": 2,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 10,
-        "videos": 1,
-        "raw_points": 296.5,
-        "penalty_base": 296.5,
-        "multiplier": 1.99,
-        "is_newcomer": false,
-        "effective_age": 12.6
-      },
-      "previous_rank": 10,
-      "score": 657,
+      "previous_rank": 11,
+      "score": 647.3,
       "rank": 12
     },
     {
@@ -382,11 +383,40 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 11,
-      "score": 655.6,
+      "previous_rank": 13,
+      "score": 637.2,
       "rank": 13
+    },
+    {
+      "id": "1551506620717076560",
+      "song_title": "jemejoo_ - toksiset farkut",
+      "author": "jemejoo_",
+      "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/191ad6fd019fd40ef4f8df2d0823579d.webp?size=128",
+      "message_text": "levikset-mashupit trendaillu tiktokissa nii laitetaas oma mitä oon soitellu kevääst asti jakoon",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1791158244903",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1551506620717076560",
+      "posted_at": "2026-09-21T08:13:23.978Z",
+      "web_thumbs": 3,
+      "web_plays": 10,
+      "web_videos": 1,
+      "stats": {
+        "reactions": 2,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 10,
+        "videos": 1,
+        "raw_points": 296.5,
+        "penalty_base": 296.5,
+        "multiplier": 1.99,
+        "is_newcomer": false,
+        "effective_age": 13.7
+      },
+      "previous_rank": 12,
+      "score": 630,
+      "rank": 14
     },
     {
       "id": "spotify-2DBExJaTnwZKUqTx0MP8HD",
@@ -401,7 +431,7 @@
       "web_thumbs": 1,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 13,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -412,11 +442,41 @@
         "penalty_base": 72.5,
         "multiplier": 1.24,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 12,
-      "score": 634.8,
-      "rank": 14
+      "previous_rank": 14,
+      "score": 615.9,
+      "rank": 15
+    },
+    {
+      "id": "spotify-38uszMpm0TIgvK2jvDolcq",
+      "song_title": "Darude, Dimension - Sandstorm - Dimension Remix",
+      "author": "Darude, Dimension",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27317a08fac55825a1aa30fb3b7",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/38uszMpm0TIgvK2jvDolcq",
+      "discord_url": "https://open.spotify.com/track/38uszMpm0TIgvK2jvDolcq",
+      "posted_at": "2026-09-25T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 15,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 63,
+        "penalty_base": 63,
+        "multiplier": 1.21,
+        "is_newcomer": false,
+        "effective_age": 10
+      },
+      "previous_rank": 17,
+      "score": 614.7,
+      "rank": 16
     },
     {
       "id": "spotify-4E8RriYSoa9HzIQhpERUFa",
@@ -442,11 +502,11 @@
         "penalty_base": 74,
         "multiplier": 1.25,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 13,
-      "score": 629.7,
-      "rank": 15
+      "previous_rank": 15,
+      "score": 612.7,
+      "rank": 17
     },
     {
       "id": "spotify-1wkd8ubuDGTvmjEFCaMP5H",
@@ -458,84 +518,24 @@
       "audio_url": "https://open.spotify.com/track/1wkd8ubuDGTvmjEFCaMP5H",
       "discord_url": "https://open.spotify.com/track/1wkd8ubuDGTvmjEFCaMP5H",
       "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 2,
+      "web_thumbs": 3,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 2,
+        "thumbs": 3,
         "plays": 1,
         "videos": 0,
-        "raw_points": 42.5,
-        "penalty_base": 42.5,
-        "multiplier": 1.14,
+        "raw_points": 53.5,
+        "penalty_base": 53.5,
+        "multiplier": 1.18,
         "is_newcomer": false,
-        "effective_age": 9
-      },
-      "previous_rank": 15,
-      "score": 617.9,
-      "rank": 16
-    },
-    {
-      "id": "spotify-38uszMpm0TIgvK2jvDolcq",
-      "song_title": "Darude, Dimension - Sandstorm - Dimension Remix",
-      "author": "Darude, Dimension",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27317a08fac55825a1aa30fb3b7",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/38uszMpm0TIgvK2jvDolcq",
-      "discord_url": "https://open.spotify.com/track/38uszMpm0TIgvK2jvDolcq",
-      "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 15,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 31.5,
-        "penalty_base": 31.5,
-        "multiplier": 1.1,
-        "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
       "previous_rank": 16,
-      "score": 612.4,
-      "rank": 17
-    },
-    {
-      "id": "spotify-4mOzVMHUTyqMnzy6xpHNwX",
-      "song_title": "Darude - Sandstorm - (Storm 25 Mix)",
-      "author": "Darude",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27397ee213d9ca829ce46286cb8",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4mOzVMHUTyqMnzy6xpHNwX",
-      "discord_url": "https://open.spotify.com/track/4mOzVMHUTyqMnzy6xpHNwX",
-      "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 5,
-      "web_plays": 10,
-      "web_videos": 2,
-      "positionBonus": 19,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 5,
-        "plays": 10,
-        "videos": 2,
-        "raw_points": 380,
-        "penalty_base": 380,
-        "multiplier": 2.27,
-        "is_newcomer": false,
-        "effective_age": 16
-      },
-      "previous_rank": 14,
-      "score": 609.7,
+      "score": 606.5,
       "rank": 18
     },
     {
@@ -562,10 +562,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 17,
-      "score": 608.8,
+      "previous_rank": 19,
+      "score": 594.3,
       "rank": 19
     },
     {
@@ -581,7 +581,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 11,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -592,11 +592,41 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
+      },
+      "previous_rank": 20,
+      "score": 584.3,
+      "rank": 20
+    },
+    {
+      "id": "spotify-4mOzVMHUTyqMnzy6xpHNwX",
+      "song_title": "Darude - Sandstorm - (Storm 25 Mix)",
+      "author": "Darude",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27397ee213d9ca829ce46286cb8",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4mOzVMHUTyqMnzy6xpHNwX",
+      "discord_url": "https://open.spotify.com/track/4mOzVMHUTyqMnzy6xpHNwX",
+      "posted_at": "2026-09-18T00:00:00.000Z",
+      "web_thumbs": 5,
+      "web_plays": 11,
+      "web_videos": 2,
+      "positionBonus": 19,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 5,
+        "plays": 11,
+        "videos": 2,
+        "raw_points": 400.5,
+        "penalty_base": 400.5,
+        "multiplier": 2.33,
+        "is_newcomer": false,
+        "effective_age": 17
       },
       "previous_rank": 18,
-      "score": 601.8,
-      "rank": 20
+      "score": 583.7,
+      "rank": 21
     },
     {
       "id": "spotify-0hKo2E4XIEK0GoZ97ftH93",
@@ -611,7 +641,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -622,11 +652,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 19,
-      "score": 587.6,
-      "rank": 21
+      "previous_rank": 21,
+      "score": 575,
+      "rank": 22
     },
     {
       "id": "spotify-7niB7gHrS3sVhILhHhZTp1",
@@ -641,7 +671,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -652,11 +682,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
-      "previous_rank": 21,
-      "score": 559.6,
-      "rank": 22
+      "previous_rank": 22,
+      "score": 542,
+      "rank": 23
     },
     {
       "id": "spotify-34XrtincHRDtIte3AxEVkz",
@@ -671,7 +701,7 @@
       "web_thumbs": 2,
       "web_plays": 8,
       "web_videos": 0,
-      "positionBonus": 4,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -682,11 +712,11 @@
         "penalty_base": 186,
         "multiplier": 1.62,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 22,
-      "score": 540.3,
-      "rank": 23
+      "previous_rank": 23,
+      "score": 519.3,
+      "rank": 24
     },
     {
       "id": "spotify-77vkRlG3P5irJws7LJ9RvO",
@@ -701,7 +731,7 @@
       "web_thumbs": 1,
       "web_plays": 6,
       "web_videos": 0,
-      "positionBonus": 2,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -712,11 +742,11 @@
         "penalty_base": 134,
         "multiplier": 1.45,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 23,
-      "score": 523.7,
-      "rank": 24
+      "previous_rank": 24,
+      "score": 511,
+      "rank": 25
     },
     {
       "id": "spotify-1zKN0MrtvBzpgOEOS8M6Jf",
@@ -742,11 +772,11 @@
         "penalty_base": 93,
         "multiplier": 1.31,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 24,
-      "score": 517.2,
-      "rank": 25
+      "previous_rank": 25,
+      "score": 499.4,
+      "rank": 26
     },
     {
       "id": "spotify-55Wt7Mvu95ddTKOs5kRV62",
@@ -761,7 +791,7 @@
       "web_thumbs": 1,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -772,11 +802,11 @@
         "penalty_base": 72.5,
         "multiplier": 1.24,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
       "previous_rank": 26,
-      "score": 509.5,
-      "rank": 26
+      "score": 493.6,
+      "rank": 27
     },
     {
       "id": "spotify-0ZQy76iiUxWgP19v45KWU6",
@@ -802,11 +832,11 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 25,
-      "score": 504.8,
-      "rank": 27
+      "previous_rank": 27,
+      "score": 488.3,
+      "rank": 28
     },
     {
       "id": "spotify-0XwW547V8kkkyjIvUQeqez",
@@ -832,11 +862,11 @@
         "penalty_base": 52,
         "multiplier": 1.17,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 27,
-      "score": 500.7,
-      "rank": 28
+      "previous_rank": 28,
+      "score": 484.7,
+      "rank": 29
     },
     {
       "id": "1549447083512041623",
@@ -845,56 +875,26 @@
       "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
       "message_text": "Viikon muushi tänne myös. 😀",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1791071187488",
+      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1791158247280",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1549447083512041623",
       "posted_at": "2026-09-15T15:49:32.044Z",
-      "web_thumbs": 7,
-      "web_plays": 34,
+      "web_thumbs": 8,
+      "web_plays": 36,
       "web_videos": 7,
       "stats": {
         "reactions": 1,
         "comments": 0,
-        "thumbs": 7,
-        "plays": 34,
+        "thumbs": 8,
+        "plays": 36,
         "videos": 7,
-        "raw_points": 1006.8,
-        "penalty_base": 1163,
-        "multiplier": 4.88,
+        "raw_points": 1014.6,
+        "penalty_base": 1209.5,
+        "multiplier": 5.03,
         "is_newcomer": false,
-        "effective_age": 18.3
+        "effective_age": 19.3
       },
-      "previous_rank": 20,
-      "score": 500,
-      "rank": 29
-    },
-    {
-      "id": "spotify-06ZdagcN7jWwnFKSVkKcaH",
-      "song_title": "DJ FKU - MONTAGEM PASSADA",
-      "author": "DJ FKU",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27389ac3b80446bd9b41406d846",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/06ZdagcN7jWwnFKSVkKcaH",
-      "discord_url": "https://open.spotify.com/track/06ZdagcN7jWwnFKSVkKcaH",
-      "posted_at": "2026-09-11T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 2,
-      "web_videos": 0,
-      "positionBonus": 7,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 41,
-        "penalty_base": 41,
-        "multiplier": 1.14,
-        "is_newcomer": false,
-        "effective_age": 23
-      },
-      "previous_rank": 30,
-      "score": 395.2,
+      "previous_rank": 29,
+      "score": 400.9,
       "rank": 30
     }
   ]
