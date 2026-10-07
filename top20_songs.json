@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-10-06T01:45:54.115Z",
+  "last_updated": "2026-10-07T00:40:48.746Z",
   "top_songs": [
     {
-      "id": "spotify-3TxGq1iYc4sRMq6OGh1Ks1",
-      "song_title": "MakeFlame - Silent Descent (Suanda 556)",
+      "id": "spotify-4uYTf7MCQC769YKEiVTOfY",
+      "song_title": "MakeFlame - Silent Descent",
       "author": "MakeFlame",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c16ed619ef34faadaf553e93",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27305103d808974014b607ee38e",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
-      "discord_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
-      "posted_at": "2026-09-23T00:00:00.000Z",
-      "web_thumbs": 17,
-      "web_plays": 15,
-      "web_videos": 7,
-      "positionBonus": 6,
+      "audio_url": "https://open.spotify.com/track/4uYTf7MCQC769YKEiVTOfY",
+      "discord_url": "https://open.spotify.com/track/4uYTf7MCQC769YKEiVTOfY",
+      "posted_at": "2026-10-02T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "web_videos": 1,
+      "positionBonus": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 17,
-        "plays": 15,
-        "videos": 7,
-        "raw_points": 899.8,
-        "penalty_base": 914.5,
-        "multiplier": 4.05,
-        "is_newcomer": false,
-        "effective_age": 13.1
+        "thumbs": 1,
+        "plays": 1,
+        "videos": 1,
+        "raw_points": 91.5,
+        "penalty_base": 91.5,
+        "multiplier": 1.3,
+        "is_newcomer": true,
+        "effective_age": 2
       },
-      "previous_rank": 1,
-      "score": 891.3,
+      "previous_rank": 8,
+      "score": 874.8,
       "rank": 1
     },
     {
@@ -55,11 +55,41 @@
         "penalty_base": 74,
         "multiplier": 1.25,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2
       },
-      "previous_rank": 5,
-      "score": 873.9,
+      "previous_rank": 2,
+      "score": 857.9,
       "rank": 2
+    },
+    {
+      "id": "spotify-3TxGq1iYc4sRMq6OGh1Ks1",
+      "song_title": "MakeFlame - Silent Descent (Suanda 556)",
+      "author": "MakeFlame",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c16ed619ef34faadaf553e93",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
+      "discord_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
+      "posted_at": "2026-09-23T00:00:00.000Z",
+      "web_thumbs": 19,
+      "web_plays": 16,
+      "web_videos": 7,
+      "positionBonus": 6,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 19,
+        "plays": 16,
+        "videos": 7,
+        "raw_points": 923.6,
+        "penalty_base": 957,
+        "multiplier": 4.19,
+        "is_newcomer": false,
+        "effective_age": 14
+      },
+      "previous_rank": 1,
+      "score": 836.1,
+      "rank": 3
     },
     {
       "id": "spotify-0JzNWfgM6YxRe76rxEShdN",
@@ -74,7 +104,7 @@
       "web_thumbs": 1,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 13,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -85,11 +115,11 @@
         "penalty_base": 52,
         "multiplier": 1.17,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2
       },
-      "previous_rank": 4,
-      "score": 848,
-      "rank": 3
+      "previous_rank": 3,
+      "score": 834.9,
+      "rank": 4
     },
     {
       "id": "spotify-6wSPbH6HNnjbfGLQBa8QLy",
@@ -104,7 +134,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 15,
+      "positionBonus": 17,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -115,39 +145,10 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2
       },
-      "previous_rank": 6,
-      "score": 839.5,
-      "rank": 4
-    },
-    {
-      "id": "1554503352321179698",
-      "song_title": "Eric Prydz - Generate (Dimension Remix)",
-      "author": "Eric Prydz",
-      "author_avatar": "https://cdn.discordapp.com/avatars/216516150505373696/4028a5a004892726b6a5221ae1f8efc4.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1791251149168",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1554503352321179698",
-      "posted_at": "2026-09-29T14:41:20.469Z",
-      "web_thumbs": 2,
-      "web_plays": 5,
-      "web_videos": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 5,
-        "videos": 1,
-        "raw_points": 173.5,
-        "penalty_base": 173.5,
-        "multiplier": 1.58,
-        "is_newcomer": true,
-        "effective_age": 6.5
-      },
-      "previous_rank": 2,
-      "score": 835.8,
+      "previous_rank": 4,
+      "score": 826.9,
       "rank": 5
     },
     {
@@ -163,7 +164,7 @@
       "web_thumbs": 1,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 19,
+      "positionBonus": 20,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -174,70 +175,11 @@
         "penalty_base": 31.5,
         "multiplier": 1.1,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2
       },
-      "previous_rank": 7,
-      "score": 834.5,
+      "previous_rank": 6,
+      "score": 821.2,
       "rank": 6
-    },
-    {
-      "id": "1552341215159124098",
-      "song_title": "Junkkataxi - KIKAPOO",
-      "author": "Junkkataxi",
-      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
-      "message_text": "tuli tämä vastaan yhtäkkiä niin exporttasin, tää tais olla muistaakseni <@498823068643229700> idea joskus 🤣",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1791251151658",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1552341215159124098",
-      "posted_at": "2026-09-23T15:29:46.799Z",
-      "web_thumbs": 6,
-      "web_plays": 18,
-      "web_videos": 2,
-      "stats": {
-        "reactions": 12,
-        "comments": 4,
-        "thumbs": 6,
-        "plays": 18,
-        "videos": 2,
-        "raw_points": 662,
-        "penalty_base": 662,
-        "multiplier": 3.21,
-        "is_newcomer": false,
-        "effective_age": 12.4
-      },
-      "previous_rank": 3,
-      "score": 824,
-      "rank": 7
-    },
-    {
-      "id": "spotify-4uYTf7MCQC769YKEiVTOfY",
-      "song_title": "MakeFlame - Silent Descent",
-      "author": "MakeFlame",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27305103d808974014b607ee38e",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4uYTf7MCQC769YKEiVTOfY",
-      "discord_url": "https://open.spotify.com/track/4uYTf7MCQC769YKEiVTOfY",
-      "posted_at": "2026-10-02T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 20,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 1.1
-      },
-      "previous_rank": 8,
-      "score": 805.5,
-      "rank": 8
     },
     {
       "id": "spotify-32gE2GazEWpNaUaovbsZc8",
@@ -263,11 +205,40 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2
       },
       "previous_rank": 9,
-      "score": 801.5,
-      "rank": 9
+      "score": 788.6,
+      "rank": 7
+    },
+    {
+      "id": "1552341215159124098",
+      "song_title": "Junkkataxi - KIKAPOO",
+      "author": "Junkkataxi",
+      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
+      "message_text": "tuli tämä vastaan yhtäkkiä niin exporttasin, tää tais olla muistaakseni <@498823068643229700> idea joskus 🤣",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1791333636700",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1552341215159124098",
+      "posted_at": "2026-09-23T15:29:46.799Z",
+      "web_thumbs": 6,
+      "web_plays": 18,
+      "web_videos": 2,
+      "stats": {
+        "reactions": 12,
+        "comments": 4,
+        "thumbs": 6,
+        "plays": 18,
+        "videos": 2,
+        "raw_points": 662,
+        "penalty_base": 662,
+        "multiplier": 3.21,
+        "is_newcomer": false,
+        "effective_age": 13.4
+      },
+      "previous_rank": 7,
+      "score": 782.7,
+      "rank": 8
     },
     {
       "id": "spotify-713cnkCVk5SF8kNl6We0ix",
@@ -293,10 +264,39 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 2.1
+        "effective_age": 6
       },
-      "previous_rank": 11,
-      "score": 787,
+      "previous_rank": 10,
+      "score": 733.6,
+      "rank": 9
+    },
+    {
+      "id": "1554503352321179698",
+      "song_title": "Eric Prydz - Generate (Dimension Remix)",
+      "author": "Eric Prydz",
+      "author_avatar": "https://cdn.discordapp.com/avatars/216516150505373696/4028a5a004892726b6a5221ae1f8efc4.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1791333645860",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1554503352321179698",
+      "posted_at": "2026-09-29T14:41:20.469Z",
+      "web_thumbs": 2,
+      "web_plays": 5,
+      "web_videos": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 5,
+        "videos": 1,
+        "raw_points": 173.5,
+        "penalty_base": 173.5,
+        "multiplier": 1.58,
+        "is_newcomer": false,
+        "effective_age": 7.4
+      },
+      "previous_rank": 5,
+      "score": 715.5,
       "rank": 10
     },
     {
@@ -312,7 +312,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 11,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -322,11 +322,11 @@
         "raw_points": 20.5,
         "penalty_base": 20.5,
         "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 6.1
+        "is_newcomer": false,
+        "effective_age": 7
       },
-      "previous_rank": 10,
-      "score": 743.9,
+      "previous_rank": 11,
+      "score": 633.1,
       "rank": 11
     },
     {
@@ -342,7 +342,7 @@
       "web_thumbs": 4,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -353,10 +353,10 @@
         "penalty_base": 126,
         "multiplier": 1.42,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12
       },
       "previous_rank": 12,
-      "score": 622.7,
+      "score": 605.4,
       "rank": 12
     },
     {
@@ -383,10 +383,10 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12
       },
       "previous_rank": 13,
-      "score": 617.7,
+      "score": 600.3,
       "rank": 13
     },
     {
@@ -402,7 +402,7 @@
       "web_thumbs": 2,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -413,10 +413,10 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12
       },
-      "previous_rank": 15,
-      "score": 609.4,
+      "previous_rank": 14,
+      "score": 588.9,
       "rank": 14
     },
     {
@@ -443,11 +443,41 @@
         "penalty_base": 74,
         "multiplier": 1.25,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12
       },
-      "previous_rank": 16,
-      "score": 602.6,
+      "previous_rank": 15,
+      "score": 586.6,
       "rank": 15
+    },
+    {
+      "id": "spotify-4E8RriYSoa9HzIQhpERUFa",
+      "song_title": "Telm & Wilson, Dubruvvas - Bulldoze",
+      "author": "Telm & Wilson, Dubruvvas",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27303b8b9bee73237d45c589143",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4E8RriYSoa9HzIQhpERUFa",
+      "discord_url": "https://open.spotify.com/track/4E8RriYSoa9HzIQhpERUFa",
+      "posted_at": "2026-09-25T00:00:00.000Z",
+      "web_thumbs": 3,
+      "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 11,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 74,
+        "penalty_base": 74,
+        "multiplier": 1.25,
+        "is_newcomer": false,
+        "effective_age": 12
+      },
+      "previous_rank": 17,
+      "score": 582.6,
+      "rank": 16
     },
     {
       "id": "1551506620717076560",
@@ -456,7 +486,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/191ad6fd019fd40ef4f8df2d0823579d.webp?size=128",
       "message_text": "levikset-mashupit trendaillu tiktokissa nii laitetaas oma mitä oon soitellu kevääst asti jakoon",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1791251154115",
+      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1791333648746",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1551506620717076560",
       "posted_at": "2026-09-21T08:13:23.978Z",
       "web_thumbs": 3,
@@ -472,40 +502,10 @@
         "penalty_base": 296.5,
         "multiplier": 1.99,
         "is_newcomer": false,
-        "effective_age": 14.7
+        "effective_age": 15.7
       },
-      "previous_rank": 14,
-      "score": 601.1,
-      "rank": 16
-    },
-    {
-      "id": "spotify-4E8RriYSoa9HzIQhpERUFa",
-      "song_title": "Telm & Wilson, Dubruvvas - Bulldoze",
-      "author": "Telm & Wilson, Dubruvvas",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27303b8b9bee73237d45c589143",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4E8RriYSoa9HzIQhpERUFa",
-      "discord_url": "https://open.spotify.com/track/4E8RriYSoa9HzIQhpERUFa",
-      "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 3,
-      "web_plays": 2,
-      "web_videos": 0,
-      "positionBonus": 7,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 74,
-        "penalty_base": 74,
-        "multiplier": 1.25,
-        "is_newcomer": false,
-        "effective_age": 11.1
-      },
-      "previous_rank": 17,
-      "score": 594.6,
+      "previous_rank": 16,
+      "score": 575.5,
       "rank": 17
     },
     {
@@ -521,7 +521,7 @@
       "web_thumbs": 3,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -532,10 +532,10 @@
         "penalty_base": 53.5,
         "multiplier": 1.18,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12
       },
       "previous_rank": 18,
-      "score": 591.4,
+      "score": 571.2,
       "rank": 18
     },
     {
@@ -562,10 +562,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12
       },
       "previous_rank": 19,
-      "score": 578.8,
+      "score": 565,
       "rank": 19
     },
     {
@@ -581,7 +581,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -592,10 +592,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12
       },
       "previous_rank": 20,
-      "score": 566.8,
+      "score": 559,
       "rank": 20
     },
     {
@@ -611,7 +611,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -622,10 +622,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12
       },
-      "previous_rank": 22,
-      "score": 562.5,
+      "previous_rank": 21,
+      "score": 545.6,
       "rank": 21
     },
     {
@@ -652,10 +652,10 @@
         "penalty_base": 400.5,
         "multiplier": 2.33,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19
       },
-      "previous_rank": 21,
-      "score": 549.8,
+      "previous_rank": 22,
+      "score": 519.7,
       "rank": 22
     },
     {
@@ -671,7 +671,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -682,10 +682,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14
       },
       "previous_rank": 23,
-      "score": 531.5,
+      "score": 515.6,
       "rank": 23
     },
     {
@@ -701,7 +701,7 @@
       "web_thumbs": 2,
       "web_plays": 8,
       "web_videos": 0,
-      "positionBonus": 4,
+      "positionBonus": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -712,10 +712,10 @@
         "penalty_base": 186,
         "multiplier": 1.62,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19
       },
       "previous_rank": 24,
-      "score": 494.7,
+      "score": 471.9,
       "rank": 24
     },
     {
@@ -731,7 +731,7 @@
       "web_thumbs": 1,
       "web_plays": 6,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -742,10 +742,10 @@
         "penalty_base": 134,
         "multiplier": 1.45,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19
       },
       "previous_rank": 25,
-      "score": 486,
+      "score": 468.4,
       "rank": 25
     },
     {
@@ -758,24 +758,24 @@
       "audio_url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf",
       "discord_url": "https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf",
       "posted_at": "2026-09-18T00:00:00.000Z",
-      "web_thumbs": 1,
+      "web_thumbs": 2,
       "web_plays": 4,
       "web_videos": 0,
       "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
+        "thumbs": 2,
         "plays": 4,
         "videos": 0,
-        "raw_points": 93,
-        "penalty_base": 93,
-        "multiplier": 1.31,
+        "raw_points": 104,
+        "penalty_base": 104,
+        "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19
       },
       "previous_rank": 26,
-      "score": 480.4,
+      "score": 465.1,
       "rank": 26
     },
     {
@@ -791,7 +791,7 @@
       "web_thumbs": 1,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -802,10 +802,10 @@
         "penalty_base": 72.5,
         "multiplier": 1.24,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19
       },
       "previous_rank": 27,
-      "score": 479.5,
+      "score": 460.5,
       "rank": 27
     },
     {
@@ -832,10 +832,10 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19
       },
       "previous_rank": 28,
-      "score": 469.8,
+      "score": 454.2,
       "rank": 28
     },
     {
@@ -851,7 +851,7 @@
       "web_thumbs": 1,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 2,
+      "positionBonus": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -862,39 +862,40 @@
         "penalty_base": 52,
         "multiplier": 1.17,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19
       },
       "previous_rank": 29,
-      "score": 467.7,
+      "score": 453.6,
       "rank": 29
     },
     {
-      "id": "1549447083512041623",
-      "song_title": "Depeche ModeAllen Watts Remix feat Swedish House Mafia vs Lykke Li - Enjoy The Happiness (Jays MashUp)",
-      "author": "Depeche ModeAllen Watts Remix feat Swedish House Mafia vs Lykke Li",
-      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-      "message_text": "Viikon muushi tänne myös. 😀",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1791158247280",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1549447083512041623",
-      "posted_at": "2026-09-15T15:49:32.044Z",
-      "web_thumbs": 8,
-      "web_plays": 36,
-      "web_videos": 7,
+      "id": "spotify-6JmJCPlfl3HC4bFTldffyj",
+      "song_title": "Joysic - Burning With You",
+      "author": "Joysic",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273fd556271ed66f36ed61896f1",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6JmJCPlfl3HC4bFTldffyj",
+      "discord_url": "https://open.spotify.com/track/6JmJCPlfl3HC4bFTldffyj",
+      "posted_at": "2026-09-11T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 3,
+      "web_videos": 0,
+      "positionBonus": 1,
       "stats": {
-        "reactions": 1,
+        "reactions": 0,
         "comments": 0,
-        "thumbs": 8,
-        "plays": 36,
-        "videos": 7,
-        "raw_points": 1014.6,
-        "penalty_base": 1209.5,
-        "multiplier": 5.03,
+        "thumbs": 0,
+        "plays": 3,
+        "videos": 0,
+        "raw_points": 61.5,
+        "penalty_base": 61.5,
+        "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 20.4
+        "effective_age": 26
       },
-      "previous_rank": 30,
-      "score": 327.9,
+      "previous_rank": null,
+      "score": 339.1,
       "rank": 30
     }
   ]
