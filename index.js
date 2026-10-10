@@ -241,7 +241,7 @@ async function extractAudioInfos(message) {
         }
     }
 
-    const scRegex = /(https?:\/\/soundcloud\.com\/[^\s]+)/gi;
+    const scRegex = /(https?:\/\/(?:www\.|on\.)?soundcloud\.com\/[^\s]+)/gi;
     let scMatch;
     while ((scMatch = scRegex.exec(text)) !== null) {
         results.push({ type: 'soundcloud_link', url: scMatch[1], title: embedTitle || 'SoundCloud Audio', artist: embedAuthor });
