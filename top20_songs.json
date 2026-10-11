@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T00:48:19.768Z",
+  "last_updated": "2026-10-11T00:14:29.110Z",
   "top_songs": [
     {
       "id": "spotify-6o7JJZoJkGNFaqnxsqqbrm",
@@ -12,24 +12,84 @@
       "discord_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
       "posted_at": "2026-10-09T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 3,
+      "web_plays": 5,
+      "web_videos": 0,
+      "positionBonus": 20,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 5,
+        "videos": 0,
+        "raw_points": 102.5,
+        "penalty_base": 102.5,
+        "multiplier": 1.34,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 1,
+      "score": 922.5,
+      "rank": 1
+    },
+    {
+      "id": "spotify-0W6NBJxKltID44Vixxd6P9",
+      "song_title": "Orion - Remnants",
+      "author": "Orion",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a324714adb0e346be51c2fac",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0W6NBJxKltID44Vixxd6P9",
+      "discord_url": "https://open.spotify.com/track/0W6NBJxKltID44Vixxd6P9",
+      "posted_at": "2026-10-09T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 13,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 6,
+      "score": 844.5,
+      "rank": 2
+    },
+    {
+      "id": "spotify-3HB8PSdjB3yimxzBw0XKPH",
+      "song_title": "Kitkatone - Missä on JJ?",
+      "author": "Kitkatone",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a324714adb0e346be51c2fac",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3HB8PSdjB3yimxzBw0XKPH",
+      "discord_url": "https://open.spotify.com/track/3HB8PSdjB3yimxzBw0XKPH",
+      "posted_at": "2026-10-09T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
       "web_videos": 0,
       "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 3,
+        "plays": 1,
         "videos": 0,
-        "raw_points": 61.5,
-        "penalty_base": 61.5,
-        "multiplier": 1.21,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 1,
-      "score": 879.5,
-      "rank": 1
+      "previous_rank": 5,
+      "score": 838.5,
+      "rank": 3
     },
     {
       "id": "spotify-5iGIW3KnnozCmHJtqsDiWK",
@@ -41,55 +101,25 @@
       "audio_url": "https://open.spotify.com/track/5iGIW3KnnozCmHJtqsDiWK",
       "discord_url": "https://open.spotify.com/track/5iGIW3KnnozCmHJtqsDiWK",
       "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 20,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": null,
-      "score": 820,
-      "rank": 2
-    },
-    {
-      "id": "spotify-2Rrd4iZVxRuHyAvytLhnpZ",
-      "song_title": "ODJ Pirkka - Excommunication",
-      "author": "ODJ Pirkka",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a324714adb0e346be51c2fac",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2Rrd4iZVxRuHyAvytLhnpZ",
-      "discord_url": "https://open.spotify.com/track/2Rrd4iZVxRuHyAvytLhnpZ",
-      "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 0,
+      "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
       "positionBonus": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
+        "thumbs": 1,
         "plays": 0,
         "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
+        "raw_points": 11,
+        "penalty_base": 11,
+        "multiplier": 1.04,
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": null,
-      "score": 819,
-      "rank": 3
+      "previous_rank": 2,
+      "score": 830,
+      "rank": 4
     },
     {
       "id": "spotify-6pQ3YxM63YiFUJTHNBoc8Q",
@@ -117,49 +147,19 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": null,
+      "previous_rank": 4,
       "score": 817,
-      "rank": 4
-    },
-    {
-      "id": "spotify-3HB8PSdjB3yimxzBw0XKPH",
-      "song_title": "Kitkatone - Missä on JJ?",
-      "author": "Kitkatone",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a324714adb0e346be51c2fac",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3HB8PSdjB3yimxzBw0XKPH",
-      "discord_url": "https://open.spotify.com/track/3HB8PSdjB3yimxzBw0XKPH",
-      "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 16,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": null,
-      "score": 816,
       "rank": 5
     },
     {
-      "id": "spotify-0W6NBJxKltID44Vixxd6P9",
-      "song_title": "Orion - Remnants",
-      "author": "Orion",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a324714adb0e346be51c2fac",
+      "id": "spotify-1qAOarmIYzUAJIGKGGlYtr",
+      "song_title": "ZARG - LUV IS",
+      "author": "ZARG",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27376ec0cf01ae62cefc270722e",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0W6NBJxKltID44Vixxd6P9",
-      "discord_url": "https://open.spotify.com/track/0W6NBJxKltID44Vixxd6P9",
+      "audio_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
+      "discord_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
       "posted_at": "2026-10-09T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
@@ -177,24 +177,24 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": null,
+      "previous_rank": 7,
       "score": 815,
       "rank": 6
     },
     {
-      "id": "spotify-1qAOarmIYzUAJIGKGGlYtr",
-      "song_title": "ZARG - LUV IS",
-      "author": "ZARG",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27376ec0cf01ae62cefc270722e",
+      "id": "spotify-2Rrd4iZVxRuHyAvytLhnpZ",
+      "song_title": "ODJ Pirkka - Excommunication",
+      "author": "ODJ Pirkka",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a324714adb0e346be51c2fac",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
-      "discord_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
+      "audio_url": "https://open.spotify.com/track/2Rrd4iZVxRuHyAvytLhnpZ",
+      "discord_url": "https://open.spotify.com/track/2Rrd4iZVxRuHyAvytLhnpZ",
       "posted_at": "2026-10-09T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -207,9 +207,38 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": null,
-      "score": 812,
+      "previous_rank": 3,
+      "score": 814,
       "rank": 7
+    },
+    {
+      "id": "1556543719413383241",
+      "song_title": "Frederik - Kolmekymppinen (Expace Synttäri Edit) - FREE DOWNLOAD",
+      "author": "Frederik",
+      "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1791677664367",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1556543719413383241",
+      "posted_at": "2026-10-05T05:49:01.892Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 2,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 15,
+        "penalty_base": 15,
+        "multiplier": 1.05,
+        "is_newcomer": true,
+        "effective_age": 2.8
+      },
+      "previous_rank": null,
+      "score": 775.8,
+      "rank": 8
     },
     {
       "id": "spotify-4uYTf7MCQC769YKEiVTOfY",
@@ -235,11 +264,11 @@
         "penalty_base": 265,
         "multiplier": 1.88,
         "is_newcomer": false,
-        "effective_age": 8
+        "effective_age": 9
       },
-      "previous_rank": 2,
-      "score": 771.8,
-      "rank": 8
+      "previous_rank": 8,
+      "score": 746.9,
+      "rank": 9
     },
     {
       "id": "spotify-4Htrpt3EnzfxO8zYWglkQX",
@@ -252,53 +281,23 @@
       "discord_url": "https://open.spotify.com/track/4Htrpt3EnzfxO8zYWglkQX",
       "posted_at": "2026-10-02T00:00:00.000Z",
       "web_thumbs": 4,
-      "web_plays": 4,
+      "web_plays": 5,
       "web_videos": 0,
       "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 4,
-        "plays": 4,
+        "plays": 5,
         "videos": 0,
-        "raw_points": 126,
-        "penalty_base": 126,
-        "multiplier": 1.42,
+        "raw_points": 146.5,
+        "penalty_base": 146.5,
+        "multiplier": 1.49,
         "is_newcomer": false,
-        "effective_age": 8
+        "effective_age": 9
       },
-      "previous_rank": 5,
-      "score": 690,
-      "rank": 9
-    },
-    {
-      "id": "spotify-3TxGq1iYc4sRMq6OGh1Ks1",
-      "song_title": "MakeFlame - Silent Descent (Suanda 556)",
-      "author": "MakeFlame",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c16ed619ef34faadaf553e93",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
-      "discord_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
-      "posted_at": "2026-09-23T00:00:00.000Z",
-      "web_thumbs": 19,
-      "web_plays": 17,
-      "web_videos": 8,
-      "positionBonus": 6,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 19,
-        "plays": 17,
-        "videos": 8,
-        "raw_points": 1004.1,
-        "penalty_base": 1037.5,
-        "multiplier": 4.46,
-        "is_newcomer": false,
-        "effective_age": 17
-      },
-      "previous_rank": 3,
-      "score": 684.9,
+      "previous_rank": 9,
+      "score": 683.5,
       "rank": 10
     },
     {
@@ -324,40 +323,11 @@
         "penalty_base": 220,
         "multiplier": 1.73,
         "is_newcomer": false,
-        "effective_age": 10.4
+        "effective_age": 11.4
       },
-      "previous_rank": 6,
-      "score": 676.1,
+      "previous_rank": 11,
+      "score": 653.3,
       "rank": 11
-    },
-    {
-      "id": "1552341215159124098",
-      "song_title": "Junkkataxi - KIKAPOO",
-      "author": "Junkkataxi",
-      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
-      "message_text": "tuli tämä vastaan yhtäkkiä niin exporttasin, tää tais olla muistaakseni <@498823068643229700> idea joskus 🤣",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_12.mp3?v=1791593296795",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1552341215159124098",
-      "posted_at": "2026-09-23T15:29:46.799Z",
-      "web_thumbs": 6,
-      "web_plays": 19,
-      "web_videos": 2,
-      "stats": {
-        "reactions": 13,
-        "comments": 4,
-        "thumbs": 6,
-        "plays": 19,
-        "videos": 2,
-        "raw_points": 690,
-        "penalty_base": 690,
-        "multiplier": 3.3,
-        "is_newcomer": false,
-        "effective_age": 16.4
-      },
-      "previous_rank": 4,
-      "score": 659.9,
-      "rank": 12
     },
     {
       "id": "spotify-0JzNWfgM6YxRe76rxEShdN",
@@ -372,7 +342,7 @@
       "web_thumbs": 2,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -383,11 +353,11 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 8
+        "effective_age": 9
       },
-      "previous_rank": 7,
-      "score": 649.9,
-      "rank": 13
+      "previous_rank": 13,
+      "score": 638,
+      "rank": 12
     },
     {
       "id": "spotify-01tUoIyzGRy6RdDX6yWGWC",
@@ -402,7 +372,7 @@
       "web_thumbs": 3,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -413,10 +383,40 @@
         "penalty_base": 74,
         "multiplier": 1.25,
         "is_newcomer": false,
-        "effective_age": 8
+        "effective_age": 9
       },
-      "previous_rank": 8,
-      "score": 648.8,
+      "previous_rank": 14,
+      "score": 630.4,
+      "rank": 13
+    },
+    {
+      "id": "spotify-3TxGq1iYc4sRMq6OGh1Ks1",
+      "song_title": "MakeFlame - Silent Descent (Suanda 556)",
+      "author": "MakeFlame",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c16ed619ef34faadaf553e93",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
+      "discord_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
+      "posted_at": "2026-09-23T00:00:00.000Z",
+      "web_thumbs": 19,
+      "web_plays": 17,
+      "web_videos": 8,
+      "positionBonus": 6,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 19,
+        "plays": 17,
+        "videos": 8,
+        "raw_points": 1004.1,
+        "penalty_base": 1037.5,
+        "multiplier": 4.46,
+        "is_newcomer": false,
+        "effective_age": 18
+      },
+      "previous_rank": 10,
+      "score": 626.2,
       "rank": 14
     },
     {
@@ -432,7 +432,7 @@
       "web_thumbs": 0,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 13,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -443,11 +443,40 @@
         "penalty_base": 61.5,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 8
+        "effective_age": 9
       },
-      "previous_rank": 9,
-      "score": 643.8,
+      "previous_rank": 15,
+      "score": 623.9,
       "rank": 15
+    },
+    {
+      "id": "1552341215159124098",
+      "song_title": "Junkkataxi - KIKAPOO",
+      "author": "Junkkataxi",
+      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
+      "message_text": "tuli tämä vastaan yhtäkkiä niin exporttasin, tää tais olla muistaakseni <@498823068643229700> idea joskus 🤣",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1791677666767",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1552341215159124098",
+      "posted_at": "2026-09-23T15:29:46.799Z",
+      "web_thumbs": 6,
+      "web_plays": 19,
+      "web_videos": 2,
+      "stats": {
+        "reactions": 13,
+        "comments": 4,
+        "thumbs": 6,
+        "plays": 19,
+        "videos": 2,
+        "raw_points": 690,
+        "penalty_base": 690,
+        "multiplier": 3.3,
+        "is_newcomer": false,
+        "effective_age": 17.4
+      },
+      "previous_rank": 12,
+      "score": 616.4,
+      "rank": 16
     },
     {
       "id": "spotify-4mShhrXOgE0TydkAfbjq9K",
@@ -462,7 +491,7 @@
       "web_thumbs": 2,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -473,11 +502,11 @@
         "penalty_base": 22,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 8
+        "effective_age": 9
       },
-      "previous_rank": 10,
-      "score": 619.6,
-      "rank": 16
+      "previous_rank": 16,
+      "score": 607.4,
+      "rank": 17
     },
     {
       "id": "spotify-32gE2GazEWpNaUaovbsZc8",
@@ -492,7 +521,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -503,11 +532,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 8
+        "effective_age": 9
       },
-      "previous_rank": 11,
-      "score": 597.6,
-      "rank": 17
+      "previous_rank": 17,
+      "score": 583.4,
+      "rank": 18
     },
     {
       "id": "spotify-713cnkCVk5SF8kNl6We0ix",
@@ -533,11 +562,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 12,
-      "score": 593.1,
-      "rank": 18
+      "previous_rank": 18,
+      "score": 579.9,
+      "rank": 19
     },
     {
       "id": "spotify-6kHW0KB8dm9PUWdotPYjtH",
@@ -552,7 +581,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -563,11 +592,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 10
+        "effective_age": 11
       },
-      "previous_rank": 13,
-      "score": 584.8,
-      "rank": 19
+      "previous_rank": 19,
+      "score": 564.7,
+      "rank": 20
     },
     {
       "id": "spotify-38uszMpm0TIgvK2jvDolcq",
@@ -593,11 +622,11 @@
         "penalty_base": 105.5,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
-      "previous_rank": 15,
-      "score": 546.2,
-      "rank": 20
+      "previous_rank": 20,
+      "score": 528.4,
+      "rank": 21
     },
     {
       "id": "spotify-7brHyrbevs53x45o61wPXl",
@@ -623,11 +652,11 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
-      "previous_rank": 16,
-      "score": 545.7,
-      "rank": 21
+      "previous_rank": 21,
+      "score": 527.9,
+      "rank": 22
     },
     {
       "id": "spotify-6r2R2CzNrujR3NmlCwoKlL",
@@ -642,7 +671,7 @@
       "web_thumbs": 4,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 4,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -653,11 +682,11 @@
         "penalty_base": 126,
         "multiplier": 1.42,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
-      "previous_rank": 14,
-      "score": 541.8,
-      "rank": 22
+      "previous_rank": 22,
+      "score": 526.1,
+      "rank": 23
     },
     {
       "id": "spotify-2DBExJaTnwZKUqTx0MP8HD",
@@ -672,7 +701,7 @@
       "web_thumbs": 2,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -683,11 +712,11 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
-      "previous_rank": 17,
-      "score": 532.1,
-      "rank": 23
+      "previous_rank": 23,
+      "score": 519.2,
+      "rank": 24
     },
     {
       "id": "spotify-4E8RriYSoa9HzIQhpERUFa",
@@ -713,11 +742,11 @@
         "penalty_base": 94.5,
         "multiplier": 1.31,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
-      "previous_rank": 19,
-      "score": 531.6,
-      "rank": 24
+      "previous_rank": 24,
+      "score": 514.3,
+      "rank": 25
     },
     {
       "id": "spotify-0LoC4kA2dsELGl9OShBw5O",
@@ -743,11 +772,11 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
-      "previous_rank": 20,
-      "score": 528.3,
-      "rank": 25
+      "previous_rank": 25,
+      "score": 513.3,
+      "rank": 26
     },
     {
       "id": "spotify-1wkd8ubuDGTvmjEFCaMP5H",
@@ -762,7 +791,7 @@
       "web_thumbs": 4,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 7,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -773,11 +802,41 @@
         "penalty_base": 64.5,
         "multiplier": 1.22,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
-      "previous_rank": 18,
-      "score": 524.9,
-      "rank": 26
+      "previous_rank": 26,
+      "score": 505.9,
+      "rank": 27
+    },
+    {
+      "id": "spotify-0hKo2E4XIEK0GoZ97ftH93",
+      "song_title": "Triple M, YO-TKHS, RYOSUKE - NEXT2U",
+      "author": "Triple M, YO-TKHS, RYOSUKE",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2735130c0f50e1f557ba97d76de",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0hKo2E4XIEK0GoZ97ftH93",
+      "discord_url": "https://open.spotify.com/track/0hKo2E4XIEK0GoZ97ftH93",
+      "posted_at": "2026-09-25T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 6,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
+        "is_newcomer": false,
+        "effective_age": 16
+      },
+      "previous_rank": 28,
+      "score": 498.7,
+      "rank": 28
     },
     {
       "id": "spotify-68UpkhPdvkB5hZk2FUg6S8",
@@ -803,41 +862,11 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
-      "previous_rank": 21,
-      "score": 512.3,
-      "rank": 27
-    },
-    {
-      "id": "spotify-0hKo2E4XIEK0GoZ97ftH93",
-      "song_title": "Triple M, YO-TKHS, RYOSUKE - NEXT2U",
-      "author": "Triple M, YO-TKHS, RYOSUKE",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2735130c0f50e1f557ba97d76de",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0hKo2E4XIEK0GoZ97ftH93",
-      "discord_url": "https://open.spotify.com/track/0hKo2E4XIEK0GoZ97ftH93",
-      "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 5,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 31.5,
-        "penalty_base": 31.5,
-        "multiplier": 1.1,
-        "is_newcomer": false,
-        "effective_age": 15
-      },
-      "previous_rank": 23,
-      "score": 512.2,
-      "rank": 28
+      "previous_rank": 27,
+      "score": 497.3,
+      "rank": 29
     },
     {
       "id": "1551506620717076560",
@@ -846,7 +875,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/191ad6fd019fd40ef4f8df2d0823579d.webp?size=128",
       "message_text": "levikset-mashupit trendaillu tiktokissa nii laitetaas oma mitä oon soitellu kevääst asti jakoon",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1791593299767",
+      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1791677669107",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1551506620717076560",
       "posted_at": "2026-09-21T08:13:23.978Z",
       "web_thumbs": 4,
@@ -862,40 +891,10 @@
         "penalty_base": 322.5,
         "multiplier": 2.08,
         "is_newcomer": false,
-        "effective_age": 18.7
+        "effective_age": 19.7
       },
-      "previous_rank": 22,
-      "score": 498.9,
-      "rank": 29
-    },
-    {
-      "id": "spotify-7niB7gHrS3sVhILhHhZTp1",
-      "song_title": "hayve, Segan - See U Bounce",
-      "author": "hayve, Segan",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ca50d6b85c85bb552f85344a",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7niB7gHrS3sVhILhHhZTp1",
-      "discord_url": "https://open.spotify.com/track/7niB7gHrS3sVhILhHhZTp1",
-      "posted_at": "2026-09-23T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 3,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 31.5,
-        "penalty_base": 31.5,
-        "multiplier": 1.1,
-        "is_newcomer": false,
-        "effective_age": 17
-      },
-      "previous_rank": 24,
-      "score": 480.4,
+      "previous_rank": 29,
+      "score": 471.6,
       "rank": 30
     }
   ]
