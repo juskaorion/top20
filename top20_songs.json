@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T00:14:29.110Z",
+  "last_updated": "2026-10-12T00:31:39.365Z",
   "top_songs": [
     {
       "id": "spotify-6o7JJZoJkGNFaqnxsqqbrm",
@@ -14,7 +14,7 @@
       "web_thumbs": 0,
       "web_plays": 5,
       "web_videos": 0,
-      "positionBonus": 20,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -28,8 +28,38 @@
         "effective_age": 0
       },
       "previous_rank": 1,
-      "score": 922.5,
+      "score": 917.1,
       "rank": 1
+    },
+    {
+      "id": "spotify-5iGIW3KnnozCmHJtqsDiWK",
+      "song_title": "Detmex - Free",
+      "author": "Detmex",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737d305885d8798b6173f1bcb3",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5iGIW3KnnozCmHJtqsDiWK",
+      "discord_url": "https://open.spotify.com/track/5iGIW3KnnozCmHJtqsDiWK",
+      "posted_at": "2026-10-09T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 0,
+      "web_videos": 1,
+      "positionBonus": 18,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 0,
+        "videos": 1,
+        "raw_points": 82,
+        "penalty_base": 82,
+        "multiplier": 1.27,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 4,
+      "score": 899.6,
+      "rank": 2
     },
     {
       "id": "spotify-0W6NBJxKltID44Vixxd6P9",
@@ -44,7 +74,7 @@
       "web_thumbs": 1,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 13,
+      "positionBonus": 20,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -57,9 +87,9 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 6,
-      "score": 844.5,
-      "rank": 2
+      "previous_rank": 2,
+      "score": 851.2,
+      "rank": 3
     },
     {
       "id": "spotify-3HB8PSdjB3yimxzBw0XKPH",
@@ -74,7 +104,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 18,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -87,49 +117,49 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 5,
-      "score": 838.5,
-      "rank": 3
+      "previous_rank": 3,
+      "score": 833.2,
+      "rank": 4
     },
     {
-      "id": "spotify-5iGIW3KnnozCmHJtqsDiWK",
-      "song_title": "Detmex - Free",
-      "author": "Detmex",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737d305885d8798b6173f1bcb3",
+      "id": "spotify-2Rrd4iZVxRuHyAvytLhnpZ",
+      "song_title": "ODJ Pirkka - Excommunication",
+      "author": "ODJ Pirkka",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a324714adb0e346be51c2fac",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5iGIW3KnnozCmHJtqsDiWK",
-      "discord_url": "https://open.spotify.com/track/5iGIW3KnnozCmHJtqsDiWK",
+      "audio_url": "https://open.spotify.com/track/2Rrd4iZVxRuHyAvytLhnpZ",
+      "discord_url": "https://open.spotify.com/track/2Rrd4iZVxRuHyAvytLhnpZ",
       "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 1,
+      "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
       "positionBonus": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
+        "thumbs": 0,
         "plays": 0,
         "videos": 0,
-        "raw_points": 11,
-        "penalty_base": 11,
-        "multiplier": 1.04,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 2,
-      "score": 830,
-      "rank": 4
+      "previous_rank": 7,
+      "score": 818.7,
+      "rank": 5
     },
     {
-      "id": "spotify-6pQ3YxM63YiFUJTHNBoc8Q",
-      "song_title": "prodkesm, TESSAI, DJ FKU - FUNK ZANIRA",
-      "author": "prodkesm, TESSAI, DJ FKU",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e4444d651e071a70a0ef2e70",
+      "id": "spotify-1qAOarmIYzUAJIGKGGlYtr",
+      "song_title": "ZARG - LUV IS",
+      "author": "ZARG",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27376ec0cf01ae62cefc270722e",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6pQ3YxM63YiFUJTHNBoc8Q",
-      "discord_url": "https://open.spotify.com/track/6pQ3YxM63YiFUJTHNBoc8Q",
+      "audio_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
+      "discord_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
       "posted_at": "2026-10-09T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
@@ -147,54 +177,24 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 4,
-      "score": 817,
-      "rank": 5
-    },
-    {
-      "id": "spotify-1qAOarmIYzUAJIGKGGlYtr",
-      "song_title": "ZARG - LUV IS",
-      "author": "ZARG",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27376ec0cf01ae62cefc270722e",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
-      "discord_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
-      "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 15,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 7,
-      "score": 815,
+      "previous_rank": 6,
+      "score": 816.7,
       "rank": 6
     },
     {
-      "id": "spotify-2Rrd4iZVxRuHyAvytLhnpZ",
-      "song_title": "ODJ Pirkka - Excommunication",
-      "author": "ODJ Pirkka",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a324714adb0e346be51c2fac",
+      "id": "spotify-6pQ3YxM63YiFUJTHNBoc8Q",
+      "song_title": "prodkesm, TESSAI, DJ FKU - FUNK ZANIRA",
+      "author": "prodkesm, TESSAI, DJ FKU",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e4444d651e071a70a0ef2e70",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2Rrd4iZVxRuHyAvytLhnpZ",
-      "discord_url": "https://open.spotify.com/track/2Rrd4iZVxRuHyAvytLhnpZ",
+      "audio_url": "https://open.spotify.com/track/6pQ3YxM63YiFUJTHNBoc8Q",
+      "discord_url": "https://open.spotify.com/track/6pQ3YxM63YiFUJTHNBoc8Q",
       "posted_at": "2026-10-09T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -207,38 +207,9 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 3,
-      "score": 814,
+      "previous_rank": 5,
+      "score": 815.7,
       "rank": 7
-    },
-    {
-      "id": "1556543719413383241",
-      "song_title": "Frederik - Kolmekymppinen (Expace Synttäri Edit) - FREE DOWNLOAD",
-      "author": "Frederik",
-      "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1791677664367",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1556543719413383241",
-      "posted_at": "2026-10-05T05:49:01.892Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "stats": {
-        "reactions": 2,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 15,
-        "penalty_base": 15,
-        "multiplier": 1.05,
-        "is_newcomer": true,
-        "effective_age": 2.8
-      },
-      "previous_rank": null,
-      "score": 775.8,
-      "rank": 8
     },
     {
       "id": "spotify-4uYTf7MCQC769YKEiVTOfY",
@@ -250,24 +221,53 @@
       "audio_url": "https://open.spotify.com/track/4uYTf7MCQC769YKEiVTOfY",
       "discord_url": "https://open.spotify.com/track/4uYTf7MCQC769YKEiVTOfY",
       "posted_at": "2026-10-02T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 6,
-      "web_videos": 2,
-      "positionBonus": 11,
+      "web_thumbs": 3,
+      "web_plays": 7,
+      "web_videos": 3,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 2,
-        "plays": 6,
-        "videos": 2,
-        "raw_points": 265,
-        "penalty_base": 265,
-        "multiplier": 1.88,
+        "thumbs": 3,
+        "plays": 7,
+        "videos": 3,
+        "raw_points": 356.5,
+        "penalty_base": 356.5,
+        "multiplier": 2.19,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
+      },
+      "previous_rank": 9,
+      "score": 774.4,
+      "rank": 8
+    },
+    {
+      "id": "1556543719413383241",
+      "song_title": "Frederik - Kolmekymppinen (Expace Synttäri Edit) - FREE DOWNLOAD",
+      "author": "Frederik",
+      "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1791765096402",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1556543719413383241",
+      "posted_at": "2026-10-05T05:49:01.892Z",
+      "web_thumbs": 1,
+      "web_plays": 0,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 2,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 6.8
       },
       "previous_rank": 8,
-      "score": 746.9,
+      "score": 722.7,
       "rank": 9
     },
     {
@@ -294,10 +294,10 @@
         "penalty_base": 146.5,
         "multiplier": 1.49,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 9,
-      "score": 683.5,
+      "previous_rank": 10,
+      "score": 663.1,
       "rank": 10
     },
     {
@@ -323,10 +323,10 @@
         "penalty_base": 220,
         "multiplier": 1.73,
         "is_newcomer": false,
-        "effective_age": 11.4
+        "effective_age": 12.4
       },
       "previous_rank": 11,
-      "score": 653.3,
+      "score": 629.6,
       "rank": 11
     },
     {
@@ -342,7 +342,7 @@
       "web_thumbs": 2,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -353,10 +353,10 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 13,
-      "score": 638,
+      "previous_rank": 12,
+      "score": 618.5,
       "rank": 12
     },
     {
@@ -372,7 +372,7 @@
       "web_thumbs": 3,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -383,41 +383,11 @@
         "penalty_base": 74,
         "multiplier": 1.25,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 14,
-      "score": 630.4,
+      "previous_rank": 13,
+      "score": 614.3,
       "rank": 13
-    },
-    {
-      "id": "spotify-3TxGq1iYc4sRMq6OGh1Ks1",
-      "song_title": "MakeFlame - Silent Descent (Suanda 556)",
-      "author": "MakeFlame",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c16ed619ef34faadaf553e93",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
-      "discord_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
-      "posted_at": "2026-09-23T00:00:00.000Z",
-      "web_thumbs": 19,
-      "web_plays": 17,
-      "web_videos": 8,
-      "positionBonus": 6,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 19,
-        "plays": 17,
-        "videos": 8,
-        "raw_points": 1004.1,
-        "penalty_base": 1037.5,
-        "multiplier": 4.46,
-        "is_newcomer": false,
-        "effective_age": 18
-      },
-      "previous_rank": 10,
-      "score": 626.2,
-      "rank": 14
     },
     {
       "id": "spotify-6wSPbH6HNnjbfGLQBa8QLy",
@@ -432,7 +402,7 @@
       "web_thumbs": 0,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -443,11 +413,71 @@
         "penalty_base": 61.5,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
       "previous_rank": 15,
-      "score": 623.9,
+      "score": 610.5,
+      "rank": 14
+    },
+    {
+      "id": "spotify-4mShhrXOgE0TydkAfbjq9K",
+      "song_title": "Darude, Zans - Sandstorm - ZANS Remix",
+      "author": "Darude, Zans",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e80b42c5170232d9dcae08a3",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4mShhrXOgE0TydkAfbjq9K",
+      "discord_url": "https://open.spotify.com/track/4mShhrXOgE0TydkAfbjq9K",
+      "posted_at": "2026-10-02T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 10,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 22,
+        "penalty_base": 22,
+        "multiplier": 1.07,
+        "is_newcomer": false,
+        "effective_age": 10
+      },
+      "previous_rank": 17,
+      "score": 586.8,
       "rank": 15
+    },
+    {
+      "id": "spotify-32gE2GazEWpNaUaovbsZc8",
+      "song_title": "Modem - Sensaatio",
+      "author": "Modem",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733d6cc5ea2f0d1cb3c0923127",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/32gE2GazEWpNaUaovbsZc8",
+      "discord_url": "https://open.spotify.com/track/32gE2GazEWpNaUaovbsZc8",
+      "posted_at": "2026-10-02T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 11,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 10
+      },
+      "previous_rank": 18,
+      "score": 575.7,
+      "rank": 16
     },
     {
       "id": "1552341215159124098",
@@ -456,7 +486,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
       "message_text": "tuli tämä vastaan yhtäkkiä niin exporttasin, tää tais olla muistaakseni <@498823068643229700> idea joskus 🤣",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1791677666767",
+      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1791765099365",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1552341215159124098",
       "posted_at": "2026-09-23T15:29:46.799Z",
       "web_thumbs": 6,
@@ -472,71 +502,11 @@
         "penalty_base": 690,
         "multiplier": 3.3,
         "is_newcomer": false,
-        "effective_age": 17.4
-      },
-      "previous_rank": 12,
-      "score": 616.4,
-      "rank": 16
-    },
-    {
-      "id": "spotify-4mShhrXOgE0TydkAfbjq9K",
-      "song_title": "Darude, Zans - Sandstorm - ZANS Remix",
-      "author": "Darude, Zans",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273e80b42c5170232d9dcae08a3",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4mShhrXOgE0TydkAfbjq9K",
-      "discord_url": "https://open.spotify.com/track/4mShhrXOgE0TydkAfbjq9K",
-      "posted_at": "2026-10-02T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 16,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 22,
-        "penalty_base": 22,
-        "multiplier": 1.07,
-        "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 18.4
       },
       "previous_rank": 16,
-      "score": 607.4,
+      "score": 571.3,
       "rank": 17
-    },
-    {
-      "id": "spotify-32gE2GazEWpNaUaovbsZc8",
-      "song_title": "Modem - Sensaatio",
-      "author": "Modem",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733d6cc5ea2f0d1cb3c0923127",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/32gE2GazEWpNaUaovbsZc8",
-      "discord_url": "https://open.spotify.com/track/32gE2GazEWpNaUaovbsZc8",
-      "posted_at": "2026-10-02T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 5,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": false,
-        "effective_age": 9
-      },
-      "previous_rank": 17,
-      "score": 583.4,
-      "rank": 18
     },
     {
       "id": "spotify-713cnkCVk5SF8kNl6We0ix",
@@ -562,10 +532,40 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 10
+        "effective_age": 11
       },
-      "previous_rank": 18,
-      "score": 579.9,
+      "previous_rank": 19,
+      "score": 566.2,
+      "rank": 18
+    },
+    {
+      "id": "spotify-3TxGq1iYc4sRMq6OGh1Ks1",
+      "song_title": "MakeFlame - Silent Descent (Suanda 556)",
+      "author": "MakeFlame",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c16ed619ef34faadaf553e93",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
+      "discord_url": "https://open.spotify.com/track/3TxGq1iYc4sRMq6OGh1Ks1",
+      "posted_at": "2026-09-23T00:00:00.000Z",
+      "web_thumbs": 19,
+      "web_plays": 17,
+      "web_videos": 8,
+      "positionBonus": 6,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 19,
+        "plays": 17,
+        "videos": 8,
+        "raw_points": 1004.1,
+        "penalty_base": 1037.5,
+        "multiplier": 4.46,
+        "is_newcomer": false,
+        "effective_age": 19
+      },
+      "previous_rank": 14,
+      "score": 565.3,
       "rank": 19
     },
     {
@@ -581,7 +581,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 3,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -592,10 +592,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
-      "previous_rank": 19,
-      "score": 564.7,
+      "previous_rank": 20,
+      "score": 553.1,
       "rank": 20
     },
     {
@@ -622,10 +622,10 @@
         "penalty_base": 105.5,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 20,
-      "score": 528.4,
+      "previous_rank": 21,
+      "score": 509.9,
       "rank": 21
     },
     {
@@ -652,10 +652,10 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 21,
-      "score": 527.9,
+      "previous_rank": 22,
+      "score": 509.5,
       "rank": 22
     },
     {
@@ -682,71 +682,11 @@
         "penalty_base": 126,
         "multiplier": 1.42,
         "is_newcomer": false,
-        "effective_age": 16
-      },
-      "previous_rank": 22,
-      "score": 526.1,
-      "rank": 23
-    },
-    {
-      "id": "spotify-2DBExJaTnwZKUqTx0MP8HD",
-      "song_title": "metakomplex - Voices",
-      "author": "metakomplex",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273cdc691e5f80753b114fccb84",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2DBExJaTnwZKUqTx0MP8HD",
-      "discord_url": "https://open.spotify.com/track/2DBExJaTnwZKUqTx0MP8HD",
-      "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 12,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 83.5,
-        "penalty_base": 83.5,
-        "multiplier": 1.28,
-        "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
       "previous_rank": 23,
-      "score": 519.2,
-      "rank": 24
-    },
-    {
-      "id": "spotify-4E8RriYSoa9HzIQhpERUFa",
-      "song_title": "Telm & Wilson, Dubruvvas - Bulldoze",
-      "author": "Telm & Wilson, Dubruvvas",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27303b8b9bee73237d45c589143",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/4E8RriYSoa9HzIQhpERUFa",
-      "discord_url": "https://open.spotify.com/track/4E8RriYSoa9HzIQhpERUFa",
-      "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 3,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 4,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 94.5,
-        "penalty_base": 94.5,
-        "multiplier": 1.31,
-        "is_newcomer": false,
-        "effective_age": 16
-      },
-      "previous_rank": 24,
-      "score": 514.3,
-      "rank": 25
+      "score": 506.7,
+      "rank": 23
     },
     {
       "id": "spotify-0LoC4kA2dsELGl9OShBw5O",
@@ -772,10 +712,70 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
+      },
+      "previous_rank": 26,
+      "score": 497.8,
+      "rank": 24
+    },
+    {
+      "id": "spotify-2DBExJaTnwZKUqTx0MP8HD",
+      "song_title": "metakomplex - Voices",
+      "author": "metakomplex",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273cdc691e5f80753b114fccb84",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2DBExJaTnwZKUqTx0MP8HD",
+      "discord_url": "https://open.spotify.com/track/2DBExJaTnwZKUqTx0MP8HD",
+      "posted_at": "2026-09-25T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 3,
+      "web_videos": 0,
+      "positionBonus": 7,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 3,
+        "videos": 0,
+        "raw_points": 83.5,
+        "penalty_base": 83.5,
+        "multiplier": 1.28,
+        "is_newcomer": false,
+        "effective_age": 17
+      },
+      "previous_rank": 24,
+      "score": 496.7,
+      "rank": 25
+    },
+    {
+      "id": "spotify-4E8RriYSoa9HzIQhpERUFa",
+      "song_title": "Telm & Wilson, Dubruvvas - Bulldoze",
+      "author": "Telm & Wilson, Dubruvvas",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27303b8b9bee73237d45c589143",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/4E8RriYSoa9HzIQhpERUFa",
+      "discord_url": "https://open.spotify.com/track/4E8RriYSoa9HzIQhpERUFa",
+      "posted_at": "2026-09-25T00:00:00.000Z",
+      "web_thumbs": 3,
+      "web_plays": 3,
+      "web_videos": 0,
+      "positionBonus": 3,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 3,
+        "videos": 0,
+        "raw_points": 94.5,
+        "penalty_base": 94.5,
+        "multiplier": 1.31,
+        "is_newcomer": false,
+        "effective_age": 17
       },
       "previous_rank": 25,
-      "score": 513.3,
+      "score": 495.3,
       "rank": 26
     },
     {
@@ -802,10 +802,10 @@
         "penalty_base": 64.5,
         "multiplier": 1.22,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 26,
-      "score": 505.9,
+      "previous_rank": 27,
+      "score": 489.3,
       "rank": 27
     },
     {
@@ -821,7 +821,7 @@
       "web_thumbs": 1,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -832,10 +832,10 @@
         "penalty_base": 31.5,
         "multiplier": 1.1,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
       "previous_rank": 28,
-      "score": 498.7,
+      "score": 482.6,
       "rank": 28
     },
     {
@@ -851,7 +851,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 2,
+      "positionBonus": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -862,39 +862,40 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 27,
-      "score": 497.3,
+      "previous_rank": 29,
+      "score": 480.8,
       "rank": 29
     },
     {
-      "id": "1551506620717076560",
-      "song_title": "jemejoo_ - toksiset farkut",
-      "author": "jemejoo_",
-      "author_avatar": "https://cdn.discordapp.com/avatars/203651193786859520/191ad6fd019fd40ef4f8df2d0823579d.webp?size=128",
-      "message_text": "levikset-mashupit trendaillu tiktokissa nii laitetaas oma mitä oon soitellu kevääst asti jakoon",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1791677669107",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1551506620717076560",
-      "posted_at": "2026-09-21T08:13:23.978Z",
-      "web_thumbs": 4,
-      "web_plays": 11,
-      "web_videos": 1,
+      "id": "spotify-7niB7gHrS3sVhILhHhZTp1",
+      "song_title": "hayve, Segan - See U Bounce",
+      "author": "hayve, Segan",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273ca50d6b85c85bb552f85344a",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7niB7gHrS3sVhILhHhZTp1",
+      "discord_url": "https://open.spotify.com/track/7niB7gHrS3sVhILhHhZTp1",
+      "posted_at": "2026-09-23T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 2,
       "stats": {
-        "reactions": 2,
+        "reactions": 0,
         "comments": 0,
-        "thumbs": 4,
-        "plays": 11,
-        "videos": 1,
-        "raw_points": 322.5,
-        "penalty_base": 322.5,
-        "multiplier": 2.08,
+        "thumbs": 1,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
         "is_newcomer": false,
-        "effective_age": 19.7
+        "effective_age": 19
       },
-      "previous_rank": 29,
-      "score": 471.6,
+      "previous_rank": null,
+      "score": 449.7,
       "rank": 30
     }
   ]
