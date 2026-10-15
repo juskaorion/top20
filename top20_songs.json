@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T23:55:15.945Z",
+  "last_updated": "2026-10-15T23:41:53.029Z",
   "top_songs": [
     {
       "id": "1559273817183101028",
@@ -12,22 +12,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273817183101028",
       "posted_at": "2026-10-12T18:37:27.923Z",
       "web_thumbs": 1,
-      "web_plays": 19,
+      "web_plays": 20,
       "web_videos": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
-        "plays": 19,
+        "plays": 20,
         "videos": 0,
-        "raw_points": 395,
-        "penalty_base": 395,
-        "multiplier": 2.32,
+        "raw_points": 415.5,
+        "penalty_base": 415.5,
+        "multiplier": 2.38,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.2
       },
       "previous_rank": 1,
-      "score": 1195,
+      "score": 1208.7,
       "rank": 1
     },
     {
@@ -41,53 +41,23 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273754318741555",
       "posted_at": "2026-10-12T18:37:12.935Z",
       "web_thumbs": 2,
-      "web_plays": 16,
+      "web_plays": 17,
       "web_videos": 0,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 2,
-        "plays": 16,
-        "videos": 0,
-        "raw_points": 346.5,
-        "penalty_base": 346.5,
-        "multiplier": 2.16,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 2,
-      "score": 1146.5,
-      "rank": 2
-    },
-    {
-      "id": "spotify-6o7JJZoJkGNFaqnxsqqbrm",
-      "song_title": "Mike Ditchz - Keep It Low",
-      "author": "Mike Ditchz",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273867ded3f916df70f43dfcb51",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
-      "discord_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
-      "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 17,
-      "web_videos": 0,
-      "positionBonus": 20,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
         "plays": 17,
         "videos": 0,
-        "raw_points": 348.5,
-        "penalty_base": 348.5,
-        "multiplier": 2.16,
+        "raw_points": 367,
+        "penalty_base": 367,
+        "multiplier": 2.22,
         "is_newcomer": true,
-        "effective_age": 3
+        "effective_age": 0.2
       },
-      "previous_rank": 3,
-      "score": 1081.1,
-      "rank": 3
+      "previous_rank": 2,
+      "score": 1160.7,
+      "rank": 2
     },
     {
       "id": "1559273635976450248",
@@ -96,7 +66,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1792022091194",
+      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1792107667156",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273635976450248",
       "posted_at": "2026-10-12T18:36:44.720Z",
       "web_thumbs": 2,
@@ -112,11 +82,11 @@
         "penalty_base": 236.5,
         "multiplier": 1.79,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.2
       },
-      "previous_rank": 6,
-      "score": 1036.5,
-      "rank": 4
+      "previous_rank": 4,
+      "score": 1031.4,
+      "rank": 3
     },
     {
       "id": "1559273473434460314",
@@ -125,7 +95,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1792022095432",
+      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1792107671279",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273473434460314",
       "posted_at": "2026-10-12T18:36:05.967Z",
       "web_thumbs": 2,
@@ -141,11 +111,11 @@
         "penalty_base": 236.5,
         "multiplier": 1.79,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.2
       },
-      "previous_rank": 8,
-      "score": 1036.5,
-      "rank": 5
+      "previous_rank": 5,
+      "score": 1031.4,
+      "rank": 4
     },
     {
       "id": "1559273525687095306",
@@ -154,7 +124,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1792022099373",
+      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1792107675310",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273525687095306",
       "posted_at": "2026-10-12T18:36:18.425Z",
       "web_thumbs": 1,
@@ -170,11 +140,11 @@
         "penalty_base": 231,
         "multiplier": 1.77,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.2
       },
-      "previous_rank": 9,
-      "score": 1031,
-      "rank": 6
+      "previous_rank": 6,
+      "score": 1025.9,
+      "rank": 5
     },
     {
       "id": "1559273690196221952",
@@ -183,7 +153,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1792022103386",
+      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1792107679541",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273690196221952",
       "posted_at": "2026-10-12T18:36:57.647Z",
       "web_thumbs": 0,
@@ -199,11 +169,11 @@
         "penalty_base": 225.5,
         "multiplier": 1.75,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.2
       },
-      "previous_rank": 5,
-      "score": 1025.5,
-      "rank": 7
+      "previous_rank": 7,
+      "score": 1020.5,
+      "rank": 6
     },
     {
       "id": "1559273569261719593",
@@ -212,7 +182,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1792022107283",
+      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1792107684047",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273569261719593",
       "posted_at": "2026-10-12T18:36:28.814Z",
       "web_thumbs": 0,
@@ -228,11 +198,11 @@
         "penalty_base": 225.5,
         "multiplier": 1.75,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.2
       },
-      "previous_rank": 7,
-      "score": 1025.5,
-      "rank": 8
+      "previous_rank": 8,
+      "score": 1020.5,
+      "rank": 7
     },
     {
       "id": "1559273343738187776",
@@ -241,7 +211,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1792022111978",
+      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1792107688105",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273343738187776",
       "posted_at": "2026-10-12T18:35:35.045Z",
       "web_thumbs": 2,
@@ -257,41 +227,11 @@
         "penalty_base": 195.5,
         "multiplier": 1.65,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.2
       },
-      "previous_rank": 10,
-      "score": 995.5,
-      "rank": 9
-    },
-    {
-      "id": "spotify-5iGIW3KnnozCmHJtqsDiWK",
-      "song_title": "Detmex - Free",
-      "author": "Detmex",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737d305885d8798b6173f1bcb3",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5iGIW3KnnozCmHJtqsDiWK",
-      "discord_url": "https://open.spotify.com/track/5iGIW3KnnozCmHJtqsDiWK",
-      "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 3,
-      "web_plays": 7,
-      "web_videos": 1,
-      "positionBonus": 14,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 7,
-        "videos": 1,
-        "raw_points": 236.5,
-        "penalty_base": 236.5,
-        "multiplier": 1.79,
-        "is_newcomer": true,
-        "effective_age": 3
-      },
-      "previous_rank": 4,
-      "score": 978.2,
-      "rank": 10
+      "previous_rank": 9,
+      "score": 990.8,
+      "rank": 8
     },
     {
       "id": "1559273388307120158",
@@ -300,7 +240,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1792022115944",
+      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1792107692068",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273388307120158",
       "posted_at": "2026-10-12T18:35:45.671Z",
       "web_thumbs": 1,
@@ -316,11 +256,160 @@
         "penalty_base": 169.5,
         "multiplier": 1.56,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.2
       },
       "previous_rank": 11,
-      "score": 969.5,
+      "score": 965,
+      "rank": 9
+    },
+    {
+      "id": "spotify-6o7JJZoJkGNFaqnxsqqbrm",
+      "song_title": "Mike Ditchz - Keep It Low",
+      "author": "Mike Ditchz",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273867ded3f916df70f43dfcb51",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
+      "discord_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
+      "posted_at": "2026-10-09T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 17,
+      "web_videos": 0,
+      "positionBonus": 17,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 17,
+        "videos": 0,
+        "raw_points": 348.5,
+        "penalty_base": 348.5,
+        "multiplier": 2.16,
+        "is_newcomer": true,
+        "effective_age": 7
+      },
+      "previous_rank": 3,
+      "score": 961.6,
+      "rank": 10
+    },
+    {
+      "id": "spotify-5iGIW3KnnozCmHJtqsDiWK",
+      "song_title": "Detmex - Free",
+      "author": "Detmex",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2737d305885d8798b6173f1bcb3",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5iGIW3KnnozCmHJtqsDiWK",
+      "discord_url": "https://open.spotify.com/track/5iGIW3KnnozCmHJtqsDiWK",
+      "posted_at": "2026-10-09T00:00:00.000Z",
+      "web_thumbs": 3,
+      "web_plays": 7,
+      "web_videos": 1,
+      "positionBonus": 16,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 7,
+        "videos": 1,
+        "raw_points": 236.5,
+        "penalty_base": 236.5,
+        "multiplier": 1.79,
+        "is_newcomer": true,
+        "effective_age": 7
+      },
+      "previous_rank": 10,
+      "score": 883.8,
       "rank": 11
+    },
+    {
+      "id": "spotify-2b382SgOTUxDsXfDdmh5pf",
+      "song_title": "DeejaVu - Taste",
+      "author": "DeejaVu",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c04de33e1eefa5b852aea957",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2b382SgOTUxDsXfDdmh5pf",
+      "discord_url": "https://open.spotify.com/track/2b382SgOTUxDsXfDdmh5pf",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 20,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": null,
+      "score": 820,
+      "rank": 12
+    },
+    {
+      "id": "spotify-5q3NF3xTtuMYgUHesqNBO1",
+      "song_title": "Joysic, Axel - Song I'll Write",
+      "author": "Joysic, Axel",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733380f44957b9f7b841a7ab5b",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5q3NF3xTtuMYgUHesqNBO1",
+      "discord_url": "https://open.spotify.com/track/5q3NF3xTtuMYgUHesqNBO1",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 19,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": null,
+      "score": 819,
+      "rank": 13
+    },
+    {
+      "id": "1560279881353404556",
+      "song_title": "BILLAIN - F4K M33",
+      "author": "BILLAIN",
+      "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1792107698597",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1560279881353404556",
+      "posted_at": "2026-10-15T13:15:12.313Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": null,
+      "score": 800,
+      "rank": 14
     },
     {
       "id": "spotify-0W6NBJxKltID44Vixxd6P9",
@@ -335,7 +424,7 @@
       "web_thumbs": 2,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 19,
+      "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -346,11 +435,11 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": true,
-        "effective_age": 3
+        "effective_age": 7
       },
       "previous_rank": 12,
-      "score": 868.5,
-      "rank": 12
+      "score": 795,
+      "rank": 15
     },
     {
       "id": "spotify-3HB8PSdjB3yimxzBw0XKPH",
@@ -365,7 +454,7 @@
       "web_thumbs": 0,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -376,11 +465,11 @@
         "penalty_base": 61.5,
         "multiplier": 1.21,
         "is_newcomer": true,
-        "effective_age": 3
+        "effective_age": 7
       },
       "previous_rank": 13,
-      "score": 829.8,
-      "rank": 13
+      "score": 761.8,
+      "rank": 16
     },
     {
       "id": "spotify-1qAOarmIYzUAJIGKGGlYtr",
@@ -395,7 +484,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 15,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -406,11 +495,11 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": true,
-        "effective_age": 3
+        "effective_age": 7
       },
-      "previous_rank": 16,
-      "score": 810,
-      "rank": 14
+      "previous_rank": 14,
+      "score": 746.8,
+      "rank": 17
     },
     {
       "id": "spotify-2Rrd4iZVxRuHyAvytLhnpZ",
@@ -425,7 +514,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 18,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -436,11 +525,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 3
+        "effective_age": 7
       },
-      "previous_rank": 14,
-      "score": 795.3,
-      "rank": 15
+      "previous_rank": 15,
+      "score": 734.7,
+      "rank": 18
     },
     {
       "id": "spotify-6pQ3YxM63YiFUJTHNBoc8Q",
@@ -455,7 +544,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 16,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -466,11 +555,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 3
+        "effective_age": 7
       },
-      "previous_rank": 15,
-      "score": 793.3,
-      "rank": 16
+      "previous_rank": 16,
+      "score": 730.7,
+      "rank": 19
     },
     {
       "id": "spotify-4uYTf7MCQC769YKEiVTOfY",
@@ -485,7 +574,7 @@
       "web_thumbs": 3,
       "web_plays": 7,
       "web_videos": 3,
-      "positionBonus": 11,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -496,11 +585,11 @@
         "penalty_base": 356.5,
         "multiplier": 2.19,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
       "previous_rank": 17,
-      "score": 683.6,
-      "rank": 17
+      "score": 653.3,
+      "rank": 20
     },
     {
       "id": "spotify-4Htrpt3EnzfxO8zYWglkQX",
@@ -526,11 +615,11 @@
         "penalty_base": 309,
         "multiplier": 2.03,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
       "previous_rank": 18,
-      "score": 670.8,
-      "rank": 18
+      "score": 643.7,
+      "rank": 21
     },
     {
       "id": "1556543719413383241",
@@ -539,7 +628,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1791937111176",
+      "audio_url": "https://www.djorion.fi/top20//rank_22.mp3?v=1792107707289",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1556543719413383241",
       "posted_at": "2026-10-05T05:49:01.892Z",
       "web_thumbs": 1,
@@ -555,11 +644,11 @@
         "penalty_base": 121.5,
         "multiplier": 1.41,
         "is_newcomer": false,
-        "effective_age": 9.8
+        "effective_age": 10.7
       },
       "previous_rank": 19,
-      "score": 636.5,
-      "rank": 19
+      "score": 617.7,
+      "rank": 22
     },
     {
       "id": "spotify-01tUoIyzGRy6RdDX6yWGWC",
@@ -574,7 +663,7 @@
       "web_thumbs": 3,
       "web_plays": 5,
       "web_videos": 0,
-      "positionBonus": 13,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -585,11 +674,11 @@
         "penalty_base": 135.5,
         "multiplier": 1.45,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
-      "previous_rank": 21,
-      "score": 593.8,
-      "rank": 20
+      "previous_rank": 20,
+      "score": 573.4,
+      "rank": 23
     },
     {
       "id": "spotify-0JzNWfgM6YxRe76rxEShdN",
@@ -604,7 +693,7 @@
       "web_thumbs": 2,
       "web_plays": 5,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -615,11 +704,11 @@
         "penalty_base": 124.5,
         "multiplier": 1.42,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
-      "previous_rank": 20,
-      "score": 581.2,
-      "rank": 21
+      "previous_rank": 21,
+      "score": 565.3,
+      "rank": 24
     },
     {
       "id": "1554503352321179698",
@@ -628,7 +717,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/216516150505373696/4028a5a004892726b6a5221ae1f8efc4.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_22.mp3?v=1791937119422",
+      "audio_url": "https://www.djorion.fi/top20//rank_25.mp3?v=1792107713028",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1554503352321179698",
       "posted_at": "2026-09-29T14:41:20.469Z",
       "web_thumbs": 4,
@@ -644,11 +733,11 @@
         "penalty_base": 266.5,
         "multiplier": 1.89,
         "is_newcomer": false,
-        "effective_age": 15.4
+        "effective_age": 16.4
       },
       "previous_rank": 22,
-      "score": 574.3,
-      "rank": 22
+      "score": 549.1,
+      "rank": 25
     },
     {
       "id": "spotify-6wSPbH6HNnjbfGLQBa8QLy",
@@ -663,7 +752,7 @@
       "web_thumbs": 0,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -674,11 +763,11 @@
         "penalty_base": 61.5,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
       "previous_rank": 23,
-      "score": 559.1,
-      "rank": 23
+      "score": 539,
+      "rank": 26
     },
     {
       "id": "spotify-4mShhrXOgE0TydkAfbjq9K",
@@ -693,7 +782,7 @@
       "web_thumbs": 2,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -704,11 +793,11 @@
         "penalty_base": 22,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
       "previous_rank": 24,
-      "score": 545.7,
-      "rank": 24
+      "score": 528.3,
+      "rank": 27
     },
     {
       "id": "spotify-32gE2GazEWpNaUaovbsZc8",
@@ -723,7 +812,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -734,11 +823,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 13
+        "effective_age": 14
       },
       "previous_rank": 25,
-      "score": 534.5,
-      "rank": 25
+      "score": 514.2,
+      "rank": 28
     },
     {
       "id": "spotify-713cnkCVk5SF8kNl6We0ix",
@@ -764,11 +853,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 14
+        "effective_age": 15
       },
       "previous_rank": 26,
-      "score": 526,
-      "rank": 26
+      "score": 512.7,
+      "rank": 29
     },
     {
       "id": "spotify-6kHW0KB8dm9PUWdotPYjtH",
@@ -783,7 +872,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 7,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -794,100 +883,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 15
+        "effective_age": 16
       },
       "previous_rank": 27,
-      "score": 511.2,
-      "rank": 27
-    },
-    {
-      "id": "spotify-38uszMpm0TIgvK2jvDolcq",
-      "song_title": "Darude, Dimension - Sandstorm - Dimension Remix",
-      "author": "Darude, Dimension",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27317a08fac55825a1aa30fb3b7",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/38uszMpm0TIgvK2jvDolcq",
-      "discord_url": "https://open.spotify.com/track/38uszMpm0TIgvK2jvDolcq",
-      "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 4,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 15,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 4,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 105.5,
-        "penalty_base": 105.5,
-        "multiplier": 1.35,
-        "is_newcomer": false,
-        "effective_age": 20
-      },
-      "previous_rank": 29,
-      "score": 455.6,
-      "rank": 28
-    },
-    {
-      "id": "spotify-2DBExJaTnwZKUqTx0MP8HD",
-      "song_title": "metakomplex - Voices",
-      "author": "metakomplex",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273cdc691e5f80753b114fccb84",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2DBExJaTnwZKUqTx0MP8HD",
-      "discord_url": "https://open.spotify.com/track/2DBExJaTnwZKUqTx0MP8HD",
-      "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 8,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 83.5,
-        "penalty_base": 83.5,
-        "multiplier": 1.28,
-        "is_newcomer": false,
-        "effective_age": 20
-      },
-      "previous_rank": null,
-      "score": 446.4,
-      "rank": 29
-    },
-    {
-      "id": "spotify-6r2R2CzNrujR3NmlCwoKlL",
-      "song_title": "Winter Games, Somepoe - Sound Killa",
-      "author": "Winter Games, Somepoe",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d3b907a67cbe4f7a59558644",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6r2R2CzNrujR3NmlCwoKlL",
-      "discord_url": "https://open.spotify.com/track/6r2R2CzNrujR3NmlCwoKlL",
-      "posted_at": "2026-09-25T00:00:00.000Z",
-      "web_thumbs": 4,
-      "web_plays": 4,
-      "web_videos": 0,
-      "positionBonus": 3,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 4,
-        "plays": 4,
-        "videos": 0,
-        "raw_points": 126,
-        "penalty_base": 126,
-        "multiplier": 1.42,
-        "is_newcomer": false,
-        "effective_age": 20
-      },
-      "previous_rank": 30,
-      "score": 445.7,
+      "score": 495.9,
       "rank": 30
     }
   ]
