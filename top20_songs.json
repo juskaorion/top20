@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T23:07:17.807Z",
+  "last_updated": "2026-10-18T23:09:07.993Z",
   "top_songs": [
     {
       "id": "1559273754318741555",
@@ -24,10 +24,10 @@
         "penalty_base": 514.5,
         "multiplier": 2.71,
         "is_newcomer": true,
-        "effective_age": 2.2
+        "effective_age": 6.2
       },
-      "previous_rank": 2,
-      "score": 1234.3,
+      "previous_rank": 1,
+      "score": 1087.7,
       "rank": 1
     },
     {
@@ -53,10 +53,10 @@
         "penalty_base": 503,
         "multiplier": 2.68,
         "is_newcomer": true,
-        "effective_age": 2.2
+        "effective_age": 6.2
       },
-      "previous_rank": 1,
-      "score": 1224,
+      "previous_rank": 2,
+      "score": 1079.4,
       "rank": 2
     },
     {
@@ -82,10 +82,10 @@
         "penalty_base": 344.5,
         "multiplier": 2.15,
         "is_newcomer": true,
-        "effective_age": 2.2
+        "effective_age": 6.2
       },
       "previous_rank": 3,
-      "score": 1081.1,
+      "score": 965,
       "rank": 3
     },
     {
@@ -111,10 +111,10 @@
         "penalty_base": 344.5,
         "multiplier": 2.15,
         "is_newcomer": true,
-        "effective_age": 2.2
+        "effective_age": 6.2
       },
       "previous_rank": 4,
-      "score": 1081,
+      "score": 965,
       "rank": 4
     },
     {
@@ -140,10 +140,10 @@
         "penalty_base": 313,
         "multiplier": 2.04,
         "is_newcomer": true,
-        "effective_age": 2.2
+        "effective_age": 6.2
       },
-      "previous_rank": 6,
-      "score": 1052.7,
+      "previous_rank": 5,
+      "score": 942.3,
       "rank": 5
     },
     {
@@ -169,10 +169,10 @@
         "penalty_base": 313,
         "multiplier": 2.04,
         "is_newcomer": true,
-        "effective_age": 2.2
+        "effective_age": 6.2
       },
-      "previous_rank": 7,
-      "score": 1052.7,
+      "previous_rank": 6,
+      "score": 942.3,
       "rank": 6
     },
     {
@@ -198,10 +198,10 @@
         "penalty_base": 298,
         "multiplier": 1.99,
         "is_newcomer": true,
-        "effective_age": 2.2
+        "effective_age": 6.2
       },
-      "previous_rank": 5,
-      "score": 1039.1,
+      "previous_rank": 7,
+      "score": 931.4,
       "rank": 7
     },
     {
@@ -227,10 +227,10 @@
         "penalty_base": 262.5,
         "multiplier": 1.88,
         "is_newcomer": true,
-        "effective_age": 2.2
+        "effective_age": 6.2
       },
       "previous_rank": 8,
-      "score": 1007.1,
+      "score": 905.8,
       "rank": 8
     },
     {
@@ -256,10 +256,10 @@
         "penalty_base": 236.5,
         "multiplier": 1.79,
         "is_newcomer": true,
-        "effective_age": 2.2
+        "effective_age": 6.2
       },
       "previous_rank": 9,
-      "score": 983.7,
+      "score": 887.1,
       "rank": 9
     },
     {
@@ -272,55 +272,25 @@
       "audio_url": "https://open.spotify.com/track/3cEEmWUMQhnj2d0E4ecACL",
       "discord_url": "https://open.spotify.com/track/3cEEmWUMQhnj2d0E4ecACL",
       "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 0,
+      "web_thumbs": 1,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 20,
+      "positionBonus": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
+        "thumbs": 1,
         "plays": 1,
         "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 16,
-      "score": 840.5,
+      "previous_rank": 10,
+      "score": 850.5,
       "rank": 10
-    },
-    {
-      "id": "spotify-3UjwNYJ2Ji82iMAa9gMqem",
-      "song_title": "Detalji - Drifting",
-      "author": "Detalji",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273cfa3c2462a3a3211e974b790",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3UjwNYJ2Ji82iMAa9gMqem",
-      "discord_url": "https://open.spotify.com/track/3UjwNYJ2Ji82iMAa9gMqem",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 18,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 14,
-      "score": 838.5,
-      "rank": 11
     },
     {
       "id": "spotify-2b382SgOTUxDsXfDdmh5pf",
@@ -332,25 +302,115 @@
       "audio_url": "https://open.spotify.com/track/2b382SgOTUxDsXfDdmh5pf",
       "discord_url": "https://open.spotify.com/track/2b382SgOTUxDsXfDdmh5pf",
       "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 0,
+      "web_thumbs": 1,
       "web_plays": 1,
       "web_videos": 0,
       "positionBonus": 17,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
+        "thumbs": 1,
         "plays": 1,
         "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 13,
-      "score": 837.5,
+      "previous_rank": 12,
+      "score": 848.5,
+      "rank": 11
+    },
+    {
+      "id": "spotify-5q3NF3xTtuMYgUHesqNBO1",
+      "song_title": "Joysic, Axel - Song I'll Write",
+      "author": "Joysic, Axel",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733380f44957b9f7b841a7ab5b",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5q3NF3xTtuMYgUHesqNBO1",
+      "discord_url": "https://open.spotify.com/track/5q3NF3xTtuMYgUHesqNBO1",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 16,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 14,
+      "score": 847.5,
       "rank": 12
+    },
+    {
+      "id": "spotify-3xDSy3pemqWeqQ2KcRfbxD",
+      "song_title": "Kristianex - Shameless",
+      "author": "Kristianex",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2739dd719291b557df55c578853",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
+      "discord_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 14,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 15,
+      "score": 845.5,
+      "rank": 13
+    },
+    {
+      "id": "spotify-3UjwNYJ2Ji82iMAa9gMqem",
+      "song_title": "Detalji - Drifting",
+      "author": "Detalji",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273cfa3c2462a3a3211e974b790",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3UjwNYJ2Ji82iMAa9gMqem",
+      "discord_url": "https://open.spotify.com/track/3UjwNYJ2Ji82iMAa9gMqem",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 13,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 11,
+      "score": 844.5,
+      "rank": 14
     },
     {
       "id": "spotify-0FfOxelCStJMDSS2ul9LrM",
@@ -365,7 +425,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 16,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -378,99 +438,9 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 15,
-      "score": 836.5,
-      "rank": 13
-    },
-    {
-      "id": "spotify-5q3NF3xTtuMYgUHesqNBO1",
-      "song_title": "Joysic, Axel - Song I'll Write",
-      "author": "Joysic, Axel",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733380f44957b9f7b841a7ab5b",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5q3NF3xTtuMYgUHesqNBO1",
-      "discord_url": "https://open.spotify.com/track/5q3NF3xTtuMYgUHesqNBO1",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 15,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 12,
-      "score": 835.5,
-      "rank": 14
-    },
-    {
-      "id": "spotify-3xDSy3pemqWeqQ2KcRfbxD",
-      "song_title": "Kristianex - Shameless",
-      "author": "Kristianex",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2739dd719291b557df55c578853",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
-      "discord_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 13,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 11,
-      "score": 833.5,
+      "previous_rank": 13,
+      "score": 831.5,
       "rank": 15
-    },
-    {
-      "id": "spotify-6o7JJZoJkGNFaqnxsqqbrm",
-      "song_title": "Mike Ditchz - Keep It Low",
-      "author": "Mike Ditchz",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273867ded3f916df70f43dfcb51",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
-      "discord_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
-      "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 19,
-      "web_videos": 0,
-      "positionBonus": 10,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 19,
-        "videos": 0,
-        "raw_points": 389.5,
-        "penalty_base": 389.5,
-        "multiplier": 2.3,
-        "is_newcomer": false,
-        "effective_age": 9
-      },
-      "previous_rank": 10,
-      "score": 821.4,
-      "rank": 16
     },
     {
       "id": "spotify-4LqTVO6FEIM9F6PACR0BOU",
@@ -482,10 +452,40 @@
       "audio_url": "https://open.spotify.com/track/4LqTVO6FEIM9F6PACR0BOU",
       "discord_url": "https://open.spotify.com/track/4LqTVO6FEIM9F6PACR0BOU",
       "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 18,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 11,
+        "penalty_base": 11,
+        "multiplier": 1.04,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 17,
+      "score": 829,
+      "rank": 16
+    },
+    {
+      "id": "spotify-2pp478owKQcLnarEhmZXKR",
+      "song_title": "Kajis, Laladee - A Mistress Without Skin - 2026 Edit",
+      "author": "Kajis, Laladee",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273f8296734f6a4b28eb80bbace",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2pp478owKQcLnarEhmZXKR",
+      "discord_url": "https://open.spotify.com/track/2pp478owKQcLnarEhmZXKR",
+      "posted_at": "2026-10-16T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 19,
+      "positionBonus": 20,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -499,7 +499,7 @@
         "effective_age": 0
       },
       "previous_rank": null,
-      "score": 819,
+      "score": 820,
       "rank": 17
     },
     {
@@ -515,7 +515,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -528,9 +528,39 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 17,
-      "score": 814,
+      "previous_rank": 18,
+      "score": 815,
       "rank": 18
+    },
+    {
+      "id": "spotify-6o7JJZoJkGNFaqnxsqqbrm",
+      "song_title": "Mike Ditchz - Keep It Low",
+      "author": "Mike Ditchz",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273867ded3f916df70f43dfcb51",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
+      "discord_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
+      "posted_at": "2026-10-09T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 19,
+      "web_videos": 0,
+      "positionBonus": 12,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 19,
+        "videos": 0,
+        "raw_points": 400.5,
+        "penalty_base": 400.5,
+        "multiplier": 2.33,
+        "is_newcomer": false,
+        "effective_age": 10
+      },
+      "previous_rank": 16,
+      "score": 798.4,
+      "rank": 19
     },
     {
       "id": "1560279881353404556",
@@ -539,7 +569,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_19.mp3?v=1792278430394",
+      "audio_url": "https://www.djorion.fi/top20//rank_20.mp3?v=1792364940113",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1560279881353404556",
       "posted_at": "2026-10-15T13:15:12.313Z",
       "web_thumbs": 0,
@@ -555,11 +585,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.4
       },
-      "previous_rank": 18,
-      "score": 800,
-      "rank": 19
+      "previous_rank": 19,
+      "score": 794.4,
+      "rank": 20
     },
     {
       "id": "spotify-5iGIW3KnnozCmHJtqsDiWK",
@@ -574,7 +604,7 @@
       "web_thumbs": 3,
       "web_plays": 8,
       "web_videos": 1,
-      "positionBonus": 11,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -585,11 +615,11 @@
         "penalty_base": 257,
         "multiplier": 1.86,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 19,
-      "score": 743.3,
-      "rank": 20
+      "previous_rank": 20,
+      "score": 715.2,
+      "rank": 21
     },
     {
       "id": "spotify-0W6NBJxKltID44Vixxd6P9",
@@ -615,11 +645,11 @@
         "penalty_base": 124.5,
         "multiplier": 1.42,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 20,
-      "score": 662.3,
-      "rank": 21
+      "previous_rank": 21,
+      "score": 643.2,
+      "rank": 22
     },
     {
       "id": "spotify-3HB8PSdjB3yimxzBw0XKPH",
@@ -634,7 +664,7 @@
       "web_thumbs": 0,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -645,11 +675,11 @@
         "penalty_base": 61.5,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 21,
-      "score": 623.7,
-      "rank": 22
+      "previous_rank": 22,
+      "score": 609.4,
+      "rank": 23
     },
     {
       "id": "spotify-2Rrd4iZVxRuHyAvytLhnpZ",
@@ -664,7 +694,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -675,11 +705,11 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 22,
-      "score": 615.5,
-      "rank": 23
+      "previous_rank": 23,
+      "score": 594.1,
+      "rank": 24
     },
     {
       "id": "spotify-1qAOarmIYzUAJIGKGGlYtr",
@@ -694,7 +724,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 3,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -705,39 +735,10 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 23,
-      "score": 606.5,
-      "rank": 24
-    },
-    {
-      "id": "1556543719413383241",
-      "song_title": "Frederik - Kolmekymppinen (Expace Synttäri Edit) - FREE DOWNLOAD",
-      "author": "Frederik",
-      "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_25.mp3?v=1792278437807",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1556543719413383241",
-      "posted_at": "2026-10-05T05:49:01.892Z",
-      "web_thumbs": 1,
-      "web_plays": 4,
-      "web_videos": 1,
-      "stats": {
-        "reactions": 2,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 4,
-        "videos": 1,
-        "raw_points": 162.5,
-        "penalty_base": 162.5,
-        "multiplier": 1.54,
-        "is_newcomer": false,
-        "effective_age": 12.7
-      },
-      "previous_rank": 27,
-      "score": 597.8,
+      "previous_rank": 24,
+      "score": 593.1,
       "rank": 25
     },
     {
@@ -753,7 +754,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -764,11 +765,40 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
       "previous_rank": 26,
-      "score": 597.2,
+      "score": 580.8,
       "rank": 26
+    },
+    {
+      "id": "1556543719413383241",
+      "song_title": "Frederik - Kolmekymppinen (Expace Synttäri Edit) - FREE DOWNLOAD",
+      "author": "Frederik",
+      "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_27.mp3?v=1792364947833",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1556543719413383241",
+      "posted_at": "2026-10-05T05:49:01.892Z",
+      "web_thumbs": 1,
+      "web_plays": 4,
+      "web_videos": 1,
+      "stats": {
+        "reactions": 2,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 4,
+        "videos": 1,
+        "raw_points": 162.5,
+        "penalty_base": 162.5,
+        "multiplier": 1.54,
+        "is_newcomer": false,
+        "effective_age": 13.7
+      },
+      "previous_rank": 25,
+      "score": 576.9,
+      "rank": 27
     },
     {
       "id": "spotify-4uYTf7MCQC769YKEiVTOfY",
@@ -794,11 +824,11 @@
         "penalty_base": 356.5,
         "multiplier": 2.19,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 25,
-      "score": 591.9,
-      "rank": 27
+      "previous_rank": 27,
+      "score": 562.3,
+      "rank": 28
     },
     {
       "id": "spotify-4Htrpt3EnzfxO8zYWglkQX",
@@ -824,11 +854,11 @@
         "penalty_base": 309,
         "multiplier": 2.03,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 24,
-      "score": 589.5,
-      "rank": 28
+      "previous_rank": 28,
+      "score": 562.1,
+      "rank": 29
     },
     {
       "id": "spotify-01tUoIyzGRy6RdDX6yWGWC",
@@ -840,54 +870,24 @@
       "audio_url": "https://open.spotify.com/track/01tUoIyzGRy6RdDX6yWGWC",
       "discord_url": "https://open.spotify.com/track/01tUoIyzGRy6RdDX6yWGWC",
       "posted_at": "2026-10-02T00:00:00.000Z",
-      "web_thumbs": 3,
+      "web_thumbs": 4,
       "web_plays": 7,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 3,
+        "thumbs": 4,
         "plays": 7,
         "videos": 0,
-        "raw_points": 176.5,
-        "penalty_base": 176.5,
-        "multiplier": 1.59,
+        "raw_points": 187.5,
+        "penalty_base": 187.5,
+        "multiplier": 1.63,
         "is_newcomer": false,
-        "effective_age": 16
-      },
-      "previous_rank": 28,
-      "score": 539.2,
-      "rank": 29
-    },
-    {
-      "id": "spotify-0JzNWfgM6YxRe76rxEShdN",
-      "song_title": "Muffler - The Frost Spirit",
-      "author": "Muffler",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273175423a6d2c9d41ea8ff7205",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0JzNWfgM6YxRe76rxEShdN",
-      "discord_url": "https://open.spotify.com/track/0JzNWfgM6YxRe76rxEShdN",
-      "posted_at": "2026-10-02T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 6,
-      "web_videos": 0,
-      "positionBonus": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 6,
-        "videos": 0,
-        "raw_points": 145,
-        "penalty_base": 145,
-        "multiplier": 1.48,
-        "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
       "previous_rank": 29,
-      "score": 526.3,
+      "score": 517.3,
       "rank": 30
     }
   ]
