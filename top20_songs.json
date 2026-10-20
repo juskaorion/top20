@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-10-20T00:19:55.114Z",
+  "last_updated": "2026-10-20T23:51:52.380Z",
   "top_songs": [
+    {
+      "id": "spotify-2pp478owKQcLnarEhmZXKR",
+      "song_title": "Kajis, Laladee - A Mistress Without Skin - 2026 Edit",
+      "author": "Kajis, Laladee",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273f8296734f6a4b28eb80bbace",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2pp478owKQcLnarEhmZXKR",
+      "discord_url": "https://open.spotify.com/track/2pp478owKQcLnarEhmZXKR",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 15,
+      "web_plays": 3,
+      "web_videos": 2,
+      "positionBonus": 17,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 15,
+        "plays": 3,
+        "videos": 2,
+        "raw_points": 346.5,
+        "penalty_base": 346.5,
+        "multiplier": 2.16,
+        "is_newcomer": true,
+        "effective_age": 2
+      },
+      "previous_rank": 12,
+      "score": 1105.5,
+      "rank": 1
+    },
     {
       "id": "1559273754318741555",
       "song_title": "fallihauta - I Love You (Fallihauta Goes Full Kiksu Twist)",
@@ -8,27 +38,27 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_1.mp3?v=1792278404706",
+      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1792540287347",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273754318741555",
       "posted_at": "2026-10-12T18:37:12.935Z",
       "web_thumbs": 3,
-      "web_plays": 21,
-      "web_videos": 1,
+      "web_plays": 23,
+      "web_videos": 2,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 3,
-        "plays": 21,
-        "videos": 1,
-        "raw_points": 514.5,
-        "penalty_base": 514.5,
-        "multiplier": 2.71,
+        "plays": 23,
+        "videos": 2,
+        "raw_points": 615.5,
+        "penalty_base": 615.5,
+        "multiplier": 3.05,
         "is_newcomer": false,
-        "effective_age": 7.2
+        "effective_age": 8.2
       },
       "previous_rank": 1,
-      "score": 949.2,
-      "rank": 1
+      "score": 976.9,
+      "rank": 2
     },
     {
       "id": "1559273817183101028",
@@ -37,27 +67,27 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1792278409996",
+      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1792540292995",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273817183101028",
       "posted_at": "2026-10-12T18:37:27.923Z",
       "web_thumbs": 2,
-      "web_plays": 24,
+      "web_plays": 25,
       "web_videos": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 24,
+        "plays": 25,
         "videos": 0,
-        "raw_points": 503,
-        "penalty_base": 503,
-        "multiplier": 2.68,
+        "raw_points": 523.5,
+        "penalty_base": 523.5,
+        "multiplier": 2.75,
         "is_newcomer": false,
-        "effective_age": 7.2
+        "effective_age": 8.2
       },
       "previous_rank": 2,
-      "score": 941.5,
-      "rank": 2
+      "score": 919,
+      "rank": 3
     },
     {
       "id": "spotify-3cEEmWUMQhnj2d0E4ecACL",
@@ -70,53 +100,84 @@
       "discord_url": "https://open.spotify.com/track/3cEEmWUMQhnj2d0E4ecACL",
       "posted_at": "2026-10-16T00:00:00.000Z",
       "web_thumbs": 1,
-      "web_plays": 1,
+      "web_plays": 2,
       "web_videos": 0,
       "positionBonus": 20,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
-        "plays": 1,
+        "plays": 2,
         "videos": 0,
-        "raw_points": 31.5,
-        "penalty_base": 31.5,
-        "multiplier": 1.1,
+        "raw_points": 52,
+        "penalty_base": 52,
+        "multiplier": 1.17,
         "is_newcomer": true,
-        "effective_age": 1
+        "effective_age": 2
       },
-      "previous_rank": 10,
-      "score": 836.4,
-      "rank": 3
+      "previous_rank": 3,
+      "score": 840.4,
+      "rank": 4
     },
     {
-      "id": "1559273635976450248",
-      "song_title": "fallihauta - Love Parade (Fallihauta Twist)",
-      "author": "fallihauta",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
+      "id": "spotify-0FfOxelCStJMDSS2ul9LrM",
+      "song_title": "Nic Johnston, Robbe, Haaradak - Funky Fat Beat",
+      "author": "Nic Johnston, Robbe, Haaradak",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27383a119014d6f360597c994ed",
       "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1792455559685",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273635976450248",
-      "posted_at": "2026-10-12T18:36:44.720Z",
-      "web_thumbs": 3,
-      "web_plays": 16,
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0FfOxelCStJMDSS2ul9LrM",
+      "discord_url": "https://open.spotify.com/track/0FfOxelCStJMDSS2ul9LrM",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 2,
       "web_videos": 0,
+      "positionBonus": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 3,
-        "plays": 16,
+        "thumbs": 1,
+        "plays": 2,
         "videos": 0,
-        "raw_points": 344.5,
-        "penalty_base": 344.5,
-        "multiplier": 2.15,
-        "is_newcomer": false,
-        "effective_age": 7.2
+        "raw_points": 52,
+        "penalty_base": 52,
+        "multiplier": 1.17,
+        "is_newcomer": true,
+        "effective_age": 2
       },
-      "previous_rank": 3,
-      "score": 834.6,
-      "rank": 4
+      "previous_rank": 10,
+      "score": 839.4,
+      "rank": 5
+    },
+    {
+      "id": "spotify-3xDSy3pemqWeqQ2KcRfbxD",
+      "song_title": "Kristianex - Shameless",
+      "author": "Kristianex",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2739dd719291b557df55c578853",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
+      "discord_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 13,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 52,
+        "penalty_base": 52,
+        "multiplier": 1.17,
+        "is_newcomer": true,
+        "effective_age": 2
+      },
+      "previous_rank": 8,
+      "score": 833.4,
+      "rank": 6
     },
     {
       "id": "1559273473434460314",
@@ -125,27 +186,27 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1792455564326",
+      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1792540296651",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273473434460314",
       "posted_at": "2026-10-12T18:36:05.967Z",
       "web_thumbs": 3,
-      "web_plays": 16,
+      "web_plays": 18,
       "web_videos": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 3,
-        "plays": 16,
+        "plays": 18,
         "videos": 0,
-        "raw_points": 344.5,
-        "penalty_base": 344.5,
-        "multiplier": 2.15,
+        "raw_points": 385.5,
+        "penalty_base": 385.5,
+        "multiplier": 2.29,
         "is_newcomer": false,
-        "effective_age": 7.2
+        "effective_age": 8.2
       },
-      "previous_rank": 4,
-      "score": 834.6,
-      "rank": 5
+      "previous_rank": 5,
+      "score": 832,
+      "rank": 7
     },
     {
       "id": "spotify-5q3NF3xTtuMYgUHesqNBO1",
@@ -160,7 +221,7 @@
       "web_thumbs": 1,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -171,11 +232,11 @@
         "penalty_base": 31.5,
         "multiplier": 1.1,
         "is_newcomer": true,
-        "effective_age": 1
+        "effective_age": 2
       },
-      "previous_rank": 12,
-      "score": 833.4,
-      "rank": 6
+      "previous_rank": 6,
+      "score": 816.8,
+      "rank": 8
     },
     {
       "id": "spotify-2b382SgOTUxDsXfDdmh5pf",
@@ -186,36 +247,6 @@
       "audio_type": "spotify_link",
       "audio_url": "https://open.spotify.com/track/2b382SgOTUxDsXfDdmh5pf",
       "discord_url": "https://open.spotify.com/track/2b382SgOTUxDsXfDdmh5pf",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 16,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 31.5,
-        "penalty_base": 31.5,
-        "multiplier": 1.1,
-        "is_newcomer": true,
-        "effective_age": 1
-      },
-      "previous_rank": 11,
-      "score": 832.4,
-      "rank": 7
-    },
-    {
-      "id": "spotify-3xDSy3pemqWeqQ2KcRfbxD",
-      "song_title": "Kristianex - Shameless",
-      "author": "Kristianex",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2739dd719291b557df55c578853",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
-      "discord_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
       "posted_at": "2026-10-16T00:00:00.000Z",
       "web_thumbs": 1,
       "web_plays": 1,
@@ -231,11 +262,11 @@
         "penalty_base": 31.5,
         "multiplier": 1.1,
         "is_newcomer": true,
-        "effective_age": 1
+        "effective_age": 2
       },
-      "previous_rank": 13,
-      "score": 830.4,
-      "rank": 8
+      "previous_rank": 7,
+      "score": 815.8,
+      "rank": 9
     },
     {
       "id": "spotify-3UjwNYJ2Ji82iMAa9gMqem",
@@ -250,7 +281,7 @@
       "web_thumbs": 1,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -261,41 +292,40 @@
         "penalty_base": 31.5,
         "multiplier": 1.1,
         "is_newcomer": true,
-        "effective_age": 1
+        "effective_age": 2
       },
-      "previous_rank": 14,
-      "score": 826.4,
-      "rank": 9
+      "previous_rank": 9,
+      "score": 812.8,
+      "rank": 10
     },
     {
-      "id": "spotify-0FfOxelCStJMDSS2ul9LrM",
-      "song_title": "Nic Johnston, Robbe, Haaradak - Funky Fat Beat",
-      "author": "Nic Johnston, Robbe, Haaradak",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27383a119014d6f360597c994ed",
+      "id": "1559273635976450248",
+      "song_title": "fallihauta - Love Parade (Fallihauta Twist)",
+      "author": "fallihauta",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0FfOxelCStJMDSS2ul9LrM",
-      "discord_url": "https://open.spotify.com/track/0FfOxelCStJMDSS2ul9LrM",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1792540300793",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273635976450248",
+      "posted_at": "2026-10-12T18:36:44.720Z",
+      "web_thumbs": 3,
+      "web_plays": 16,
       "web_videos": 0,
-      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
+        "thumbs": 3,
+        "plays": 16,
         "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 1
+        "raw_points": 344.5,
+        "penalty_base": 344.5,
+        "multiplier": 2.15,
+        "is_newcomer": false,
+        "effective_age": 8.2
       },
-      "previous_rank": 15,
-      "score": 820.9,
-      "rank": 10
+      "previous_rank": 4,
+      "score": 806.1,
+      "rank": 11
     },
     {
       "id": "spotify-4LqTVO6FEIM9F6PACR0BOU",
@@ -306,36 +336,6 @@
       "audio_type": "spotify_link",
       "audio_url": "https://open.spotify.com/track/4LqTVO6FEIM9F6PACR0BOU",
       "discord_url": "https://open.spotify.com/track/4LqTVO6FEIM9F6PACR0BOU",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 19,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 11,
-        "penalty_base": 11,
-        "multiplier": 1.04,
-        "is_newcomer": true,
-        "effective_age": 1
-      },
-      "previous_rank": 16,
-      "score": 815.8,
-      "rank": 11
-    },
-    {
-      "id": "spotify-2pp478owKQcLnarEhmZXKR",
-      "song_title": "Kajis, Laladee - A Mistress Without Skin - 2026 Edit",
-      "author": "Kajis, Laladee",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273f8296734f6a4b28eb80bbace",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2pp478owKQcLnarEhmZXKR",
-      "discord_url": "https://open.spotify.com/track/2pp478owKQcLnarEhmZXKR",
       "posted_at": "2026-10-16T00:00:00.000Z",
       "web_thumbs": 1,
       "web_plays": 0,
@@ -351,10 +351,10 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": true,
-        "effective_age": 1
+        "effective_age": 2
       },
-      "previous_rank": 17,
-      "score": 814.8,
+      "previous_rank": 11,
+      "score": 801.1,
       "rank": 12
     },
     {
@@ -368,22 +368,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273690196221952",
       "posted_at": "2026-10-12T18:36:57.647Z",
       "web_thumbs": 1,
-      "web_plays": 15,
+      "web_plays": 16,
       "web_videos": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
-        "plays": 15,
+        "plays": 16,
         "videos": 0,
-        "raw_points": 313,
-        "penalty_base": 313,
-        "multiplier": 2.04,
+        "raw_points": 333.5,
+        "penalty_base": 333.5,
+        "multiplier": 2.11,
         "is_newcomer": false,
-        "effective_age": 7.2
+        "effective_age": 8.2
       },
-      "previous_rank": 5,
-      "score": 813.3,
+      "previous_rank": 13,
+      "score": 799.2,
       "rank": 13
     },
     {
@@ -397,22 +397,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273569261719593",
       "posted_at": "2026-10-12T18:36:28.814Z",
       "web_thumbs": 1,
-      "web_plays": 15,
+      "web_plays": 16,
       "web_videos": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 1,
-        "plays": 15,
+        "plays": 16,
         "videos": 0,
-        "raw_points": 313,
-        "penalty_base": 313,
-        "multiplier": 2.04,
+        "raw_points": 333.5,
+        "penalty_base": 333.5,
+        "multiplier": 2.11,
         "is_newcomer": false,
-        "effective_age": 7.2
+        "effective_age": 8.2
       },
-      "previous_rank": 6,
-      "score": 813.3,
+      "previous_rank": 14,
+      "score": 799.2,
       "rank": 14
     },
     {
@@ -426,22 +426,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273525687095306",
       "posted_at": "2026-10-12T18:36:18.425Z",
       "web_thumbs": 2,
-      "web_plays": 14,
+      "web_plays": 15,
       "web_videos": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 14,
+        "plays": 15,
         "videos": 0,
-        "raw_points": 298,
-        "penalty_base": 298,
-        "multiplier": 1.99,
+        "raw_points": 318.5,
+        "penalty_base": 318.5,
+        "multiplier": 2.06,
         "is_newcomer": false,
-        "effective_age": 7.2
+        "effective_age": 8.2
       },
-      "previous_rank": 7,
-      "score": 803.2,
+      "previous_rank": 15,
+      "score": 789.8,
       "rank": 15
     },
     {
@@ -457,7 +457,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 13,
+      "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -468,11 +468,40 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 1
+        "effective_age": 2
+      },
+      "previous_rank": 16,
+      "score": 789.1,
+      "rank": 16
+    },
+    {
+      "id": "1559273343738187776",
+      "song_title": "fallihauta - Suburban Flight 643 (Fallihauta Double-Up Intro Twist)",
+      "author": "fallihauta",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1792540304901",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273343738187776",
+      "posted_at": "2026-10-12T18:35:35.045Z",
+      "web_thumbs": 3,
+      "web_plays": 13,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 13,
+        "videos": 0,
+        "raw_points": 283,
+        "penalty_base": 283,
+        "multiplier": 1.94,
+        "is_newcomer": false,
+        "effective_age": 8.2
       },
       "previous_rank": 18,
-      "score": 799.3,
-      "rank": 16
+      "score": 767.4,
+      "rank": 17
     },
     {
       "id": "1560279881353404556",
@@ -481,7 +510,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_17.mp3?v=1792455586304",
+      "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1792540312379",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1560279881353404556",
       "posted_at": "2026-10-15T13:15:12.313Z",
       "web_thumbs": 0,
@@ -497,39 +526,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 1.5
+        "effective_age": 2.4
       },
-      "previous_rank": 20,
-      "score": 780.3,
-      "rank": 17
-    },
-    {
-      "id": "1559273343738187776",
-      "song_title": "fallihauta - Suburban Flight 643 (Fallihauta Double-Up Intro Twist)",
-      "author": "fallihauta",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_18.mp3?v=1792455590773",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273343738187776",
-      "posted_at": "2026-10-12T18:35:35.045Z",
-      "web_thumbs": 3,
-      "web_plays": 12,
-      "web_videos": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 12,
-        "videos": 0,
-        "raw_points": 262.5,
-        "penalty_base": 262.5,
-        "multiplier": 1.88,
-        "is_newcomer": false,
-        "effective_age": 7.2
-      },
-      "previous_rank": 8,
-      "score": 779.3,
+      "previous_rank": 17,
+      "score": 767,
       "rank": 18
     },
     {
@@ -543,22 +543,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273388307120158",
       "posted_at": "2026-10-12T18:35:45.671Z",
       "web_thumbs": 2,
-      "web_plays": 11,
+      "web_plays": 12,
       "web_videos": 0,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 11,
+        "plays": 12,
         "videos": 0,
-        "raw_points": 236.5,
-        "penalty_base": 236.5,
-        "multiplier": 1.79,
+        "raw_points": 257,
+        "penalty_base": 257,
+        "multiplier": 1.86,
         "is_newcomer": false,
-        "effective_age": 7.2
+        "effective_age": 8.2
       },
-      "previous_rank": 9,
-      "score": 761.7,
+      "previous_rank": 19,
+      "score": 751,
       "rank": 19
     },
     {
@@ -574,7 +574,7 @@
       "web_thumbs": 1,
       "web_plays": 19,
       "web_videos": 0,
-      "positionBonus": 7,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -585,10 +585,10 @@
         "penalty_base": 400.5,
         "multiplier": 2.33,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
-      "previous_rank": 19,
-      "score": 760.3,
+      "previous_rank": 20,
+      "score": 732.4,
       "rank": 20
     },
     {
@@ -604,7 +604,7 @@
       "web_thumbs": 3,
       "web_plays": 8,
       "web_videos": 1,
-      "positionBonus": 4,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -615,10 +615,10 @@
         "penalty_base": 257,
         "multiplier": 1.86,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
       "previous_rank": 21,
-      "score": 685,
+      "score": 668.4,
       "rank": 21
     },
     {
@@ -632,23 +632,23 @@
       "discord_url": "https://open.spotify.com/track/0W6NBJxKltID44Vixxd6P9",
       "posted_at": "2026-10-09T00:00:00.000Z",
       "web_thumbs": 2,
-      "web_plays": 5,
+      "web_plays": 6,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 5,
+        "plays": 6,
         "videos": 0,
-        "raw_points": 124.5,
-        "penalty_base": 124.5,
-        "multiplier": 1.42,
+        "raw_points": 145,
+        "penalty_base": 145,
+        "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
       "previous_rank": 22,
-      "score": 626.1,
+      "score": 612.8,
       "rank": 22
     },
     {
@@ -662,54 +662,24 @@
       "discord_url": "https://open.spotify.com/track/3HB8PSdjB3yimxzBw0XKPH",
       "posted_at": "2026-10-09T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 11,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 61.5,
-        "penalty_base": 61.5,
-        "multiplier": 1.21,
-        "is_newcomer": false,
-        "effective_age": 11
-      },
-      "previous_rank": 23,
-      "score": 593.3,
-      "rank": 23
-    },
-    {
-      "id": "spotify-1qAOarmIYzUAJIGKGGlYtr",
-      "song_title": "ZARG - LUV IS",
-      "author": "ZARG",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27376ec0cf01ae62cefc270722e",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
-      "discord_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
-      "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 2,
+      "web_plays": 4,
       "web_videos": 0,
       "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 2,
+        "plays": 4,
         "videos": 0,
-        "raw_points": 41,
-        "penalty_base": 41,
-        "multiplier": 1.14,
+        "raw_points": 82,
+        "penalty_base": 82,
+        "multiplier": 1.27,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
-      "previous_rank": 25,
-      "score": 581,
-      "rank": 24
+      "previous_rank": 23,
+      "score": 584.8,
+      "rank": 23
     },
     {
       "id": "spotify-2Rrd4iZVxRuHyAvytLhnpZ",
@@ -724,7 +694,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -735,10 +705,40 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
+      },
+      "previous_rank": 25,
+      "score": 564,
+      "rank": 24
+    },
+    {
+      "id": "spotify-1qAOarmIYzUAJIGKGGlYtr",
+      "song_title": "ZARG - LUV IS",
+      "author": "ZARG",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27376ec0cf01ae62cefc270722e",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
+      "discord_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
+      "posted_at": "2026-10-09T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 3,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 41,
+        "penalty_base": 41,
+        "multiplier": 1.14,
+        "is_newcomer": false,
+        "effective_age": 12
       },
       "previous_rank": 24,
-      "score": 577,
+      "score": 560,
       "rank": 25
     },
     {
@@ -754,7 +754,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -765,10 +765,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
       "previous_rank": 26,
-      "score": 567.7,
+      "score": 551.5,
       "rank": 26
     },
     {
@@ -782,22 +782,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1556543719413383241",
       "posted_at": "2026-10-05T05:49:01.892Z",
       "web_thumbs": 1,
-      "web_plays": 4,
+      "web_plays": 6,
       "web_videos": 1,
       "stats": {
         "reactions": 2,
         "comments": 0,
         "thumbs": 1,
-        "plays": 4,
+        "plays": 6,
         "videos": 1,
-        "raw_points": 162.5,
-        "penalty_base": 162.5,
-        "multiplier": 1.54,
+        "raw_points": 203.5,
+        "penalty_base": 203.5,
+        "multiplier": 1.68,
         "is_newcomer": false,
-        "effective_age": 14.8
+        "effective_age": 15.8
       },
       "previous_rank": 27,
-      "score": 555.1,
+      "score": 546.6,
       "rank": 27
     },
     {
@@ -811,23 +811,23 @@
       "discord_url": "https://open.spotify.com/track/4Htrpt3EnzfxO8zYWglkQX",
       "posted_at": "2026-10-02T00:00:00.000Z",
       "web_thumbs": 4,
-      "web_plays": 10,
+      "web_plays": 11,
       "web_videos": 1,
       "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 4,
-        "plays": 10,
+        "plays": 11,
         "videos": 1,
-        "raw_points": 309,
-        "penalty_base": 309,
-        "multiplier": 2.03,
+        "raw_points": 329.5,
+        "penalty_base": 329.5,
+        "multiplier": 2.1,
         "is_newcomer": false,
-        "effective_age": 18
+        "effective_age": 19
       },
-      "previous_rank": 29,
-      "score": 533.3,
+      "previous_rank": 28,
+      "score": 509.4,
       "rank": 28
     },
     {
@@ -843,7 +843,7 @@
       "web_thumbs": 3,
       "web_plays": 7,
       "web_videos": 3,
-      "positionBonus": 1,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -854,10 +854,10 @@
         "penalty_base": 356.5,
         "multiplier": 2.19,
         "is_newcomer": false,
-        "effective_age": 18
+        "effective_age": 19
       },
-      "previous_rank": 28,
-      "score": 525.3,
+      "previous_rank": 29,
+      "score": 500.4,
       "rank": 29
     },
     {
@@ -884,10 +884,10 @@
         "penalty_base": 187.5,
         "multiplier": 1.63,
         "is_newcomer": false,
-        "effective_age": 18
+        "effective_age": 19
       },
       "previous_rank": 30,
-      "score": 494.3,
+      "score": 472.8,
       "rank": 30
     }
   ]
