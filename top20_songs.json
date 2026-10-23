@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T00:10:33.711Z",
+  "last_updated": "2026-10-23T23:51:35.648Z",
   "top_songs": [
     {
       "id": "spotify-2pp478owKQcLnarEhmZXKR",
@@ -12,23 +12,23 @@
       "discord_url": "https://open.spotify.com/track/2pp478owKQcLnarEhmZXKR",
       "posted_at": "2026-10-16T00:00:00.000Z",
       "web_thumbs": 19,
-      "web_plays": 6,
+      "web_plays": 8,
       "web_videos": 4,
-      "positionBonus": 15,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 19,
-        "plays": 6,
+        "plays": 8,
         "videos": 4,
-        "raw_points": 538.6,
-        "penalty_base": 572,
-        "multiplier": 2.91,
+        "raw_points": 579.6,
+        "penalty_base": 613,
+        "multiplier": 3.04,
         "is_newcomer": false,
-        "effective_age": 7
+        "effective_age": 8
       },
       "previous_rank": 1,
-      "score": 978.7,
+      "score": 964.2,
       "rank": 1
     },
     {
@@ -42,52 +42,23 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273754318741555",
       "posted_at": "2026-10-12T18:37:12.935Z",
       "web_thumbs": 4,
-      "web_plays": 25,
+      "web_plays": 26,
       "web_videos": 2,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 4,
-        "plays": 25,
+        "plays": 26,
         "videos": 2,
-        "raw_points": 662,
-        "penalty_base": 662,
-        "multiplier": 3.21,
+        "raw_points": 670.5,
+        "penalty_base": 682.5,
+        "multiplier": 3.27,
         "is_newcomer": false,
-        "effective_age": 10.2
+        "effective_age": 11.2
       },
       "previous_rank": 2,
-      "score": 919.1,
+      "score": 874.5,
       "rank": 2
-    },
-    {
-      "id": "1559273817183101028",
-      "song_title": "fallihauta - Taika Satellites (Fallihauta Double-Up)",
-      "author": "fallihauta",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1792540292995",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273817183101028",
-      "posted_at": "2026-10-12T18:37:27.923Z",
-      "web_thumbs": 3,
-      "web_plays": 26,
-      "web_videos": 0,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 26,
-        "videos": 0,
-        "raw_points": 537.5,
-        "penalty_base": 549.5,
-        "multiplier": 2.83,
-        "is_newcomer": false,
-        "effective_age": 10.2
-      },
-      "previous_rank": 3,
-      "score": 846.4,
-      "rank": 3
     },
     {
       "id": "spotify-0DqBN4vBWuET0mSxEXkoJ6",
@@ -98,6 +69,66 @@
       "audio_type": "spotify_link",
       "audio_url": "https://open.spotify.com/track/0DqBN4vBWuET0mSxEXkoJ6",
       "discord_url": "https://open.spotify.com/track/0DqBN4vBWuET0mSxEXkoJ6",
+      "posted_at": "2026-10-23T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 17,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 11,
+        "penalty_base": 11,
+        "multiplier": 1.04,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 4,
+      "score": 828,
+      "rank": 3
+    },
+    {
+      "id": "spotify-2NHqpIfM8CQO6RJ1w4k7AS",
+      "song_title": "Mike Ditchz - Better",
+      "author": "Mike Ditchz",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273dce53b349f5b93ceeb5c2b62",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
+      "discord_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
+      "posted_at": "2026-10-23T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 20,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 6,
+      "score": 820,
+      "rank": 4
+    },
+    {
+      "id": "spotify-3yjdL6d942ykN5HvLHc5QE",
+      "song_title": "KLASS - As Long As You Love Me",
+      "author": "KLASS",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273984329ecfc817a8c39df26a4",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
+      "discord_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
       "posted_at": "2026-10-23T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
@@ -115,68 +146,37 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": null,
+      "previous_rank": 5,
       "score": 819,
-      "rank": 4
-    },
-    {
-      "id": "spotify-3yjdL6d942ykN5HvLHc5QE",
-      "song_title": "KLASS - As Long As You Love Me",
-      "author": "KLASS",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273984329ecfc817a8c39df26a4",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
-      "discord_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
-      "posted_at": "2026-10-23T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 18,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": null,
-      "score": 818,
       "rank": 5
     },
     {
-      "id": "spotify-2NHqpIfM8CQO6RJ1w4k7AS",
-      "song_title": "Mike Ditchz - Better",
-      "author": "Mike Ditchz",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273dce53b349f5b93ceeb5c2b62",
+      "id": "1559273817183101028",
+      "song_title": "fallihauta - Taika Satellites (Fallihauta Double-Up)",
+      "author": "fallihauta",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
-      "discord_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
-      "posted_at": "2026-10-23T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1792799495647",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273817183101028",
+      "posted_at": "2026-10-12T18:37:27.923Z",
+      "web_thumbs": 3,
+      "web_plays": 27,
       "web_videos": 0,
-      "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
+        "thumbs": 3,
+        "plays": 27,
         "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
+        "raw_points": 542.5,
+        "penalty_base": 570,
+        "multiplier": 2.9,
+        "is_newcomer": false,
+        "effective_age": 11.2
       },
-      "previous_rank": null,
-      "score": 816,
+      "previous_rank": 3,
+      "score": 803.3,
       "rank": 6
     },
     {
@@ -202,10 +202,10 @@
         "penalty_base": 385.5,
         "multiplier": 2.29,
         "is_newcomer": false,
-        "effective_age": 10.2
+        "effective_age": 11.2
       },
-      "previous_rank": 10,
-      "score": 769.9,
+      "previous_rank": 7,
+      "score": 739.4,
       "rank": 7
     },
     {
@@ -231,10 +231,10 @@
         "penalty_base": 365,
         "multiplier": 2.22,
         "is_newcomer": false,
-        "effective_age": 10.2
+        "effective_age": 11.2
       },
-      "previous_rank": 11,
-      "score": 758.8,
+      "previous_rank": 8,
+      "score": 729.3,
       "rank": 8
     },
     {
@@ -260,10 +260,10 @@
         "penalty_base": 333.5,
         "multiplier": 2.11,
         "is_newcomer": false,
-        "effective_age": 10.2
+        "effective_age": 11.2
       },
-      "previous_rank": 14,
-      "score": 741.8,
+      "previous_rank": 9,
+      "score": 713.7,
       "rank": 9
     },
     {
@@ -289,10 +289,10 @@
         "penalty_base": 333.5,
         "multiplier": 2.11,
         "is_newcomer": false,
-        "effective_age": 10.2
+        "effective_age": 11.2
       },
-      "previous_rank": 15,
-      "score": 741.8,
+      "previous_rank": 10,
+      "score": 713.7,
       "rank": 10
     },
     {
@@ -318,10 +318,10 @@
         "penalty_base": 318.5,
         "multiplier": 2.06,
         "is_newcomer": false,
-        "effective_age": 10.2
+        "effective_age": 11.2
       },
-      "previous_rank": 16,
-      "score": 733.7,
+      "previous_rank": 11,
+      "score": 706.3,
       "rank": 11
     },
     {
@@ -337,7 +337,7 @@
       "web_thumbs": 2,
       "web_plays": 3,
       "web_videos": 1,
-      "positionBonus": 11,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -348,10 +348,10 @@
         "penalty_base": 143.5,
         "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 7
+        "effective_age": 8
       },
-      "previous_rank": 6,
-      "score": 714.7,
+      "previous_rank": 12,
+      "score": 696,
       "rank": 12
     },
     {
@@ -377,10 +377,10 @@
         "penalty_base": 283,
         "multiplier": 1.94,
         "is_newcomer": false,
-        "effective_age": 10.2
+        "effective_age": 11.2
       },
-      "previous_rank": 17,
-      "score": 714.6,
+      "previous_rank": 13,
+      "score": 688.7,
       "rank": 13
     },
     {
@@ -406,10 +406,10 @@
         "penalty_base": 257,
         "multiplier": 1.86,
         "is_newcomer": false,
-        "effective_age": 10.2
+        "effective_age": 11.2
       },
-      "previous_rank": 18,
-      "score": 700.5,
+      "previous_rank": 14,
+      "score": 675.8,
       "rank": 14
     },
     {
@@ -425,7 +425,7 @@
       "web_thumbs": 2,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -436,10 +436,10 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 7
+        "effective_age": 8
       },
-      "previous_rank": 5,
-      "score": 672.6,
+      "previous_rank": 15,
+      "score": 651.5,
       "rank": 15
     },
     {
@@ -455,7 +455,7 @@
       "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 20,
+      "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -466,10 +466,10 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 7
+        "effective_age": 8
       },
-      "previous_rank": 4,
-      "score": 668.5,
+      "previous_rank": 16,
+      "score": 650.4,
       "rank": 16
     },
     {
@@ -496,11 +496,41 @@
         "penalty_base": 400.5,
         "multiplier": 2.33,
         "is_newcomer": false,
-        "effective_age": 14
+        "effective_age": 15
+      },
+      "previous_rank": 17,
+      "score": 634.8,
+      "rank": 17
+    },
+    {
+      "id": "spotify-2b382SgOTUxDsXfDdmh5pf",
+      "song_title": "DeejaVu - Taste",
+      "author": "DeejaVu",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c04de33e1eefa5b852aea957",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2b382SgOTUxDsXfDdmh5pf",
+      "discord_url": "https://open.spotify.com/track/2b382SgOTUxDsXfDdmh5pf",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 15,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 42.5,
+        "penalty_base": 42.5,
+        "multiplier": 1.14,
+        "is_newcomer": false,
+        "effective_age": 8
       },
       "previous_rank": 20,
-      "score": 666,
-      "rank": 17
+      "score": 634.3,
+      "rank": 18
     },
     {
       "id": "spotify-5q3NF3xTtuMYgUHesqNBO1",
@@ -515,7 +545,7 @@
       "web_thumbs": 2,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -526,11 +556,11 @@
         "penalty_base": 42.5,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 7
+        "effective_age": 8
       },
-      "previous_rank": 9,
-      "score": 651.5,
-      "rank": 18
+      "previous_rank": 18,
+      "score": 633.3,
+      "rank": 19
     },
     {
       "id": "spotify-3UjwNYJ2Ji82iMAa9gMqem",
@@ -541,36 +571,6 @@
       "audio_type": "spotify_link",
       "audio_url": "https://open.spotify.com/track/3UjwNYJ2Ji82iMAa9gMqem",
       "discord_url": "https://open.spotify.com/track/3UjwNYJ2Ji82iMAa9gMqem",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 13,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 42.5,
-        "penalty_base": 42.5,
-        "multiplier": 1.14,
-        "is_newcomer": false,
-        "effective_age": 7
-      },
-      "previous_rank": 8,
-      "score": 647.5,
-      "rank": 19
-    },
-    {
-      "id": "spotify-2b382SgOTUxDsXfDdmh5pf",
-      "song_title": "DeejaVu - Taste",
-      "author": "DeejaVu",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273c04de33e1eefa5b852aea957",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2b382SgOTUxDsXfDdmh5pf",
-      "discord_url": "https://open.spotify.com/track/2b382SgOTUxDsXfDdmh5pf",
       "posted_at": "2026-10-16T00:00:00.000Z",
       "web_thumbs": 2,
       "web_plays": 1,
@@ -586,10 +586,10 @@
         "penalty_base": 42.5,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 7
+        "effective_age": 8
       },
-      "previous_rank": 7,
-      "score": 643.5,
+      "previous_rank": 19,
+      "score": 628.3,
       "rank": 20
     },
     {
@@ -605,7 +605,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -616,10 +616,10 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 7
+        "effective_age": 8
       },
-      "previous_rank": 12,
-      "score": 626.9,
+      "previous_rank": 21,
+      "score": 615.1,
       "rank": 21
     },
     {
@@ -635,7 +635,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -646,10 +646,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 7
+        "effective_age": 8
       },
-      "previous_rank": 13,
-      "score": 617.4,
+      "previous_rank": 22,
+      "score": 602.1,
       "rank": 22
     },
     {
@@ -665,7 +665,7 @@
       "web_thumbs": 3,
       "web_plays": 8,
       "web_videos": 1,
-      "positionBonus": 7,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -676,10 +676,10 @@
         "penalty_base": 257,
         "multiplier": 1.86,
         "is_newcomer": false,
-        "effective_age": 14
+        "effective_age": 15
       },
-      "previous_rank": 21,
-      "score": 612.9,
+      "previous_rank": 23,
+      "score": 586.2,
       "rank": 23
     },
     {
@@ -705,10 +705,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 7.5
+        "effective_age": 8.4
       },
-      "previous_rank": 19,
-      "score": 599.4,
+      "previous_rank": 24,
+      "score": 586,
       "rank": 24
     },
     {
@@ -724,7 +724,7 @@
       "web_thumbs": 2,
       "web_plays": 6,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -735,10 +735,10 @@
         "penalty_base": 145,
         "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 14
+        "effective_age": 15
       },
-      "previous_rank": 22,
-      "score": 569.5,
+      "previous_rank": 25,
+      "score": 551.7,
       "rank": 25
     },
     {
@@ -752,23 +752,23 @@
       "discord_url": "https://open.spotify.com/track/3HB8PSdjB3yimxzBw0XKPH",
       "posted_at": "2026-10-09T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 4,
+      "web_plays": 5,
       "web_videos": 0,
-      "positionBonus": 3,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 4,
+        "plays": 5,
         "videos": 0,
-        "raw_points": 82,
-        "penalty_base": 82,
-        "multiplier": 1.27,
+        "raw_points": 102.5,
+        "penalty_base": 102.5,
+        "multiplier": 1.34,
         "is_newcomer": false,
-        "effective_age": 14
+        "effective_age": 15
       },
-      "previous_rank": 23,
-      "score": 544.2,
+      "previous_rank": 26,
+      "score": 538.9,
       "rank": 26
     },
     {
@@ -784,7 +784,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -795,10 +795,10 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 14
+        "effective_age": 15
       },
-      "previous_rank": 24,
-      "score": 534.1,
+      "previous_rank": 27,
+      "score": 521.9,
       "rank": 27
     },
     {
@@ -825,10 +825,10 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 14
+        "effective_age": 15
       },
-      "previous_rank": 25,
-      "score": 530.1,
+      "previous_rank": 28,
+      "score": 514.9,
       "rank": 28
     },
     {
@@ -844,7 +844,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -855,10 +855,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 14
+        "effective_age": 15
       },
-      "previous_rank": 26,
-      "score": 524.5,
+      "previous_rank": 29,
+      "score": 505.2,
       "rank": 29
     },
     {
@@ -872,22 +872,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1556543719413383241",
       "posted_at": "2026-10-05T05:49:01.892Z",
       "web_thumbs": 1,
-      "web_plays": 6,
+      "web_plays": 7,
       "web_videos": 1,
       "stats": {
         "reactions": 2,
         "comments": 0,
         "thumbs": 1,
-        "plays": 6,
+        "plays": 7,
         "videos": 1,
-        "raw_points": 203.5,
-        "penalty_base": 203.5,
-        "multiplier": 1.68,
+        "raw_points": 224,
+        "penalty_base": 224,
+        "multiplier": 1.75,
         "is_newcomer": false,
-        "effective_age": 17.8
+        "effective_age": 18.8
       },
-      "previous_rank": 27,
-      "score": 501,
+      "previous_rank": 30,
+      "score": 481.8,
       "rank": 30
     }
   ]
