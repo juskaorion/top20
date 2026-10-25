@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T23:10:45.214Z",
+  "last_updated": "2026-10-25T23:29:21.482Z",
   "top_songs": [
     {
       "id": "spotify-2pp478owKQcLnarEhmZXKR",
@@ -14,7 +14,7 @@
       "web_thumbs": 19,
       "web_plays": 9,
       "web_videos": 5,
-      "positionBonus": 17,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -25,50 +25,50 @@
         "penalty_base": 693.5,
         "multiplier": 3.31,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
       "previous_rank": 1,
-      "score": 976.3,
+      "score": 926,
       "rank": 1
     },
     {
-      "id": "1559273754318741555",
-      "song_title": "fallihauta - I Love You (Fallihauta Goes Full Kiksu Twist)",
-      "author": "fallihauta",
-      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
-      "message_text": "",
+      "id": "1563583816428294224",
+      "song_title": "Soul Central Bart Skils Weska Remix vs. Solu Music ft. Kimblee - Strings Of Fade (Jays MashUp)",
+      "author": "Soul Central Bart Skils Weska Remix vs. Solu Music ft. Kimblee",
+      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "message_text": "Mashuppia pukkaa 😀",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1792540287347",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273754318741555",
-      "posted_at": "2026-10-12T18:37:12.935Z",
-      "web_thumbs": 4,
-      "web_plays": 27,
-      "web_videos": 3,
+      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1792970944753",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1563583816428294224",
+      "posted_at": "2026-10-24T16:03:51.819Z",
+      "web_thumbs": 3,
+      "web_plays": 2,
+      "web_videos": 0,
       "stats": {
-        "reactions": 1,
+        "reactions": 0,
         "comments": 0,
-        "thumbs": 4,
-        "plays": 27,
-        "videos": 3,
-        "raw_points": 735.5,
-        "penalty_base": 763,
-        "multiplier": 3.54,
-        "is_newcomer": false,
-        "effective_age": 12.2
+        "thumbs": 3,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 57.5,
+        "penalty_base": 57.5,
+        "multiplier": 1.19,
+        "is_newcomer": true,
+        "effective_age": 0
       },
-      "previous_rank": 2,
-      "score": 852.4,
+      "previous_rank": 7,
+      "score": 857.5,
       "rank": 2
     },
     {
-      "id": "spotify-2NHqpIfM8CQO6RJ1w4k7AS",
-      "song_title": "Mike Ditchz - Better",
-      "author": "Mike Ditchz",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273dce53b349f5b93ceeb5c2b62",
+      "id": "spotify-41jL3kq34IFRuUBSHcAXKw",
+      "song_title": "Skywalk - northbound",
+      "author": "Skywalk",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2736184d70eb8d24362c07db2c4",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
-      "discord_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
+      "audio_url": "https://open.spotify.com/track/41jL3kq34IFRuUBSHcAXKw",
+      "discord_url": "https://open.spotify.com/track/41jL3kq34IFRuUBSHcAXKw",
       "posted_at": "2026-10-23T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 1,
@@ -86,9 +86,39 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 4,
+      "previous_rank": 5,
       "score": 840.5,
       "rank": 3
+    },
+    {
+      "id": "spotify-2NHqpIfM8CQO6RJ1w4k7AS",
+      "song_title": "Mike Ditchz - Better",
+      "author": "Mike Ditchz",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273dce53b349f5b93ceeb5c2b62",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
+      "discord_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
+      "posted_at": "2026-10-23T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 18,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 3,
+      "score": 838.5,
+      "rank": 4
     },
     {
       "id": "spotify-0DqBN4vBWuET0mSxEXkoJ6",
@@ -103,7 +133,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 16,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -116,19 +146,19 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 3,
-      "score": 827,
-      "rank": 4
+      "previous_rank": 4,
+      "score": 824,
+      "rank": 5
     },
     {
-      "id": "spotify-41jL3kq34IFRuUBSHcAXKw",
-      "song_title": "Skywalk - northbound",
-      "author": "Skywalk",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2736184d70eb8d24362c07db2c4",
+      "id": "spotify-3yjdL6d942ykN5HvLHc5QE",
+      "song_title": "KLASS - As Long As You Love Me",
+      "author": "KLASS",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273984329ecfc817a8c39df26a4",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/41jL3kq34IFRuUBSHcAXKw",
-      "discord_url": "https://open.spotify.com/track/41jL3kq34IFRuUBSHcAXKw",
+      "audio_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
+      "discord_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
       "posted_at": "2026-10-23T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
@@ -146,67 +176,37 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": null,
+      "previous_rank": 6,
       "score": 819,
-      "rank": 5
-    },
-    {
-      "id": "spotify-3yjdL6d942ykN5HvLHc5QE",
-      "song_title": "KLASS - As Long As You Love Me",
-      "author": "KLASS",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273984329ecfc817a8c39df26a4",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
-      "discord_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
-      "posted_at": "2026-10-23T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 18,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 5,
-      "score": 818,
       "rank": 6
     },
     {
-      "id": "1563583816428294224",
-      "song_title": "Soul Central Bart Skils Weska Remix vs. Solu Music ft. Kimblee - Strings Of Fade (Jays MashUp)",
-      "author": "Soul Central Bart Skils Weska Remix vs. Solu Music ft. Kimblee",
-      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-      "message_text": "Mashuppia pukkaa 😀",
+      "id": "1559273754318741555",
+      "song_title": "fallihauta - I Love You (Fallihauta Goes Full Kiksu Twist)",
+      "author": "fallihauta",
+      "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
+      "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1792883401400",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1563583816428294224",
-      "posted_at": "2026-10-24T16:03:51.819Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
+      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1792970949619",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273754318741555",
+      "posted_at": "2026-10-12T18:37:12.935Z",
+      "web_thumbs": 4,
+      "web_plays": 27,
+      "web_videos": 3,
       "stats": {
-        "reactions": 0,
+        "reactions": 1,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
+        "thumbs": 4,
+        "plays": 27,
+        "videos": 3,
+        "raw_points": 735.5,
+        "penalty_base": 763,
+        "multiplier": 3.54,
+        "is_newcomer": false,
+        "effective_age": 13.2
       },
-      "previous_rank": null,
-      "score": 800,
+      "previous_rank": 2,
+      "score": 804,
       "rank": 7
     },
     {
@@ -232,10 +232,10 @@
         "penalty_base": 570,
         "multiplier": 2.9,
         "is_newcomer": false,
-        "effective_age": 12.2
+        "effective_age": 13.2
       },
-      "previous_rank": 6,
-      "score": 765.3,
+      "previous_rank": 8,
+      "score": 725.6,
       "rank": 8
     },
     {
@@ -261,10 +261,10 @@
         "penalty_base": 385.5,
         "multiplier": 2.29,
         "is_newcomer": false,
-        "effective_age": 12.2
+        "effective_age": 13.2
       },
-      "previous_rank": 7,
-      "score": 709.5,
+      "previous_rank": 9,
+      "score": 678.2,
       "rank": 9
     },
     {
@@ -290,10 +290,10 @@
         "penalty_base": 365,
         "multiplier": 2.22,
         "is_newcomer": false,
-        "effective_age": 12.2
+        "effective_age": 13.2
       },
-      "previous_rank": 8,
-      "score": 700.2,
+      "previous_rank": 10,
+      "score": 669.9,
       "rank": 10
     },
     {
@@ -319,10 +319,10 @@
         "penalty_base": 333.5,
         "multiplier": 2.11,
         "is_newcomer": false,
-        "effective_age": 12.2
+        "effective_age": 13.2
       },
-      "previous_rank": 9,
-      "score": 686,
+      "previous_rank": 11,
+      "score": 657.1,
       "rank": 11
     },
     {
@@ -348,11 +348,41 @@
         "penalty_base": 333.5,
         "multiplier": 2.11,
         "is_newcomer": false,
-        "effective_age": 12.2
+        "effective_age": 13.2
       },
-      "previous_rank": 10,
-      "score": 686,
+      "previous_rank": 12,
+      "score": 657.1,
       "rank": 12
+    },
+    {
+      "id": "spotify-0FfOxelCStJMDSS2ul9LrM",
+      "song_title": "Nic Johnston, Robbe, Haaradak - Funky Fat Beat",
+      "author": "Nic Johnston, Robbe, Haaradak",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27383a119014d6f360597c994ed",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0FfOxelCStJMDSS2ul9LrM",
+      "discord_url": "https://open.spotify.com/track/0FfOxelCStJMDSS2ul9LrM",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 3,
+      "web_videos": 1,
+      "positionBonus": 11,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 3,
+        "videos": 1,
+        "raw_points": 143.5,
+        "penalty_base": 143.5,
+        "multiplier": 1.48,
+        "is_newcomer": false,
+        "effective_age": 10
+      },
+      "previous_rank": 14,
+      "score": 655.4,
+      "rank": 13
     },
     {
       "id": "1559273525687095306",
@@ -361,7 +391,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1190615066261860366/fd714d7a945f339fe3da674143a0f178.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_13.mp3?v=1792883428009",
+      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1792970954006",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1559273525687095306",
       "posted_at": "2026-10-12T18:36:18.425Z",
       "web_thumbs": 2,
@@ -377,40 +407,10 @@
         "penalty_base": 318.5,
         "multiplier": 2.06,
         "is_newcomer": false,
-        "effective_age": 12.2
+        "effective_age": 13.2
       },
-      "previous_rank": 11,
-      "score": 679.2,
-      "rank": 13
-    },
-    {
-      "id": "spotify-0FfOxelCStJMDSS2ul9LrM",
-      "song_title": "Nic Johnston, Robbe, Haaradak - Funky Fat Beat",
-      "author": "Nic Johnston, Robbe, Haaradak",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27383a119014d6f360597c994ed",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0FfOxelCStJMDSS2ul9LrM",
-      "discord_url": "https://open.spotify.com/track/0FfOxelCStJMDSS2ul9LrM",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 3,
-      "web_videos": 1,
-      "positionBonus": 14,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 3,
-        "videos": 1,
-        "raw_points": 143.5,
-        "penalty_base": 143.5,
-        "multiplier": 1.48,
-        "is_newcomer": false,
-        "effective_age": 9
-      },
-      "previous_rank": 12,
-      "score": 678.6,
+      "previous_rank": 13,
+      "score": 651,
       "rank": 14
     },
     {
@@ -436,10 +436,10 @@
         "penalty_base": 283,
         "multiplier": 1.94,
         "is_newcomer": false,
-        "effective_age": 12.2
+        "effective_age": 13.2
       },
-      "previous_rank": 13,
-      "score": 663.2,
+      "previous_rank": 15,
+      "score": 636.6,
       "rank": 15
     },
     {
@@ -465,41 +465,11 @@
         "penalty_base": 257,
         "multiplier": 1.86,
         "is_newcomer": false,
-        "effective_age": 12.2
+        "effective_age": 13.2
       },
-      "previous_rank": 14,
-      "score": 651.4,
+      "previous_rank": 16,
+      "score": 626.1,
       "rank": 16
-    },
-    {
-      "id": "spotify-3xDSy3pemqWeqQ2KcRfbxD",
-      "song_title": "Kristianex - Shameless",
-      "author": "Kristianex",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2739dd719291b557df55c578853",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
-      "discord_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 9,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 83.5,
-        "penalty_base": 83.5,
-        "multiplier": 1.28,
-        "is_newcomer": false,
-        "effective_age": 9
-      },
-      "previous_rank": 15,
-      "score": 637.8,
-      "rank": 17
     },
     {
       "id": "spotify-3cEEmWUMQhnj2d0E4ecACL",
@@ -514,7 +484,7 @@
       "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 13,
+      "positionBonus": 17,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -525,10 +495,40 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 16,
-      "score": 629.6,
+      "previous_rank": 18,
+      "score": 617,
+      "rank": 17
+    },
+    {
+      "id": "spotify-3xDSy3pemqWeqQ2KcRfbxD",
+      "song_title": "Kristianex - Shameless",
+      "author": "Kristianex",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2739dd719291b557df55c578853",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
+      "discord_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 3,
+      "web_videos": 0,
+      "positionBonus": 4,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 3,
+        "videos": 0,
+        "raw_points": 83.5,
+        "penalty_base": 83.5,
+        "multiplier": 1.28,
+        "is_newcomer": false,
+        "effective_age": 10
+      },
+      "previous_rank": 17,
+      "score": 615.3,
       "rank": 18
     },
     {
@@ -544,7 +544,7 @@
       "web_thumbs": 2,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 11,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -555,10 +555,10 @@
         "penalty_base": 42.5,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 18,
-      "score": 615.3,
+      "previous_rank": 19,
+      "score": 602.7,
       "rank": 19
     },
     {
@@ -574,7 +574,7 @@
       "web_thumbs": 2,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -585,11 +585,41 @@
         "penalty_base": 42.5,
         "multiplier": 1.14,
         "is_newcomer": false,
+        "effective_age": 10
+      },
+      "previous_rank": 20,
+      "score": 597.7,
+      "rank": 20
+    },
+    {
+      "id": "spotify-0Qgj3LYZTAKrf45XoVLE37",
+      "song_title": "Jori Samarin - LDReload",
+      "author": "Jori Samarin",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273232fdbb6586c12053291b31d",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0Qgj3LYZTAKrf45XoVLE37",
+      "discord_url": "https://open.spotify.com/track/0Qgj3LYZTAKrf45XoVLE37",
+      "posted_at": "2026-10-17T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 16,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
         "effective_age": 9
       },
-      "previous_rank": 19,
-      "score": 614.3,
-      "rank": 20
+      "previous_rank": null,
+      "score": 594.8,
+      "rank": 21
     },
     {
       "id": "spotify-3UjwNYJ2Ji82iMAa9gMqem",
@@ -604,7 +634,7 @@
       "web_thumbs": 2,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 7,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -615,40 +645,10 @@
         "penalty_base": 42.5,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 20,
-      "score": 611.3,
-      "rank": 21
-    },
-    {
-      "id": "spotify-6o7JJZoJkGNFaqnxsqqbrm",
-      "song_title": "Mike Ditchz - Keep It Low",
-      "author": "Mike Ditchz",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273867ded3f916df70f43dfcb51",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
-      "discord_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
-      "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 19,
-      "web_videos": 0,
-      "positionBonus": 7,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 19,
-        "videos": 0,
-        "raw_points": 400.5,
-        "penalty_base": 400.5,
-        "multiplier": 2.33,
-        "is_newcomer": false,
-        "effective_age": 16
-      },
-      "previous_rank": 17,
-      "score": 604.2,
+      "previous_rank": 21,
+      "score": 594.7,
       "rank": 22
     },
     {
@@ -675,11 +675,101 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 21,
-      "score": 600.5,
+      "previous_rank": 23,
+      "score": 586.4,
       "rank": 23
+    },
+    {
+      "id": "spotify-0ruqFLelc4TxpLxWkUOjrY",
+      "song_title": "FLAMI - STR8 FROM THE UNDERGROUND",
+      "author": "FLAMI",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27301c4bb7404c804428ff63c0e",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0ruqFLelc4TxpLxWkUOjrY",
+      "discord_url": "https://open.spotify.com/track/0ruqFLelc4TxpLxWkUOjrY",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 10,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 10
+      },
+      "previous_rank": null,
+      "score": 575.3,
+      "rank": 24
+    },
+    {
+      "id": "spotify-5MhWCH6BviwGlXAj7ucr2K",
+      "song_title": "ZILVERMIST - REWIND",
+      "author": "ZILVERMIST",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273035cbf6f199abf16b3def9bd",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5MhWCH6BviwGlXAj7ucr2K",
+      "discord_url": "https://open.spotify.com/track/5MhWCH6BviwGlXAj7ucr2K",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 8,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 10
+      },
+      "previous_rank": null,
+      "score": 573.3,
+      "rank": 25
+    },
+    {
+      "id": "spotify-6o7JJZoJkGNFaqnxsqqbrm",
+      "song_title": "Mike Ditchz - Keep It Low",
+      "author": "Mike Ditchz",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273867ded3f916df70f43dfcb51",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
+      "discord_url": "https://open.spotify.com/track/6o7JJZoJkGNFaqnxsqqbrm",
+      "posted_at": "2026-10-09T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 19,
+      "web_videos": 0,
+      "positionBonus": 7,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 19,
+        "videos": 0,
+        "raw_points": 400.5,
+        "penalty_base": 400.5,
+        "multiplier": 2.33,
+        "is_newcomer": false,
+        "effective_age": 17
+      },
+      "previous_rank": 22,
+      "score": 572.3,
+      "rank": 26
     },
     {
       "id": "spotify-7bkw0mhN4NUOKEEdj2xHMB",
@@ -694,7 +784,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -705,11 +795,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 22,
-      "score": 591,
-      "rank": 24
+      "previous_rank": 24,
+      "score": 568.3,
+      "rank": 27
     },
     {
       "id": "1560279881353404556",
@@ -718,7 +808,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/203618459081375744/7cd6a9cfb8692518359ec8bc8737efd5.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_25.mp3?v=1792883445213",
+      "audio_url": "https://www.djorion.fi/top20//rank_28.mp3?v=1792970961482",
       "discord_url": "https://discord.com/channels/1174754304758907002/1174757040296558592/1560279881353404556",
       "posted_at": "2026-10-15T13:15:12.313Z",
       "web_thumbs": 0,
@@ -734,11 +824,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 9.4
+        "effective_age": 10.4
       },
-      "previous_rank": 24,
-      "score": 572.9,
-      "rank": 25
+      "previous_rank": 25,
+      "score": 559.2,
+      "rank": 28
     },
     {
       "id": "spotify-5iGIW3KnnozCmHJtqsDiWK",
@@ -764,11 +854,11 @@
         "penalty_base": 257,
         "multiplier": 1.86,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 23,
-      "score": 561.8,
-      "rank": 26
+      "previous_rank": 26,
+      "score": 536.4,
+      "rank": 29
     },
     {
       "id": "spotify-0W6NBJxKltID44Vixxd6P9",
@@ -783,7 +873,7 @@
       "web_thumbs": 2,
       "web_plays": 6,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -794,100 +884,10 @@
         "penalty_base": 145,
         "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 16
-      },
-      "previous_rank": 25,
-      "score": 531.3,
-      "rank": 27
-    },
-    {
-      "id": "spotify-3HB8PSdjB3yimxzBw0XKPH",
-      "song_title": "Kitkatone - Missä on JJ?",
-      "author": "Kitkatone",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a324714adb0e346be51c2fac",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3HB8PSdjB3yimxzBw0XKPH",
-      "discord_url": "https://open.spotify.com/track/3HB8PSdjB3yimxzBw0XKPH",
-      "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 5,
-      "web_videos": 0,
-      "positionBonus": 8,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 5,
-        "videos": 0,
-        "raw_points": 102.5,
-        "penalty_base": 102.5,
-        "multiplier": 1.34,
-        "is_newcomer": false,
-        "effective_age": 16
-      },
-      "previous_rank": 26,
-      "score": 521.3,
-      "rank": 28
-    },
-    {
-      "id": "spotify-2Rrd4iZVxRuHyAvytLhnpZ",
-      "song_title": "ODJ Pirkka - Excommunication",
-      "author": "ODJ Pirkka",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a324714adb0e346be51c2fac",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2Rrd4iZVxRuHyAvytLhnpZ",
-      "discord_url": "https://open.spotify.com/track/2Rrd4iZVxRuHyAvytLhnpZ",
-      "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 2,
-      "web_videos": 0,
-      "positionBonus": 4,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 41,
-        "penalty_base": 41,
-        "multiplier": 1.14,
-        "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
       "previous_rank": 27,
-      "score": 500,
-      "rank": 29
-    },
-    {
-      "id": "spotify-1qAOarmIYzUAJIGKGGlYtr",
-      "song_title": "ZARG - LUV IS",
-      "author": "ZARG",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27376ec0cf01ae62cefc270722e",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
-      "discord_url": "https://open.spotify.com/track/1qAOarmIYzUAJIGKGGlYtr",
-      "posted_at": "2026-10-09T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 2,
-      "web_videos": 0,
-      "positionBonus": 4,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 41,
-        "penalty_base": 41,
-        "multiplier": 1.14,
-        "is_newcomer": false,
-        "effective_age": 16
-      },
-      "previous_rank": 28,
-      "score": 500,
+      "score": 510,
       "rank": 30
     }
   ]
