@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T02:54:07.981Z",
+  "last_updated": "2026-11-04T01:19:21.821Z",
   "top_songs": [
     {
       "id": "1565293604572893277",
@@ -12,22 +12,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1565293604572893277",
       "posted_at": "2026-10-29T09:17:57.079Z",
       "web_thumbs": 3,
-      "web_plays": 10,
+      "web_plays": 15,
       "web_videos": 2,
       "stats": {
         "reactions": 6,
         "comments": 0,
         "thumbs": 3,
-        "plays": 10,
+        "plays": 15,
         "videos": 2,
-        "raw_points": 386.5,
-        "penalty_base": 386.5,
-        "multiplier": 2.29,
+        "raw_points": 489,
+        "penalty_base": 489,
+        "multiplier": 2.63,
         "is_newcomer": true,
-        "effective_age": 1.7
+        "effective_age": 2.7
       },
       "previous_rank": 1,
-      "score": 1133,
+      "score": 1194.3,
       "rank": 1
     },
     {
@@ -41,22 +41,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1565698881126146239",
       "posted_at": "2026-10-30T12:08:22.539Z",
       "web_thumbs": 2,
-      "web_plays": 3,
+      "web_plays": 6,
       "web_videos": 1,
       "stats": {
-        "reactions": 6,
+        "reactions": 7,
         "comments": 0,
         "thumbs": 2,
-        "plays": 3,
+        "plays": 6,
         "videos": 1,
-        "raw_points": 177.5,
-        "penalty_base": 177.5,
-        "multiplier": 1.59,
+        "raw_points": 246.5,
+        "penalty_base": 246.5,
+        "multiplier": 1.82,
         "is_newcomer": true,
-        "effective_age": 0.6
+        "effective_age": 1.5
       },
       "previous_rank": 2,
-      "score": 964.3,
+      "score": 1008.4,
       "rank": 2
     },
     {
@@ -70,22 +70,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1404380880364900425/1565684663329234944",
       "posted_at": "2026-10-30T11:11:52.752Z",
       "web_thumbs": 2,
-      "web_plays": 1,
+      "web_plays": 3,
       "web_videos": 1,
       "stats": {
         "reactions": 9,
         "comments": 0,
         "thumbs": 2,
-        "plays": 1,
+        "plays": 3,
         "videos": 1,
-        "raw_points": 159,
-        "penalty_base": 159,
-        "multiplier": 1.53,
+        "raw_points": 200,
+        "penalty_base": 200,
+        "multiplier": 1.67,
         "is_newcomer": true,
-        "effective_age": 0.7
+        "effective_age": 1.6
       },
-      "previous_rank": 5,
-      "score": 945.5,
+      "previous_rank": 3,
+      "score": 964.3,
       "rank": 3
     },
     {
@@ -99,23 +99,23 @@
       "discord_url": "https://open.spotify.com/track/0iSk4izdW2H3jzh0RxeJWm",
       "posted_at": "2026-10-30T00:00:00.000Z",
       "web_thumbs": 4,
-      "web_plays": 2,
+      "web_plays": 3,
       "web_videos": 0,
       "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 4,
-        "plays": 2,
+        "plays": 3,
         "videos": 0,
-        "raw_points": 85,
-        "penalty_base": 85,
-        "multiplier": 1.28,
+        "raw_points": 105.5,
+        "penalty_base": 105.5,
+        "multiplier": 1.35,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
-      "previous_rank": 3,
-      "score": 881.6,
+      "previous_rank": 4,
+      "score": 884,
       "rank": 4
     },
     {
@@ -129,54 +129,24 @@
       "discord_url": "https://open.spotify.com/track/1RwglsXZwFZX1lTssArt3E",
       "posted_at": "2026-10-30T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 2,
+      "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 20,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 2,
+        "plays": 3,
         "videos": 0,
-        "raw_points": 41,
-        "penalty_base": 41,
-        "multiplier": 1.14,
-        "is_newcomer": true,
-        "effective_age": 1.1
-      },
-      "previous_rank": 7,
-      "score": 840.8,
-      "rank": 5
-    },
-    {
-      "id": "spotify-3shYMsrWgiZOeVWmceWqkS",
-      "song_title": "Digital Mindz - Trancendence",
-      "author": "Digital Mindz",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273685905e5269a6d7b3349b773",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3shYMsrWgiZOeVWmceWqkS",
-      "discord_url": "https://open.spotify.com/track/3shYMsrWgiZOeVWmceWqkS",
-      "posted_at": "2026-10-29T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 15,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 42.5,
-        "penalty_base": 42.5,
-        "multiplier": 1.14,
+        "raw_points": 61.5,
+        "penalty_base": 61.5,
+        "multiplier": 1.21,
         "is_newcomer": true,
         "effective_age": 2.1
       },
-      "previous_rank": 6,
-      "score": 824.8,
-      "rank": 6
+      "previous_rank": 5,
+      "score": 848.1,
+      "rank": 5
     },
     {
       "id": "spotify-7sI6fOrBoOBFICFBNkhNjK",
@@ -191,7 +161,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 20,
+      "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -202,11 +172,11 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
-      "previous_rank": 4,
-      "score": 815.3,
-      "rank": 7
+      "previous_rank": 7,
+      "score": 800.2,
+      "rank": 6
     },
     {
       "id": "spotify-2syD8g1uZZhegV4dxvighR",
@@ -232,11 +202,71 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
       "previous_rank": 8,
-      "score": 803.9,
+      "score": 791.3,
+      "rank": 7
+    },
+    {
+      "id": "spotify-0juNw8Txnzsoy06h7kRJ6q",
+      "song_title": "Okra Playground - Loru",
+      "author": "Okra Playground",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273726502a24febb5b3fb4faea7",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0juNw8Txnzsoy06h7kRJ6q",
+      "discord_url": "https://open.spotify.com/track/0juNw8Txnzsoy06h7kRJ6q",
+      "posted_at": "2026-10-30T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 17,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 2.1
+      },
+      "previous_rank": null,
+      "score": 789.3,
       "rank": 8
+    },
+    {
+      "id": "spotify-3shYMsrWgiZOeVWmceWqkS",
+      "song_title": "Digital Mindz - Trancendence",
+      "author": "Digital Mindz",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273685905e5269a6d7b3349b773",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3shYMsrWgiZOeVWmceWqkS",
+      "discord_url": "https://open.spotify.com/track/3shYMsrWgiZOeVWmceWqkS",
+      "posted_at": "2026-10-29T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 14,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 42.5,
+        "penalty_base": 42.5,
+        "multiplier": 1.14,
+        "is_newcomer": true,
+        "effective_age": 6.1
+      },
+      "previous_rank": 6,
+      "score": 763.2,
+      "rank": 9
     },
     {
       "id": "1563583816428294224",
@@ -245,7 +275,7 @@
       "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
       "message_text": "Mashuppia pukkaa 😀",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1793579985190",
+      "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1793755161820",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1563583816428294224",
       "posted_at": "2026-10-24T16:03:51.819Z",
       "web_thumbs": 6,
@@ -261,11 +291,101 @@
         "penalty_base": 339,
         "multiplier": 2.13,
         "is_newcomer": false,
-        "effective_age": 9.5
+        "effective_age": 10.4
       },
       "previous_rank": 9,
-      "score": 767.2,
-      "rank": 9
+      "score": 740.4,
+      "rank": 10
+    },
+    {
+      "id": "spotify-2lN6hGEH0KZzPZnhNO3lcD",
+      "song_title": "VTRAC - Oceanic Depths",
+      "author": "VTRAC",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273efb163cdd0a7bd0c347adb0d",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2lN6hGEH0KZzPZnhNO3lcD",
+      "discord_url": "https://open.spotify.com/track/2lN6hGEH0KZzPZnhNO3lcD",
+      "posted_at": "2026-10-24T00:00:00.000Z",
+      "web_thumbs": 5,
+      "web_plays": 5,
+      "web_videos": 1,
+      "positionBonus": 10,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 5,
+        "plays": 5,
+        "videos": 1,
+        "raw_points": 217.5,
+        "penalty_base": 217.5,
+        "multiplier": 1.73,
+        "is_newcomer": false,
+        "effective_age": 11.1
+      },
+      "previous_rank": 14,
+      "score": 670.1,
+      "rank": 11
+    },
+    {
+      "id": "spotify-3yjdL6d942ykN5HvLHc5QE",
+      "song_title": "KLASS - As Long As You Love Me",
+      "author": "KLASS",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273984329ecfc817a8c39df26a4",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
+      "discord_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
+      "posted_at": "2026-10-23T00:00:00.000Z",
+      "web_thumbs": 3,
+      "web_plays": 2,
+      "web_videos": 2,
+      "positionBonus": 9,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 2,
+        "videos": 2,
+        "raw_points": 194,
+        "penalty_base": 194,
+        "multiplier": 1.65,
+        "is_newcomer": false,
+        "effective_age": 12.1
+      },
+      "previous_rank": 11,
+      "score": 635,
+      "rank": 12
+    },
+    {
+      "id": "spotify-2NHqpIfM8CQO6RJ1w4k7AS",
+      "song_title": "Mike Ditchz - Better",
+      "author": "Mike Ditchz",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273dce53b349f5b93ceeb5c2b62",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
+      "discord_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
+      "posted_at": "2026-10-23T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 4,
+      "web_videos": 1,
+      "positionBonus": 15,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 4,
+        "videos": 1,
+        "raw_points": 164,
+        "penalty_base": 164,
+        "multiplier": 1.55,
+        "is_newcomer": false,
+        "effective_age": 12.1
+      },
+      "previous_rank": 12,
+      "score": 627.3,
+      "rank": 13
     },
     {
       "id": "spotify-1ewRd4bU78HdyjjZ5F9XTY",
@@ -280,7 +400,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 18,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -290,72 +410,12 @@
         "raw_points": 0,
         "penalty_base": 0,
         "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 6.1
+        "is_newcomer": false,
+        "effective_age": 7.1
       },
       "previous_rank": 10,
-      "score": 735.4,
-      "rank": 10
-    },
-    {
-      "id": "spotify-3yjdL6d942ykN5HvLHc5QE",
-      "song_title": "KLASS - As Long As You Love Me",
-      "author": "KLASS",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273984329ecfc817a8c39df26a4",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
-      "discord_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
-      "posted_at": "2026-10-23T00:00:00.000Z",
-      "web_thumbs": 3,
-      "web_plays": 1,
-      "web_videos": 2,
-      "positionBonus": 12,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 1,
-        "videos": 2,
-        "raw_points": 173.5,
-        "penalty_base": 173.5,
-        "multiplier": 1.58,
-        "is_newcomer": false,
-        "effective_age": 11.1
-      },
-      "previous_rank": 12,
-      "score": 648.5,
-      "rank": 11
-    },
-    {
-      "id": "spotify-2NHqpIfM8CQO6RJ1w4k7AS",
-      "song_title": "Mike Ditchz - Better",
-      "author": "Mike Ditchz",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273dce53b349f5b93ceeb5c2b62",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
-      "discord_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
-      "posted_at": "2026-10-23T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 3,
-      "web_videos": 1,
-      "positionBonus": 10,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 3,
-        "videos": 1,
-        "raw_points": 143.5,
-        "penalty_base": 143.5,
-        "multiplier": 1.48,
-        "is_newcomer": false,
-        "effective_age": 11.1
-      },
-      "previous_rank": 11,
-      "score": 631.6,
-      "rank": 12
+      "score": 616.8,
+      "rank": 14
     },
     {
       "id": "spotify-41jL3kq34IFRuUBSHcAXKw",
@@ -368,54 +428,24 @@
       "discord_url": "https://open.spotify.com/track/41jL3kq34IFRuUBSHcAXKw",
       "posted_at": "2026-10-23T00:00:00.000Z",
       "web_thumbs": 2,
-      "web_plays": 2,
-      "web_videos": 0,
-      "positionBonus": 14,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 63,
-        "penalty_base": 63,
-        "multiplier": 1.21,
-        "is_newcomer": false,
-        "effective_age": 11.1
-      },
-      "previous_rank": 14,
-      "score": 595.3,
-      "rank": 13
-    },
-    {
-      "id": "spotify-2lN6hGEH0KZzPZnhNO3lcD",
-      "song_title": "VTRAC - Oceanic Depths",
-      "author": "VTRAC",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273efb163cdd0a7bd0c347adb0d",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2lN6hGEH0KZzPZnhNO3lcD",
-      "discord_url": "https://open.spotify.com/track/2lN6hGEH0KZzPZnhNO3lcD",
-      "posted_at": "2026-10-24T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 1,
+      "web_plays": 3,
       "web_videos": 0,
       "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 1,
-        "plays": 1,
+        "thumbs": 2,
+        "plays": 3,
         "videos": 0,
-        "raw_points": 31.5,
-        "penalty_base": 31.5,
-        "multiplier": 1.1,
+        "raw_points": 83.5,
+        "penalty_base": 83.5,
+        "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 10.1
+        "effective_age": 12.1
       },
-      "previous_rank": 16,
-      "score": 593.5,
-      "rank": 14
+      "previous_rank": 13,
+      "score": 588.5,
+      "rank": 15
     },
     {
       "id": "spotify-0DqBN4vBWuET0mSxEXkoJ6",
@@ -428,24 +458,24 @@
       "discord_url": "https://open.spotify.com/track/0DqBN4vBWuET0mSxEXkoJ6",
       "posted_at": "2026-10-23T00:00:00.000Z",
       "web_thumbs": 2,
-      "web_plays": 2,
+      "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 2,
+        "plays": 3,
         "videos": 0,
-        "raw_points": 63,
-        "penalty_base": 63,
-        "multiplier": 1.21,
+        "raw_points": 83.5,
+        "penalty_base": 83.5,
+        "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
       "previous_rank": 15,
-      "score": 589.3,
-      "rank": 15
+      "score": 586.5,
+      "rank": 16
     },
     {
       "id": "spotify-3FgtFkS74eFeKfPhwmeQks",
@@ -458,24 +488,24 @@
       "discord_url": "https://open.spotify.com/track/3FgtFkS74eFeKfPhwmeQks",
       "posted_at": "2026-10-23T00:00:00.000Z",
       "web_thumbs": 2,
-      "web_plays": 1,
+      "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 2,
-        "plays": 1,
+        "plays": 2,
         "videos": 0,
-        "raw_points": 42.5,
-        "penalty_base": 42.5,
-        "multiplier": 1.14,
+        "raw_points": 63,
+        "penalty_base": 63,
+        "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
-      "previous_rank": 17,
-      "score": 580.1,
-      "rank": 16
+      "previous_rank": 16,
+      "score": 569.1,
+      "rank": 17
     },
     {
       "id": "spotify-3qx7sb7p6JQiNtf6Da0lIk",
@@ -501,40 +531,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
-      "previous_rank": 19,
-      "score": 563.9,
-      "rank": 17
-    },
-    {
-      "id": "spotify-6GJ8v1wei3yZWCEd6SNtj3",
-      "song_title": "Jeku - Droop",
-      "author": "Jeku",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273cd0c20b47b59643acff43536",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6GJ8v1wei3yZWCEd6SNtj3",
-      "discord_url": "https://open.spotify.com/track/6GJ8v1wei3yZWCEd6SNtj3",
-      "posted_at": "2026-10-23T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 7,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 11,
-        "penalty_base": 11,
-        "multiplier": 1.04,
-        "is_newcomer": false,
-        "effective_age": 11.1
-      },
-      "previous_rank": 18,
-      "score": 562.4,
+      "previous_rank": 17,
+      "score": 551.3,
       "rank": 18
     },
     {
@@ -561,11 +561,41 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
-      "previous_rank": 20,
-      "score": 561.4,
+      "previous_rank": 19,
+      "score": 548.3,
       "rank": 19
+    },
+    {
+      "id": "spotify-6GJ8v1wei3yZWCEd6SNtj3",
+      "song_title": "Jeku - Droop",
+      "author": "Jeku",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273cd0c20b47b59643acff43536",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6GJ8v1wei3yZWCEd6SNtj3",
+      "discord_url": "https://open.spotify.com/track/6GJ8v1wei3yZWCEd6SNtj3",
+      "posted_at": "2026-10-23T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 4,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 11,
+        "penalty_base": 11,
+        "multiplier": 1.04,
+        "is_newcomer": false,
+        "effective_age": 12.1
+      },
+      "previous_rank": 18,
+      "score": 546.3,
+      "rank": 20
     },
     {
       "id": "spotify-24dgwFDFnizOoGwTFlx91f",
@@ -580,7 +610,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 11,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -591,11 +621,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
-      "previous_rank": 22,
-      "score": 560.9,
-      "rank": 20
+      "previous_rank": 20,
+      "score": 545.3,
+      "rank": 21
     },
     {
       "id": "spotify-2l6KDWaXKUL0kYE1Qjj7Kx",
@@ -610,7 +640,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -621,11 +651,11 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
       "previous_rank": 21,
-      "score": 560.4,
-      "rank": 21
+      "score": 544.3,
+      "rank": 22
     },
     {
       "id": "spotify-2pp478owKQcLnarEhmZXKR",
@@ -651,11 +681,11 @@
         "penalty_base": 786.5,
         "multiplier": 3.62,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19.1
       },
-      "previous_rank": 13,
-      "score": 559.4,
-      "rank": 22
+      "previous_rank": 22,
+      "score": 513.7,
+      "rank": 23
     },
     {
       "id": "spotify-0FfOxelCStJMDSS2ul9LrM",
@@ -681,11 +711,41 @@
         "penalty_base": 143.5,
         "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19.1
       },
       "previous_rank": 23,
-      "score": 485.9,
-      "rank": 23
+      "score": 467.2,
+      "rank": 24
+    },
+    {
+      "id": "spotify-0Qgj3LYZTAKrf45XoVLE37",
+      "song_title": "Jori Samarin - LDReload",
+      "author": "Jori Samarin",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273232fdbb6586c12053291b31d",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0Qgj3LYZTAKrf45XoVLE37",
+      "discord_url": "https://open.spotify.com/track/0Qgj3LYZTAKrf45XoVLE37",
+      "posted_at": "2026-10-17T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 7,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 18.1
+      },
+      "previous_rank": 26,
+      "score": 463.3,
+      "rank": 25
     },
     {
       "id": "spotify-3xDSy3pemqWeqQ2KcRfbxD",
@@ -711,11 +771,11 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19.1
       },
       "previous_rank": 24,
-      "score": 476.8,
-      "rank": 24
+      "score": 460.7,
+      "rank": 26
     },
     {
       "id": "spotify-0ruqFLelc4TxpLxWkUOjrY",
@@ -741,41 +801,11 @@
         "penalty_base": 93,
         "multiplier": 1.31,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19.1
       },
       "previous_rank": 25,
-      "score": 473.5,
-      "rank": 25
-    },
-    {
-      "id": "spotify-0Qgj3LYZTAKrf45XoVLE37",
-      "song_title": "Jori Samarin - LDReload",
-      "author": "Jori Samarin",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273232fdbb6586c12053291b31d",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0Qgj3LYZTAKrf45XoVLE37",
-      "discord_url": "https://open.spotify.com/track/0Qgj3LYZTAKrf45XoVLE37",
-      "posted_at": "2026-10-17T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 3,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": false,
-        "effective_age": 17.1
-      },
-      "previous_rank": 27,
-      "score": 471.9,
-      "rank": 26
+      "score": 457,
+      "rank": 27
     },
     {
       "id": "spotify-3cEEmWUMQhnj2d0E4ecACL",
@@ -790,7 +820,7 @@
       "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 4,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -801,40 +831,10 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19.1
       },
-      "previous_rank": 26,
-      "score": 471,
-      "rank": 27
-    },
-    {
-      "id": "spotify-5q3NF3xTtuMYgUHesqNBO1",
-      "song_title": "Joysic, Axel - Song I'll Write",
-      "author": "Joysic, Axel",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733380f44957b9f7b841a7ab5b",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5q3NF3xTtuMYgUHesqNBO1",
-      "discord_url": "https://open.spotify.com/track/5q3NF3xTtuMYgUHesqNBO1",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 42.5,
-        "penalty_base": 42.5,
-        "multiplier": 1.14,
-        "is_newcomer": false,
-        "effective_age": 18.1
-      },
-      "previous_rank": 28,
-      "score": 465.2,
+      "previous_rank": 27,
+      "score": 456.7,
       "rank": 28
     },
     {
@@ -861,21 +861,21 @@
         "penalty_base": 31.5,
         "multiplier": 1.1,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19.1
       },
-      "previous_rank": 30,
-      "score": 465.2,
+      "previous_rank": 29,
+      "score": 451.2,
       "rank": 29
     },
     {
-      "id": "spotify-3UjwNYJ2Ji82iMAa9gMqem",
-      "song_title": "Detalji - Drifting",
-      "author": "Detalji",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273cfa3c2462a3a3211e974b790",
+      "id": "spotify-5q3NF3xTtuMYgUHesqNBO1",
+      "song_title": "Joysic, Axel - Song I'll Write",
+      "author": "Joysic, Axel",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733380f44957b9f7b841a7ab5b",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3UjwNYJ2Ji82iMAa9gMqem",
-      "discord_url": "https://open.spotify.com/track/3UjwNYJ2Ji82iMAa9gMqem",
+      "audio_url": "https://open.spotify.com/track/5q3NF3xTtuMYgUHesqNBO1",
+      "discord_url": "https://open.spotify.com/track/5q3NF3xTtuMYgUHesqNBO1",
       "posted_at": "2026-10-16T00:00:00.000Z",
       "web_thumbs": 2,
       "web_plays": 1,
@@ -891,10 +891,10 @@
         "penalty_base": 42.5,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19.1
       },
-      "previous_rank": 29,
-      "score": 464.2,
+      "previous_rank": 28,
+      "score": 449.8,
       "rank": 30
     }
   ]
