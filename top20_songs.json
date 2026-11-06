@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T01:27:52.526Z",
+  "last_updated": "2026-11-06T01:31:02.982Z",
   "top_songs": [
     {
       "id": "1565293604572893277",
@@ -15,19 +15,19 @@
       "web_plays": 16,
       "web_videos": 3,
       "stats": {
-        "reactions": 6,
+        "reactions": 7,
         "comments": 0,
         "thumbs": 3,
         "plays": 16,
         "videos": 3,
-        "raw_points": 569.5,
-        "penalty_base": 569.5,
-        "multiplier": 2.9,
-        "is_newcomer": true,
-        "effective_age": 6.7
+        "raw_points": 577,
+        "penalty_base": 577,
+        "multiplier": 2.92,
+        "is_newcomer": false,
+        "effective_age": 7.7
       },
       "previous_rank": 1,
-      "score": 1108.4,
+      "score": 974.1,
       "rank": 1
     },
     {
@@ -53,10 +53,10 @@
         "penalty_base": 301,
         "multiplier": 2,
         "is_newcomer": true,
-        "effective_age": 2.6
+        "effective_age": 6.6
       },
-      "previous_rank": 3,
-      "score": 1030.8,
+      "previous_rank": 2,
+      "score": 922.6,
       "rank": 2
     },
     {
@@ -82,11 +82,40 @@
         "penalty_base": 246.5,
         "multiplier": 1.82,
         "is_newcomer": true,
-        "effective_age": 2.6
+        "effective_age": 6.6
       },
-      "previous_rank": 2,
-      "score": 983.7,
+      "previous_rank": 3,
+      "score": 885.2,
       "rank": 3
+    },
+    {
+      "id": "1567877997594415236",
+      "song_title": "Sini Sabotage x Dimitri Vegas - Levikset Repee x Makina Time (justpikee Edit)",
+      "author": "Sini Sabotage x Dimitri Vegas",
+      "author_avatar": "https://cdn.discordapp.com/avatars/309372416088473600/877143fa457752db7ef8fbebc1c0e5be.webp?size=128",
+      "message_text": "Levottomien ad/hd aivojen tuottamaa lopputulosta, jos jollekkin maistuu tulevalle viikonlopulle",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1793928659898",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1567877997594415236",
+      "posted_at": "2026-11-05T12:27:24.391Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 2,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 15,
+        "penalty_base": 15,
+        "multiplier": 1.05,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": null,
+      "score": 815,
+      "rank": 4
     },
     {
       "id": "spotify-0iSk4izdW2H3jzh0RxeJWm",
@@ -101,7 +130,7 @@
       "web_thumbs": 4,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 16,
+      "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -111,162 +140,12 @@
         "raw_points": 126,
         "penalty_base": 126,
         "multiplier": 1.42,
-        "is_newcomer": true,
-        "effective_age": 6.1
+        "is_newcomer": false,
+        "effective_age": 7.1
       },
       "previous_rank": 4,
-      "score": 825.8,
-      "rank": 4
-    },
-    {
-      "id": "spotify-1RwglsXZwFZX1lTssArt3E",
-      "song_title": "CHAXZER, DJ FKU - MONTAGEM ASSOMBRADA",
-      "author": "CHAXZER, DJ FKU",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27362e33e78f0c5296751c4a3d3",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1RwglsXZwFZX1lTssArt3E",
-      "discord_url": "https://open.spotify.com/track/1RwglsXZwFZX1lTssArt3E",
-      "posted_at": "2026-10-30T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 18,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 61.5,
-        "penalty_base": 61.5,
-        "multiplier": 1.21,
-        "is_newcomer": true,
-        "effective_age": 6.1
-      },
-      "previous_rank": 5,
-      "score": 780.9,
+      "score": 708.6,
       "rank": 5
-    },
-    {
-      "id": "spotify-7sI6fOrBoOBFICFBNkhNjK",
-      "song_title": "BEAUZ, Robbe - Colors Of The Rainbow",
-      "author": "BEAUZ, Robbe",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2738f1a9cb12fd4e2bde4dc4bac",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7sI6fOrBoOBFICFBNkhNjK",
-      "discord_url": "https://open.spotify.com/track/7sI6fOrBoOBFICFBNkhNjK",
-      "posted_at": "2026-10-30T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 14,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 31.5,
-        "penalty_base": 31.5,
-        "multiplier": 1.1,
-        "is_newcomer": true,
-        "effective_age": 6.1
-      },
-      "previous_rank": 6,
-      "score": 755.1,
-      "rank": 6
-    },
-    {
-      "id": "spotify-2syD8g1uZZhegV4dxvighR",
-      "song_title": "DeejaVu - Break My Heart",
-      "author": "DeejaVu",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a9a51b4af0026775bc081855",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2syD8g1uZZhegV4dxvighR",
-      "discord_url": "https://open.spotify.com/track/2syD8g1uZZhegV4dxvighR",
-      "posted_at": "2026-10-30T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 20,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": true,
-        "effective_age": 6.1
-      },
-      "previous_rank": 7,
-      "score": 753.1,
-      "rank": 7
-    },
-    {
-      "id": "spotify-6oX5A3DTXGtbKMkenRn4RO",
-      "song_title": "Super8 & Tab, Julie Thompson, CVMRN - My Enemy Tritonia 545 - CVMRN Club Mix",
-      "author": "Super8 & Tab, Julie Thompson, CVMRN",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27364e9ee3dc50a77ef41674e38",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6oX5A3DTXGtbKMkenRn4RO",
-      "discord_url": "https://open.spotify.com/track/6oX5A3DTXGtbKMkenRn4RO",
-      "posted_at": "2026-10-30T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 19,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 6.1
-      },
-      "previous_rank": null,
-      "score": 737.2,
-      "rank": 8
-    },
-    {
-      "id": "spotify-0juNw8Txnzsoy06h7kRJ6q",
-      "song_title": "Okra Playground - Loru",
-      "author": "Okra Playground",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273726502a24febb5b3fb4faea7",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0juNw8Txnzsoy06h7kRJ6q",
-      "discord_url": "https://open.spotify.com/track/0juNw8Txnzsoy06h7kRJ6q",
-      "posted_at": "2026-10-30T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 17,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 6.1
-      },
-      "previous_rank": 8,
-      "score": 735.2,
-      "rank": 9
     },
     {
       "id": "1563583816428294224",
@@ -275,7 +154,7 @@
       "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
       "message_text": "Mashuppia pukkaa 😀",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_10.mp3?v=1793755161820",
+      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1793928662981",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1563583816428294224",
       "posted_at": "2026-10-24T16:03:51.819Z",
       "web_thumbs": 6,
@@ -291,11 +170,41 @@
         "penalty_base": 339,
         "multiplier": 2.13,
         "is_newcomer": false,
-        "effective_age": 11.4
+        "effective_age": 12.4
       },
       "previous_rank": 10,
-      "score": 711.4,
-      "rank": 10
+      "score": 682.6,
+      "rank": 6
+    },
+    {
+      "id": "spotify-1RwglsXZwFZX1lTssArt3E",
+      "song_title": "CHAXZER, DJ FKU - MONTAGEM ASSOMBRADA",
+      "author": "CHAXZER, DJ FKU",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27362e33e78f0c5296751c4a3d3",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/1RwglsXZwFZX1lTssArt3E",
+      "discord_url": "https://open.spotify.com/track/1RwglsXZwFZX1lTssArt3E",
+      "posted_at": "2026-10-30T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 3,
+      "web_videos": 0,
+      "positionBonus": 16,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 3,
+        "videos": 0,
+        "raw_points": 61.5,
+        "penalty_base": 61.5,
+        "multiplier": 1.21,
+        "is_newcomer": false,
+        "effective_age": 7.1
+      },
+      "previous_rank": 5,
+      "score": 662.6,
+      "rank": 7
     },
     {
       "id": "spotify-2lN6hGEH0KZzPZnhNO3lcD",
@@ -310,7 +219,7 @@
       "web_thumbs": 9,
       "web_plays": 6,
       "web_videos": 1,
-      "positionBonus": 15,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -321,11 +230,11 @@
         "penalty_base": 282,
         "multiplier": 1.94,
         "is_newcomer": false,
-        "effective_age": 12.1
+        "effective_age": 13.1
       },
       "previous_rank": 11,
-      "score": 681.1,
-      "rank": 11
+      "score": 653.9,
+      "rank": 8
     },
     {
       "id": "spotify-3shYMsrWgiZOeVWmceWqkS",
@@ -351,71 +260,131 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
+        "effective_age": 8.1
+      },
+      "previous_rank": 12,
+      "score": 642.3,
+      "rank": 9
+    },
+    {
+      "id": "spotify-7sI6fOrBoOBFICFBNkhNjK",
+      "song_title": "BEAUZ, Robbe - Colors Of The Rainbow",
+      "author": "BEAUZ, Robbe",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2738f1a9cb12fd4e2bde4dc4bac",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7sI6fOrBoOBFICFBNkhNjK",
+      "discord_url": "https://open.spotify.com/track/7sI6fOrBoOBFICFBNkhNjK",
+      "posted_at": "2026-10-30T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 12,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
+        "is_newcomer": false,
+        "effective_age": 7.1
+      },
+      "previous_rank": 6,
+      "score": 638.1,
+      "rank": 10
+    },
+    {
+      "id": "spotify-2syD8g1uZZhegV4dxvighR",
+      "song_title": "DeejaVu - Break My Heart",
+      "author": "DeejaVu",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a9a51b4af0026775bc081855",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2syD8g1uZZhegV4dxvighR",
+      "discord_url": "https://open.spotify.com/track/2syD8g1uZZhegV4dxvighR",
+      "posted_at": "2026-10-30T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 19,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": false,
+        "effective_age": 7.1
+      },
+      "previous_rank": 7,
+      "score": 637.6,
+      "rank": 11
+    },
+    {
+      "id": "spotify-0juNw8Txnzsoy06h7kRJ6q",
+      "song_title": "Okra Playground - Loru",
+      "author": "Okra Playground",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273726502a24febb5b3fb4faea7",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0juNw8Txnzsoy06h7kRJ6q",
+      "discord_url": "https://open.spotify.com/track/0juNw8Txnzsoy06h7kRJ6q",
+      "posted_at": "2026-10-30T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 20,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
         "effective_age": 7.1
       },
       "previous_rank": 9,
-      "score": 658.7,
+      "score": 624.6,
       "rank": 12
     },
     {
-      "id": "spotify-3yjdL6d942ykN5HvLHc5QE",
-      "song_title": "KLASS - As Long As You Love Me",
-      "author": "KLASS",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273984329ecfc817a8c39df26a4",
+      "id": "spotify-6oX5A3DTXGtbKMkenRn4RO",
+      "song_title": "Super8 & Tab, Julie Thompson, CVMRN - My Enemy Tritonia 545 - CVMRN Club Mix",
+      "author": "Super8 & Tab, Julie Thompson, CVMRN",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27364e9ee3dc50a77ef41674e38",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
-      "discord_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
-      "posted_at": "2026-10-23T00:00:00.000Z",
-      "web_thumbs": 3,
-      "web_plays": 2,
-      "web_videos": 2,
-      "positionBonus": 7,
+      "audio_url": "https://open.spotify.com/track/6oX5A3DTXGtbKMkenRn4RO",
+      "discord_url": "https://open.spotify.com/track/6oX5A3DTXGtbKMkenRn4RO",
+      "posted_at": "2026-10-30T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 17,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 3,
-        "plays": 2,
-        "videos": 2,
-        "raw_points": 194,
-        "penalty_base": 194,
-        "multiplier": 1.65,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 7.1
       },
-      "previous_rank": 12,
-      "score": 610.7,
+      "previous_rank": 8,
+      "score": 621.6,
       "rank": 13
-    },
-    {
-      "id": "spotify-2NHqpIfM8CQO6RJ1w4k7AS",
-      "song_title": "Mike Ditchz - Better",
-      "author": "Mike Ditchz",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273dce53b349f5b93ceeb5c2b62",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
-      "discord_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
-      "posted_at": "2026-10-23T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 4,
-      "web_videos": 1,
-      "positionBonus": 13,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 4,
-        "videos": 1,
-        "raw_points": 164,
-        "penalty_base": 164,
-        "multiplier": 1.55,
-        "is_newcomer": false,
-        "effective_age": 13.1
-      },
-      "previous_rank": 13,
-      "score": 604.3,
-      "rank": 14
     },
     {
       "id": "spotify-1ewRd4bU78HdyjjZ5F9XTY",
@@ -430,7 +399,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -441,11 +410,71 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 8.1
+        "effective_age": 9.1
+      },
+      "previous_rank": 15,
+      "score": 592.6,
+      "rank": 14
+    },
+    {
+      "id": "spotify-3yjdL6d942ykN5HvLHc5QE",
+      "song_title": "KLASS - As Long As You Love Me",
+      "author": "KLASS",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273984329ecfc817a8c39df26a4",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
+      "discord_url": "https://open.spotify.com/track/3yjdL6d942ykN5HvLHc5QE",
+      "posted_at": "2026-10-23T00:00:00.000Z",
+      "web_thumbs": 3,
+      "web_plays": 2,
+      "web_videos": 2,
+      "positionBonus": 9,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 2,
+        "videos": 2,
+        "raw_points": 194,
+        "penalty_base": 194,
+        "multiplier": 1.65,
+        "is_newcomer": false,
+        "effective_age": 14.1
+      },
+      "previous_rank": 13,
+      "score": 590.4,
+      "rank": 15
+    },
+    {
+      "id": "spotify-2NHqpIfM8CQO6RJ1w4k7AS",
+      "song_title": "Mike Ditchz - Better",
+      "author": "Mike Ditchz",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273dce53b349f5b93ceeb5c2b62",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
+      "discord_url": "https://open.spotify.com/track/2NHqpIfM8CQO6RJ1w4k7AS",
+      "posted_at": "2026-10-23T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 4,
+      "web_videos": 1,
+      "positionBonus": 10,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 4,
+        "videos": 1,
+        "raw_points": 164,
+        "penalty_base": 164,
+        "multiplier": 1.55,
+        "is_newcomer": false,
+        "effective_age": 14.1
       },
       "previous_rank": 14,
-      "score": 603.2,
-      "rank": 15
+      "score": 580.4,
+      "rank": 16
     },
     {
       "id": "spotify-41jL3kq34IFRuUBSHcAXKw",
@@ -460,7 +489,7 @@
       "web_thumbs": 2,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 13,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -471,11 +500,11 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
-      "previous_rank": 15,
-      "score": 568.1,
-      "rank": 16
+      "previous_rank": 16,
+      "score": 553.8,
+      "rank": 17
     },
     {
       "id": "spotify-0DqBN4vBWuET0mSxEXkoJ6",
@@ -490,7 +519,7 @@
       "web_thumbs": 2,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -501,11 +530,11 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
-      "previous_rank": 16,
-      "score": 567.1,
-      "rank": 17
+      "previous_rank": 17,
+      "score": 548.8,
+      "rank": 18
     },
     {
       "id": "spotify-3FgtFkS74eFeKfPhwmeQks",
@@ -531,11 +560,11 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
-      "previous_rank": 17,
-      "score": 553.6,
-      "rank": 18
+      "previous_rank": 18,
+      "score": 537.3,
+      "rank": 19
     },
     {
       "id": "spotify-3qx7sb7p6JQiNtf6Da0lIk",
@@ -561,40 +590,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 13.1
-      },
-      "previous_rank": 18,
-      "score": 537.7,
-      "rank": 19
-    },
-    {
-      "id": "spotify-2ZUqJfRUtKjU0d6kEHgG35",
-      "song_title": "Midnight Purple - Elevate",
-      "author": "Midnight Purple",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27337da425ff70b92d82475c6ca",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2ZUqJfRUtKjU0d6kEHgG35",
-      "discord_url": "https://open.spotify.com/track/2ZUqJfRUtKjU0d6kEHgG35",
-      "posted_at": "2026-10-23T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 8,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 11,
-        "penalty_base": 11,
-        "multiplier": 1.04,
-        "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
       "previous_rank": 19,
-      "score": 536.2,
+      "score": 524.1,
       "rank": 20
     },
     {
@@ -610,7 +609,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -621,11 +620,41 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
-      "previous_rank": 22,
-      "score": 533.2,
+      "previous_rank": 21,
+      "score": 520.2,
       "rank": 21
+    },
+    {
+      "id": "spotify-2ZUqJfRUtKjU0d6kEHgG35",
+      "song_title": "Midnight Purple - Elevate",
+      "author": "Midnight Purple",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27337da425ff70b92d82475c6ca",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2ZUqJfRUtKjU0d6kEHgG35",
+      "discord_url": "https://open.spotify.com/track/2ZUqJfRUtKjU0d6kEHgG35",
+      "posted_at": "2026-10-23T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 2,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 11,
+        "penalty_base": 11,
+        "multiplier": 1.04,
+        "is_newcomer": false,
+        "effective_age": 14.1
+      },
+      "previous_rank": 20,
+      "score": 516.2,
+      "rank": 22
     },
     {
       "id": "spotify-6GJ8v1wei3yZWCEd6SNtj3",
@@ -651,11 +680,11 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
-      "previous_rank": 20,
-      "score": 530.2,
-      "rank": 22
+      "previous_rank": 22,
+      "score": 516.2,
+      "rank": 23
     },
     {
       "id": "spotify-24dgwFDFnizOoGwTFlx91f",
@@ -670,7 +699,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -681,40 +710,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 13.1
-      },
-      "previous_rank": 21,
-      "score": 529.7,
-      "rank": 23
-    },
-    {
-      "id": "spotify-2pp478owKQcLnarEhmZXKR",
-      "song_title": "Kajis, Laladee - A Mistress Without Skin - 2026 Edit",
-      "author": "Kajis, Laladee",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273f8296734f6a4b28eb80bbace",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2pp478owKQcLnarEhmZXKR",
-      "discord_url": "https://open.spotify.com/track/2pp478owKQcLnarEhmZXKR",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 20,
-      "web_plays": 13,
-      "web_videos": 5,
-      "positionBonus": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 20,
-        "plays": 13,
-        "videos": 5,
-        "raw_points": 743.3,
-        "penalty_base": 786.5,
-        "multiplier": 3.62,
-        "is_newcomer": false,
-        "effective_age": 20.1
+        "effective_age": 14.1
       },
       "previous_rank": 23,
-      "score": 464.5,
+      "score": 515.1,
       "rank": 24
     },
     {
@@ -741,10 +740,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 19.1
+        "effective_age": 20.1
       },
       "previous_rank": 25,
-      "score": 449.7,
+      "score": 436.1,
       "rank": 25
     },
     {
@@ -771,10 +770,10 @@
         "penalty_base": 143.5,
         "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 20.1
+        "effective_age": 21.1
       },
-      "previous_rank": 24,
-      "score": 447.1,
+      "previous_rank": 26,
+      "score": 427.1,
       "rank": 26
     },
     {
@@ -801,71 +800,11 @@
         "penalty_base": 93,
         "multiplier": 1.31,
         "is_newcomer": false,
-        "effective_age": 20.1
+        "effective_age": 21.1
       },
       "previous_rank": 27,
-      "score": 439.2,
+      "score": 421.5,
       "rank": 27
-    },
-    {
-      "id": "spotify-3xDSy3pemqWeqQ2KcRfbxD",
-      "song_title": "Kristianex - Shameless",
-      "author": "Kristianex",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2739dd719291b557df55c578853",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
-      "discord_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 83.5,
-        "penalty_base": 83.5,
-        "multiplier": 1.28,
-        "is_newcomer": false,
-        "effective_age": 20.1
-      },
-      "previous_rank": 26,
-      "score": 438.3,
-      "rank": 28
-    },
-    {
-      "id": "spotify-3cEEmWUMQhnj2d0E4ecACL",
-      "song_title": "Rony Rex, Coco K - Light All Night",
-      "author": "Rony Rex, Coco K",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734dc7b37c8b84b395c680e347",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3cEEmWUMQhnj2d0E4ecACL",
-      "discord_url": "https://open.spotify.com/track/3cEEmWUMQhnj2d0E4ecACL",
-      "posted_at": "2026-10-16T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 2,
-      "web_videos": 0,
-      "positionBonus": 3,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 63,
-        "penalty_base": 63,
-        "multiplier": 1.21,
-        "is_newcomer": false,
-        "effective_age": 20.1
-      },
-      "previous_rank": 28,
-      "score": 438.3,
-      "rank": 29
     },
     {
       "id": "spotify-4LqTVO6FEIM9F6PACR0BOU",
@@ -891,10 +830,70 @@
         "penalty_base": 31.5,
         "multiplier": 1.1,
         "is_newcomer": false,
-        "effective_age": 20.1
+        "effective_age": 21.1
+      },
+      "previous_rank": 30,
+      "score": 421.3,
+      "rank": 28
+    },
+    {
+      "id": "spotify-3xDSy3pemqWeqQ2KcRfbxD",
+      "song_title": "Kristianex - Shameless",
+      "author": "Kristianex",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2739dd719291b557df55c578853",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
+      "discord_url": "https://open.spotify.com/track/3xDSy3pemqWeqQ2KcRfbxD",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 3,
+      "web_videos": 0,
+      "positionBonus": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 3,
+        "videos": 0,
+        "raw_points": 83.5,
+        "penalty_base": 83.5,
+        "multiplier": 1.28,
+        "is_newcomer": false,
+        "effective_age": 21.1
+      },
+      "previous_rank": 28,
+      "score": 421,
+      "rank": 29
+    },
+    {
+      "id": "spotify-3cEEmWUMQhnj2d0E4ecACL",
+      "song_title": "Rony Rex, Coco K - Light All Night",
+      "author": "Rony Rex, Coco K",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734dc7b37c8b84b395c680e347",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3cEEmWUMQhnj2d0E4ecACL",
+      "discord_url": "https://open.spotify.com/track/3cEEmWUMQhnj2d0E4ecACL",
+      "posted_at": "2026-10-16T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 2,
+      "web_videos": 0,
+      "positionBonus": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 63,
+        "penalty_base": 63,
+        "multiplier": 1.21,
+        "is_newcomer": false,
+        "effective_age": 21.1
       },
       "previous_rank": 29,
-      "score": 436.2,
+      "score": 419.9,
       "rank": 30
     }
   ]
