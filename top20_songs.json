@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T00:32:54.300Z",
+  "last_updated": "2026-11-09T00:50:11.247Z",
   "top_songs": [
     {
       "id": "1565293604572893277",
@@ -12,22 +12,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1565293604572893277",
       "posted_at": "2026-10-29T09:17:57.079Z",
       "web_thumbs": 3,
-      "web_plays": 18,
-      "web_videos": 3,
+      "web_plays": 19,
+      "web_videos": 4,
       "stats": {
         "reactions": 7,
         "comments": 0,
         "thumbs": 3,
-        "plays": 18,
-        "videos": 3,
-        "raw_points": 618,
-        "penalty_base": 618,
-        "multiplier": 3.06,
+        "plays": 19,
+        "videos": 4,
+        "raw_points": 698.5,
+        "penalty_base": 698.5,
+        "multiplier": 3.33,
         "is_newcomer": false,
-        "effective_age": 9.6
+        "effective_age": 10.6
       },
       "previous_rank": 1,
-      "score": 920,
+      "score": 920.1,
       "rank": 1
     },
     {
@@ -41,52 +41,52 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1567877997594415236",
       "posted_at": "2026-11-05T12:27:24.391Z",
       "web_thumbs": 1,
-      "web_plays": 3,
+      "web_plays": 4,
       "web_videos": 0,
       "stats": {
         "reactions": 4,
         "comments": 0,
         "thumbs": 1,
-        "plays": 3,
+        "plays": 4,
         "videos": 0,
-        "raw_points": 97,
-        "penalty_base": 97,
-        "multiplier": 1.32,
+        "raw_points": 117.5,
+        "penalty_base": 117.5,
+        "multiplier": 1.39,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.5
       },
       "previous_rank": 2,
-      "score": 897,
+      "score": 907.8,
       "rank": 2
     },
     {
-      "id": "spotify-2GGmfUTiuXV2iGf8oHm19N",
-      "song_title": "Esc, Mineral - Check This Out",
-      "author": "Esc, Mineral",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734569c94134a38e3e255db623",
+      "id": "spotify-23BfMKh81OfVypQrZ9Vylo",
+      "song_title": "Muffler - Alien Two",
+      "author": "Muffler",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734c77c433a7b4aaf3a7e58d38",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
-      "discord_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
+      "audio_url": "https://open.spotify.com/track/23BfMKh81OfVypQrZ9Vylo",
+      "discord_url": "https://open.spotify.com/track/23BfMKh81OfVypQrZ9Vylo",
       "posted_at": "2026-11-06T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 1,
+      "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 19,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 1,
+        "plays": 2,
         "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
+        "raw_points": 41,
+        "penalty_base": 41,
+        "multiplier": 1.14,
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 3,
-      "score": 839.5,
+      "previous_rank": 8,
+      "score": 854.5,
       "rank": 3
     },
     {
@@ -102,7 +102,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 18,
+      "positionBonus": 17,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -116,8 +116,38 @@
         "effective_age": 0
       },
       "previous_rank": 4,
-      "score": 838.5,
+      "score": 837,
       "rank": 4
+    },
+    {
+      "id": "spotify-2GGmfUTiuXV2iGf8oHm19N",
+      "song_title": "Esc, Mineral - Check This Out",
+      "author": "Esc, Mineral",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734569c94134a38e3e255db623",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
+      "discord_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
+      "posted_at": "2026-11-06T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 15,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 3,
+      "score": 835,
+      "rank": 5
     },
     {
       "id": "spotify-1ytO6B7XBxPxGRba6NZ3bp",
@@ -132,7 +162,7 @@
       "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 20,
+      "positionBonus": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -146,8 +176,8 @@
         "effective_age": 0
       },
       "previous_rank": 5,
-      "score": 831,
-      "rank": 5
+      "score": 829.5,
+      "rank": 6
     },
     {
       "id": "spotify-7CPn8sVskAStk9l5sH00yC",
@@ -159,10 +189,40 @@
       "audio_url": "https://open.spotify.com/track/7CPn8sVskAStk9l5sH00yC",
       "discord_url": "https://open.spotify.com/track/7CPn8sVskAStk9l5sH00yC",
       "posted_at": "2026-11-06T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 18,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 11,
+        "penalty_base": 11,
+        "multiplier": 1.04,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 6,
+      "score": 828.5,
+      "rank": 7
+    },
+    {
+      "id": "spotify-5Tku7wy3pL81ipfBoqYi4J",
+      "song_title": "Nic Johnston, Robbe, Haaradak - No Return",
+      "author": "Nic Johnston, Robbe, Haaradak",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27314328b0813d017baeab7d3fe",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5Tku7wy3pL81ipfBoqYi4J",
+      "discord_url": "https://open.spotify.com/track/5Tku7wy3pL81ipfBoqYi4J",
+      "posted_at": "2026-11-06T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 20,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -175,19 +235,19 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": null,
-      "score": 817,
-      "rank": 6
+      "previous_rank": 7,
+      "score": 819.5,
+      "rank": 8
     },
     {
-      "id": "spotify-5Tku7wy3pL81ipfBoqYi4J",
-      "song_title": "Nic Johnston, Robbe, Haaradak - No Return",
-      "author": "Nic Johnston, Robbe, Haaradak",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27314328b0813d017baeab7d3fe",
+      "id": "spotify-3u1lT20MVTyRR271z75U4L",
+      "song_title": "DJVI - Recollection",
+      "author": "DJVI",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273abbfca9987845dc93f299516",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5Tku7wy3pL81ipfBoqYi4J",
-      "discord_url": "https://open.spotify.com/track/5Tku7wy3pL81ipfBoqYi4J",
+      "audio_url": "https://open.spotify.com/track/3u1lT20MVTyRR271z75U4L",
+      "discord_url": "https://open.spotify.com/track/3u1lT20MVTyRR271z75U4L",
       "posted_at": "2026-11-06T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
@@ -205,68 +265,8 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 7,
-      "score": 816,
-      "rank": 7
-    },
-    {
-      "id": "spotify-23BfMKh81OfVypQrZ9Vylo",
-      "song_title": "Muffler - Alien Two",
-      "author": "Muffler",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734c77c433a7b4aaf3a7e58d38",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/23BfMKh81OfVypQrZ9Vylo",
-      "discord_url": "https://open.spotify.com/track/23BfMKh81OfVypQrZ9Vylo",
-      "posted_at": "2026-11-06T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 15,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 6,
-      "score": 815,
-      "rank": 8
-    },
-    {
-      "id": "spotify-52be3rpMjwX7whqcjyyVCR",
-      "song_title": "OK NIKO, RNZO - ILYB",
-      "author": "OK NIKO, RNZO",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273afb6b5e014688778312c55ee",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/52be3rpMjwX7whqcjyyVCR",
-      "discord_url": "https://open.spotify.com/track/52be3rpMjwX7whqcjyyVCR",
-      "posted_at": "2026-11-06T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 14,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 9,
-      "score": 814,
+      "previous_rank": 11,
+      "score": 815.5,
       "rank": 9
     },
     {
@@ -295,24 +295,54 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 8,
-      "score": 813,
+      "previous_rank": 10,
+      "score": 812.5,
       "rank": 10
     },
     {
-      "id": "spotify-3u1lT20MVTyRR271z75U4L",
-      "song_title": "DJVI - Recollection",
-      "author": "DJVI",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273abbfca9987845dc93f299516",
+      "id": "spotify-5uMzKNddCpHii4bolyLjSY",
+      "song_title": "Kalle Chydenius - PANDEMIA",
+      "author": "Kalle Chydenius",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27334a27a2d149080aace5eec75",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3u1lT20MVTyRR271z75U4L",
-      "discord_url": "https://open.spotify.com/track/3u1lT20MVTyRR271z75U4L",
+      "audio_url": "https://open.spotify.com/track/5uMzKNddCpHii4bolyLjSY",
+      "discord_url": "https://open.spotify.com/track/5uMzKNddCpHii4bolyLjSY",
+      "posted_at": "2026-11-04T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 10,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
+        "is_newcomer": true,
+        "effective_age": 2
+      },
+      "previous_rank": 12,
+      "score": 811.1,
+      "rank": 11
+    },
+    {
+      "id": "spotify-52be3rpMjwX7whqcjyyVCR",
+      "song_title": "OK NIKO, RNZO - ILYB",
+      "author": "OK NIKO, RNZO",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273afb6b5e014688778312c55ee",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/52be3rpMjwX7whqcjyyVCR",
+      "discord_url": "https://open.spotify.com/track/52be3rpMjwX7whqcjyyVCR",
       "posted_at": "2026-11-06T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -325,38 +355,8 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 10,
-      "score": 812,
-      "rank": 11
-    },
-    {
-      "id": "spotify-5uMzKNddCpHii4bolyLjSY",
-      "song_title": "Kalle Chydenius - PANDEMIA",
-      "author": "Kalle Chydenius",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27334a27a2d149080aace5eec75",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5uMzKNddCpHii4bolyLjSY",
-      "discord_url": "https://open.spotify.com/track/5uMzKNddCpHii4bolyLjSY",
-      "posted_at": "2026-11-04T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 10,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 1
-      },
-      "previous_rank": 12,
-      "score": 796.2,
+      "previous_rank": 9,
+      "score": 810.5,
       "rank": 12
     },
     {
@@ -382,10 +382,10 @@
         "penalty_base": 321.5,
         "multiplier": 2.07,
         "is_newcomer": false,
-        "effective_age": 8.6
+        "effective_age": 9.6
       },
-      "previous_rank": 11,
-      "score": 782.2,
+      "previous_rank": 13,
+      "score": 753.9,
       "rank": 13
     },
     {
@@ -411,10 +411,10 @@
         "penalty_base": 246.5,
         "multiplier": 1.82,
         "is_newcomer": false,
-        "effective_age": 8.5
+        "effective_age": 9.5
       },
-      "previous_rank": 13,
-      "score": 737,
+      "previous_rank": 14,
+      "score": 712.2,
       "rank": 14
     },
     {
@@ -428,23 +428,23 @@
       "discord_url": "https://open.spotify.com/track/0iSk4izdW2H3jzh0RxeJWm",
       "posted_at": "2026-10-30T00:00:00.000Z",
       "web_thumbs": 4,
-      "web_plays": 5,
+      "web_plays": 6,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 4,
-        "plays": 5,
+        "plays": 6,
         "videos": 0,
-        "raw_points": 146.5,
-        "penalty_base": 146.5,
-        "multiplier": 1.49,
+        "raw_points": 167,
+        "penalty_base": 167,
+        "multiplier": 1.56,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 14,
-      "score": 670.2,
+      "previous_rank": 15,
+      "score": 668.1,
       "rank": 15
     },
     {
@@ -471,10 +471,10 @@
         "penalty_base": 82,
         "multiplier": 1.27,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
       "previous_rank": 16,
-      "score": 642.9,
+      "score": 625.5,
       "rank": 16
     },
     {
@@ -500,10 +500,10 @@
         "penalty_base": 359.5,
         "multiplier": 2.2,
         "is_newcomer": false,
-        "effective_age": 14.4
+        "effective_age": 15.4
       },
-      "previous_rank": 15,
-      "score": 633.5,
+      "previous_rank": 17,
+      "score": 603.5,
       "rank": 17
     },
     {
@@ -530,10 +530,10 @@
         "penalty_base": 31.5,
         "multiplier": 1.1,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 17,
-      "score": 608.9,
+      "previous_rank": 18,
+      "score": 593.8,
       "rank": 18
     },
     {
@@ -560,11 +560,41 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 10
+        "effective_age": 11
       },
       "previous_rank": 19,
-      "score": 607.3,
+      "score": 590.7,
       "rank": 19
+    },
+    {
+      "id": "spotify-2syD8g1uZZhegV4dxvighR",
+      "song_title": "DeejaVu - Break My Heart",
+      "author": "DeejaVu",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a9a51b4af0026775bc081855",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2syD8g1uZZhegV4dxvighR",
+      "discord_url": "https://open.spotify.com/track/2syD8g1uZZhegV4dxvighR",
+      "posted_at": "2026-10-30T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 6,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": false,
+        "effective_age": 10
+      },
+      "previous_rank": 21,
+      "score": 581.8,
+      "rank": 20
     },
     {
       "id": "spotify-2lN6hGEH0KZzPZnhNO3lcD",
@@ -590,71 +620,11 @@
         "penalty_base": 313.5,
         "multiplier": 2.04,
         "is_newcomer": false,
-        "effective_age": 15
-      },
-      "previous_rank": 18,
-      "score": 602.8,
-      "rank": 20
-    },
-    {
-      "id": "spotify-2syD8g1uZZhegV4dxvighR",
-      "song_title": "DeejaVu - Break My Heart",
-      "author": "DeejaVu",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a9a51b4af0026775bc081855",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2syD8g1uZZhegV4dxvighR",
-      "discord_url": "https://open.spotify.com/track/2syD8g1uZZhegV4dxvighR",
-      "posted_at": "2026-10-30T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 9,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 16
       },
       "previous_rank": 20,
-      "score": 599.4,
+      "score": 574.8,
       "rank": 21
-    },
-    {
-      "id": "spotify-6oX5A3DTXGtbKMkenRn4RO",
-      "song_title": "Super8 & Tab, Julie Thompson, CVMRN - My Enemy Tritonia 545 - CVMRN Club Mix",
-      "author": "Super8 & Tab, Julie Thompson, CVMRN",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27364e9ee3dc50a77ef41674e38",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6oX5A3DTXGtbKMkenRn4RO",
-      "discord_url": "https://open.spotify.com/track/6oX5A3DTXGtbKMkenRn4RO",
-      "posted_at": "2026-10-30T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 11,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": false,
-        "effective_age": 9
-      },
-      "previous_rank": 22,
-      "score": 589.2,
-      "rank": 22
     },
     {
       "id": "spotify-0juNw8Txnzsoy06h7kRJ6q",
@@ -665,6 +635,36 @@
       "audio_type": "spotify_link",
       "audio_url": "https://open.spotify.com/track/0juNw8Txnzsoy06h7kRJ6q",
       "discord_url": "https://open.spotify.com/track/0juNw8Txnzsoy06h7kRJ6q",
+      "posted_at": "2026-10-30T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 9,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 10
+      },
+      "previous_rank": 23,
+      "score": 573.5,
+      "rank": 22
+    },
+    {
+      "id": "spotify-6oX5A3DTXGtbKMkenRn4RO",
+      "song_title": "Super8 & Tab, Julie Thompson, CVMRN - My Enemy Tritonia 545 - CVMRN Club Mix",
+      "author": "Super8 & Tab, Julie Thompson, CVMRN",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27364e9ee3dc50a77ef41674e38",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6oX5A3DTXGtbKMkenRn4RO",
+      "discord_url": "https://open.spotify.com/track/6oX5A3DTXGtbKMkenRn4RO",
       "posted_at": "2026-10-30T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
@@ -680,10 +680,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 9
+        "effective_age": 10
       },
-      "previous_rank": 21,
-      "score": 585.2,
+      "previous_rank": 22,
+      "score": 571.5,
       "rank": 23
     },
     {
@@ -699,7 +699,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -710,10 +710,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 11
+        "effective_age": 12
       },
       "previous_rank": 24,
-      "score": 557.2,
+      "score": 541.5,
       "rank": 24
     },
     {
@@ -729,7 +729,7 @@
       "web_thumbs": 3,
       "web_plays": 2,
       "web_videos": 2,
-      "positionBonus": 3,
+      "positionBonus": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -740,10 +740,10 @@
         "penalty_base": 194,
         "multiplier": 1.65,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 23,
-      "score": 540.8,
+      "previous_rank": 25,
+      "score": 517.3,
       "rank": 25
     },
     {
@@ -759,7 +759,7 @@
       "web_thumbs": 2,
       "web_plays": 4,
       "web_videos": 1,
-      "positionBonus": 1,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -770,10 +770,10 @@
         "penalty_base": 164,
         "multiplier": 1.55,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 25,
-      "score": 530.4,
+      "previous_rank": 26,
+      "score": 513.3,
       "rank": 26
     },
     {
@@ -800,10 +800,10 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 26,
-      "score": 513,
+      "previous_rank": 27,
+      "score": 495.5,
       "rank": 27
     },
     {
@@ -819,7 +819,7 @@
       "web_thumbs": 2,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 2,
+      "positionBonus": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -830,10 +830,10 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 27,
-      "score": 509,
+      "previous_rank": 28,
+      "score": 492.5,
       "rank": 28
     },
     {
@@ -860,10 +860,10 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 28,
-      "score": 505.3,
+      "previous_rank": 29,
+      "score": 488.7,
       "rank": 29
     },
     {
@@ -890,10 +890,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 16
+        "effective_age": 17
       },
-      "previous_rank": 29,
-      "score": 497.7,
+      "previous_rank": 30,
+      "score": 484,
       "rank": 30
     }
   ]
