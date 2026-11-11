@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T03:32:12.276Z",
+  "last_updated": "2026-11-11T01:14:15.279Z",
   "top_songs": [
     {
       "id": "spotify-2GGmfUTiuXV2iGf8oHm19N",
@@ -12,24 +12,53 @@
       "discord_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
       "posted_at": "2026-11-06T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 1,
+      "web_plays": 3,
       "web_videos": 2,
-      "positionBonus": 15,
+      "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 1,
+        "plays": 3,
         "videos": 2,
-        "raw_points": 140.5,
-        "penalty_base": 140.5,
-        "multiplier": 1.47,
+        "raw_points": 181.5,
+        "penalty_base": 181.5,
+        "multiplier": 1.6,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
-      "previous_rank": 5,
-      "score": 932.8,
+      "previous_rank": 1,
+      "score": 955.1,
       "rank": 1
+    },
+    {
+      "id": "1569731833573281802",
+      "song_title": "Smurffit - Pattismurffi Junkkataxi (Dancefloor Flip)",
+      "author": "Smurffit",
+      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
+      "message_text": "mulla ei oo tähän oikeestaan mitään saatetekstiä\n\nedit: onpas!! hienoja hetkiä harrasteuralla - alkuvuodesta kaapelitehtaalla sub focuksen jälkeen dekkeihin, tää sisään samalla kun isäntä jakaa nimmareita taustalla. biblically accurate taksi äksön jne 😂",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1794359645682",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1569731833573281802",
+      "posted_at": "2026-11-10T15:13:53.331Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 14,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 105,
+        "penalty_base": 105,
+        "multiplier": 1.35,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": null,
+      "score": 905,
+      "rank": 2
     },
     {
       "id": "1567877997594415236",
@@ -38,7 +67,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/309372416088473600/877143fa457752db7ef8fbebc1c0e5be.webp?size=128",
       "message_text": "Levottomien ad/hd aivojen tuottamaa lopputulosta, jos jollekkin maistuu tulevalle viikonlopulle",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1794012851677",
+      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1794359648307",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1567877997594415236",
       "posted_at": "2026-11-05T12:27:24.391Z",
       "web_thumbs": 1,
@@ -54,11 +83,41 @@
         "penalty_base": 138,
         "multiplier": 1.46,
         "is_newcomer": true,
-        "effective_age": 1.6
+        "effective_age": 2.5
       },
       "previous_rank": 2,
-      "score": 905.9,
-      "rank": 2
+      "score": 888.1,
+      "rank": 3
+    },
+    {
+      "id": "spotify-23BfMKh81OfVypQrZ9Vylo",
+      "song_title": "Muffler - Alien Two",
+      "author": "Muffler",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734c77c433a7b4aaf3a7e58d38",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/23BfMKh81OfVypQrZ9Vylo",
+      "discord_url": "https://open.spotify.com/track/23BfMKh81OfVypQrZ9Vylo",
+      "posted_at": "2026-11-06T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 4,
+      "web_videos": 0,
+      "positionBonus": 15,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 4,
+        "videos": 0,
+        "raw_points": 82,
+        "penalty_base": 82,
+        "multiplier": 1.27,
+        "is_newcomer": true,
+        "effective_age": 2.1
+      },
+      "previous_rank": 4,
+      "score": 861.7,
+      "rank": 4
     },
     {
       "id": "1565293604572893277",
@@ -67,7 +126,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/309372416088473600/877143fa457752db7ef8fbebc1c0e5be.webp?size=128",
       "message_text": "tuli tollanen vääneltyä, propsit DJ Valu - tiktokissa ideasta.",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1794281524923",
+      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1794359650662",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1565293604572893277",
       "posted_at": "2026-10-29T09:17:57.079Z",
       "web_thumbs": 3,
@@ -83,41 +142,41 @@
         "penalty_base": 760,
         "multiplier": 3.53,
         "is_newcomer": false,
-        "effective_age": 11.8
+        "effective_age": 12.7
       },
-      "previous_rank": 1,
-      "score": 899.1,
-      "rank": 3
+      "previous_rank": 3,
+      "score": 855.9,
+      "rank": 5
     },
     {
-      "id": "spotify-23BfMKh81OfVypQrZ9Vylo",
-      "song_title": "Muffler - Alien Two",
-      "author": "Muffler",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734c77c433a7b4aaf3a7e58d38",
+      "id": "spotify-1ytO6B7XBxPxGRba6NZ3bp",
+      "song_title": "Orkidea - Stop The Rock",
+      "author": "Orkidea",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d71c47356378626567aee8fa",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/23BfMKh81OfVypQrZ9Vylo",
-      "discord_url": "https://open.spotify.com/track/23BfMKh81OfVypQrZ9Vylo",
+      "audio_url": "https://open.spotify.com/track/1ytO6B7XBxPxGRba6NZ3bp",
+      "discord_url": "https://open.spotify.com/track/1ytO6B7XBxPxGRba6NZ3bp",
       "posted_at": "2026-11-06T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 3,
+      "web_thumbs": 1,
+      "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 17,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 3,
+        "thumbs": 1,
+        "plays": 1,
         "videos": 0,
-        "raw_points": 61.5,
-        "penalty_base": 61.5,
-        "multiplier": 1.21,
+        "raw_points": 31.5,
+        "penalty_base": 31.5,
+        "multiplier": 1.1,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
-      "previous_rank": 3,
-      "score": 856.8,
-      "rank": 4
+      "previous_rank": 6,
+      "score": 817.9,
+      "rank": 6
     },
     {
       "id": "spotify-0rW17aqf2FxwgwFQ9Wty4e",
@@ -132,7 +191,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 19,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -143,21 +202,21 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
-      "previous_rank": 4,
-      "score": 821,
-      "rank": 5
+      "previous_rank": 5,
+      "score": 809.9,
+      "rank": 7
     },
     {
-      "id": "spotify-1ytO6B7XBxPxGRba6NZ3bp",
-      "song_title": "Orkidea - Stop The Rock",
-      "author": "Orkidea",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d71c47356378626567aee8fa",
+      "id": "spotify-7CPn8sVskAStk9l5sH00yC",
+      "song_title": "Kooma, Sampulse - never meant to fit in - Sampulse Remix",
+      "author": "Kooma, Sampulse",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273decd429a7e3b033dd80434ac",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1ytO6B7XBxPxGRba6NZ3bp",
-      "discord_url": "https://open.spotify.com/track/1ytO6B7XBxPxGRba6NZ3bp",
+      "audio_url": "https://open.spotify.com/track/7CPn8sVskAStk9l5sH00yC",
+      "discord_url": "https://open.spotify.com/track/7CPn8sVskAStk9l5sH00yC",
       "posted_at": "2026-11-06T00:00:00.000Z",
       "web_thumbs": 1,
       "web_plays": 0,
@@ -173,81 +232,21 @@
         "penalty_base": 11,
         "multiplier": 1.04,
         "is_newcomer": true,
-        "effective_age": 1.1
-      },
-      "previous_rank": 6,
-      "score": 814.9,
-      "rank": 6
-    },
-    {
-      "id": "spotify-7CPn8sVskAStk9l5sH00yC",
-      "song_title": "Kooma, Sampulse - never meant to fit in - Sampulse Remix",
-      "author": "Kooma, Sampulse",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273decd429a7e3b033dd80434ac",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7CPn8sVskAStk9l5sH00yC",
-      "discord_url": "https://open.spotify.com/track/7CPn8sVskAStk9l5sH00yC",
-      "posted_at": "2026-11-06T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 19,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 11,
-        "penalty_base": 11,
-        "multiplier": 1.04,
-        "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
       "previous_rank": 7,
-      "score": 813.9,
-      "rank": 7
-    },
-    {
-      "id": "spotify-0zKGcF9SycufIt1ZqIWbF7",
-      "song_title": "EBEN - Head In The Clouds",
-      "author": "EBEN",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a3f1e045323af37ba0861ba9",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0zKGcF9SycufIt1ZqIWbF7",
-      "discord_url": "https://open.spotify.com/track/0zKGcF9SycufIt1ZqIWbF7",
-      "posted_at": "2026-11-06T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 18,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 1.1
-      },
-      "previous_rank": 10,
-      "score": 802.5,
+      "score": 802.3,
       "rank": 8
     },
     {
-      "id": "spotify-3u1lT20MVTyRR271z75U4L",
-      "song_title": "DJVI - Recollection",
-      "author": "DJVI",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273abbfca9987845dc93f299516",
+      "id": "spotify-5Tku7wy3pL81ipfBoqYi4J",
+      "song_title": "Nic Johnston, Robbe, Haaradak - No Return",
+      "author": "Nic Johnston, Robbe, Haaradak",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27314328b0813d017baeab7d3fe",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3u1lT20MVTyRR271z75U4L",
-      "discord_url": "https://open.spotify.com/track/3u1lT20MVTyRR271z75U4L",
+      "audio_url": "https://open.spotify.com/track/5Tku7wy3pL81ipfBoqYi4J",
+      "discord_url": "https://open.spotify.com/track/5Tku7wy3pL81ipfBoqYi4J",
       "posted_at": "2026-11-06T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
@@ -263,11 +262,41 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
-      "previous_rank": 9,
-      "score": 800.5,
+      "previous_rank": 11,
+      "score": 788.3,
       "rank": 9
+    },
+    {
+      "id": "spotify-0zKGcF9SycufIt1ZqIWbF7",
+      "song_title": "EBEN - Head In The Clouds",
+      "author": "EBEN",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273a3f1e045323af37ba0861ba9",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0zKGcF9SycufIt1ZqIWbF7",
+      "discord_url": "https://open.spotify.com/track/0zKGcF9SycufIt1ZqIWbF7",
+      "posted_at": "2026-11-06T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 14,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 2.1
+      },
+      "previous_rank": 8,
+      "score": 786.3,
+      "rank": 10
     },
     {
       "id": "spotify-52be3rpMjwX7whqcjyyVCR",
@@ -278,6 +307,36 @@
       "audio_type": "spotify_link",
       "audio_url": "https://open.spotify.com/track/52be3rpMjwX7whqcjyyVCR",
       "discord_url": "https://open.spotify.com/track/52be3rpMjwX7whqcjyyVCR",
+      "posted_at": "2026-11-06T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 13,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 2.1
+      },
+      "previous_rank": 10,
+      "score": 785.3,
+      "rank": 11
+    },
+    {
+      "id": "spotify-3u1lT20MVTyRR271z75U4L",
+      "song_title": "DJVI - Recollection",
+      "author": "DJVI",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273abbfca9987845dc93f299516",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3u1lT20MVTyRR271z75U4L",
+      "discord_url": "https://open.spotify.com/track/3u1lT20MVTyRR271z75U4L",
       "posted_at": "2026-11-06T00:00:00.000Z",
       "web_thumbs": 0,
       "web_plays": 0,
@@ -293,70 +352,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": true,
-        "effective_age": 1.1
+        "effective_age": 2.1
       },
-      "previous_rank": 12,
-      "score": 796.5,
-      "rank": 10
-    },
-    {
-      "id": "spotify-5Tku7wy3pL81ipfBoqYi4J",
-      "song_title": "Nic Johnston, Robbe, Haaradak - No Return",
-      "author": "Nic Johnston, Robbe, Haaradak",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27314328b0813d017baeab7d3fe",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5Tku7wy3pL81ipfBoqYi4J",
-      "discord_url": "https://open.spotify.com/track/5Tku7wy3pL81ipfBoqYi4J",
-      "posted_at": "2026-11-06T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 11,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 1.1
-      },
-      "previous_rank": 8,
-      "score": 795.5,
-      "rank": 11
-    },
-    {
-      "id": "spotify-5uMzKNddCpHii4bolyLjSY",
-      "song_title": "Kalle Chydenius - PANDEMIA",
-      "author": "Kalle Chydenius",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27334a27a2d149080aace5eec75",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5uMzKNddCpHii4bolyLjSY",
-      "discord_url": "https://open.spotify.com/track/5uMzKNddCpHii4bolyLjSY",
-      "posted_at": "2026-11-04T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 13,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 31.5,
-        "penalty_base": 31.5,
-        "multiplier": 1.1,
-        "is_newcomer": true,
-        "effective_age": 6.1
-      },
-      "previous_rank": 11,
-      "score": 752.8,
+      "previous_rank": 9,
+      "score": 784.3,
       "rank": 12
     },
     {
@@ -369,24 +368,24 @@
       "audio_url": "https://open.spotify.com/track/0juNw8Txnzsoy06h7kRJ6q",
       "discord_url": "https://open.spotify.com/track/0juNw8Txnzsoy06h7kRJ6q",
       "posted_at": "2026-10-30T00:00:00.000Z",
-      "web_thumbs": 8,
+      "web_thumbs": 13,
       "web_plays": 6,
-      "web_videos": 2,
-      "positionBonus": 10,
+      "web_videos": 4,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 8,
+        "thumbs": 13,
         "plays": 6,
-        "videos": 2,
-        "raw_points": 331,
-        "penalty_base": 331,
-        "multiplier": 2.1,
+        "videos": 4,
+        "raw_points": 506,
+        "penalty_base": 506,
+        "multiplier": 2.69,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
-      "previous_rank": 22,
-      "score": 724.5,
+      "previous_rank": 13,
+      "score": 773.9,
       "rank": 13
     },
     {
@@ -412,11 +411,41 @@
         "penalty_base": 321.5,
         "multiplier": 2.07,
         "is_newcomer": false,
-        "effective_age": 10.7
+        "effective_age": 11.6
       },
-      "previous_rank": 13,
-      "score": 722.8,
+      "previous_rank": 14,
+      "score": 697.5,
       "rank": 14
+    },
+    {
+      "id": "spotify-5uMzKNddCpHii4bolyLjSY",
+      "song_title": "Kalle Chydenius - PANDEMIA",
+      "author": "Kalle Chydenius",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27334a27a2d149080aace5eec75",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5uMzKNddCpHii4bolyLjSY",
+      "discord_url": "https://open.spotify.com/track/5uMzKNddCpHii4bolyLjSY",
+      "posted_at": "2026-11-04T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 2,
+      "web_videos": 1,
+      "positionBonus": 11,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 2,
+        "videos": 1,
+        "raw_points": 112,
+        "penalty_base": 112,
+        "multiplier": 1.37,
+        "is_newcomer": false,
+        "effective_age": 7.1
+      },
+      "previous_rank": 12,
+      "score": 692.3,
+      "rank": 15
     },
     {
       "id": "1565698881126146239",
@@ -425,7 +454,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
       "message_text": "Elämääsyleilevää kakkosdroppia just Sun perjantaihin (ja joojoo pitäis tehä jari ja minä VIP)",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1794281529745",
+      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1794359652915",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1565698881126146239",
       "posted_at": "2026-10-30T12:08:22.539Z",
       "web_thumbs": 2,
@@ -441,11 +470,11 @@
         "penalty_base": 267,
         "multiplier": 1.89,
         "is_newcomer": false,
-        "effective_age": 10.6
+        "effective_age": 11.5
       },
-      "previous_rank": 14,
-      "score": 695.5,
-      "rank": 15
+      "previous_rank": 15,
+      "score": 672.4,
+      "rank": 16
     },
     {
       "id": "spotify-0iSk4izdW2H3jzh0RxeJWm",
@@ -471,11 +500,11 @@
         "penalty_base": 187.5,
         "multiplier": 1.63,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
-      "previous_rank": 15,
-      "score": 647,
-      "rank": 16
+      "previous_rank": 16,
+      "score": 627.1,
+      "rank": 17
     },
     {
       "id": "spotify-1RwglsXZwFZX1lTssArt3E",
@@ -501,11 +530,11 @@
         "penalty_base": 82,
         "multiplier": 1.27,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
-      "previous_rank": 16,
-      "score": 606.4,
-      "rank": 17
+      "previous_rank": 17,
+      "score": 590.8,
+      "rank": 18
     },
     {
       "id": "spotify-7sI6fOrBoOBFICFBNkhNjK",
@@ -531,11 +560,11 @@
         "penalty_base": 52,
         "multiplier": 1.17,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
       "previous_rank": 18,
-      "score": 587.4,
-      "rank": 18
+      "score": 573.1,
+      "rank": 19
     },
     {
       "id": "spotify-6oX5A3DTXGtbKMkenRn4RO",
@@ -550,7 +579,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -561,11 +590,11 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
-      "previous_rank": 23,
-      "score": 578.9,
-      "rank": 19
+      "previous_rank": 19,
+      "score": 563.1,
+      "rank": 20
     },
     {
       "id": "spotify-3shYMsrWgiZOeVWmceWqkS",
@@ -580,7 +609,7 @@
       "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 7,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -591,39 +620,10 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 12.1
+        "effective_age": 13.1
       },
-      "previous_rank": 19,
-      "score": 571.6,
-      "rank": 20
-    },
-    {
-      "id": "1563583816428294224",
-      "song_title": "Soul Central Bart Skils Weska Remix vs. Solu Music ft. Kimblee - Strings Of Fade (Jays MashUp)",
-      "author": "Soul Central Bart Skils Weska Remix vs. Solu Music ft. Kimblee",
-      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
-      "message_text": "Mashuppia pukkaa 😀",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_21.mp3?v=1794281532276",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1563583816428294224",
-      "posted_at": "2026-10-24T16:03:51.819Z",
-      "web_thumbs": 6,
-      "web_plays": 13,
-      "web_videos": 1,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 6,
-        "plays": 13,
-        "videos": 1,
-        "raw_points": 359.5,
-        "penalty_base": 359.5,
-        "multiplier": 2.2,
-        "is_newcomer": false,
-        "effective_age": 16.5
-      },
-      "previous_rank": 17,
-      "score": 570.5,
+      "previous_rank": 20,
+      "score": 558.8,
       "rank": 21
     },
     {
@@ -639,7 +639,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -650,11 +650,40 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 11.1
+        "effective_age": 12.1
       },
-      "previous_rank": 20,
-      "score": 565.7,
+      "previous_rank": 22,
+      "score": 556.7,
       "rank": 22
+    },
+    {
+      "id": "1563583816428294224",
+      "song_title": "Soul Central Bart Skils Weska Remix vs. Solu Music ft. Kimblee - Strings Of Fade (Jays MashUp)",
+      "author": "Soul Central Bart Skils Weska Remix vs. Solu Music ft. Kimblee",
+      "author_avatar": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "message_text": "Mashuppia pukkaa 😀",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_23.mp3?v=1794359655278",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1563583816428294224",
+      "posted_at": "2026-10-24T16:03:51.819Z",
+      "web_thumbs": 6,
+      "web_plays": 14,
+      "web_videos": 1,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 6,
+        "plays": 14,
+        "videos": 1,
+        "raw_points": 380,
+        "penalty_base": 380,
+        "multiplier": 2.27,
+        "is_newcomer": false,
+        "effective_age": 17.4
+      },
+      "previous_rank": 21,
+      "score": 548.1,
+      "rank": 23
     },
     {
       "id": "spotify-2lN6hGEH0KZzPZnhNO3lcD",
@@ -669,7 +698,7 @@
       "web_thumbs": 10,
       "web_plays": 7,
       "web_videos": 1,
-      "positionBonus": 5,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -680,11 +709,11 @@
         "penalty_base": 313.5,
         "multiplier": 2.04,
         "is_newcomer": false,
-        "effective_age": 17.1
+        "effective_age": 18.1
       },
-      "previous_rank": 21,
-      "score": 545.1,
-      "rank": 23
+      "previous_rank": 23,
+      "score": 521.1,
+      "rank": 24
     },
     {
       "id": "spotify-1ewRd4bU78HdyjjZ5F9XTY",
@@ -710,11 +739,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
       "previous_rank": 24,
-      "score": 530.5,
-      "rank": 24
+      "score": 518.3,
+      "rank": 25
     },
     {
       "id": "spotify-3yjdL6d942ykN5HvLHc5QE",
@@ -740,11 +769,11 @@
         "penalty_base": 194,
         "multiplier": 1.65,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19.1
       },
       "previous_rank": 25,
-      "score": 492.6,
-      "rank": 25
+      "score": 472.5,
+      "rank": 26
     },
     {
       "id": "spotify-2NHqpIfM8CQO6RJ1w4k7AS",
@@ -770,11 +799,11 @@
         "penalty_base": 164,
         "multiplier": 1.55,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19.1
       },
       "previous_rank": 26,
-      "score": 488.1,
-      "rank": 26
+      "score": 469.2,
+      "rank": 27
     },
     {
       "id": "spotify-41jL3kq34IFRuUBSHcAXKw",
@@ -785,36 +814,6 @@
       "audio_type": "spotify_link",
       "audio_url": "https://open.spotify.com/track/41jL3kq34IFRuUBSHcAXKw",
       "discord_url": "https://open.spotify.com/track/41jL3kq34IFRuUBSHcAXKw",
-      "posted_at": "2026-10-23T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 6,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 83.5,
-        "penalty_base": 83.5,
-        "multiplier": 1.28,
-        "is_newcomer": false,
-        "effective_age": 18.1
-      },
-      "previous_rank": 27,
-      "score": 476.3,
-      "rank": 27
-    },
-    {
-      "id": "spotify-0DqBN4vBWuET0mSxEXkoJ6",
-      "song_title": "KUOKKA, Svardh - Bounce",
-      "author": "KUOKKA, Svardh",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273838c123243b8e3fc94521bcc",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0DqBN4vBWuET0mSxEXkoJ6",
-      "discord_url": "https://open.spotify.com/track/0DqBN4vBWuET0mSxEXkoJ6",
       "posted_at": "2026-10-23T00:00:00.000Z",
       "web_thumbs": 2,
       "web_plays": 3,
@@ -830,41 +829,11 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19.1
       },
-      "previous_rank": 28,
-      "score": 473.3,
+      "previous_rank": 27,
+      "score": 457.7,
       "rank": 28
-    },
-    {
-      "id": "spotify-3FgtFkS74eFeKfPhwmeQks",
-      "song_title": "Muffler - The Jungle Spirit",
-      "author": "Muffler",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273b9def0235f08a39e0089f13c",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3FgtFkS74eFeKfPhwmeQks",
-      "discord_url": "https://open.spotify.com/track/3FgtFkS74eFeKfPhwmeQks",
-      "posted_at": "2026-10-23T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 2,
-      "web_videos": 0,
-      "positionBonus": 4,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 63,
-        "penalty_base": 63,
-        "multiplier": 1.21,
-        "is_newcomer": false,
-        "effective_age": 18.1
-      },
-      "previous_rank": 29,
-      "score": 470.6,
-      "rank": 29
     },
     {
       "id": "spotify-3qx7sb7p6JQiNtf6Da0lIk",
@@ -890,10 +859,40 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 18.1
+        "effective_age": 19.1
       },
       "previous_rank": 30,
-      "score": 469,
+      "score": 456.8,
+      "rank": 29
+    },
+    {
+      "id": "spotify-0DqBN4vBWuET0mSxEXkoJ6",
+      "song_title": "KUOKKA, Svardh - Bounce",
+      "author": "KUOKKA, Svardh",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273838c123243b8e3fc94521bcc",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0DqBN4vBWuET0mSxEXkoJ6",
+      "discord_url": "https://open.spotify.com/track/0DqBN4vBWuET0mSxEXkoJ6",
+      "posted_at": "2026-10-23T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 3,
+      "web_videos": 0,
+      "positionBonus": 2,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 3,
+        "videos": 0,
+        "raw_points": 83.5,
+        "penalty_base": 83.5,
+        "multiplier": 1.28,
+        "is_newcomer": false,
+        "effective_age": 19.1
+      },
+      "previous_rank": 28,
+      "score": 456.7,
       "rank": 30
     }
   ]
