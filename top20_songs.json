@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T02:53:31.842Z",
+  "last_updated": "2026-11-19T02:31:46.518Z",
   "top_songs": [
     {
       "id": "1569731833573281802",
@@ -12,22 +12,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1569731833573281802",
       "posted_at": "2026-11-10T15:13:53.331Z",
       "web_thumbs": 3,
-      "web_plays": 24,
+      "web_plays": 25,
       "web_videos": 4,
       "stats": {
         "reactions": 19,
         "comments": 0,
         "thumbs": 3,
-        "plays": 24,
+        "plays": 25,
         "videos": 4,
-        "raw_points": 891,
-        "penalty_base": 891,
-        "multiplier": 3.97,
+        "raw_points": 911.5,
+        "penalty_base": 911.5,
+        "multiplier": 4.04,
         "is_newcomer": false,
-        "effective_age": 7.5
+        "effective_age": 8.5
       },
       "previous_rank": 1,
-      "score": 1189.8,
+      "score": 1149.7,
       "rank": 1
     },
     {
@@ -41,54 +41,24 @@
       "discord_url": "https://open.spotify.com/track/0kfdElN4uYFpqIbZ0QUBkO",
       "posted_at": "2026-11-13T00:00:00.000Z",
       "web_thumbs": 9,
-      "web_plays": 6,
+      "web_plays": 7,
       "web_videos": 1,
-      "positionBonus": 20,
+      "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 9,
-        "plays": 6,
+        "plays": 7,
         "videos": 1,
-        "raw_points": 282,
-        "penalty_base": 282,
-        "multiplier": 1.94,
-        "is_newcomer": true,
-        "effective_age": 2.1
-      },
-      "previous_rank": 5,
-      "score": 1046.5,
-      "rank": 2
-    },
-    {
-      "id": "spotify-3xyjVrsjlEF9OHRSbJGiCp",
-      "song_title": "Buru - Shockabuku",
-      "author": "Buru",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2730b9ff32a1206b68ffe991163",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3xyjVrsjlEF9OHRSbJGiCp",
-      "discord_url": "https://open.spotify.com/track/3xyjVrsjlEF9OHRSbJGiCp",
-      "posted_at": "2026-11-12T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 6,
-      "web_videos": 1,
-      "positionBonus": 15,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 1,
-        "plays": 6,
-        "videos": 1,
-        "raw_points": 194,
-        "penalty_base": 194,
-        "multiplier": 1.65,
+        "raw_points": 302.5,
+        "penalty_base": 302.5,
+        "multiplier": 2.01,
         "is_newcomer": true,
         "effective_age": 6.1
       },
       "previous_rank": 2,
-      "score": 872.9,
-      "rank": 3
+      "score": 955,
+      "rank": 2
     },
     {
       "id": "1571976447281598608",
@@ -97,7 +67,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1491492786627936368/5445ffd7ffb201a98393cbdf684ea4b1.webp?size=128",
       "message_text": "Viimeinkin sain aikaiseksi palata tohon edelliseen skaba raitaan. Tässäpä siis jakoon eräänlainen tulkinta Join Me in Death kappaleesta 🙂",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1794970400651",
+      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1795055502315",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1571976447281598608",
       "posted_at": "2026-11-16T19:53:10.942Z",
       "web_thumbs": 0,
@@ -115,9 +85,68 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 12,
+      "previous_rank": 4,
       "score": 861.5,
+      "rank": 3
+    },
+    {
+      "id": "1571870403196878969",
+      "song_title": "Robin Packalen - Tilttaamaan (justpikee Remix)",
+      "author": "Robin Packalen",
+      "author_avatar": "https://cdn.discordapp.com/avatars/309372416088473600/877143fa457752db7ef8fbebc1c0e5be.webp?size=128",
+      "message_text": "",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1795055504515",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1571870403196878969",
+      "posted_at": "2026-11-16T12:51:48.062Z",
+      "web_thumbs": 0,
+      "web_plays": 2,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 1,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 2,
+        "videos": 0,
+        "raw_points": 48.5,
+        "penalty_base": 48.5,
+        "multiplier": 1.16,
+        "is_newcomer": true,
+        "effective_age": 0
+      },
+      "previous_rank": 8,
+      "score": 848.5,
       "rank": 4
+    },
+    {
+      "id": "spotify-2GGmfUTiuXV2iGf8oHm19N",
+      "song_title": "Esc, Mineral - Check This Out",
+      "author": "Esc, Mineral",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734569c94134a38e3e255db623",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
+      "discord_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
+      "posted_at": "2026-11-06T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 19,
+      "web_videos": 4,
+      "positionBonus": 4,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 19,
+        "videos": 4,
+        "raw_points": 651.5,
+        "penalty_base": 651.5,
+        "multiplier": 3.17,
+        "is_newcomer": false,
+        "effective_age": 13.1
+      },
+      "previous_rank": 7,
+      "score": 794.4,
+      "rank": 5
     },
     {
       "id": "spotify-2qTOEF1FGF5AXkIglBhNby",
@@ -143,11 +172,11 @@
         "penalty_base": 61.5,
         "multiplier": 1.21,
         "is_newcomer": true,
-        "effective_age": 2.1
+        "effective_age": 6.1
       },
-      "previous_rank": 6,
-      "score": 846,
-      "rank": 5
+      "previous_rank": 5,
+      "score": 781.2,
+      "rank": 6
     },
     {
       "id": "spotify-7axRp1xkBxih1D2MwJQdQ7",
@@ -162,7 +191,7 @@
       "web_thumbs": 2,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -173,70 +202,11 @@
         "penalty_base": 63,
         "multiplier": 1.21,
         "is_newcomer": true,
-        "effective_age": 2.1
+        "effective_age": 6.1
       },
-      "previous_rank": 4,
-      "score": 845.4,
-      "rank": 6
-    },
-    {
-      "id": "spotify-2GGmfUTiuXV2iGf8oHm19N",
-      "song_title": "Esc, Mineral - Check This Out",
-      "author": "Esc, Mineral",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734569c94134a38e3e255db623",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
-      "discord_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
-      "posted_at": "2026-11-06T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 19,
-      "web_videos": 4,
-      "positionBonus": 6,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 19,
-        "videos": 4,
-        "raw_points": 651.5,
-        "penalty_base": 651.5,
-        "multiplier": 3.17,
-        "is_newcomer": false,
-        "effective_age": 12.1
-      },
-      "previous_rank": 3,
-      "score": 838.5,
+      "previous_rank": 6,
+      "score": 779.3,
       "rank": 7
-    },
-    {
-      "id": "1571870403196878969",
-      "song_title": "Robin Packalen - Tilttaamaan (justpikee Remix)",
-      "author": "Robin Packalen",
-      "author_avatar": "https://cdn.discordapp.com/avatars/309372416088473600/877143fa457752db7ef8fbebc1c0e5be.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_8.mp3?v=1794970403090",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1571870403196878969",
-      "posted_at": "2026-11-16T12:51:48.062Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "stats": {
-        "reactions": 1,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 28,
-        "penalty_base": 28,
-        "multiplier": 1.09,
-        "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 9,
-      "score": 828,
-      "rank": 8
     },
     {
       "id": "spotify-2Be7QYkof8dsmkUdmDaCvz",
@@ -251,7 +221,7 @@
       "web_thumbs": 2,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 13,
+      "positionBonus": 20,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -262,10 +232,40 @@
         "penalty_base": 42.5,
         "multiplier": 1.14,
         "is_newcomer": true,
-        "effective_age": 2.1
+        "effective_age": 6.1
       },
-      "previous_rank": 7,
-      "score": 822.8,
+      "previous_rank": 9,
+      "score": 768.4,
+      "rank": 8
+    },
+    {
+      "id": "spotify-3xyjVrsjlEF9OHRSbJGiCp",
+      "song_title": "Buru - Shockabuku",
+      "author": "Buru",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2730b9ff32a1206b68ffe991163",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3xyjVrsjlEF9OHRSbJGiCp",
+      "discord_url": "https://open.spotify.com/track/3xyjVrsjlEF9OHRSbJGiCp",
+      "posted_at": "2026-11-12T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 7,
+      "web_videos": 1,
+      "positionBonus": 13,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 7,
+        "videos": 1,
+        "raw_points": 214.5,
+        "penalty_base": 214.5,
+        "multiplier": 1.71,
+        "is_newcomer": false,
+        "effective_age": 7.1
+      },
+      "previous_rank": 3,
+      "score": 763,
       "rank": 9
     },
     {
@@ -281,7 +281,7 @@
       "web_thumbs": 3,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -292,40 +292,40 @@
         "penalty_base": 33,
         "multiplier": 1.11,
         "is_newcomer": true,
-        "effective_age": 2.1
+        "effective_age": 6.1
       },
-      "previous_rank": 11,
-      "score": 813.2,
+      "previous_rank": 10,
+      "score": 756.5,
       "rank": 10
     },
     {
-      "id": "spotify-2JXREouG5J7OoPYXyKrtab",
-      "song_title": "Audrum - Chemical",
-      "author": "Audrum",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27388f055c9576caf72e6adb31a",
+      "id": "spotify-0IzpZMYhAFmCidYMuQeLxw",
+      "song_title": "Telm & Wilson - Lose your mind",
+      "author": "Telm & Wilson",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2731297948cacceadab78d74ab5",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2JXREouG5J7OoPYXyKrtab",
-      "discord_url": "https://open.spotify.com/track/2JXREouG5J7OoPYXyKrtab",
+      "audio_url": "https://open.spotify.com/track/0IzpZMYhAFmCidYMuQeLxw",
+      "discord_url": "https://open.spotify.com/track/0IzpZMYhAFmCidYMuQeLxw",
       "posted_at": "2026-11-13T00:00:00.000Z",
-      "web_thumbs": 0,
+      "web_thumbs": 1,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 18,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
+        "thumbs": 1,
         "plays": 0,
         "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
+        "raw_points": 11,
+        "penalty_base": 11,
+        "multiplier": 1.04,
         "is_newcomer": true,
-        "effective_age": 2.1
+        "effective_age": 6.1
       },
       "previous_rank": 13,
-      "score": 789.4,
+      "score": 735.6,
       "rank": 11
     },
     {
@@ -341,67 +341,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 16,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 2.1
-      },
-      "previous_rank": 10,
-      "score": 787.4,
-      "rank": 12
-    },
-    {
-      "id": "spotify-0IzpZMYhAFmCidYMuQeLxw",
-      "song_title": "Telm & Wilson - Lose your mind",
-      "author": "Telm & Wilson",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2731297948cacceadab78d74ab5",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0IzpZMYhAFmCidYMuQeLxw",
-      "discord_url": "https://open.spotify.com/track/0IzpZMYhAFmCidYMuQeLxw",
-      "posted_at": "2026-11-13T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 11,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 2.1
-      },
-      "previous_rank": null,
-      "score": 782.4,
-      "rank": 13
-    },
-    {
-      "id": "spotify-61cOVFl7i4mr95AHAnQQWv",
-      "song_title": "Kitkatone - Juankosken Mannekiini",
-      "author": "Kitkatone",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2730b9ff32a1206b68ffe991163",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/61cOVFl7i4mr95AHAnQQWv",
-      "discord_url": "https://open.spotify.com/track/61cOVFl7i4mr95AHAnQQWv",
-      "posted_at": "2026-11-12T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 17,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -414,8 +354,67 @@
         "is_newcomer": true,
         "effective_age": 6.1
       },
-      "previous_rank": null,
-      "score": 725.4,
+      "previous_rank": 12,
+      "score": 734.6,
+      "rank": 12
+    },
+    {
+      "id": "spotify-2JXREouG5J7OoPYXyKrtab",
+      "song_title": "Audrum - Chemical",
+      "author": "Audrum",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27388f055c9576caf72e6adb31a",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2JXREouG5J7OoPYXyKrtab",
+      "discord_url": "https://open.spotify.com/track/2JXREouG5J7OoPYXyKrtab",
+      "posted_at": "2026-11-13T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 14,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": true,
+        "effective_age": 6.1
+      },
+      "previous_rank": 11,
+      "score": 731.6,
+      "rank": 13
+    },
+    {
+      "id": "1569899908851306606",
+      "song_title": "Loona - Vamos a La Playa Suprise Patin Papukaija (KZ Edit)",
+      "author": "Loona",
+      "author_avatar": "https://cdn.discordapp.com/avatars/268380722534809601/1a859960cf3e68581824dadb760d5f48.webp?size=128",
+      "message_text": "Jatketaan sitten smurffiteemalla 😆 (1:49 tulee vaihdos)",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1795055506518",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1569899908851306606",
+      "posted_at": "2026-11-11T02:21:45.600Z",
+      "web_thumbs": 0,
+      "web_plays": 6,
+      "web_videos": 0,
+      "stats": {
+        "reactions": 3,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 6,
+        "videos": 0,
+        "raw_points": 145.5,
+        "penalty_base": 145.5,
+        "multiplier": 1.48,
+        "is_newcomer": false,
+        "effective_age": 8
+      },
+      "previous_rank": 16,
+      "score": 685,
       "rank": 14
     },
     {
@@ -429,51 +428,52 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1567877997594415236",
       "posted_at": "2026-11-05T12:27:24.391Z",
       "web_thumbs": 2,
-      "web_plays": 17,
+      "web_plays": 18,
       "web_videos": 0,
       "stats": {
         "reactions": 4,
         "comments": 0,
         "thumbs": 2,
-        "plays": 17,
+        "plays": 18,
         "videos": 0,
-        "raw_points": 389.5,
-        "penalty_base": 389.5,
-        "multiplier": 2.3,
+        "raw_points": 410,
+        "penalty_base": 410,
+        "multiplier": 2.37,
         "is_newcomer": false,
-        "effective_age": 12.6
+        "effective_age": 13.6
       },
-      "previous_rank": 14,
-      "score": 698.5,
+      "previous_rank": 15,
+      "score": 675.9,
       "rank": 15
     },
     {
-      "id": "1569899908851306606",
-      "song_title": "Loona - Vamos a La Playa Suprise Patin Papukaija (KZ Edit)",
-      "author": "Loona",
-      "author_avatar": "https://cdn.discordapp.com/avatars/268380722534809601/1a859960cf3e68581824dadb760d5f48.webp?size=128",
-      "message_text": "Jatketaan sitten smurffiteemalla 😆 (1:49 tulee vaihdos)",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_16.mp3?v=1794970407684",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1569899908851306606",
-      "posted_at": "2026-11-11T02:21:45.600Z",
+      "id": "spotify-61cOVFl7i4mr95AHAnQQWv",
+      "song_title": "Kitkatone - Juankosken Mannekiini",
+      "author": "Kitkatone",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2730b9ff32a1206b68ffe991163",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/61cOVFl7i4mr95AHAnQQWv",
+      "discord_url": "https://open.spotify.com/track/61cOVFl7i4mr95AHAnQQWv",
+      "posted_at": "2026-11-12T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 5,
+      "web_plays": 2,
       "web_videos": 0,
+      "positionBonus": 8,
       "stats": {
-        "reactions": 3,
+        "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 5,
+        "plays": 2,
         "videos": 0,
-        "raw_points": 125,
-        "penalty_base": 125,
-        "multiplier": 1.42,
+        "raw_points": 41,
+        "penalty_base": 41,
+        "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 7
+        "effective_age": 7.1
       },
-      "previous_rank": 8,
-      "score": 690.7,
+      "previous_rank": 14,
+      "score": 640,
       "rank": 16
     },
     {
@@ -489,7 +489,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -500,10 +500,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 8.1
+        "effective_age": 9.1
       },
-      "previous_rank": 15,
-      "score": 617.4,
+      "previous_rank": 17,
+      "score": 598.2,
       "rank": 17
     },
     {
@@ -530,26 +530,26 @@
         "penalty_base": 134,
         "multiplier": 1.45,
         "is_newcomer": false,
-        "effective_age": 12.1
+        "effective_age": 13.1
       },
-      "previous_rank": 16,
-      "score": 609.3,
+      "previous_rank": 18,
+      "score": 590.1,
       "rank": 18
     },
     {
-      "id": "spotify-7CPn8sVskAStk9l5sH00yC",
-      "song_title": "Kooma, Sampulse - never meant to fit in - Sampulse Remix",
-      "author": "Kooma, Sampulse",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273decd429a7e3b033dd80434ac",
+      "id": "spotify-1ytO6B7XBxPxGRba6NZ3bp",
+      "song_title": "Orkidea - Stop The Rock",
+      "author": "Orkidea",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d71c47356378626567aee8fa",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7CPn8sVskAStk9l5sH00yC",
-      "discord_url": "https://open.spotify.com/track/7CPn8sVskAStk9l5sH00yC",
+      "audio_url": "https://open.spotify.com/track/1ytO6B7XBxPxGRba6NZ3bp",
+      "discord_url": "https://open.spotify.com/track/1ytO6B7XBxPxGRba6NZ3bp",
       "posted_at": "2026-11-06T00:00:00.000Z",
       "web_thumbs": 2,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -560,10 +560,10 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 12.1
+        "effective_age": 13.1
       },
-      "previous_rank": 18,
-      "score": 592.7,
+      "previous_rank": 22,
+      "score": 577.7,
       "rank": 19
     },
     {
@@ -590,11 +590,41 @@
         "penalty_base": 82,
         "multiplier": 1.27,
         "is_newcomer": false,
-        "effective_age": 12.1
+        "effective_age": 13.1
       },
-      "previous_rank": 17,
-      "score": 591.7,
+      "previous_rank": 20,
+      "score": 574.7,
       "rank": 20
+    },
+    {
+      "id": "spotify-7CPn8sVskAStk9l5sH00yC",
+      "song_title": "Kooma, Sampulse - never meant to fit in - Sampulse Remix",
+      "author": "Kooma, Sampulse",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273decd429a7e3b033dd80434ac",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7CPn8sVskAStk9l5sH00yC",
+      "discord_url": "https://open.spotify.com/track/7CPn8sVskAStk9l5sH00yC",
+      "posted_at": "2026-11-06T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 4,
+      "web_videos": 0,
+      "positionBonus": 6,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 4,
+        "videos": 0,
+        "raw_points": 104,
+        "penalty_base": 104,
+        "multiplier": 1.35,
+        "is_newcomer": false,
+        "effective_age": 13.1
+      },
+      "previous_rank": 19,
+      "score": 571.7,
+      "rank": 21
     },
     {
       "id": "spotify-0zKGcF9SycufIt1ZqIWbF7",
@@ -609,7 +639,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 1,
-      "positionBonus": 7,
+      "positionBonus": 5,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -620,40 +650,10 @@
         "penalty_base": 80.5,
         "multiplier": 1.27,
         "is_newcomer": false,
-        "effective_age": 12.1
+        "effective_age": 13.1
       },
-      "previous_rank": 20,
-      "score": 580,
-      "rank": 21
-    },
-    {
-      "id": "spotify-1ytO6B7XBxPxGRba6NZ3bp",
-      "song_title": "Orkidea - Stop The Rock",
-      "author": "Orkidea",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d71c47356378626567aee8fa",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1ytO6B7XBxPxGRba6NZ3bp",
-      "discord_url": "https://open.spotify.com/track/1ytO6B7XBxPxGRba6NZ3bp",
-      "posted_at": "2026-11-06T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 5,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 83.5,
-        "penalty_base": 83.5,
-        "multiplier": 1.28,
-        "is_newcomer": false,
-        "effective_age": 12.1
-      },
-      "previous_rank": 19,
-      "score": 579.3,
+      "previous_rank": 21,
+      "score": 561.1,
       "rank": 22
     },
     {
@@ -680,10 +680,10 @@
         "penalty_base": 184.5,
         "multiplier": 1.61,
         "is_newcomer": false,
-        "effective_age": 14.1
+        "effective_age": 15.1
       },
-      "previous_rank": 21,
-      "score": 578.6,
+      "previous_rank": 23,
+      "score": 557.2,
       "rank": 23
     },
     {
@@ -699,7 +699,7 @@
       "web_thumbs": 1,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -710,10 +710,10 @@
         "penalty_base": 52,
         "multiplier": 1.17,
         "is_newcomer": false,
-        "effective_age": 12.1
+        "effective_age": 13.1
       },
-      "previous_rank": 22,
-      "score": 569,
+      "previous_rank": 24,
+      "score": 555.4,
       "rank": 24
     },
     {
@@ -729,7 +729,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 4,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -740,10 +740,10 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 12.1
+        "effective_age": 13.1
       },
-      "previous_rank": 23,
-      "score": 559,
+      "previous_rank": 25,
+      "score": 546.9,
       "rank": 25
     },
     {
@@ -759,7 +759,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 3,
+      "positionBonus": 2,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -770,10 +770,10 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 12.1
+        "effective_age": 13.1
       },
-      "previous_rank": 24,
-      "score": 558,
+      "previous_rank": 26,
+      "score": 541.9,
       "rank": 26
     },
     {
@@ -789,7 +789,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 5,
+      "positionBonus": 3,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -800,10 +800,10 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 12.1
+        "effective_age": 13.1
       },
-      "previous_rank": 25,
-      "score": 550.7,
+      "previous_rank": 27,
+      "score": 534.5,
       "rank": 27
     },
     {
@@ -819,7 +819,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -830,10 +830,10 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 12.1
+        "effective_age": 13.1
       },
-      "previous_rank": 26,
-      "score": 546.4,
+      "previous_rank": 28,
+      "score": 531.1,
       "rank": 28
     },
     {
@@ -859,10 +859,10 @@
         "penalty_base": 362,
         "multiplier": 2.21,
         "is_newcomer": false,
-        "effective_age": 18.6
+        "effective_age": 19.6
       },
-      "previous_rank": 28,
-      "score": 507.5,
+      "previous_rank": 29,
+      "score": 478.1,
       "rank": 29
     },
     {
@@ -888,10 +888,10 @@
         "penalty_base": 357,
         "multiplier": 2.19,
         "is_newcomer": false,
-        "effective_age": 18.7
+        "effective_age": 19.6
       },
-      "previous_rank": 27,
-      "score": 505.5,
+      "previous_rank": 30,
+      "score": 476.4,
       "rank": 30
     }
   ]
