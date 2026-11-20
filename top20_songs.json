@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T02:31:46.518Z",
+  "last_updated": "2026-11-20T02:25:08.703Z",
   "top_songs": [
     {
       "id": "1569731833573281802",
@@ -24,41 +24,11 @@
         "penalty_base": 911.5,
         "multiplier": 4.04,
         "is_newcomer": false,
-        "effective_age": 8.5
+        "effective_age": 9.5
       },
       "previous_rank": 1,
-      "score": 1149.7,
+      "score": 1095.4,
       "rank": 1
-    },
-    {
-      "id": "spotify-0kfdElN4uYFpqIbZ0QUBkO",
-      "song_title": "deadroid - Separator",
-      "author": "deadroid",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2738d0648370bd3547bef8e11b0",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0kfdElN4uYFpqIbZ0QUBkO",
-      "discord_url": "https://open.spotify.com/track/0kfdElN4uYFpqIbZ0QUBkO",
-      "posted_at": "2026-11-13T00:00:00.000Z",
-      "web_thumbs": 9,
-      "web_plays": 7,
-      "web_videos": 1,
-      "positionBonus": 18,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 9,
-        "plays": 7,
-        "videos": 1,
-        "raw_points": 302.5,
-        "penalty_base": 302.5,
-        "multiplier": 2.01,
-        "is_newcomer": true,
-        "effective_age": 6.1
-      },
-      "previous_rank": 2,
-      "score": 955,
-      "rank": 2
     },
     {
       "id": "1571976447281598608",
@@ -67,27 +37,27 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/1491492786627936368/5445ffd7ffb201a98393cbdf684ea4b1.webp?size=128",
       "message_text": "Viimeinkin sain aikaiseksi palata tohon edelliseen skaba raitaan. Tässäpä siis jakoon eräänlainen tulkinta Join Me in Death kappaleesta 🙂",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1795055502315",
+      "audio_url": "https://www.djorion.fi/top20//rank_2.mp3?v=1795141496481",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1571976447281598608",
       "posted_at": "2026-11-16T19:53:10.942Z",
       "web_thumbs": 0,
       "web_plays": 3,
       "web_videos": 0,
       "stats": {
-        "reactions": 0,
+        "reactions": 1,
         "comments": 0,
         "thumbs": 0,
         "plays": 3,
         "videos": 0,
-        "raw_points": 61.5,
-        "penalty_base": 61.5,
-        "multiplier": 1.21,
+        "raw_points": 69,
+        "penalty_base": 69,
+        "multiplier": 1.23,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.3
       },
-      "previous_rank": 4,
-      "score": 861.5,
-      "rank": 3
+      "previous_rank": 3,
+      "score": 864.5,
+      "rank": 2
     },
     {
       "id": "1571870403196878969",
@@ -96,7 +66,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/309372416088473600/877143fa457752db7ef8fbebc1c0e5be.webp?size=128",
       "message_text": "",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1795055504515",
+      "audio_url": "https://www.djorion.fi/top20//rank_3.mp3?v=1795141499609",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1571870403196878969",
       "posted_at": "2026-11-16T12:51:48.062Z",
       "web_thumbs": 0,
@@ -112,10 +82,40 @@
         "penalty_base": 48.5,
         "multiplier": 1.16,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.6
       },
-      "previous_rank": 8,
-      "score": 848.5,
+      "previous_rank": 4,
+      "score": 839.6,
+      "rank": 3
+    },
+    {
+      "id": "spotify-0kfdElN4uYFpqIbZ0QUBkO",
+      "song_title": "deadroid - Separator",
+      "author": "deadroid",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2738d0648370bd3547bef8e11b0",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0kfdElN4uYFpqIbZ0QUBkO",
+      "discord_url": "https://open.spotify.com/track/0kfdElN4uYFpqIbZ0QUBkO",
+      "posted_at": "2026-11-13T00:00:00.000Z",
+      "web_thumbs": 9,
+      "web_plays": 7,
+      "web_videos": 1,
+      "positionBonus": 17,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 9,
+        "plays": 7,
+        "videos": 1,
+        "raw_points": 302.5,
+        "penalty_base": 302.5,
+        "multiplier": 2.01,
+        "is_newcomer": false,
+        "effective_age": 7.1
+      },
+      "previous_rank": 2,
+      "score": 827,
       "rank": 4
     },
     {
@@ -131,7 +131,7 @@
       "web_thumbs": 2,
       "web_plays": 19,
       "web_videos": 4,
-      "positionBonus": 4,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -142,101 +142,11 @@
         "penalty_base": 651.5,
         "multiplier": 3.17,
         "is_newcomer": false,
-        "effective_age": 13.1
-      },
-      "previous_rank": 7,
-      "score": 794.4,
-      "rank": 5
-    },
-    {
-      "id": "spotify-2qTOEF1FGF5AXkIglBhNby",
-      "song_title": "KLASS, ANDYON - Elektra",
-      "author": "KLASS, ANDYON",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273699c493413751cd9e0129886",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2qTOEF1FGF5AXkIglBhNby",
-      "discord_url": "https://open.spotify.com/track/2qTOEF1FGF5AXkIglBhNby",
-      "posted_at": "2026-11-13T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 19,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 61.5,
-        "penalty_base": 61.5,
-        "multiplier": 1.21,
-        "is_newcomer": true,
-        "effective_age": 6.1
+        "effective_age": 14.1
       },
       "previous_rank": 5,
-      "score": 781.2,
-      "rank": 6
-    },
-    {
-      "id": "spotify-7axRp1xkBxih1D2MwJQdQ7",
-      "song_title": "Winter Games - Pon De River",
-      "author": "Winter Games",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733f25aa0dc60aa74f7123babf",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7axRp1xkBxih1D2MwJQdQ7",
-      "discord_url": "https://open.spotify.com/track/7axRp1xkBxih1D2MwJQdQ7",
-      "posted_at": "2026-11-13T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 2,
-      "web_videos": 0,
-      "positionBonus": 16,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 63,
-        "penalty_base": 63,
-        "multiplier": 1.21,
-        "is_newcomer": true,
-        "effective_age": 6.1
-      },
-      "previous_rank": 6,
-      "score": 779.3,
-      "rank": 7
-    },
-    {
-      "id": "spotify-2Be7QYkof8dsmkUdmDaCvz",
-      "song_title": "Muffler - Shema",
-      "author": "Muffler",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27306979ad6d5a9074b459c5bf2",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2Be7QYkof8dsmkUdmDaCvz",
-      "discord_url": "https://open.spotify.com/track/2Be7QYkof8dsmkUdmDaCvz",
-      "posted_at": "2026-11-13T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 20,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 42.5,
-        "penalty_base": 42.5,
-        "multiplier": 1.14,
-        "is_newcomer": true,
-        "effective_age": 6.1
-      },
-      "previous_rank": 9,
-      "score": 768.4,
-      "rank": 8
+      "score": 753.7,
+      "rank": 5
     },
     {
       "id": "spotify-3xyjVrsjlEF9OHRSbJGiCp",
@@ -251,7 +161,7 @@
       "web_thumbs": 1,
       "web_plays": 7,
       "web_videos": 1,
-      "positionBonus": 13,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -262,131 +172,71 @@
         "penalty_base": 214.5,
         "multiplier": 1.71,
         "is_newcomer": false,
-        "effective_age": 7.1
+        "effective_age": 8.1
       },
-      "previous_rank": 3,
-      "score": 763,
-      "rank": 9
+      "previous_rank": 9,
+      "score": 739,
+      "rank": 6
     },
     {
-      "id": "spotify-7nQtxmehTsmLqu798VUgPX",
-      "song_title": "Omnitron - Recursive Regret",
-      "author": "Omnitron",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2738d0648370bd3547bef8e11b0",
+      "id": "spotify-2qTOEF1FGF5AXkIglBhNby",
+      "song_title": "KLASS, ANDYON - Elektra",
+      "author": "KLASS, ANDYON",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273699c493413751cd9e0129886",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7nQtxmehTsmLqu798VUgPX",
-      "discord_url": "https://open.spotify.com/track/7nQtxmehTsmLqu798VUgPX",
+      "audio_url": "https://open.spotify.com/track/2qTOEF1FGF5AXkIglBhNby",
+      "discord_url": "https://open.spotify.com/track/2qTOEF1FGF5AXkIglBhNby",
       "posted_at": "2026-11-13T00:00:00.000Z",
-      "web_thumbs": 3,
-      "web_plays": 0,
+      "web_thumbs": 1,
+      "web_plays": 3,
       "web_videos": 0,
       "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 3,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 33,
-        "penalty_base": 33,
-        "multiplier": 1.11,
-        "is_newcomer": true,
-        "effective_age": 6.1
-      },
-      "previous_rank": 10,
-      "score": 756.5,
-      "rank": 10
-    },
-    {
-      "id": "spotify-0IzpZMYhAFmCidYMuQeLxw",
-      "song_title": "Telm & Wilson - Lose your mind",
-      "author": "Telm & Wilson",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2731297948cacceadab78d74ab5",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0IzpZMYhAFmCidYMuQeLxw",
-      "discord_url": "https://open.spotify.com/track/0IzpZMYhAFmCidYMuQeLxw",
-      "posted_at": "2026-11-13T00:00:00.000Z",
-      "web_thumbs": 1,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 10,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
         "thumbs": 1,
-        "plays": 0,
+        "plays": 3,
         "videos": 0,
-        "raw_points": 11,
-        "penalty_base": 11,
-        "multiplier": 1.04,
-        "is_newcomer": true,
-        "effective_age": 6.1
+        "raw_points": 72.5,
+        "penalty_base": 72.5,
+        "multiplier": 1.24,
+        "is_newcomer": false,
+        "effective_age": 7.1
       },
-      "previous_rank": 13,
-      "score": 735.6,
-      "rank": 11
+      "previous_rank": 6,
+      "score": 668.5,
+      "rank": 7
     },
     {
-      "id": "spotify-44Z3wrEErF6FMb9Sq2ssDE",
-      "song_title": "CHAXZER, LXHXNTER, DJ FKU - BADMAN FUNK",
-      "author": "CHAXZER, LXHXNTER, DJ FKU",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273818e347035183cc4eb076c0f",
+      "id": "spotify-7axRp1xkBxih1D2MwJQdQ7",
+      "song_title": "Winter Games - Pon De River",
+      "author": "Winter Games",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733f25aa0dc60aa74f7123babf",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/44Z3wrEErF6FMb9Sq2ssDE",
-      "discord_url": "https://open.spotify.com/track/44Z3wrEErF6FMb9Sq2ssDE",
+      "audio_url": "https://open.spotify.com/track/7axRp1xkBxih1D2MwJQdQ7",
+      "discord_url": "https://open.spotify.com/track/7axRp1xkBxih1D2MwJQdQ7",
       "posted_at": "2026-11-13T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
+      "web_thumbs": 2,
+      "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 17,
+      "positionBonus": 20,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
+        "thumbs": 2,
+        "plays": 2,
         "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 6.1
+        "raw_points": 63,
+        "penalty_base": 63,
+        "multiplier": 1.21,
+        "is_newcomer": false,
+        "effective_age": 7.1
       },
-      "previous_rank": 12,
-      "score": 734.6,
-      "rank": 12
-    },
-    {
-      "id": "spotify-2JXREouG5J7OoPYXyKrtab",
-      "song_title": "Audrum - Chemical",
-      "author": "Audrum",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27388f055c9576caf72e6adb31a",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2JXREouG5J7OoPYXyKrtab",
-      "discord_url": "https://open.spotify.com/track/2JXREouG5J7OoPYXyKrtab",
-      "posted_at": "2026-11-13T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 14,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 0,
-        "penalty_base": 0,
-        "multiplier": 1,
-        "is_newcomer": true,
-        "effective_age": 6.1
-      },
-      "previous_rank": 11,
-      "score": 731.6,
-      "rank": 13
+      "previous_rank": 7,
+      "score": 667,
+      "rank": 8
     },
     {
       "id": "1569899908851306606",
@@ -395,7 +245,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/268380722534809601/1a859960cf3e68581824dadb760d5f48.webp?size=128",
       "message_text": "Jatketaan sitten smurffiteemalla 😆 (1:49 tulee vaihdos)",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_14.mp3?v=1795055506518",
+      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1795141502035",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1569899908851306606",
       "posted_at": "2026-11-11T02:21:45.600Z",
       "web_thumbs": 0,
@@ -411,11 +261,41 @@
         "penalty_base": 145.5,
         "multiplier": 1.48,
         "is_newcomer": false,
-        "effective_age": 8
+        "effective_age": 9
       },
-      "previous_rank": 16,
-      "score": 685,
-      "rank": 14
+      "previous_rank": 14,
+      "score": 665,
+      "rank": 9
+    },
+    {
+      "id": "spotify-2Be7QYkof8dsmkUdmDaCvz",
+      "song_title": "Muffler - Shema",
+      "author": "Muffler",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27306979ad6d5a9074b459c5bf2",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2Be7QYkof8dsmkUdmDaCvz",
+      "discord_url": "https://open.spotify.com/track/2Be7QYkof8dsmkUdmDaCvz",
+      "posted_at": "2026-11-13T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 18,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 42.5,
+        "penalty_base": 42.5,
+        "multiplier": 1.14,
+        "is_newcomer": false,
+        "effective_age": 7.1
+      },
+      "previous_rank": 8,
+      "score": 651.1,
+      "rank": 10
     },
     {
       "id": "1567877997594415236",
@@ -424,7 +304,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/309372416088473600/877143fa457752db7ef8fbebc1c0e5be.webp?size=128",
       "message_text": "Levottomien ad/hd aivojen tuottamaa lopputulosta, jos jollekkin maistuu tulevalle viikonlopulle",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_15.mp3?v=1794970405601",
+      "audio_url": "https://www.djorion.fi/top20//rank_11.mp3?v=1795141506167",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1567877997594415236",
       "posted_at": "2026-11-05T12:27:24.391Z",
       "web_thumbs": 2,
@@ -440,11 +320,71 @@
         "penalty_base": 410,
         "multiplier": 2.37,
         "is_newcomer": false,
-        "effective_age": 13.6
+        "effective_age": 14.6
       },
       "previous_rank": 15,
-      "score": 675.9,
-      "rank": 15
+      "score": 644.1,
+      "rank": 11
+    },
+    {
+      "id": "spotify-7nQtxmehTsmLqu798VUgPX",
+      "song_title": "Omnitron - Recursive Regret",
+      "author": "Omnitron",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2738d0648370bd3547bef8e11b0",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7nQtxmehTsmLqu798VUgPX",
+      "discord_url": "https://open.spotify.com/track/7nQtxmehTsmLqu798VUgPX",
+      "posted_at": "2026-11-13T00:00:00.000Z",
+      "web_thumbs": 3,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 16,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 33,
+        "penalty_base": 33,
+        "multiplier": 1.11,
+        "is_newcomer": false,
+        "effective_age": 7.1
+      },
+      "previous_rank": 10,
+      "score": 642.6,
+      "rank": 12
+    },
+    {
+      "id": "spotify-0IzpZMYhAFmCidYMuQeLxw",
+      "song_title": "Telm & Wilson - Lose your mind",
+      "author": "Telm & Wilson",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2731297948cacceadab78d74ab5",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/0IzpZMYhAFmCidYMuQeLxw",
+      "discord_url": "https://open.spotify.com/track/0IzpZMYhAFmCidYMuQeLxw",
+      "posted_at": "2026-11-13T00:00:00.000Z",
+      "web_thumbs": 1,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 14,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 1,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 11,
+        "penalty_base": 11,
+        "multiplier": 1.04,
+        "is_newcomer": false,
+        "effective_age": 7.1
+      },
+      "previous_rank": 11,
+      "score": 625.6,
+      "rank": 13
     },
     {
       "id": "spotify-61cOVFl7i4mr95AHAnQQWv",
@@ -470,11 +410,101 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
+        "effective_age": 8.1
+      },
+      "previous_rank": 16,
+      "score": 624.7,
+      "rank": 14
+    },
+    {
+      "id": "spotify-44Z3wrEErF6FMb9Sq2ssDE",
+      "song_title": "CHAXZER, LXHXNTER, DJ FKU - BADMAN FUNK",
+      "author": "CHAXZER, LXHXNTER, DJ FKU",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273818e347035183cc4eb076c0f",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/44Z3wrEErF6FMb9Sq2ssDE",
+      "discord_url": "https://open.spotify.com/track/44Z3wrEErF6FMb9Sq2ssDE",
+      "posted_at": "2026-11-13T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 19,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
         "effective_age": 7.1
       },
-      "previous_rank": 14,
-      "score": 640,
+      "previous_rank": 12,
+      "score": 623.1,
+      "rank": 15
+    },
+    {
+      "id": "spotify-2JXREouG5J7OoPYXyKrtab",
+      "song_title": "Audrum - Chemical",
+      "author": "Audrum",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27388f055c9576caf72e6adb31a",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2JXREouG5J7OoPYXyKrtab",
+      "discord_url": "https://open.spotify.com/track/2JXREouG5J7OoPYXyKrtab",
+      "posted_at": "2026-11-13T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 13,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 7.1
+      },
+      "previous_rank": 13,
+      "score": 617.1,
       "rank": 16
+    },
+    {
+      "id": "spotify-6h4BoWrcE2S5qNjnEDLMqh",
+      "song_title": "ODJ Pirkka - Korento",
+      "author": "ODJ Pirkka",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2730b9ff32a1206b68ffe991163",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/6h4BoWrcE2S5qNjnEDLMqh",
+      "discord_url": "https://open.spotify.com/track/6h4BoWrcE2S5qNjnEDLMqh",
+      "posted_at": "2026-11-12T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 7,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 0,
+        "penalty_base": 0,
+        "multiplier": 1,
+        "is_newcomer": false,
+        "effective_age": 8.1
+      },
+      "previous_rank": null,
+      "score": 597.6,
+      "rank": 17
     },
     {
       "id": "spotify-64EHtJbwAmyDZUb8cqEddP",
@@ -489,7 +519,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -500,11 +530,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 9.1
+        "effective_age": 10.1
       },
       "previous_rank": 17,
-      "score": 598.2,
-      "rank": 17
+      "score": 582.8,
+      "rank": 18
     },
     {
       "id": "spotify-23BfMKh81OfVypQrZ9Vylo",
@@ -530,11 +560,11 @@
         "penalty_base": 134,
         "multiplier": 1.45,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
       "previous_rank": 18,
-      "score": 590.1,
-      "rank": 18
+      "score": 570.6,
+      "rank": 19
     },
     {
       "id": "spotify-1ytO6B7XBxPxGRba6NZ3bp",
@@ -549,7 +579,7 @@
       "web_thumbs": 2,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -560,11 +590,11 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
-      "previous_rank": 22,
-      "score": 577.7,
-      "rank": 19
+      "previous_rank": 19,
+      "score": 558.7,
+      "rank": 20
     },
     {
       "id": "spotify-0rW17aqf2FxwgwFQ9Wty4e",
@@ -590,11 +620,11 @@
         "penalty_base": 82,
         "multiplier": 1.27,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
       "previous_rank": 20,
-      "score": 574.7,
-      "rank": 20
+      "score": 557.6,
+      "rank": 21
     },
     {
       "id": "spotify-7CPn8sVskAStk9l5sH00yC",
@@ -609,7 +639,7 @@
       "web_thumbs": 2,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 6,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -620,11 +650,11 @@
         "penalty_base": 104,
         "multiplier": 1.35,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
-      "previous_rank": 19,
-      "score": 571.7,
-      "rank": 21
+      "previous_rank": 21,
+      "score": 556.7,
+      "rank": 22
     },
     {
       "id": "spotify-0zKGcF9SycufIt1ZqIWbF7",
@@ -650,40 +680,10 @@
         "penalty_base": 80.5,
         "multiplier": 1.27,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
-      "previous_rank": 21,
-      "score": 561.1,
-      "rank": 22
-    },
-    {
-      "id": "spotify-5uMzKNddCpHii4bolyLjSY",
-      "song_title": "Kalle Chydenius - PANDEMIA",
-      "author": "Kalle Chydenius",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27334a27a2d149080aace5eec75",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/5uMzKNddCpHii4bolyLjSY",
-      "discord_url": "https://open.spotify.com/track/5uMzKNddCpHii4bolyLjSY",
-      "posted_at": "2026-11-04T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 5,
-      "web_videos": 1,
-      "positionBonus": 2,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 5,
-        "videos": 1,
-        "raw_points": 184.5,
-        "penalty_base": 184.5,
-        "multiplier": 1.61,
-        "is_newcomer": false,
-        "effective_age": 15.1
-      },
-      "previous_rank": 23,
-      "score": 557.2,
+      "previous_rank": 22,
+      "score": 544.1,
       "rank": 23
     },
     {
@@ -710,11 +710,41 @@
         "penalty_base": 52,
         "multiplier": 1.17,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
       "previous_rank": 24,
-      "score": 555.4,
+      "score": 539.6,
       "rank": 24
+    },
+    {
+      "id": "spotify-5uMzKNddCpHii4bolyLjSY",
+      "song_title": "Kalle Chydenius - PANDEMIA",
+      "author": "Kalle Chydenius",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27334a27a2d149080aace5eec75",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/5uMzKNddCpHii4bolyLjSY",
+      "discord_url": "https://open.spotify.com/track/5uMzKNddCpHii4bolyLjSY",
+      "posted_at": "2026-11-04T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 5,
+      "web_videos": 1,
+      "positionBonus": 2,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 5,
+        "videos": 1,
+        "raw_points": 184.5,
+        "penalty_base": 184.5,
+        "multiplier": 1.61,
+        "is_newcomer": false,
+        "effective_age": 16.1
+      },
+      "previous_rank": 23,
+      "score": 535.5,
+      "rank": 25
     },
     {
       "id": "spotify-5Tku7wy3pL81ipfBoqYi4J",
@@ -729,7 +759,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 7,
+      "positionBonus": 4,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -740,11 +770,11 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
       "previous_rank": 25,
-      "score": 546.9,
-      "rank": 25
+      "score": 528.6,
+      "rank": 26
     },
     {
       "id": "spotify-52be3rpMjwX7whqcjyyVCR",
@@ -759,7 +789,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 2,
+      "positionBonus": 1,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -770,40 +800,10 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
       "previous_rank": 26,
-      "score": 541.9,
-      "rank": 26
-    },
-    {
-      "id": "spotify-3u1lT20MVTyRR271z75U4L",
-      "song_title": "DJVI - Recollection",
-      "author": "DJVI",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273abbfca9987845dc93f299516",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/3u1lT20MVTyRR271z75U4L",
-      "discord_url": "https://open.spotify.com/track/3u1lT20MVTyRR271z75U4L",
-      "posted_at": "2026-11-06T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 1,
-      "web_videos": 0,
-      "positionBonus": 3,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 1,
-        "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
-        "is_newcomer": false,
-        "effective_age": 13.1
-      },
-      "previous_rank": 27,
-      "score": 534.5,
+      "score": 525.6,
       "rank": 27
     },
     {
@@ -819,7 +819,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 8,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -830,11 +830,41 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
       "previous_rank": 28,
-      "score": 531.1,
+      "score": 519.6,
       "rank": 28
+    },
+    {
+      "id": "spotify-3u1lT20MVTyRR271z75U4L",
+      "song_title": "DJVI - Recollection",
+      "author": "DJVI",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273abbfca9987845dc93f299516",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/3u1lT20MVTyRR271z75U4L",
+      "discord_url": "https://open.spotify.com/track/3u1lT20MVTyRR271z75U4L",
+      "posted_at": "2026-11-06T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 2,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": false,
+        "effective_age": 14.1
+      },
+      "previous_rank": 27,
+      "score": 519.1,
+      "rank": 29
     },
     {
       "id": "1565698881126146239",
@@ -843,7 +873,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
       "message_text": "Elämääsyleilevää kakkosdroppia just Sun perjantaihin (ja joojoo pitäis tehä jari ja minä VIP)",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_29.mp3?v=1794970409685",
+      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1795141508703",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1565698881126146239",
       "posted_at": "2026-10-30T12:08:22.539Z",
       "web_thumbs": 3,
@@ -859,39 +889,10 @@
         "penalty_base": 362,
         "multiplier": 2.21,
         "is_newcomer": false,
-        "effective_age": 19.6
+        "effective_age": 20.6
       },
       "previous_rank": 29,
-      "score": 478.1,
-      "rank": 29
-    },
-    {
-      "id": "1565684663329234944",
-      "song_title": "Jonah Glue - Keep The Body",
-      "author": "Jonah Glue",
-      "author_avatar": "https://cdn.discordapp.com/avatars/296652804909694976/7052809f8d17a18aba964856c2330ff7.webp?size=128",
-      "message_text": "",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_30.mp3?v=1794970411841",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1404380880364900425/1565684663329234944",
-      "posted_at": "2026-10-30T11:11:52.752Z",
-      "web_thumbs": 2,
-      "web_plays": 7,
-      "web_videos": 2,
-      "stats": {
-        "reactions": 11,
-        "comments": 0,
-        "thumbs": 2,
-        "plays": 7,
-        "videos": 2,
-        "raw_points": 357,
-        "penalty_base": 357,
-        "multiplier": 2.19,
-        "is_newcomer": false,
-        "effective_age": 19.6
-      },
-      "previous_rank": 30,
-      "score": 476.4,
+      "score": 448.5,
       "rank": 30
     }
   ]
