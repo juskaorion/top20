@@ -195,7 +195,7 @@ async function extractAudioInfos(message) {
         }
     });
 
-    const dropboxRegex = /(https?:\/\/www\.dropbox\.com\/(?:scl\/fi|s)\/[^\s]+)/gi;
+const dropboxRegex = /(https?:\/\/www\.dropbox\.com\/(?:scl\/fi|s)\/[^\s]+)/gi;
     let dbMatch;
     while ((dbMatch = dropboxRegex.exec(text)) !== null) {
         const urlStr = dbMatch[1];
@@ -205,10 +205,27 @@ async function extractAudioInfos(message) {
                 urlObj.searchParams.set('raw', '1');
                 let pathname = urlObj.pathname;
                 let filename = decodeURIComponent(pathname.substring(pathname.lastIndexOf('/') + 1));
-                
+
                 let finalTitle = filename;
                 if (embedTitle && embedTitle !== 'Dropbox' && !embedTitle.includes('Shared with')) {
                     finalTitle = embedTitle;
+                } else {
+                    // Haetaan alkuperäinen tiedostonimi (sulkuineen ja väliviivoineen) Content-Disposition-headerista
+                    try {
+                        const headRes = await fetch(urlObj.toString(), { method: 'HEAD', redirect: 'follow' });
+                        const cd = headRes.headers.get('content-disposition');
+                        if (cd) {
+                            const utf8Match = cd.match(/filename\*\s*=\s*UTF-8''([^;]+)/i);
+                            const asciiMatch = cd.match(/filename\s*=\s*"([^"]+)"/i);
+                            if (utf8Match && utf8Match[1]) {
+                                finalTitle = decodeURIComponent(utf8Match[1]);
+                            } else if (asciiMatch && asciiMatch[1]) {
+                                finalTitle = asciiMatch[1];
+                            }
+                        }
+                    } catch (headErr) {
+                        console.error("Dropbox HEAD-haku epäonnistui:", headErr.message);
+                    }
                 }
 
                 results.push({ type: 'dropbox_link', url: urlObj.toString(), title: finalTitle });
