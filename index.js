@@ -278,9 +278,11 @@ function cleanTitle(title, messageContent) {
         cleaned = cleaned.replace(/-/g, ' ');
     }
 
+    // Sulutetaan remix-osa vain jos se on erotettu selkeästi omaksi osakseen väliviivalla
+    // Esim: "Artisti - Biisi - Junkkataxi Dancefloor Flip" -> "Artisti - Biisi (Junkkataxi Dancefloor Flip)"
     if (!cleaned.includes('(') && !cleaned.includes(')')) {
-        const remixRegex = /(.*)\s+((?:[a-zA-Z0-9\säöåÄÖÅ]+)\s+(?:mashup|remix|edit|flip|bootleg|vip|mix))$/i;
-        const match = cleaned.match(remixRegex);
+        const dashRemixRegex = /^(.+? - .+?)\s+-\s+(.+?\b(?:mashup|remix|edit|flip|bootleg|vip|mix))$/i;
+        const match = cleaned.match(dashRemixRegex);
         if (match) {
             cleaned = `${match[1].trim()} (${match[2].trim()})`;
         }
@@ -465,7 +467,7 @@ client.once('ready', async () => {
 
     console.log('\n==== HAETAAN BIISEJÄ DISCORDISTA ====\n');
 
-    /* STREAMING_CHUNK:Discord message fetching... */
+/* STREAMING_CHUNK:Discord message fetching... */
     for (const channelId of CHANNELS) {
         if (!channelId) continue;
         try {
@@ -495,20 +497,21 @@ client.once('ready', async () => {
                         const videoCount = wpVideos[uniqueId] || 0;
 
                         let titleCleaned = cleanTitle(audioInfo.title, message.content);
-                        let parsedArtist = audioInfo.artist || message.author.username;
-    
-                        if (parsedArtist.endsWith(' - Topic')) {
-                            parsedArtist = parsedArtist.replace(' - Topic', '');
+                        let embedArtist = audioInfo.artist || null;
+
+                        if (embedArtist && embedArtist.endsWith(' - Topic')) {
+                            embedArtist = embedArtist.replace(' - Topic', '');
                         }
 
+                        let parsedArtist = embedArtist || message.author.username;
                         let parsedTitle = titleCleaned;
 
                         if (titleCleaned.includes(' - ')) {
                             const parts = titleCleaned.split(' - ');
                             parsedArtist = parts[0].trim();
                             parsedTitle = titleCleaned; 
-                        } else {
-                            parsedTitle = `${parsedArtist} - ${titleCleaned}`;
+                        } else if (embedArtist) {
+                            parsedTitle = `${embedArtist} - ${titleCleaned}`;
                         }
 
                         allValidSongs.push({
