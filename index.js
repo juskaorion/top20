@@ -188,10 +188,14 @@ async function extractAudioInfos(message) {
         if (embed.author && embed.author.name) embedAuthor = embed.author.name;
     }
 
-    message.attachments.forEach(att => {
+message.attachments.forEach(att => {
         const isAudio = att.contentType && (att.contentType.startsWith('audio/') || att.name.endsWith('.mp3') || att.name.endsWith('.wav'));
         if (isAudio) {
-            results.push({ type: 'discord_attachment', url: att.url, title: att.name });
+            results.push({
+                type: 'discord_attachment',
+                url: att.url,
+                title: att.title || att.name
+            });
         }
     });
 
