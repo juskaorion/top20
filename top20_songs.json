@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T05:18:49.120Z",
+  "last_updated": "2026-11-25T04:09:00.169Z",
   "top_songs": [
     {
       "id": "1573702038200783009",
@@ -12,22 +12,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1573702038200783009",
       "posted_at": "2026-11-21T14:10:03.877Z",
       "web_thumbs": 5,
-      "web_plays": 8,
+      "web_plays": 10,
       "web_videos": 4,
       "stats": {
         "reactions": 1,
         "comments": 0,
         "thumbs": 5,
-        "plays": 8,
+        "plays": 10,
         "videos": 4,
-        "raw_points": 439,
-        "penalty_base": 439,
-        "multiplier": 2.46,
+        "raw_points": 480,
+        "penalty_base": 480,
+        "multiplier": 2.6,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.6
       },
       "previous_rank": 1,
-      "score": 1239,
+      "score": 1259.6,
       "rank": 1
     },
     {
@@ -54,10 +54,10 @@
         "penalty_base": 80.5,
         "multiplier": 1.27,
         "is_newcomer": true,
-        "effective_age": 1.2
+        "effective_age": 2.2
       },
-      "previous_rank": 7,
-      "score": 879.6,
+      "previous_rank": 2,
+      "score": 863.3,
       "rank": 2
     },
     {
@@ -83,70 +83,11 @@
         "penalty_base": 48.5,
         "multiplier": 1.16,
         "is_newcomer": true,
-        "effective_age": 0
-      },
-      "previous_rank": 4,
-      "score": 848.5,
-      "rank": 3
-    },
-    {
-      "id": "1569731833573281802",
-      "song_title": "Smurffit - Pattismurffi (Junkkataxi Dancefloor Flip)",
-      "author": "Smurffit",
-      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
-      "message_text": "mulla ei oo tähän oikeestaan mitään saatetekstiä\n\nedit: onpas!! hienoja hetkiä harrasteuralla - alkuvuodesta kaapelitehtaalla sub focuksen jälkeen dekkeihin, tää sisään samalla kun isäntä jakaa nimmareita taustalla. biblically accurate taksi äksön jne 😂",
-      "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1795497507461",
-      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1569731833573281802",
-      "posted_at": "2026-11-10T15:13:53.331Z",
-      "web_thumbs": 3,
-      "web_plays": 31,
-      "web_videos": 5,
-      "stats": {
-        "reactions": 20,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 31,
-        "videos": 5,
-        "raw_points": 1002.9,
-        "penalty_base": 1102,
-        "multiplier": 4.67,
-        "is_newcomer": false,
-        "effective_age": 13.6
-      },
-      "previous_rank": 2,
-      "score": 845.8,
-      "rank": 4
-    },
-    {
-      "id": "spotify-6c9huBMu3DDO2i7aSSz6Oj",
-      "song_title": "Knife Girl - avain",
-      "author": "Knife Girl",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273795dd80d44a398bfdd8865aa",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/6c9huBMu3DDO2i7aSSz6Oj",
-      "discord_url": "https://open.spotify.com/track/6c9huBMu3DDO2i7aSSz6Oj",
-      "posted_at": "2026-11-20T00:00:00.000Z",
-      "web_thumbs": 0,
-      "web_plays": 2,
-      "web_videos": 0,
-      "positionBonus": 19,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 0,
-        "plays": 2,
-        "videos": 0,
-        "raw_points": 41,
-        "penalty_base": 41,
-        "multiplier": 1.14,
-        "is_newcomer": true,
-        "effective_age": 1.2
+        "effective_age": 0.3
       },
       "previous_rank": 3,
-      "score": 841.3,
-      "rank": 5
+      "score": 843.4,
+      "rank": 3
     },
     {
       "id": "1573798577975857365-1",
@@ -155,7 +96,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/309372416088473600/877143fa457752db7ef8fbebc1c0e5be.webp?size=128",
       "message_text": "tosta. vielä 2kpl, erittäin vanhaa edittiä jota ei oo ikinä tullu jaettuu, vanhempaa  funk edittiä, tehty Winning Teamstäkin tutunu Iskun:n kanssa. jos jollain käyttöä vaikka alkuiltaan. tb 2016 tai jotain... 😄",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_6.mp3?v=1795497510165",
+      "audio_url": "https://www.djorion.fi/top20//rank_4.mp3?v=1795579733728",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1573798577975857365",
       "posted_at": "2026-11-21T20:33:40.753Z",
       "web_thumbs": 0,
@@ -171,11 +112,11 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.3
       },
-      "previous_rank": 5,
-      "score": 841,
-      "rank": 6
+      "previous_rank": 6,
+      "score": 836.1,
+      "rank": 4
     },
     {
       "id": "1574190745252798484",
@@ -184,7 +125,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/341193103652421632/a_9d42ae3380760d1b63e208eb86131b91.gif?size=128",
       "message_text": "Moro ja isot kiitokset ryhmään pääsystä!👊 🔥 \n\nRikotaanpa jää saman tien ja laitetaan jakoon meikän hardstyle remix alkuvuodelta, mistäpä muustakaan kuin J-Cutin ja Kolt Siewertsin The Flute Tunesta <:gnomed:503234214129434633>",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1795497512622",
+      "audio_url": "https://www.djorion.fi/top20//rank_5.mp3?v=1795579735783",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1574190745252798484",
       "posted_at": "2026-11-22T22:32:00.718Z",
       "web_thumbs": 0,
@@ -202,39 +143,39 @@
         "is_newcomer": true,
         "effective_age": 0
       },
-      "previous_rank": 9,
+      "previous_rank": 7,
       "score": 828,
-      "rank": 7
+      "rank": 5
     },
     {
-      "id": "spotify-2rvdWfMRdIDlKg7QS4BY8t",
-      "song_title": "Ultralum, Verneri Pohjola, Helsinski, Tuomo, Jazz Kuramatto, BDF - Lucky Penny - BDF Recreational Suite - 02 Dramatik Imperial Mix",
-      "author": "Ultralum, Verneri Pohjola, Helsinski, Tuomo, Jazz Kuramatto, BDF",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27387651d9d2e8c8145b8368e3e",
+      "id": "spotify-6c9huBMu3DDO2i7aSSz6Oj",
+      "song_title": "Knife Girl - avain",
+      "author": "Knife Girl",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273795dd80d44a398bfdd8865aa",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2rvdWfMRdIDlKg7QS4BY8t",
-      "discord_url": "https://open.spotify.com/track/2rvdWfMRdIDlKg7QS4BY8t",
+      "audio_url": "https://open.spotify.com/track/6c9huBMu3DDO2i7aSSz6Oj",
+      "discord_url": "https://open.spotify.com/track/6c9huBMu3DDO2i7aSSz6Oj",
       "posted_at": "2026-11-20T00:00:00.000Z",
       "web_thumbs": 0,
-      "web_plays": 1,
+      "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 18,
+      "positionBonus": 17,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 0,
-        "plays": 1,
+        "plays": 2,
         "videos": 0,
-        "raw_points": 20.5,
-        "penalty_base": 20.5,
-        "multiplier": 1.07,
+        "raw_points": 41,
+        "penalty_base": 41,
+        "multiplier": 1.14,
         "is_newcomer": true,
-        "effective_age": 1.2
+        "effective_age": 2.2
       },
-      "previous_rank": 6,
-      "score": 820.9,
-      "rank": 8
+      "previous_rank": 5,
+      "score": 824.7,
+      "rank": 6
     },
     {
       "id": "1573798577975857365",
@@ -243,7 +184,7 @@
       "author_avatar": "https://cdn.discordapp.com/avatars/309372416088473600/877143fa457752db7ef8fbebc1c0e5be.webp?size=128",
       "message_text": "tosta. vielä 2kpl, erittäin vanhaa edittiä jota ei oo ikinä tullu jaettuu, vanhempaa  funk edittiä, tehty Winning Teamstäkin tutunu Iskun:n kanssa. jos jollain käyttöä vaikka alkuiltaan. tb 2016 tai jotain... 😄",
       "audio_type": "secure_clip",
-      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1795497515345",
+      "audio_url": "https://www.djorion.fi/top20//rank_7.mp3?v=1795579738121",
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1573798577975857365",
       "posted_at": "2026-11-21T20:33:40.753Z",
       "web_thumbs": 0,
@@ -259,10 +200,69 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": true,
-        "effective_age": 0
+        "effective_age": 0.3
+      },
+      "previous_rank": 9,
+      "score": 815.9,
+      "rank": 7
+    },
+    {
+      "id": "spotify-2rvdWfMRdIDlKg7QS4BY8t",
+      "song_title": "Ultralum, Verneri Pohjola, Helsinski, Tuomo, Jazz Kuramatto, BDF - Lucky Penny - BDF Recreational Suite - 02 Dramatik Imperial Mix",
+      "author": "Ultralum, Verneri Pohjola, Helsinski, Tuomo, Jazz Kuramatto, BDF",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b27387651d9d2e8c8145b8368e3e",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2rvdWfMRdIDlKg7QS4BY8t",
+      "discord_url": "https://open.spotify.com/track/2rvdWfMRdIDlKg7QS4BY8t",
+      "posted_at": "2026-11-20T00:00:00.000Z",
+      "web_thumbs": 0,
+      "web_plays": 1,
+      "web_videos": 0,
+      "positionBonus": 19,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 0,
+        "plays": 1,
+        "videos": 0,
+        "raw_points": 20.5,
+        "penalty_base": 20.5,
+        "multiplier": 1.07,
+        "is_newcomer": true,
+        "effective_age": 2.2
       },
       "previous_rank": 8,
-      "score": 820.5,
+      "score": 808.2,
+      "rank": 8
+    },
+    {
+      "id": "1569731833573281802",
+      "song_title": "Smurffit - Pattismurffi (Junkkataxi Dancefloor Flip)",
+      "author": "Smurffit",
+      "author_avatar": "https://cdn.discordapp.com/avatars/242618192386588672/00b20c00d603474cca6b20345b04c744.webp?size=128",
+      "message_text": "mulla ei oo tähän oikeestaan mitään saatetekstiä\n\nedit: onpas!! hienoja hetkiä harrasteuralla - alkuvuodesta kaapelitehtaalla sub focuksen jälkeen dekkeihin, tää sisään samalla kun isäntä jakaa nimmareita taustalla. biblically accurate taksi äksön jne 😂",
+      "audio_type": "secure_clip",
+      "audio_url": "https://www.djorion.fi/top20//rank_9.mp3?v=1795579740168",
+      "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1569731833573281802",
+      "posted_at": "2026-11-10T15:13:53.331Z",
+      "web_thumbs": 3,
+      "web_plays": 31,
+      "web_videos": 5,
+      "stats": {
+        "reactions": 20,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 31,
+        "videos": 5,
+        "raw_points": 1002.9,
+        "penalty_base": 1102,
+        "multiplier": 4.67,
+        "is_newcomer": false,
+        "effective_age": 14.5
+      },
+      "previous_rank": 4,
+      "score": 785.7,
       "rank": 9
     },
     {
@@ -278,7 +278,7 @@
       "web_thumbs": 9,
       "web_plays": 8,
       "web_videos": 1,
-      "positionBonus": 15,
+      "positionBonus": 18,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -289,10 +289,10 @@
         "penalty_base": 323,
         "multiplier": 2.08,
         "is_newcomer": false,
-        "effective_age": 11.2
+        "effective_age": 12.2
       },
-      "previous_rank": 12,
-      "score": 723.4,
+      "previous_rank": 10,
+      "score": 699.7,
       "rank": 10
     },
     {
@@ -318,10 +318,10 @@
         "penalty_base": 136,
         "multiplier": 1.45,
         "is_newcomer": false,
-        "effective_age": 7.4
+        "effective_age": 8.3
       },
-      "previous_rank": 10,
-      "score": 691,
+      "previous_rank": 11,
+      "score": 672.3,
       "rank": 11
     },
     {
@@ -347,10 +347,10 @@
         "penalty_base": 110,
         "multiplier": 1.37,
         "is_newcomer": false,
-        "effective_age": 7.7
+        "effective_age": 8.6
       },
-      "previous_rank": 11,
-      "score": 668.2,
+      "previous_rank": 12,
+      "score": 650.7,
       "rank": 12
     },
     {
@@ -366,7 +366,7 @@
       "web_thumbs": 1,
       "web_plays": 8,
       "web_videos": 1,
-      "positionBonus": 8,
+      "positionBonus": 7,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -377,41 +377,11 @@
         "penalty_base": 235,
         "multiplier": 1.78,
         "is_newcomer": false,
-        "effective_age": 12.2
+        "effective_age": 13.2
       },
       "previous_rank": 13,
-      "score": 648.8,
+      "score": 624.9,
       "rank": 13
-    },
-    {
-      "id": "spotify-7axRp1xkBxih1D2MwJQdQ7",
-      "song_title": "Winter Games - Pon De River",
-      "author": "Winter Games",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733f25aa0dc60aa74f7123babf",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/7axRp1xkBxih1D2MwJQdQ7",
-      "discord_url": "https://open.spotify.com/track/7axRp1xkBxih1D2MwJQdQ7",
-      "posted_at": "2026-11-13T00:00:00.000Z",
-      "web_thumbs": 3,
-      "web_plays": 3,
-      "web_videos": 0,
-      "positionBonus": 17,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 3,
-        "videos": 0,
-        "raw_points": 94.5,
-        "penalty_base": 94.5,
-        "multiplier": 1.31,
-        "is_newcomer": false,
-        "effective_age": 11.2
-      },
-      "previous_rank": 15,
-      "score": 612.3,
-      "rank": 14
     },
     {
       "id": "spotify-2qTOEF1FGF5AXkIglBhNby",
@@ -426,7 +396,7 @@
       "web_thumbs": 1,
       "web_plays": 4,
       "web_videos": 0,
-      "positionBonus": 16,
+      "positionBonus": 15,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -437,10 +407,40 @@
         "penalty_base": 93,
         "multiplier": 1.31,
         "is_newcomer": false,
-        "effective_age": 11.2
+        "effective_age": 12.2
+      },
+      "previous_rank": 15,
+      "score": 592.7,
+      "rank": 14
+    },
+    {
+      "id": "spotify-7axRp1xkBxih1D2MwJQdQ7",
+      "song_title": "Winter Games - Pon De River",
+      "author": "Winter Games",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2733f25aa0dc60aa74f7123babf",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/7axRp1xkBxih1D2MwJQdQ7",
+      "discord_url": "https://open.spotify.com/track/7axRp1xkBxih1D2MwJQdQ7",
+      "posted_at": "2026-11-13T00:00:00.000Z",
+      "web_thumbs": 3,
+      "web_plays": 3,
+      "web_videos": 0,
+      "positionBonus": 13,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 3,
+        "plays": 3,
+        "videos": 0,
+        "raw_points": 94.5,
+        "penalty_base": 94.5,
+        "multiplier": 1.31,
+        "is_newcomer": false,
+        "effective_age": 12.2
       },
       "previous_rank": 14,
-      "score": 610.6,
+      "score": 591.4,
       "rank": 15
     },
     {
@@ -456,7 +456,7 @@
       "web_thumbs": 2,
       "web_plays": 3,
       "web_videos": 0,
-      "positionBonus": 11,
+      "positionBonus": 16,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -467,10 +467,10 @@
         "penalty_base": 83.5,
         "multiplier": 1.28,
         "is_newcomer": false,
-        "effective_age": 11.2
+        "effective_age": 12.2
       },
-      "previous_rank": 17,
-      "score": 600.9,
+      "previous_rank": 16,
+      "score": 589.4,
       "rank": 16
     },
     {
@@ -484,22 +484,22 @@
       "discord_url": "https://discord.com/channels/1174754304758907002/1177157041165434910/1569899908851306606",
       "posted_at": "2026-11-11T02:21:45.600Z",
       "web_thumbs": 0,
-      "web_plays": 8,
+      "web_plays": 9,
       "web_videos": 0,
       "stats": {
         "reactions": 3,
         "comments": 0,
         "thumbs": 0,
-        "plays": 8,
+        "plays": 9,
         "videos": 0,
-        "raw_points": 186.5,
-        "penalty_base": 186.5,
-        "multiplier": 1.62,
+        "raw_points": 207,
+        "penalty_base": 207,
+        "multiplier": 1.69,
         "is_newcomer": false,
-        "effective_age": 13.1
+        "effective_age": 14.1
       },
-      "previous_rank": 18,
-      "score": 599.2,
+      "previous_rank": 17,
+      "score": 585.9,
       "rank": 17
     },
     {
@@ -513,53 +513,53 @@
       "discord_url": "https://open.spotify.com/track/7nQtxmehTsmLqu798VUgPX",
       "posted_at": "2026-11-13T00:00:00.000Z",
       "web_thumbs": 4,
-      "web_plays": 0,
+      "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 10,
+      "positionBonus": 11,
       "stats": {
         "reactions": 0,
         "comments": 0,
         "thumbs": 4,
-        "plays": 0,
+        "plays": 1,
         "videos": 0,
-        "raw_points": 44,
-        "penalty_base": 44,
-        "multiplier": 1.15,
+        "raw_points": 64.5,
+        "penalty_base": 64.5,
+        "multiplier": 1.22,
         "is_newcomer": false,
-        "effective_age": 11.2
+        "effective_age": 12.2
       },
-      "previous_rank": 19,
-      "score": 580.3,
+      "previous_rank": 18,
+      "score": 575.8,
       "rank": 18
     },
     {
-      "id": "spotify-2GGmfUTiuXV2iGf8oHm19N",
-      "song_title": "Esc, Mineral - Check This Out",
-      "author": "Esc, Mineral",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734569c94134a38e3e255db623",
+      "id": "spotify-0IzpZMYhAFmCidYMuQeLxw",
+      "song_title": "Telm & Wilson - Lose your mind",
+      "author": "Telm & Wilson",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2731297948cacceadab78d74ab5",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
-      "discord_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
-      "posted_at": "2026-11-06T00:00:00.000Z",
-      "web_thumbs": 2,
-      "web_plays": 20,
-      "web_videos": 4,
-      "positionBonus": 3,
+      "audio_url": "https://open.spotify.com/track/0IzpZMYhAFmCidYMuQeLxw",
+      "discord_url": "https://open.spotify.com/track/0IzpZMYhAFmCidYMuQeLxw",
+      "posted_at": "2026-11-13T00:00:00.000Z",
+      "web_thumbs": 3,
+      "web_plays": 0,
+      "web_videos": 0,
+      "positionBonus": 9,
       "stats": {
         "reactions": 0,
         "comments": 0,
-        "thumbs": 2,
-        "plays": 20,
-        "videos": 4,
-        "raw_points": 672,
-        "penalty_base": 672,
-        "multiplier": 3.24,
+        "thumbs": 3,
+        "plays": 0,
+        "videos": 0,
+        "raw_points": 33,
+        "penalty_base": 33,
+        "multiplier": 1.11,
         "is_newcomer": false,
-        "effective_age": 18.2
+        "effective_age": 12.2
       },
-      "previous_rank": 16,
-      "score": 578,
+      "previous_rank": 21,
+      "score": 559.6,
       "rank": 19
     },
     {
@@ -575,7 +575,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 14,
+      "positionBonus": 12,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -586,41 +586,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 11.2
-      },
-      "previous_rank": 22,
-      "score": 572.7,
-      "rank": 20
-    },
-    {
-      "id": "spotify-0IzpZMYhAFmCidYMuQeLxw",
-      "song_title": "Telm & Wilson - Lose your mind",
-      "author": "Telm & Wilson",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2731297948cacceadab78d74ab5",
-      "message_text": "",
-      "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/0IzpZMYhAFmCidYMuQeLxw",
-      "discord_url": "https://open.spotify.com/track/0IzpZMYhAFmCidYMuQeLxw",
-      "posted_at": "2026-11-13T00:00:00.000Z",
-      "web_thumbs": 3,
-      "web_plays": 0,
-      "web_videos": 0,
-      "positionBonus": 6,
-      "stats": {
-        "reactions": 0,
-        "comments": 0,
-        "thumbs": 3,
-        "plays": 0,
-        "videos": 0,
-        "raw_points": 33,
-        "penalty_base": 33,
-        "multiplier": 1.11,
-        "is_newcomer": false,
-        "effective_age": 11.2
+        "effective_age": 12.2
       },
       "previous_rank": 20,
-      "score": 570.9,
-      "rank": 21
+      "score": 556.9,
+      "rank": 20
     },
     {
       "id": "spotify-61cOVFl7i4mr95AHAnQQWv",
@@ -646,11 +616,11 @@
         "penalty_base": 61.5,
         "multiplier": 1.21,
         "is_newcomer": false,
-        "effective_age": 12.2
+        "effective_age": 13.2
       },
-      "previous_rank": 24,
-      "score": 570.7,
-      "rank": 22
+      "previous_rank": 22,
+      "score": 555.2,
+      "rank": 21
     },
     {
       "id": "spotify-2JXREouG5J7OoPYXyKrtab",
@@ -665,7 +635,7 @@
       "web_thumbs": 0,
       "web_plays": 1,
       "web_videos": 0,
-      "positionBonus": 9,
+      "positionBonus": 8,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -676,11 +646,11 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 11.2
+        "effective_age": 12.2
       },
-      "previous_rank": 21,
-      "score": 567.7,
-      "rank": 23
+      "previous_rank": 23,
+      "score": 552.9,
+      "rank": 22
     },
     {
       "id": "spotify-1ssM44NdUNUbChO5xHzS28",
@@ -695,7 +665,7 @@
       "web_thumbs": 0,
       "web_plays": 0,
       "web_videos": 0,
-      "positionBonus": 12,
+      "positionBonus": 14,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -706,11 +676,11 @@
         "penalty_base": 0,
         "multiplier": 1,
         "is_newcomer": false,
-        "effective_age": 11.2
+        "effective_age": 12.2
       },
-      "previous_rank": 23,
-      "score": 560.5,
-      "rank": 24
+      "previous_rank": 24,
+      "score": 549.7,
+      "rank": 23
     },
     {
       "id": "spotify-6h4BoWrcE2S5qNjnEDLMqh",
@@ -736,10 +706,40 @@
         "penalty_base": 20.5,
         "multiplier": 1.07,
         "is_newcomer": false,
-        "effective_age": 12.2
+        "effective_age": 13.2
       },
       "previous_rank": 25,
-      "score": 557.2,
+      "score": 543.5,
+      "rank": 24
+    },
+    {
+      "id": "spotify-2GGmfUTiuXV2iGf8oHm19N",
+      "song_title": "Esc, Mineral - Check This Out",
+      "author": "Esc, Mineral",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b2734569c94134a38e3e255db623",
+      "message_text": "",
+      "audio_type": "spotify_link",
+      "audio_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
+      "discord_url": "https://open.spotify.com/track/2GGmfUTiuXV2iGf8oHm19N",
+      "posted_at": "2026-11-06T00:00:00.000Z",
+      "web_thumbs": 2,
+      "web_plays": 21,
+      "web_videos": 4,
+      "positionBonus": 3,
+      "stats": {
+        "reactions": 0,
+        "comments": 0,
+        "thumbs": 2,
+        "plays": 21,
+        "videos": 4,
+        "raw_points": 692.5,
+        "penalty_base": 692.5,
+        "multiplier": 3.31,
+        "is_newcomer": false,
+        "effective_age": 19.2
+      },
+      "previous_rank": 19,
+      "score": 539.2,
       "rank": 25
     },
     {
@@ -755,7 +755,7 @@
       "web_thumbs": 0,
       "web_plays": 2,
       "web_videos": 0,
-      "positionBonus": 7,
+      "positionBonus": 10,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -766,10 +766,10 @@
         "penalty_base": 41,
         "multiplier": 1.14,
         "is_newcomer": false,
-        "effective_age": 14.2
+        "effective_age": 15.2
       },
-      "previous_rank": 27,
-      "score": 529.8,
+      "previous_rank": 26,
+      "score": 518.2,
       "rank": 26
     },
     {
@@ -795,10 +795,10 @@
         "penalty_base": 451,
         "multiplier": 2.5,
         "is_newcomer": false,
-        "effective_age": 18.7
+        "effective_age": 19.7
       },
-      "previous_rank": 26,
-      "score": 519,
+      "previous_rank": 27,
+      "score": 486.8,
       "rank": 27
     },
     {
@@ -825,10 +825,10 @@
         "penalty_base": 154.5,
         "multiplier": 1.52,
         "is_newcomer": false,
-        "effective_age": 18.2
+        "effective_age": 19.2
       },
       "previous_rank": 28,
-      "score": 493.8,
+      "score": 474.4,
       "rank": 28
     },
     {
@@ -855,26 +855,26 @@
         "penalty_base": 102.5,
         "multiplier": 1.34,
         "is_newcomer": false,
-        "effective_age": 18.2
+        "effective_age": 19.2
       },
       "previous_rank": 29,
-      "score": 490.5,
+      "score": 473.2,
       "rank": 29
     },
     {
-      "id": "spotify-1ytO6B7XBxPxGRba6NZ3bp",
-      "song_title": "Orkidea - Stop The Rock",
-      "author": "Orkidea",
-      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273d71c47356378626567aee8fa",
+      "id": "spotify-7CPn8sVskAStk9l5sH00yC",
+      "song_title": "Kooma, Sampulse - never meant to fit in - Sampulse Remix",
+      "author": "Kooma, Sampulse",
+      "author_avatar": "https://i.scdn.co/image/ab67616d0000b273decd429a7e3b033dd80434ac",
       "message_text": "",
       "audio_type": "spotify_link",
-      "audio_url": "https://open.spotify.com/track/1ytO6B7XBxPxGRba6NZ3bp",
-      "discord_url": "https://open.spotify.com/track/1ytO6B7XBxPxGRba6NZ3bp",
+      "audio_url": "https://open.spotify.com/track/7CPn8sVskAStk9l5sH00yC",
+      "discord_url": "https://open.spotify.com/track/7CPn8sVskAStk9l5sH00yC",
       "posted_at": "2026-11-06T00:00:00.000Z",
       "web_thumbs": 2,
       "web_plays": 5,
       "web_videos": 0,
-      "positionBonus": 3,
+      "positionBonus": 6,
       "stats": {
         "reactions": 0,
         "comments": 0,
@@ -885,10 +885,10 @@
         "penalty_base": 124.5,
         "multiplier": 1.42,
         "is_newcomer": false,
-        "effective_age": 18.2
+        "effective_age": 19.2
       },
-      "previous_rank": 30,
-      "score": 479.4,
+      "previous_rank": null,
+      "score": 464.3,
       "rank": 30
     }
   ]
